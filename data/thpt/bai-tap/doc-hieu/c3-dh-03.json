@@ -1,0 +1,128 @@
+{
+ "id": "c3-dh-03",
+ "module": "reading",
+ "title": "Đọc hiểu (3): AI at school",
+ "emoji": "📖",
+ "intro": "Đề tốt nghiệp câu 23–40: hai bài đọc. Dạng câu hỏi: ý chính/tiêu đề, chi tiết, NOT TRUE / NOT mentioned, từ đồng nghĩa/trái nghĩa trong ngữ cảnh, từ quy chiếu (it, they…), diễn đạt lại câu gạch chân, vị trí chèn câu, suy luận.",
+ "instruction": "Đọc bài và chọn đáp án đúng.",
+ "shuffle": true,
+ "shuffleItems": false,
+ "priority": 1,
+ "sources": [
+  "cau-truc-de-tn-2025"
+ ],
+ "items": [
+  {
+   "id": "c3-dh-03-g1",
+   "type": "group",
+   "title": "Should students use AI for homework?",
+   "passage": "Since AI chatbots became widely available, teachers around the world have faced a difficult question: should students be allowed to use them for homework? Some schools banned the tools completely, worried that students would simply copy answers without thinking. Others decided that it was better to teach students how to use AI responsibly, since they will almost certainly use it in their future jobs.\n\nSupporters of AI in education point out that chatbots can act as personal tutors. A student who does not understand a maths problem at 11 p.m. can ask for a step-by-step explanation instead of waiting for the next lesson. For students learning English, AI can correct grammar mistakes and suggest more natural expressions. Used in this way, the technology can make learning more personalised and efficient.\n\nOn the other hand, there are real risks. Chatbots sometimes give answers that sound convincing but are completely wrong, and students who rely on them may not notice. There are also concerns about fairness: if some students use AI to write their essays, it becomes harder for teachers to assess what each student can really do. Moreover, when a machine does the thinking, students may miss the chance to develop critical thinking and problem-solving skills.\n\nMany educators now believe that the answer lies somewhere in the middle. They are redesigning assignments so that students must show their thinking process, for example by explaining how they reached an answer or by presenting their work orally. In the end, AI is a tool, and like any tool, its value depends on how it is used.",
+   "items": [
+    {
+     "id": "c3-dh-03-01",
+     "type": "mcq",
+     "prompt": "Which could be the best title for the passage?",
+     "options": [
+      "AI and Homework: Friend or Enemy?",
+      "How to Build an AI Chatbot",
+      "Why Schools Should Ban Phones",
+      "The History of Personal Tutors"
+     ],
+     "answer": 0,
+     "explain": "Bài cân nhắc lợi và hại của AI với bài tập."
+    },
+    {
+     "id": "c3-dh-03-02",
+     "type": "mcq",
+     "prompt": "Why did some schools ban AI chatbots?",
+     "options": [
+      "They feared students would copy answers without thinking.",
+      "The chatbots were too expensive.",
+      "Teachers did not know how to use them.",
+      "Students preferred human tutors."
+     ],
+     "answer": 0,
+     "explain": "\"worried that students would simply copy answers without thinking\"."
+    },
+    {
+     "id": "c3-dh-03-03",
+     "type": "mcq",
+     "prompt": "According to paragraph 2, how can AI help English learners?",
+     "options": [
+      "By correcting grammar and suggesting natural expressions",
+      "By doing their homework for them",
+      "By replacing their teachers",
+      "By translating every text into Vietnamese"
+     ],
+     "answer": 0,
+     "explain": "\"AI can correct grammar mistakes and suggest more natural expressions\"."
+    },
+    {
+     "id": "c3-dh-03-04",
+     "type": "mcq",
+     "prompt": "The word \"convincing\" in paragraph 3 is closest in meaning to ___.",
+     "options": [
+      "believable",
+      "confusing",
+      "boring",
+      "polite"
+     ],
+     "answer": 0,
+     "explain": "convincing = có vẻ đáng tin (believable)."
+    },
+    {
+     "id": "c3-dh-03-05",
+     "type": "mcq",
+     "prompt": "Which of the following is NOT mentioned as a risk of using AI?",
+     "options": [
+      "AI may give wrong answers.",
+      "It is harder to assess students fairly.",
+      "Students may not develop critical thinking.",
+      "Students may spend too much money."
+     ],
+     "answer": 3,
+     "explain": "Bài không nhắc chi phí tiền bạc."
+    },
+    {
+     "id": "c3-dh-03-06",
+     "type": "mcq",
+     "prompt": "The word \"They\" in \"They are redesigning assignments\" (paragraph 4) refers to ___.",
+     "options": [
+      "many educators",
+      "students",
+      "assignments",
+      "machines"
+     ],
+     "answer": 0,
+     "explain": "\"Many educators… They are redesigning assignments\"."
+    },
+    {
+     "id": "c3-dh-03-07",
+     "type": "mcq",
+     "prompt": "How are some educators changing assignments?",
+     "options": [
+      "Students must show how they reach their answers.",
+      "Students must write longer essays.",
+      "Students can only work at school.",
+      "Students must use AI for every task."
+     ],
+     "answer": 0,
+     "explain": "\"students must show their thinking process\"."
+    },
+    {
+     "id": "c3-dh-03-08",
+     "type": "mcq",
+     "prompt": "What is the writer's overall attitude towards AI in education?",
+     "options": [
+      "Balanced: AI is useful if used wisely",
+      "Completely negative",
+      "Completely positive",
+      "Not interested"
+     ],
+     "answer": 0,
+     "explain": "Câu kết: AI là công cụ, giá trị tuỳ cách dùng."
+    }
+   ]
+  }
+ ]
+}

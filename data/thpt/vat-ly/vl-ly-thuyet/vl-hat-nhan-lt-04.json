@@ -1,0 +1,111 @@
+{
+  "id": "vl-hat-nhan-lt-04",
+  "title": "Phân hạch, nhiệt hạch, pin hạt nhân và an toàn phóng xạ",
+  "items": [
+    {
+      "id": "vl-hat-nhan-lt-04-t1",
+      "type": "card",
+      "title": "Hai cách giải phóng năng lượng hạt nhân",
+      "paras": [
+        "Phân hạch là sự tách một hạt nhân nặng thành các hạt nhân nhẹ hơn, thường kèm neutron và năng lượng. Ví dụ neutron gây phân hạch ^{235}U có thể tạo các mảnh phân hạch và nhiều neutron. Neutron mới có thể gây phân hạch tiếp, tạo phản ứng dây chuyền; không phải mọi neutron phát ra đều gây phân hạch tiếp.",
+        "Nhiệt hạch là sự kết hợp các hạt nhân nhẹ thành hạt nhân nặng hơn. Phản ứng ^{2}_{1}H + ^{3}_{1}H → ^{4}_{2}He + ^{1}_{0}n tỏa năng lượng; cần điều kiện nhiệt độ rất cao để các hạt tiến đủ gần dù đẩy Coulomb. Không kết luận mọi phản ứng kết hợp hạt nhân bất kì đều tỏa năng lượng.",
+        "Các phản ứng tỏa năng lượng khi tổng khối lượng nghỉ của sản phẩm nhỏ hơn ban đầu; với các trường hợp phân hạch nặng và nhiệt hạch nhẹ thường gặp, sản phẩm có năng lượng liên kết riêng lớn hơn. Lò phân hạch cần điều khiển tốc độ phản ứng; thanh điều khiển hấp thụ neutron giúp hạn chế phản ứng dây chuyền."
+      ]
+    },
+    {
+      "id": "vl-hat-nhan-lt-04-t2",
+      "type": "card",
+      "title": "Ứng dụng và bảo vệ trước bức xạ",
+      "paras": [
+        "Pin hạt nhân dùng năng lượng phân rã phóng xạ, không nhất thiết có phản ứng dây chuyền. Trong mô hình pin dùng nhiệt phân rã, nếu mỗi phân rã tỏa năng lượng có thể thu Q không đổi, P_{nhiệt} = HQ; P_{điện} = ηHQ. Với hiệu suất η không đổi và chỉ đồng vị mẹ đóng góp, công suất giảm theo 2^{−t/T}. Công suất nhỏ nhưng hoạt động lâu phù hợp thiết bị ở xa, khó thay pin.",
+        "Đồng vị phóng xạ được dùng làm chất đánh dấu, kiểm tra vật liệu, điều trị và tiệt trùng theo quy trình chuyên môn. Độ phóng xạ Bq là số phân rã mỗi giây, chưa đủ để suy ra liều và nguy hại: còn phụ thuộc loại bức xạ, năng lượng, thời gian, khoảng cách và đường xâm nhập.",
+        "Ba nguyên tắc cơ bản khi làm việc với nguồn: giảm thời gian tiếp xúc, tăng khoảng cách, dùng che chắn phù hợp. Alpha đâm xuyên kém, có thể bị chặn bởi giấy nhưng nguy hiểm khi chất phát alpha vào cơ thể. Beta xuyên mạnh hơn alpha; gamma là photon năng lượng cao, thường cần lớp chì hoặc bê tông đủ dày để giảm cường độ. Không chạm nguồn hay tự tháo vật chứa; thao tác chỉ theo quy trình và người có chuyên môn.",
+        "Chiếu xạ và nhiễm bẩn phóng xạ khác nhau: chiếu xạ là chịu bức xạ từ nguồn; nhiễm bẩn là chất phóng xạ bám trên hoặc đi vào cơ thể/vật. Sau khi rời trường chiếu, nhiễm bẩn vẫn có thể gây chiếu xạ tiếp. Trong bài toán nguồn điểm đẳng hướng, bỏ qua hấp thụ, cường độ tại khoảng cách r tỉ lệ 1/r²; chỉ dùng khi đề nêu mô hình này."
+      ]
+    },
+    {
+      "id": "vl-hat-nhan-lt-04-01",
+      "type": "mcq",
+      "level": 1,
+      "prompt": "Quá trình một hạt nhân nặng tách thành các hạt nhân nhẹ hơn được gọi là gì?",
+      "options": [
+        "Bay hơi",
+        "Phân hạch",
+        "Nhiệt hạch",
+        "Ion hóa"
+      ],
+      "answer": 1,
+      "explain": "Phân hạch tách hạt nhân nặng; nhiệt hạch kết hợp các hạt nhân nhẹ."
+    },
+    {
+      "id": "vl-hat-nhan-lt-04-02",
+      "type": "mcq",
+      "level": 1,
+      "prompt": "Bức xạ gamma có bản chất là gì?",
+      "options": [
+        "Chùm neutron",
+        "Chùm proton",
+        "Chùm electron",
+        "Photon của sóng điện từ năng lượng cao"
+      ],
+      "answer": 3,
+      "explain": "Gamma là bức xạ điện từ, không mang điện; khác alpha và beta là các hạt mang điện."
+    },
+    {
+      "id": "vl-hat-nhan-lt-04-03",
+      "type": "mcq",
+      "level": 2,
+      "prompt": "Vì sao thanh điều khiển hấp thụ neutron có thể làm giảm tốc độ phân hạch dây chuyền?",
+      "options": [
+        "Làm giảm số neutron có thể gây phân hạch tiếp",
+        "Biến mọi neutron thành electron",
+        "Làm tăng số phân hạch do từng neutron",
+        "Làm chu kì bán rã mọi đồng vị bằng 0"
+      ],
+      "answer": 0,
+      "explain": "Ít neutron tiếp tục gây phân hạch hơn thì tốc độ phản ứng dây chuyền giảm."
+    },
+    {
+      "id": "vl-hat-nhan-lt-04-04",
+      "type": "mcq",
+      "level": 2,
+      "prompt": "Pin dùng nhiệt phân rã có hiệu suất không đổi, chỉ một đồng vị mẹ cung cấp năng lượng; Q mỗi phân rã không đổi. Sau một chu kì bán rã, công suất điện còn bao nhiêu so với ban đầu?",
+      "options": [
+        "Giữ nguyên",
+        "Gấp đôi",
+        "Một nửa",
+        "Bằng 0"
+      ],
+      "answer": 2,
+      "explain": "P_{điện} = ηHQ. H giảm một nửa sau T nên P cũng giảm một nửa."
+    },
+    {
+      "id": "vl-hat-nhan-lt-04-05",
+      "type": "mcq",
+      "level": 2,
+      "prompt": "Vì sao chất phát alpha đi vào cơ thể vẫn có thể nguy hiểm dù alpha khó xuyên qua giấy?",
+      "options": [
+        "Vì alpha biến thành gamma khi gặp giấy",
+        "Vì alpha có thể truyền năng lượng, ion hóa mô ở gần nguồn trong cơ thể",
+        "Vì alpha luôn xuyên qua mọi vật dày",
+        "Vì alpha không tương tác với mô"
+      ],
+      "answer": 1,
+      "explain": "Khả năng đâm xuyên thấp không loại bỏ nguy hiểm khi nguồn nằm trong cơ thể, sát mô sống."
+    },
+    {
+      "id": "vl-hat-nhan-lt-04-06",
+      "type": "mcq",
+      "level": 2,
+      "prompt": "Biện pháp nào phù hợp với ba nguyên tắc cơ bản bảo vệ trước nguồn bức xạ bên ngoài?",
+      "options": [
+        "Ở gần nguồn lâu hơn để quen bức xạ",
+        "Bỏ mọi che chắn để nhìn rõ nguồn",
+        "Tăng thời gian tiếp xúc và giảm khoảng cách",
+        "Giảm thời gian, tăng khoảng cách và dùng che chắn phù hợp"
+      ],
+      "answer": 3,
+      "explain": "Giảm thời gian, tăng khoảng cách và che chắn phù hợp giúp giảm phơi nhiễm; vẫn phải theo quy trình chuyên môn."
+    }
+  ]
+}

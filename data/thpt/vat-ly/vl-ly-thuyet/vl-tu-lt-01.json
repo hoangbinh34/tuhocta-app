@@ -1,0 +1,58 @@
+{
+  "id": "vl-tu-lt-01",
+  "title": "Từ trường, đường sức và cảm ứng từ",
+  "items": [
+    {
+      "id": "vl-tu-lt-01-t1", "type": "card", "title": "Nhận biết từ trường bằng tác dụng từ",
+      "paras": [
+        "Nam châm và dòng điện tạo ra từ trường. Có thể phát hiện từ trường bằng tác dụng lực lên kim nam châm hoặc dòng điện thử. Điện tích đứng yên không chịu lực từ; điện tích chuyển động song song với cảm ứng từ cũng có thể không chịu lực từ.",
+        "Vectơ cảm ứng từ B đặc trưng cho từ trường về tác dụng lực. Tại một điểm, B có phương tiếp tuyến với đường sức và chiều theo chiều đường sức. Đầu Bắc của kim nam châm nhỏ cân bằng chỉ chiều của B tại đó. Đơn vị SI của B là tesla (T); 1 mT = 10^{-3} T.",
+        "Bên ngoài nam châm thẳng, đường sức đi từ cực Bắc N tới cực Nam S; bên trong đi từ S về N, tạo thành đường khép kín. Các đường sức không cắt nhau. Từ trường đều có B như nhau tại mọi điểm: đường sức thẳng, song song, cùng chiều và cách đều."
+      ]
+    },
+    {
+      "id": "vl-tu-lt-01-t2", "type": "card", "title": "Chiều từ trường quanh dòng điện và nền chuyển động tròn",
+      "paras": [
+        "Quanh dây dẫn thẳng dài, đường sức là các đường tròn đồng tâm trong các mặt phẳng vuông góc với dây, tâm trên dây. Nắm bàn tay phải: ngón cái theo chiều dòng điện quy ước, các ngón còn lại chỉ chiều đường sức. Trong lòng ống dây dài, các đường sức gần trục gần thẳng và song song; từ trường gần đều.",
+        "Lực từ lên hạt mang điện: khi đề cho công thức F = |q|vB sin θ, θ là góc giữa vận tốc và B. Lực vuông góc với vận tốc nên không sinh công, không đổi động năng. Với hạt dương, chiều lực theo quy tắc tích có hướng v × B; hạt âm chịu lực ngược chiều đó.",
+        "Nếu v vuông góc B và chỉ có lực từ, hạt chuyển động tròn đều: lực hướng tâm mv²/r = |q|vB, suy ra r = mv/(|q|B). Tốc độ không đổi nhưng vectơ vận tốc đổi hướng. Đây là nền chuyển động tròn lớp 10 và điện tích lớp 11; bài sử dụng sẽ cho công thức và số liệu cần thiết."
+      ]
+    },
+    {
+      "id": "vl-tu-lt-01-01", "type": "mcq", "level": 1,
+      "prompt": "Đơn vị SI của cảm ứng từ là gì?",
+      "options": ["Weber (Wb)", "Tesla (T)", "Volt (V)", "Newton (N)"], "answer": 1,
+      "explain": "Cảm ứng từ B đo bằng tesla; weber là đơn vị từ thông."
+    },
+    {
+      "id": "vl-tu-lt-01-02", "type": "mcq", "level": 1,
+      "prompt": "Ở bên ngoài một nam châm thẳng, đường sức từ có chiều nào?",
+      "options": ["Từ cực S tới cực N", "Từ tâm đi ra mọi phía", "Từ cực N tới cực S", "Không có chiều xác định"], "answer": 2,
+      "explain": "Bên ngoài nam châm, chiều đường sức là N → S; bên trong là S → N."
+    },
+    {
+      "id": "vl-tu-lt-01-03", "type": "mcq", "level": 2,
+      "prompt": "Vì sao hai đường sức từ không thể cắt nhau tại một điểm có B khác 0?",
+      "options": ["Vì B tại điểm đó chỉ có một hướng", "Vì từ trường chỉ tồn tại trên đường sức", "Vì đường sức luôn là đường thẳng", "Vì mọi từ trường đều là từ trường đều"], "answer": 0,
+      "explain": "Mỗi điểm có một vectơ B xác định. Hai đường cắt nhau với hai tiếp tuyến khác nhau sẽ gán hai hướng cho cùng một B."
+    },
+    {
+      "id": "vl-tu-lt-01-04", "type": "mcq", "level": 2,
+      "prompt": "Dòng điện trong dây thẳng vuông góc mặt giấy có chiều đi ra phía người đọc. Nhìn vào mặt giấy, đường sức quay theo chiều nào?",
+      "options": ["Theo chiều kim đồng hồ", "Đi thẳng từ trái sang phải", "Đi thẳng từ trên xuống", "Ngược chiều kim đồng hồ"], "answer": 3,
+      "explain": "Ngón cái tay phải hướng ra khỏi giấy theo dòng điện; các ngón cuộn lại chỉ chiều ngược kim đồng hồ."
+    },
+    {
+      "id": "vl-tu-lt-01-05", "type": "mcq", "level": 2,
+      "prompt": "Hạt mang điện chuyển động tròn đều chỉ do lực từ trong từ trường đều. Đại lượng nào không đổi?",
+      "options": ["Vectơ vận tốc", "Tốc độ", "Vectơ gia tốc", "Vectơ lực từ"], "answer": 1,
+      "explain": "Lực từ vuông góc vận tốc, không sinh công nên tốc độ không đổi. Các vectơ vận tốc, gia tốc và lực đổi hướng theo vị trí."
+    },
+    {
+      "id": "vl-tu-lt-01-06", "type": "mcq", "level": 2,
+      "prompt": "Cho F = |q|vB sin θ. Một hạt tích điện chuyển động song song với B khác 0. Lực từ lên hạt có độ lớn bằng bao nhiêu?",
+      "options": ["|q|vB", "2|q|vB", "0", "|q|B/v"], "answer": 2,
+      "explain": "Chuyển động song song có θ = 0° hoặc 180°, sin θ = 0 nên F = 0."
+    }
+  ]
+}

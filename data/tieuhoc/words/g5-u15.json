@@ -1,0 +1,12 @@
+[
+  {"id": "g5-u15-001", "word": "headache", "pos": "n", "ipa": "/ˈhedeɪk/", "pic": "🤕", "vi": "đau đầu", "defEn": "a pain in your head", "example": "I have a ______. I should have a rest.", "level": 2, "priority": 1, "sources": ["sgk-g5-u15"]},
+  {"id": "g5-u15-002", "word": "sore throat", "pos": "n", "ipa": "/ˌsɔː ˈθrəʊt/", "pic": "😷", "vi": "đau họng", "defEn": "a pain in your throat", "example": "You have a ______. Drink some warm water.", "level": 3, "priority": 1, "sources": ["sgk-g5-u15"]},
+  {"id": "g5-u15-003", "word": "stomach ache", "pos": "n", "ipa": "/ˈstʌmək eɪk/", "pic": "🤢", "vi": "đau bụng", "defEn": "a pain in your stomach", "example": "He ate too much and got a ______.", "level": 3, "priority": 1, "sources": ["sgk-g5-u15"]},
+  {"id": "g5-u15-004", "word": "toothache", "pos": "n", "ipa": "/ˈtuːθeɪk/", "pic": "🦷", "vi": "đau răng", "defEn": "a pain in a tooth", "example": "I have a ______. I should go to the dentist.", "level": 2, "priority": 1, "sources": ["sgk-g5-u15"]},
+  {"id": "g5-u15-005", "word": "dentist", "pos": "n", "ipa": "/ˈdentɪst/", "pic": "🪥", "vi": "nha sĩ", "defEn": "a doctor who looks after teeth", "example": "You should go to the ______ twice a year.", "level": 2, "priority": 1, "sources": ["sgk-g5-u15"]},
+  {"id": "g5-u15-006", "word": "medicine", "pos": "n", "ipa": "/ˈmedsn/", "pic": "💊", "vi": "thuốc", "defEn": "something you take to get better when you are ill", "example": "Take this ______ after meals.", "level": 2, "priority": 1, "sources": ["sgk-g5-u15"]},
+  {"id": "g5-u15-007", "word": "have a rest", "pos": "phrase", "ipa": "/hæv ə ˈrest/", "pic": "🛌", "vi": "nghỉ ngơi", "defEn": "to stop and relax for a time", "example": "You look tired. You should ______.", "level": 2, "priority": 1, "sources": ["sgk-g5-u15"]},
+  {"id": "g5-u15-008", "word": "warm water", "pos": "n", "ipa": "/ˌwɔːm ˈwɔːtə(r)/", "pic": "🫖", "vi": "nước ấm", "defEn": "water that is a little hot", "example": "Drink some ______ for your sore throat.", "level": 2, "priority": 1, "sources": ["sgk-g5-u15"]},
+  {"id": "g5-u15-009", "word": "fever", "pos": "n", "ipa": "/ˈfiːvə(r)/", "pic": "🌡️", "vi": "sốt", "defEn": "a high body temperature when you are ill", "example": "She has a ______. She can't go to school.", "level": 2, "priority": 2, "sources": ["chu-de-on-thi"]},
+  {"id": "g5-u15-010", "word": "matter", "pos": "n", "ipa": "/ˈmætə(r)/", "pic": "❓", "vi": "vấn đề, chuyện", "defEn": "a problem", "example": "What's the ______ with you? I have a cold.", "level": 2, "priority": 2, "sources": ["chu-de-on-thi"]}
+]

@@ -1,0 +1,23 @@
+[
+ {
+  "id": "c3-dtu-01",
+  "title": "Quảng cáo và thông báo (1)",
+  "emoji": "📣",
+  "file": "dien-tu/c3-dtu-01.json",
+  "count": 12
+ },
+ {
+  "id": "c3-dtu-02",
+  "title": "Quảng cáo và thông báo (2)",
+  "emoji": "📣",
+  "file": "dien-tu/c3-dtu-02.json",
+  "count": 12
+ },
+ {
+  "id": "c3-dtu-03",
+  "title": "Đoạn văn và thông báo (3)",
+  "emoji": "📣",
+  "file": "dien-tu/c3-dtu-03.json",
+  "count": 12
+ }
+]

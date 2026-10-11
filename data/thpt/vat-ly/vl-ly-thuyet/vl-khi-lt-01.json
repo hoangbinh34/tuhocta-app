@@ -1,0 +1,58 @@
+{
+  "id": "vl-khi-lt-01",
+  "title": "Mô hình khí lí tưởng và lượng chất",
+  "items": [
+    {
+      "id": "vl-khi-lt-01-t1", "type": "card", "title": "Từ phân tử đến mô hình khí lí tưởng",
+      "paras": [
+        "Các phân tử khí chuyển động nhiệt hỗn loạn không ngừng. Trong mô hình khí lí tưởng, kích thước phân tử rất nhỏ so với khoảng cách giữa chúng; bỏ qua lực tương tác khi không va chạm, các va chạm là đàn hồi.",
+        "Giữa hai va chạm, phân tử chuyển động thẳng đều. Khi va chạm với thành bình, phân tử truyền động lượng cho thành; rất nhiều va chạm tạo nên áp suất khí. Không phải trọng lượng khí là nguyên nhân chính gây áp suất lên mọi thành bình.",
+        "Khí thực gần mô hình lí tưởng hơn khi loãng, nhiệt độ đủ cao và xa điều kiện ngưng tụ. Mô hình không nói rằng phân tử không có khối lượng hoặc thể tích bình bằng tổng thể tích riêng của các phân tử."
+      ]
+    },
+    {
+      "id": "vl-khi-lt-01-t2", "type": "card", "title": "Đếm lượng khí và đổi đơn vị",
+      "paras": [
+        "Số mol n = m/M = N/N_{A}; N là số phân tử, M là khối lượng mol. Dùng cùng đơn vị khối lượng cho m và M. Khí kín, không rò rỉ và không phản ứng thì n không đổi.",
+        "Trong phương trình khí với R = 8,31 J/(mol·K), dùng p theo Pa, V theo m³, T theo K. Với các bài ở đây, T = t + 273 theo quy ước đề; 1 L = 10^{-3} m³, 1 cm³ = 10^{-6} m³, 1 kPa = 10^{3} Pa, 1 bar = 10^{5} Pa.",
+        "N_{A} = 6,02·10^{23} mol^{-1} theo thẻ Hằng số dùng trong đề. Đề bài cho số gần đúng nào thì dùng số đó; không làm tròn kết quả trung gian."
+      ]
+    },
+    {
+      "id": "vl-khi-lt-01-01", "type": "mcq", "level": 1,
+      "prompt": "Trong mô hình khí lí tưởng, tương tác giữa các phân tử được xử lí thế nào?",
+      "options": ["Bỏ qua khi không va chạm", "Luôn là lực hút rất mạnh", "Luôn là lực đẩy rất mạnh", "Giữ các phân tử ở vị trí cố định"], "answer": 0,
+      "explain": "Mô hình bỏ qua lực tương tác giữa các phân tử ngoài lúc va chạm, và coi va chạm là đàn hồi."
+    },
+    {
+      "id": "vl-khi-lt-01-02", "type": "mcq", "level": 1,
+      "prompt": "Áp suất khí lên thành bình được giải thích trực tiếp bởi hiện tượng nào?",
+      "options": ["Phân tử đứng yên sát thành", "Phân tử va chạm và truyền động lượng cho thành", "Các phân tử mất hết động năng", "Thành bình hút mọi phân tử"], "answer": 1,
+      "explain": "Các va chạm tạo lực lên thành; lực trung bình trên một đơn vị diện tích là áp suất."
+    },
+    {
+      "id": "vl-khi-lt-01-03", "type": "mcq", "level": 1,
+      "prompt": "Công thức nào liên hệ số phân tử N với số mol n?",
+      "options": ["N = n/N_{A}", "N = N_{A}/n", "N = nN_{A}", "N = n + N_{A}"], "answer": 2,
+      "explain": "Mỗi mol có N_{A} phân tử; n mol có nN_{A} phân tử."
+    },
+    {
+      "id": "vl-khi-lt-01-04", "type": "mcq", "level": 1,
+      "prompt": "Thể tích 3 L bằng bao nhiêu m³?",
+      "options": ["3 m³", "3000 m³", "0,03 m³", "0,003 m³"], "answer": 3,
+      "explain": "1 L = 10^{-3} m³ nên 3 L = 0,003 m³."
+    },
+    {
+      "id": "vl-khi-lt-01-05", "type": "mcq", "level": 2,
+      "prompt": "Một bình cứng kín được nung nóng; khí không phản ứng, không rò rỉ. Đại lượng nào chắc chắn không đổi?",
+      "options": ["Số mol khí", "Áp suất khí", "Nhiệt độ khí", "Động năng trung bình của phân tử"], "answer": 0,
+      "explain": "Bình kín giữ lượng chất không đổi; nung nóng làm nhiệt độ, động năng trung bình và áp suất tăng."
+    },
+    {
+      "id": "vl-khi-lt-01-06", "type": "mcq", "level": 2,
+      "prompt": "Trường hợp nào thường cho phép coi khí thực gần khí lí tưởng hơn?",
+      "options": ["Khí rất đặc, sát ngưng tụ", "Khí loãng, ở xa điều kiện ngưng tụ", "Khí đã hoá lỏng", "Khí nén tới mật độ của chất rắn"], "answer": 1,
+      "explain": "Khi khí loãng và xa ngưng tụ, thể tích riêng của phân tử và tương tác giữa chúng ít ảnh hưởng hơn."
+    }
+  ]
+}

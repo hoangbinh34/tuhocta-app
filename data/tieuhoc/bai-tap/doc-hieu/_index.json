@@ -1,0 +1,44 @@
+[
+ {
+  "id": "th-dh-01",
+  "title": "Thông báo và biển báo",
+  "emoji": "📌",
+  "file": "doc-hieu/th-dh-01.json",
+  "count": 8
+ },
+ {
+  "id": "th-dh-02",
+  "title": "Quảng cáo và tờ rơi",
+  "emoji": "📰",
+  "file": "doc-hieu/th-dh-02.json",
+  "count": 7
+ },
+ {
+  "id": "th-dh-03",
+  "title": "Tin nhắn và thư ngắn",
+  "emoji": "✉️",
+  "file": "doc-hieu/th-dh-03.json",
+  "count": 6
+ },
+ {
+  "id": "th-dh-04",
+  "title": "Đọc đoạn văn, trả lời câu hỏi",
+  "emoji": "📖",
+  "file": "doc-hieu/th-dh-04.json",
+  "count": 12
+ },
+ {
+  "id": "th-dh-05",
+  "title": "Điền từ vào đoạn văn",
+  "emoji": "🧩",
+  "file": "doc-hieu/th-dh-05.json",
+  "count": 15
+ },
+ {
+  "id": "th-dh-06",
+  "title": "Điền một từ lấy từ bài đọc",
+  "emoji": "🔎",
+  "file": "doc-hieu/th-dh-06.json",
+  "count": 8
+ }
+]

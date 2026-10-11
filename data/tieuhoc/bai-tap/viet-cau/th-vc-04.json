@@ -1,0 +1,135 @@
+{
+ "id": "th-vc-04",
+ "module": "sentence",
+ "title": "Viết lại câu cùng nghĩa (2)",
+ "emoji": "🔁",
+ "intro": "Viết lại sao cho NGHĨA KHÔNG ĐỔI. Dạng hay gặp: so sánh (taller ↔ shorter), Let's / What about…?, There are… ↔ … has…, a good singer ↔ sings well.",
+ "instruction": "Hoàn thành câu thứ hai sao cho nghĩa giống câu thứ nhất (chỉ gõ phần còn thiếu).",
+ "shuffle": true,
+ "priority": 1,
+ "sources": [
+  "dang-de-CG"
+ ],
+ "items": [
+  {
+   "id": "th-vc-04-01",
+   "type": "input",
+   "prompt": "My school has 800 students.",
+   "answers": [
+    "are 800 students in my school",
+    "are eight hundred students in my school",
+    "are 800 students at my school",
+    "are eight hundred students at my school"
+   ],
+   "explain": "… has … = There are … in …",
+   "lead": "There ___"
+  },
+  {
+   "id": "th-vc-04-02",
+   "type": "input",
+   "prompt": "Hue is smaller than Ha Noi.",
+   "answers": [
+    "bigger than Hue",
+    "larger than Hue",
+    "not as small as Hue",
+    "not so small as Hue"
+   ],
+   "explain": "Đảo so sánh: smaller ↔ bigger.",
+   "lead": "Ha Noi is ___"
+  },
+  {
+   "id": "th-vc-04-03",
+   "type": "input",
+   "prompt": "Nobody in my class is taller than Nam.",
+   "answers": [
+    "the tallest in my class",
+    "the tallest student in my class",
+    "the tallest boy in my class",
+    "the tallest person in my class",
+    "the tallest in the class",
+    "the tallest student in the class",
+    "the tallest boy in the class",
+    "the tallest person in the class",
+    "taller than anyone else in my class",
+    "taller than everyone else in my class",
+    "taller than any other student in my class"
+   ],
+   "explain": "Không ai cao hơn Nam = Nam cao nhất.",
+   "lead": "Nam is ___"
+  },
+  {
+   "id": "th-vc-04-04",
+   "type": "input",
+   "prompt": "Shall we go swimming?",
+   "answers": [
+    "go swimming"
+   ],
+   "explain": "Shall we…? = Why don't we + động từ?",
+   "lead": "Why don't we ___"
+  },
+  {
+   "id": "th-vc-04-05",
+   "type": "input",
+   "prompt": "My father drives carefully.",
+   "answers": [
+    "a careful driver",
+    "a very careful driver"
+   ],
+   "explain": "drive carefully = a careful driver.",
+   "lead": "My father is ___"
+  },
+  {
+   "id": "th-vc-04-06",
+   "type": "input",
+   "prompt": "It is a very interesting book.",
+   "answers": [
+    "is very interesting"
+   ],
+   "explain": "It is a + adj + book = The book is + adj.",
+   "lead": "The book ___"
+  },
+  {
+   "id": "th-vc-04-07",
+   "type": "input",
+   "prompt": "Mai's hair is long and black.",
+   "answers": [
+    "long black hair",
+    "long, black hair"
+   ],
+   "explain": "Her hair is long = She has long hair (tính từ đứng trước danh từ).",
+   "lead": "Mai has ___"
+  },
+  {
+   "id": "th-vc-04-08",
+   "type": "input",
+   "prompt": "Do you have a pen?",
+   "answers": [
+    "got a pen"
+   ],
+   "explain": "Do you have…? = Have you got…?",
+   "lead": "Have you ___"
+  },
+  {
+   "id": "th-vc-04-09",
+   "type": "input",
+   "prompt": "Nam is a fast runner.",
+   "answers": [
+    "fast",
+    "very fast"
+   ],
+   "explain": "a fast runner = runs fast (fast vừa là tính từ vừa là trạng từ).",
+   "lead": "Nam runs ___"
+  },
+  {
+   "id": "th-vc-04-10",
+   "type": "input",
+   "prompt": "The film was boring, so we left early.",
+   "answers": [
+    "the film was boring",
+    "it was boring"
+   ],
+   "explain": "so (kết quả) ↔ because (nguyên nhân).",
+   "lead": "We left early because ___"
+  }
+ ]
+}

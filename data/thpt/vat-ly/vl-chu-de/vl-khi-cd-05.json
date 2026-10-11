@@ -1,0 +1,88 @@
+{
+  "id": "vl-khi-cd-05",
+  "title": "Khí: hiểu đồ thị và các đại lượng vi mô",
+  "items": [
+    {
+      "id": "vl-khi-cd-05-01", "type": "mcq", "level": 2,
+      "prompt": "Hai đường đẳng nhiệt của cùng một lượng khí trên đồ thị p–V ứng với T₁ và T₂. Ở cùng V, đường thứ hai có áp suất lớn hơn. Kết luận nào đúng?",
+      "options": ["T₂ < T₁", "T₂ = T₁", "T₂ > T₁", "Không thể so sánh T₂ và T₁"], "answer": 2,
+      "explain": "Tại cùng V và n, p = nRT/V tỉ lệ với T. Đường có áp suất cao hơn ứng với nhiệt độ cao hơn."
+    },
+    {
+      "id": "vl-khi-cd-05-02", "type": "mcq", "level": 2,
+      "prompt": "Trên đồ thị V–T với T theo kelvin, hai mẫu khí lí tưởng có cùng số mol được giữ ở hai áp suất khác nhau. Đường thứ nhất có hệ số góc gấp đôi đường thứ hai. Tỉ số p₁/p₂ là bao nhiêu?",
+      "options": ["2", "4", "1", "1/2"], "answer": 3,
+      "explain": "V = (nR/p)T, hệ số góc tỉ lệ nghịch áp suất khi n như nhau. Vì a₁ = 2a₂ nên p₁/p₂ = 1/2."
+    },
+    {
+      "id": "vl-khi-cd-05-03", "type": "mcq", "level": 2,
+      "prompt": "Khảo sát đẳng nhiệt khí kín bằng xi-lanh. Vì sao nên nén chậm rồi chờ số chỉ ổn định trước khi đọc áp suất?",
+      "options": ["Để khí trao đổi nhiệt với môi trường và trở về nhiệt độ khảo sát", "Để giảm số mol trong xi-lanh", "Để loại bỏ mọi va chạm phân tử", "Để áp suất khí luôn bằng áp suất khí quyển"], "answer": 0,
+      "explain": "Nén nhanh có thể làm khí nóng lên. Nén chậm và chờ cân bằng nhiệt giúp giữ nhiệt độ gần không đổi; hệ vẫn cần kín để giữ số mol."
+    },
+    {
+      "id": "vl-khi-cd-05-04", "type": "mcq", "level": 2,
+      "prompt": "Hai bình chứa hai khí lí tưởng khác nhau ở cùng nhiệt độ. Động năng tịnh tiến trung bình của một phân tử ở hai bình có quan hệ nào?",
+      "options": ["Khí có phân tử nặng hơn có động năng lớn hơn", "Bằng nhau", "Tỉ lệ với áp suất mỗi bình", "Tỉ lệ với thể tích mỗi bình"], "answer": 1,
+      "explain": "E = (3/2)kT chỉ phụ thuộc nhiệt độ tuyệt đối, không phụ thuộc loại khí. Tốc độ của phân tử hai khí có thể khác nhau."
+    },
+    {
+      "id": "vl-khi-cd-05-05", "type": "mcq", "level": 2,
+      "prompt": "Hai bình chứa cùng loại khí lí tưởng, cùng mật độ số phân tử. Tốc độ căn quân phương ở bình B gấp đôi bình A. Áp suất bình B bằng bao nhiêu lần bình A?",
+      "options": ["1/2", "2", "4", "1"], "answer": 2,
+      "explain": "p = (1/3)(N/V)m₀v_{rms}². Cùng N/V và m₀ nên p_{B}/p_{A} = 2² = 4."
+    },
+    {
+      "id": "vl-khi-cd-05-06", "type": "mcq", "level": 2,
+      "prompt": "Trên đồ thị p–V (p trục tung), một lượng khí kín đi theo đoạn thẳng nằm ngang từ trái sang phải. Nhiệt độ tuyệt đối biến đổi thế nào?",
+      "options": ["Giảm vì khí giãn nở", "Không đổi vì áp suất không đổi", "Giảm tỉ lệ nghịch V", "Tăng tỉ lệ với V"], "answer": 3,
+      "explain": "Đoạn nằm ngang là đẳng áp; đi sang phải nghĩa là V tăng. T = pV/(nR) tăng tỉ lệ với V khi p và n không đổi."
+    },
+    {
+      "id": "vl-khi-cd-05-07", "type": "tf4", "level": 2,
+      "prompt": "Bình cứng kín 4,00 L chứa 0,200 mol khí lí tưởng ở 300 K, sau đó nung tới 600 K. Cho R = 8,31 J/(mol·K), N_{A} = 6,02·10^{23} mol^{-1}.",
+      "statements": [
+        "a) Áp suất ban đầu bằng 124,65 kPa.",
+        "b) Sau khi nung, mật độ số phân tử tăng gấp đôi.",
+        "c) Động năng tịnh tiến trung bình mỗi phân tử tăng gấp đôi.",
+        "d) Tốc độ căn quân phương sau khi nung gấp đôi ban đầu."
+      ],
+      "answers": [true, false, true, false],
+      "explain": [
+        "Đúng. p₁ = nRT₁/V = 0,200 · 8,31 · 300/0,00400 = 124 650 Pa = 124,65 kPa.",
+        "Sai. Bình cứng kín có N và V không đổi nên N/V không đổi; áp suất tăng do chuyển động phân tử mạnh hơn.",
+        "Đúng. E₂/E₁ = T₂/T₁ = 600/300 = 2. Ban đầu E₁ = 6,211794…·10^{-21} J.",
+        "Sai. Cùng loại khí, v_{rms} tỉ lệ với √T nên tỉ số tốc độ bằng √2, không phải 2."
+      ]
+    },
+    {
+      "id": "vl-khi-cd-05-08", "type": "tf4", "level": 2,
+      "prompt": "Một mẫu khí lí tưởng cùng loại có trạng thái đầu (p₁, V₁, T₁). Sau khi xả bớt khí và nung, trạng thái cuối là p₂ = 1,5p₁, V₂ = 0,5V₁, T₂ = 1,5T₁. Nhiệt độ tính theo kelvin, áp suất là tuyệt đối; không có phản ứng hoá học.",
+      "statements": [
+        "a) Số mol cuối bằng một nửa số mol đầu.",
+        "b) Mật độ số phân tử cuối bằng mật độ ban đầu.",
+        "c) Động năng tịnh tiến trung bình mỗi phân tử cuối bằng một nửa ban đầu.",
+        "d) Có thể dùng p₁V₁/T₁ = p₂V₂/T₂ cho quá trình này."
+      ],
+      "answers": [true, true, false, false],
+      "explain": [
+        "Đúng. n₂/n₁ = (p₂/p₁)(V₂/V₁)/(T₂/T₁) = 1,5 · 0,5/1,5 = 0,5.",
+        "Đúng. N₂/N₁ = 0,5 và V₂/V₁ = 0,5 nên (N₂/V₂)/(N₁/V₁) = 1.",
+        "Sai. E₂/E₁ = T₂/T₁ = 1,5; mất phân tử không làm giảm động năng trung bình của các phân tử còn lại ở nhiệt độ đã cho.",
+        "Sai. pV/T = nR chỉ không đổi khi n không đổi. Ở đây giá trị cuối bằng một nửa giá trị đầu."
+      ]
+    },
+    {
+      "id": "vl-khi-cd-05-09", "type": "num", "level": 2,
+      "prompt": "Đường thẳng p–T của một mẫu khí lí tưởng kín trong bình cứng đi qua điểm T = 300 K, p = 300 kPa; trục tung p theo kPa, trục hoành T theo K. Cho thể tích bình 2,00 L. Tính tích nR từ hệ số góc đồ thị, theo J/K, làm tròn đến một chữ số sau dấu phẩy.",
+      "answer": 2, "round": 1, "unit": "J/K",
+      "explain": "Hệ số góc a = p/T = 1 kPa/K = 1000 Pa/K. Từ p = (nR/V)T: nR = aV = 1000 · 0,00200 = 2,0 J/K. Ghi: 2,0."
+    },
+    {
+      "id": "vl-khi-cd-05-10", "type": "num", "level": 2,
+      "prompt": "Oxi coi là khí lí tưởng ở 400 K, khối lượng mol M = 32,0 g/mol. Cho v_{rms} = √(3RT/M), R = 8,31 J/(mol·K). Tính tốc độ căn quân phương theo m/s, làm tròn đến hàng đơn vị.",
+      "answer": 558, "round": 0, "exact": 558.2338219778519, "unit": "m/s",
+      "explain": "Đổi M = 0,0320 kg/mol. v_{rms} = √(3 · 8,31 · 400/0,0320) = 558,233821… m/s ≈ 558 m/s. Ghi: 558."
+    }
+  ]
+}

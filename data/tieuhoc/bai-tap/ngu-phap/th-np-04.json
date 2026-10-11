@@ -1,0 +1,145 @@
+{
+ "id": "th-np-04",
+ "module": "grammar",
+ "title": "Tương lai: will / be going to",
+ "emoji": "🔮",
+ "intro": "will + động từ nguyên mẫu: dự đoán, quyết định ngay lúc nói. be going to + động từ nguyên mẫu: dự định đã có kế hoạch, hoặc điều chắc chắn sắp xảy ra.",
+ "instruction": "Chọn đáp án đúng.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL-NTT"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-np-04-01",
+   "type": "mcq",
+   "prompt": "I think it ___ rain tomorrow.",
+   "options": [
+    "will",
+    "is",
+    "does",
+    "going"
+   ],
+   "answer": 0,
+   "explain": "\"I think\" + dự đoán: will rain."
+  },
+  {
+   "id": "th-np-04-02",
+   "type": "mcq",
+   "prompt": "Look at those dark clouds! It ___ rain.",
+   "options": [
+    "is going to",
+    "will",
+    "goes to",
+    "is"
+   ],
+   "answer": 0,
+   "explain": "Có dấu hiệu rõ (mây đen) nên dùng is going to."
+  },
+  {
+   "id": "th-np-04-03",
+   "type": "mcq",
+   "prompt": "We ___ visit Ha Long Bay next summer. We bought the tickets.",
+   "options": [
+    "are going to",
+    "going to",
+    "will to",
+    "goes to"
+   ],
+   "answer": 0,
+   "explain": "Đã có kế hoạch (đã mua vé): are going to."
+  },
+  {
+   "id": "th-np-04-04",
+   "type": "mcq",
+   "prompt": "\"I'm thirsty.\" – \"I ___ get you some water.\"",
+   "options": [
+    "will",
+    "am going",
+    "going to",
+    "am"
+   ],
+   "answer": 0,
+   "explain": "Quyết định ngay lúc nói: will."
+  },
+  {
+   "id": "th-np-04-05",
+   "type": "mcq",
+   "prompt": "What ___ you do next weekend?",
+   "options": [
+    "are",
+    "will",
+    "do",
+    "did"
+   ],
+   "answer": 1,
+   "explain": "\"next weekend\" là tương lai: What will you do?"
+  },
+  {
+   "id": "th-np-04-06",
+   "type": "mcq",
+   "prompt": "She ___ be a doctor when she grows up.",
+   "options": [
+    "wants",
+    "is going to",
+    "will to",
+    "going"
+   ],
+   "answer": 1,
+   "explain": "Dự định trong tương lai: is going to be."
+  },
+  {
+   "id": "th-np-04-07",
+   "type": "mcq",
+   "prompt": "My brother ___ play football tomorrow. He has a cold.",
+   "options": [
+    "will",
+    "won't",
+    "isn't",
+    "doesn't"
+   ],
+   "answer": 1,
+   "explain": "Bị cảm nên sẽ không chơi: won't (= will not)."
+  },
+  {
+   "id": "th-np-04-08",
+   "type": "mcq",
+   "prompt": "___ you help me with my homework, please?",
+   "options": [
+    "Will",
+    "Are",
+    "Do",
+    "Going"
+   ],
+   "answer": 0,
+   "explain": "Lời nhờ vả lịch sự: Will you…?"
+  },
+  {
+   "id": "th-np-04-09",
+   "type": "mcq",
+   "prompt": "They are going ___ a cake for Mum's birthday.",
+   "options": [
+    "make",
+    "to make",
+    "making",
+    "made"
+   ],
+   "answer": 1,
+   "explain": "be going to + động từ nguyên mẫu: going to make."
+  },
+  {
+   "id": "th-np-04-10",
+   "type": "mcq",
+   "prompt": "In 2050, people ___ live on the Moon.",
+   "options": [
+    "will",
+    "are",
+    "did",
+    "was"
+   ],
+   "answer": 0,
+   "explain": "Dự đoán về tương lai xa: will."
+  }
+ ]
+}

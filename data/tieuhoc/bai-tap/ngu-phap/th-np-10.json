@@ -1,0 +1,145 @@
+{
+ "id": "th-np-10",
+ "module": "grammar",
+ "title": "Liên từ và tính từ -ed / -ing",
+ "emoji": "🔗",
+ "intro": "and (và), but (nhưng), so (nên), because (vì), or (hoặc). Tính từ -ed nói cảm xúc của người (I am bored). Tính từ -ing nói tính chất của sự việc (The film is boring).",
+ "instruction": "Chọn đáp án đúng.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL-NTT"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-np-10-01",
+   "type": "mcq",
+   "prompt": "I like apples ___ I don't like bananas.",
+   "options": [
+    "and",
+    "but",
+    "so",
+    "because"
+   ],
+   "answer": 1,
+   "explain": "Hai ý trái ngược nhau: but."
+  },
+  {
+   "id": "th-np-10-02",
+   "type": "mcq",
+   "prompt": "It was raining, ___ we stayed at home.",
+   "options": [
+    "but",
+    "so",
+    "because",
+    "or"
+   ],
+   "answer": 1,
+   "explain": "Kết quả: so."
+  },
+  {
+   "id": "th-np-10-03",
+   "type": "mcq",
+   "prompt": "She is happy ___ she got a good mark.",
+   "options": [
+    "so",
+    "but",
+    "because",
+    "and"
+   ],
+   "answer": 2,
+   "explain": "Nguyên nhân: because."
+  },
+  {
+   "id": "th-np-10-04",
+   "type": "mcq",
+   "prompt": "Would you like tea ___ coffee? – Tea, please.",
+   "options": [
+    "and",
+    "or",
+    "but",
+    "so"
+   ],
+   "answer": 1,
+   "explain": "Hỏi để chọn một trong hai: or."
+  },
+  {
+   "id": "th-np-10-05",
+   "type": "mcq",
+   "prompt": "The film was very ___. I fell asleep.",
+   "options": [
+    "bored",
+    "boring",
+    "bore",
+    "bores"
+   ],
+   "answer": 1,
+   "explain": "Tính chất của bộ phim: boring."
+  },
+  {
+   "id": "th-np-10-06",
+   "type": "mcq",
+   "prompt": "I am very ___ in science.",
+   "options": [
+    "interested",
+    "interesting",
+    "interest",
+    "interests"
+   ],
+   "answer": 0,
+   "explain": "Cảm xúc của người: interested in."
+  },
+  {
+   "id": "th-np-10-07",
+   "type": "mcq",
+   "prompt": "The trip to the zoo was really ___.",
+   "options": [
+    "excited",
+    "exciting",
+    "excite",
+    "excites"
+   ],
+   "answer": 1,
+   "explain": "Tính chất của chuyến đi: exciting."
+  },
+  {
+   "id": "th-np-10-08",
+   "type": "mcq",
+   "prompt": "She felt ___ after the long walk.",
+   "options": [
+    "tired",
+    "tiring",
+    "tire",
+    "tires"
+   ],
+   "answer": 0,
+   "explain": "Cảm xúc/trạng thái của người: tired."
+  },
+  {
+   "id": "th-np-10-09",
+   "type": "mcq",
+   "prompt": "My dad likes reading ___ my mum likes cooking.",
+   "options": [
+    "and",
+    "because",
+    "so",
+    "or"
+   ],
+   "answer": 0,
+   "explain": "Nối hai ý tương đương: and."
+  },
+  {
+   "id": "th-np-10-10",
+   "type": "mcq",
+   "prompt": "He was ___ when he heard the news.",
+   "options": [
+    "surprised",
+    "surprising",
+    "surprise",
+    "surprises"
+   ],
+   "answer": 0,
+   "explain": "Cảm xúc của người: surprised."
+  }
+ ]
+}

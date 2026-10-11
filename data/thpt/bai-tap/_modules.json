@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "modules": [
+    {
+      "id": "cloze",
+      "dir": "dien-tu"
+    },
+    {
+      "id": "arrange",
+      "dir": "sap-xep"
+    },
+    {
+      "id": "gap-sentence",
+      "dir": "dien-cau"
+    },
+    {
+      "id": "reading",
+      "dir": "doc-hieu"
+    },
+    {
+      "id": "mock-test",
+      "dir": "de-thi-thu"
+    }
+  ]
+}

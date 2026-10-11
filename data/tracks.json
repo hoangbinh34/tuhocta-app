@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "tracks": [
+    {
+      "id": "thpt",
+      "title": "Ôn thi tốt nghiệp THPT",
+      "short": "Cấp 3",
+      "emoji": "🎓",
+      "desc": "Tiếng Anh Global Success lớp 10–12, bám đề thi tốt nghiệp",
+      "curriculum": "thpt/curriculum.json",
+      "defaultGrade": 12,
+      "defaultPalette": "mint",
+      "exercises": "thpt/bai-tap/_modules.json",
+      "subjects": [
+        {
+          "id": "anh",
+          "title": "Tiếng Anh",
+          "emoji": "🇬🇧",
+          "desc": "Từ vựng, bài tập, đề thi thử",
+          "curriculum": "thpt/curriculum.json",
+          "exercises": "thpt/bai-tap/_modules.json"
+        },
+        {
+          "id": "vatly",
+          "title": "Vật lý",
+          "emoji": "🧲",
+          "desc": "Lý thuyết, luyện theo chủ đề, đề thi thử",
+          "exercises": "thpt/vat-ly/_modules.json"
+        }
+      ]
+    },
+    {
+      "id": "tieuhoc",
+      "title": "Ôn thi vào lớp 6 chất lượng cao",
+      "short": "Cấp 1",
+      "emoji": "🎒",
+      "desc": "Tiếng Anh Global Success lớp 5, bám bài đánh giá năng lực vào lớp 6",
+      "curriculum": "tieuhoc/curriculum.json",
+      "defaultGrade": 5,
+      "defaultPalette": "ocean",
+      "exercises": "tieuhoc/bai-tap/_modules.json",
+      "subjects": [
+        {
+          "id": "anh",
+          "title": "Tiếng Anh",
+          "emoji": "🇬🇧",
+          "desc": "Từ vựng, ngữ âm, ngữ pháp, đọc hiểu, viết câu, đề thi thử",
+          "curriculum": "tieuhoc/curriculum.json",
+          "exercises": "tieuhoc/bai-tap/_modules.json"
+        }
+      ]
+    }
+  ]
+}

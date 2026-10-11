@@ -1,0 +1,63 @@
+{
+  "id": "vl-nhiet-lt-01",
+  "title": "Cấu trúc chất và sự chuyển thể",
+  "items": [
+    {
+      "id": "vl-nhiet-lt-01-t1", "type": "card", "title": "Mô hình động học phân tử",
+      "paras": [
+        "Chất được cấu tạo từ các hạt riêng biệt (nguyên tử, phân tử, ion). Các hạt chuyển động nhiệt không ngừng; nhiệt độ càng cao thì động năng chuyển động nhiệt trung bình càng lớn.",
+        "Giữa các hạt có tương tác hút và đẩy; tác dụng tổng hợp phụ thuộc khoảng cách. Khi các hạt quá gần nhau, lực đẩy chiếm ưu thế, nên không thể tuỳ ý ép chất tới thể tích bằng không.",
+        "Trong chất rắn, các hạt dao động quanh vị trí cân bằng gần như cố định. Trong chất lỏng, các hạt vẫn ở gần nhau nhưng có thể đổi chỗ. Trong chất khí, các hạt ở xa nhau và chuyển động hỗn loạn; khí dễ nén hơn rắn và lỏng."
+      ]
+    },
+    {
+      "id": "vl-nhiet-lt-01-t2", "type": "card", "title": "Nhận diện chuyển thể",
+      "paras": [
+        "Nóng chảy: rắn → lỏng; đông đặc: lỏng → rắn; hoá hơi: lỏng → khí; ngưng tụ: khí → lỏng. Thăng hoa là rắn → khí; chuyển trực tiếp khí → rắn là ngưng kết.",
+        "Bay hơi xảy ra ở mặt thoáng chất lỏng và có thể xảy ra dưới nhiệt độ sôi. Sôi là hoá hơi cả trong lòng lẫn ở mặt thoáng; nhiệt độ sôi phụ thuộc áp suất.",
+        "Chất rắn kết tinh tinh khiết nóng chảy ở nhiệt độ xác định khi áp suất không đổi. Trong lúc rắn và lỏng cùng tồn tại ở cân bằng, nhiệt độ không đổi dù vẫn nhận nhiệt. Chất rắn vô định hình không có nhiệt độ nóng chảy xác định như vậy."
+      ],
+      "table": [
+        ["Đoạn trên đồ thị nhiệt độ – thời gian khi cấp nhiệt", "Cách hiểu"],
+        ["Nghiêng đi lên, chưa chuyển thể", "Nhiệt độ tăng; dùng Q = mcΔT"],
+        ["Nằm ngang ở nhiệt độ nóng chảy hoặc sôi", "Đang chuyển thể ở áp suất không đổi; dùng Q = mλ hoặc Q = mL"]
+      ]
+    },
+    {
+      "id": "vl-nhiet-lt-01-01", "type": "mcq", "level": 1,
+      "prompt": "Theo mô hình động học phân tử, các hạt cấu tạo nên một vật ở nhiệt độ phòng có đặc điểm nào?",
+      "options": ["Chuyển động nhiệt không ngừng", "Đứng yên hoàn toàn nếu vật đứng yên", "Chỉ chuyển động khi vật được đun", "Chỉ có lực hút, không có lực đẩy"], "answer": 0,
+      "explain": "Vật đứng yên vẫn có chuyển động nhiệt của các hạt cấu tạo nên nó; chuyển động vĩ mô và chuyển động nhiệt là hai khái niệm khác nhau."
+    },
+    {
+      "id": "vl-nhiet-lt-01-02", "type": "mcq", "level": 1,
+      "prompt": "Khi sáp nến lỏng nguội đi và thành rắn, quá trình chuyển thể đó gọi là gì?",
+      "options": ["Ngưng tụ", "Đông đặc", "Nóng chảy", "Thăng hoa"], "answer": 1,
+      "explain": "Lỏng chuyển thành rắn là đông đặc; ngưng tụ là khí chuyển thành lỏng."
+    },
+    {
+      "id": "vl-nhiet-lt-01-03", "type": "mcq", "level": 1,
+      "prompt": "Ở thể rắn, các hạt chủ yếu chuyển động như thế nào?",
+      "options": ["Bay tự do khắp bình chứa", "Không chuyển động", "Dao động quanh vị trí cân bằng gần như cố định", "Chỉ chuyển động trên mặt vật"], "answer": 2,
+      "explain": "Liên kết giữ các hạt quanh vị trí cân bằng; chuyển động nhiệt của chúng chủ yếu là dao động quanh các vị trí đó."
+    },
+    {
+      "id": "vl-nhiet-lt-01-04", "type": "mcq", "level": 1,
+      "prompt": "Phát biểu nào mô tả đúng sự bay hơi?",
+      "options": ["Chỉ xảy ra ở 100 °C", "Xảy ra đồng thời trong toàn bộ chất lỏng như sự sôi", "Chỉ xảy ra ở chất rắn", "Xảy ra ở mặt thoáng chất lỏng, có thể dưới nhiệt độ sôi"], "answer": 3,
+      "explain": "Bay hơi diễn ra tại mặt thoáng; quần áo ướt vẫn khô ở nhiệt độ phòng, thấp hơn nhiệt độ sôi của nước."
+    },
+    {
+      "id": "vl-nhiet-lt-01-05", "type": "mcq", "level": 2,
+      "prompt": "Nước đá tinh khiết đang tan ở 0 °C dưới áp suất tiêu chuẩn và vẫn còn cả đá lẫn nước. Khi tiếp tục cấp nhiệt chậm, nhiệt độ của hỗn hợp ra sao?",
+      "options": ["Tăng ngay lên 100 °C", "Vẫn ở 0 °C trong thời gian đá tiếp tục tan", "Giảm xuống dưới 0 °C", "Tăng đều theo thời gian dù chưa tan hết"], "answer": 1,
+      "explain": "Trong giai đoạn nóng chảy ở áp suất không đổi, nhiệt cung cấp dùng cho chuyển thể; nhiệt độ chưa tăng khi vẫn còn hai pha ở cân bằng."
+    },
+    {
+      "id": "vl-nhiet-lt-01-06", "type": "mcq", "level": 2,
+      "prompt": "Vì sao khí trong bơm tiêm bị nén dễ hơn nước lỏng khi bịt kín đầu bơm?",
+      "options": ["Phân tử khí không có khối lượng", "Các phân tử nước hoàn toàn đứng yên", "Khoảng cách giữa các phân tử khí lớn hơn nhiều so với kích thước của chúng", "Trong khí không bao giờ có lực đẩy"], "answer": 2,
+      "explain": "Khí có nhiều khoảng trống giữa các phân tử; có thể giảm khoảng cách đó đáng kể khi nén. Các hạt của chất lỏng vốn đã ở gần nhau."
+    }
+  ]
+}

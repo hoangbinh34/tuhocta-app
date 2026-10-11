@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "modules": [
+    { "id": "vl-ly-thuyet", "dir": "vl-ly-thuyet" },
+    { "id": "vl-chu-de", "dir": "vl-chu-de", "topics": [
+      { "id": "nhiet", "emoji": "🌡️", "title": "Vật lý nhiệt" },
+      { "id": "khi", "emoji": "💨", "title": "Khí lí tưởng" },
+      { "id": "tu", "emoji": "🧲", "title": "Từ trường" },
+      { "id": "hat-nhan", "emoji": "⚛️", "title": "Vật lý hạt nhân và phóng xạ" }
+    ] },
+    { "id": "vl-de-thi", "dir": "vl-de-thi" }
+  ]
+}

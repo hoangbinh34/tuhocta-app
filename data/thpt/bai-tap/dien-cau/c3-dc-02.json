@@ -1,0 +1,162 @@
+{
+ "id": "c3-dc-02",
+ "module": "gap-sentence",
+ "title": "Điền câu vào đoạn văn (2)",
+ "emoji": "🧩",
+ "intro": "Đề tốt nghiệp câu 18–22: chọn câu/cụm từ điền vào đoạn văn. Mẹo: xem câu trước và sau chỗ trống; kiểm tra ngữ pháp (mệnh đề quan hệ, rút gọn mệnh đề, chủ ngữ) và ý có liên kết không.",
+ "instruction": "Chọn phương án phù hợp nhất cho mỗi chỗ trống.",
+ "shuffle": true,
+ "shuffleItems": false,
+ "priority": 1,
+ "sources": [
+  "cau-truc-de-tn-2025"
+ ],
+ "items": [
+  {
+   "id": "c3-dc-02-g1",
+   "type": "group",
+   "title": "Coral reefs",
+   "passage": "Coral reefs are often called the \"rainforests of the sea\" (1) ___. Although they cover less than one per cent of the ocean floor, they support about a quarter of all marine species. Sadly, reefs around the world are in danger. (2) ___, the water becomes too warm and corals lose their colour, a process known as \"bleaching\". Pollution and overfishing make the situation even worse, (3) ___. To protect reefs, many countries have created marine parks (4) ___. Scientists are also growing corals in nurseries and planting them on damaged reefs, (5) ___.",
+   "items": [
+    {
+     "id": "c3-dc-02-01",
+     "type": "mcq",
+     "prompt": "(1)",
+     "options": [
+      "because they are home to so many different species",
+      "that they are home to so many species",
+      "being home so many different species",
+      "because of they are home to many species"
+     ],
+     "answer": 0,
+     "explain": "Nêu lý do: because + mệnh đề."
+    },
+    {
+     "id": "c3-dc-02-02",
+     "type": "mcq",
+     "prompt": "(2)",
+     "options": [
+      "When sea temperatures rise",
+      "Sea temperatures rising",
+      "Sea temperatures rise",
+      "Because of sea temperatures rise"
+     ],
+     "answer": 0,
+     "explain": "Mệnh đề trạng ngữ thời gian When + S + V, rồi mệnh đề chính."
+    },
+    {
+     "id": "c3-dc-02-03",
+     "type": "mcq",
+     "prompt": "(3)",
+     "options": [
+      "putting even more pressure on these fragile ecosystems",
+      "which put even more pressure on it",
+      "put even more pressure on these fragile ecosystems",
+      "and it putting more pressure on ecosystems"
+     ],
+     "answer": 0,
+     "explain": "Rút gọn mệnh đề chỉ kết quả: …, putting more pressure on…"
+    },
+    {
+     "id": "c3-dc-02-04",
+     "type": "mcq",
+     "prompt": "(4)",
+     "options": [
+      "where fishing and tourism are strictly controlled",
+      "which fishing and tourism are strictly controlled",
+      "that fishing and tourism strictly control",
+      "fishing and tourism are controlled there"
+     ],
+     "answer": 0,
+     "explain": "Mệnh đề quan hệ chỉ nơi chốn: marine parks where…"
+    },
+    {
+     "id": "c3-dc-02-05",
+     "type": "mcq",
+     "prompt": "(5)",
+     "options": [
+      "hoping to help the reefs recover",
+      "hoped to help the reefs recover",
+      "they hope to help the reefs recover",
+      "which hoping the reefs recover"
+     ],
+     "answer": 0,
+     "explain": "Rút gọn chủ động (cùng chủ ngữ Scientists): …, hoping to…"
+    }
+   ]
+  },
+  {
+   "id": "c3-dc-02-g2",
+   "type": "group",
+   "title": "The generation gap",
+   "passage": "The generation gap refers to differences in values and attitudes between older and younger people. In many Vietnamese families, three generations live under one roof, (6) ___. For example, grandparents may think that young people spend too much time on their phones, (7) ___. Parents, meanwhile, often have high expectations about their children's careers, (8) ___. To reduce conflict, family members need to listen to each other with respect. (9) ___, they can find activities that everyone enjoys, such as cooking or travelling together. In the end, (10) ___.",
+   "items": [
+    {
+     "id": "c3-dc-02-06",
+     "type": "mcq",
+     "prompt": "(6)",
+     "options": [
+      "so differences between generations are easy to notice",
+      "which differences between generations noticing",
+      "and noticing differences between generations easy",
+      "differences between generations are easy to notice them"
+     ],
+     "answer": 0,
+     "explain": "Nối mệnh đề kết quả bằng so + mệnh đề đầy đủ."
+    },
+    {
+     "id": "c3-dc-02-07",
+     "type": "mcq",
+     "prompt": "(7)",
+     "options": [
+      "while teenagers see technology as an important part of life",
+      "teenagers seeing technology as an important part of life",
+      "which teenagers see technology important",
+      "while technology seeing as important by teenagers"
+     ],
+     "answer": 0,
+     "explain": "while + mệnh đề: đối lập hai cách nhìn."
+    },
+    {
+     "id": "c3-dc-02-08",
+     "type": "mcq",
+     "prompt": "(8)",
+     "options": [
+      "which can put pressure on young people",
+      "that can put pressure on young people",
+      "can put pressure on young people",
+      "putting young people on pressure"
+     ],
+     "answer": 0,
+     "explain": "Mệnh đề quan hệ không xác định (sau dấu phẩy) dùng which, không dùng that."
+    },
+    {
+     "id": "c3-dc-02-09",
+     "type": "mcq",
+     "prompt": "(9)",
+     "options": [
+      "In addition",
+      "On the contrary",
+      "As a result of",
+      "Despite"
+     ],
+     "answer": 0,
+     "explain": "Thêm một giải pháp nữa: In addition."
+    },
+    {
+     "id": "c3-dc-02-10",
+     "type": "mcq",
+     "prompt": "(10)",
+     "options": [
+      "understanding is the key to a happy family",
+      "the key to a happy family understanding",
+      "which understanding is the key",
+      "to understand being the key to a happy family"
+     ],
+     "answer": 0,
+     "explain": "Sau \"In the end,\" cần mệnh đề đầy đủ: understanding is the key…"
+    }
+   ]
+  }
+ ]
+}

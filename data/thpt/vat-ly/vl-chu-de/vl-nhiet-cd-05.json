@@ -1,0 +1,88 @@
+{
+  "id": "vl-nhiet-cd-05",
+  "title": "Nhiệt: hiểu phép đo và trao đổi năng lượng",
+  "items": [
+    {
+      "id": "vl-nhiet-cd-05-01", "type": "mcq", "level": 2,
+      "prompt": "Khi đo nhiệt dung riêng bằng dây nung, một phần điện năng truyền ra môi trường. Nếu vẫn lấy toàn bộ điện năng chia cho mΔT và bỏ qua nhiệt dung dụng cụ, giá trị c tính được so với giá trị thật thế nào?",
+      "options": ["Nhỏ hơn", "Luôn bằng nhau", "Lớn hơn", "Bằng không"], "answer": 2,
+      "explain": "Điện năng lớn hơn nhiệt lượng mẫu thực nhận. Cùng m và ΔT đo được, lấy tử số lớn hơn sẽ cho c lớn hơn giá trị thật."
+    },
+    {
+      "id": "vl-nhiet-cd-05-02", "type": "mcq", "level": 2,
+      "prompt": "Cùng nhận một nhiệt lượng, hai mẫu không chuyển thể có cùng khối lượng nhưng c_{A} = 3c_{B}. Quan hệ giữa độ tăng nhiệt độ của chúng là gì?",
+      "options": ["ΔT_{A} = ΔT_{B}/3", "ΔT_{A} = 3ΔT_{B}", "ΔT_{A} = ΔT_{B}", "ΔT_{A} = 9ΔT_{B}"], "answer": 0,
+      "explain": "ΔT = Q/(mc). Cùng Q và m, c lớn gấp ba thì độ tăng nhiệt độ nhỏ đi ba lần."
+    },
+    {
+      "id": "vl-nhiet-cd-05-03", "type": "mcq", "level": 2,
+      "prompt": "Xoa hai bàn tay vào nhau làm chúng nóng lên. Cách giải thích nào đúng về quá trình làm tăng nội năng của tay?",
+      "options": ["Nhiệt tự truyền từ không khí lạnh sang tay nóng", "Nội năng tăng chỉ vì khối lượng tay tăng", "Hai tay phải nhận nhiệt từ nguồn lửa", "Công của lực ma sát chuyển năng lượng cơ học thành nội năng"], "answer": 3,
+      "explain": "Đây là cách thay đổi nội năng bằng thực hiện công. Năng lượng cơ học dùng để xoa tay được chuyển thành nội năng qua ma sát."
+    },
+    {
+      "id": "vl-nhiet-cd-05-04", "type": "mcq", "level": 2,
+      "prompt": "Đun chất rắn kết tinh tinh khiết bằng nguồn công suất có ích không đổi. Trên đồ thị nhiệt độ – thời gian, đoạn nằm ngang tại nhiệt độ nóng chảy kéo dài gấp đôi khi chỉ tăng khối lượng mẫu gấp đôi. Bỏ qua thất thoát. Kết luận nào giải thích đúng?",
+      "options": ["Nhiệt nóng chảy riêng tăng gấp đôi theo khối lượng", "Nhiệt lượng nóng chảy Q = mλ tăng gấp đôi nên thời gian Q/P tăng gấp đôi", "Nhiệt độ nóng chảy tăng gấp đôi", "Mẫu không nhận nhiệt trong đoạn nằm ngang"], "answer": 1,
+      "explain": "λ không đổi với cùng chất và điều kiện; tăng m gấp đôi làm Q tăng gấp đôi. Nguồn có P không đổi nên thời gian nóng chảy cũng tăng gấp đôi."
+    },
+    {
+      "id": "vl-nhiet-cd-05-05", "type": "mcq", "level": 2,
+      "prompt": "Hai vật có cùng nhiệt độ nhưng khối lượng và chất cấu tạo khác nhau được đặt tiếp xúc trong hệ cách nhiệt. Vì sao không thể kết luận vật có nội năng lớn hơn sẽ truyền nhiệt sang vật kia?",
+      "options": ["Nhiệt chỉ truyền từ vật nặng sang vật nhẹ", "Nội năng hai vật bắt buộc bằng nhau", "Chiều truyền nhiệt do chênh lệch nhiệt độ quyết định; hai vật đã cân bằng nhiệt", "Nhiệt luôn truyền từ chất rắn sang chất lỏng"], "answer": 2,
+      "explain": "Nội năng còn phụ thuộc lượng chất và trạng thái của vật. Hai vật cùng nhiệt độ đã cân bằng nhiệt, không có truyền nhiệt ròng giữa chúng do chênh lệch nhiệt độ."
+    },
+    {
+      "id": "vl-nhiet-cd-05-06", "type": "mcq", "level": 2,
+      "prompt": "Một hệ cách nhiệt nhận công 75 J từ bên ngoài, không có trao đổi năng lượng nào khác. Dùng ΔU = A + Q. Kết luận nào đúng?",
+      "options": ["Nội năng giảm 75 J", "Nội năng không đổi vì không nhận nhiệt", "Nội năng giảm đến 0 J", "Nội năng tăng 75 J"], "answer": 3,
+      "explain": "Cách nhiệt chỉ cho Q = 0; hệ vẫn nhận công A = +75 J, nên ΔU = 75 J. Không đồng nhất cách nhiệt với nội năng không đổi."
+    },
+    {
+      "id": "vl-nhiet-cd-05-07", "type": "tf4", "level": 2,
+      "prompt": "Dây nung có U = 12 V, I = 1,5 A không đổi, hoạt động 100 s làm 0,10 kg chất lỏng tăng 10 K. Toàn bộ điện năng làm nóng chất lỏng; bỏ qua nhiệt dung dụng cụ, chất không chuyển thể và c không đổi.",
+      "statements": [
+        "a) Công suất dây nung là 18 W.",
+        "b) Chất lỏng nhận 18 kJ nhiệt lượng.",
+        "c) Nhiệt dung riêng của chất lỏng là 1800 J/(kg·K).",
+        "d) Nếu dùng cùng mẫu và cùng công suất trong 50 s thì độ tăng nhiệt độ vẫn là 10 K."
+      ],
+      "answers": [true, false, true, false],
+      "explain": [
+        "Đúng. P = UI = 12 · 1,5 = 18 W.",
+        "Sai. Q = 18 · 100 = 1800 J = 1,8 kJ, không phải 18 kJ.",
+        "Đúng. c = 1800/(0,10 · 10) = 1800 J/(kg·K).",
+        "Sai. Thời gian giảm một nửa thì Q giảm một nửa, ΔT = 18 · 50/(0,10 · 1800) = 5 K."
+      ]
+    },
+    {
+      "id": "vl-nhiet-cd-05-08", "type": "tf4", "level": 2,
+      "prompt": "Một lượng khí nhận nhiệt lượng 500 J và thực hiện công 160 J ra bên ngoài. Dùng ΔU = A + Q, với A là công khí nhận.",
+      "statements": [
+        "a) Công khí nhận A bằng −160 J.",
+        "b) Nhiệt lượng khí nhận Q bằng −500 J.",
+        "c) Nội năng khí tăng 660 J.",
+        "d) Nếu nội năng khí không đổi khi vẫn thực hiện công 160 J, khí phải nhận nhiệt lượng 160 J."
+      ],
+      "answers": [true, false, false, true],
+      "explain": [
+        "Đúng. Khí thực hiện công ra ngoài nên A = −160 J.",
+        "Sai. Khí nhận nhiệt nên Q = +500 J.",
+        "Sai. ΔU = −160 + 500 = 340 J; 660 J là do nhầm dấu công.",
+        "Đúng. 0 = −160 + Q nên Q = +160 J."
+      ]
+    },
+    {
+      "id": "vl-nhiet-cd-05-09", "type": "num", "level": 2,
+      "prompt": "Nước đang sôi ở 100 °C, áp suất tiêu chuẩn, nhận thêm 4,52 kJ chỉ để hoá hơi. Lấy L = 2,26·10^{6} J/kg. Khối lượng nước hoá hơi là bao nhiêu g? Làm tròn đến hàng đơn vị.",
+      "answer": 2, "round": 0, "unit": "g",
+      "explain": "m = Q/L = 4520/2 260 000 = 0,002 kg = 2 g. Ghi: 2."
+    },
+    {
+      "id": "vl-nhiet-cd-05-10", "type": "num", "level": 2,
+      "prompt": "Một mẫu chất được làm nóng từ −12 °C đến 18 °C. Tính độ tăng nhiệt độ theo kelvin, làm tròn đến hàng đơn vị.",
+      "answer": 30, "round": 0, "unit": "K",
+      "explain": "ΔT = 18 − (−12) = 30 °C = 30 K. Không cộng 273 vào độ tăng nhiệt độ. Ghi: 30."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+ "id": "c3-dtu-02",
+ "module": "cloze",
+ "title": "Quảng cáo và thông báo (2)",
+ "emoji": "📣",
+ "intro": "Đề tốt nghiệp câu 1–12: điền từ vào quảng cáo, thông báo. Hay kiểm tra: từ loại (danh/động/tính/trạng từ), giới từ đi kèm, cụm từ cố định (collocation), to V / V-ing, liên từ.",
+ "instruction": "Chọn phương án đúng cho mỗi chỗ trống.",
+ "shuffle": true,
+ "shuffleItems": false,
+ "priority": 1,
+ "sources": [
+  "cau-truc-de-tn-2025"
+ ],
+ "items": [
+  {
+   "id": "c3-dtu-02-g1",
+   "type": "group",
+   "title": "Healthy phone use",
+   "passage": "TIPS FOR HEALTHY PHONE USE\n• Turn off notifications you don't really need. They can easily (1) ___ you from your studies.\n• Set a daily time (2) ___ for social media apps.\n• Avoid using your phone at least one hour before bed, (3) ___ the blue light can affect your sleep.\n• Keep your phone (4) ___ of reach when you are doing homework.\n• Take regular breaks (5) ___ rest your eyes.\n• Spend more time on (6) ___ activities like sports, reading or meeting friends.",
+   "items": [
+    {
+     "id": "c3-dtu-02-01",
+     "type": "mcq",
+     "prompt": "(1)",
+     "options": [
+      "distract",
+      "attract",
+      "protect",
+      "prevent"
+     ],
+     "answer": 0,
+     "explain": "distract somebody from something: làm xao nhãng khỏi việc gì."
+    },
+    {
+     "id": "c3-dtu-02-02",
+     "type": "mcq",
+     "prompt": "(2)",
+     "options": [
+      "limit",
+      "limited",
+      "limiting",
+      "limitation"
+     ],
+     "answer": 0,
+     "explain": "time limit: giới hạn thời gian (cụm danh từ)."
+    },
+    {
+     "id": "c3-dtu-02-03",
+     "type": "mcq",
+     "prompt": "(3)",
+     "options": [
+      "because",
+      "although",
+      "unless",
+      "so"
+     ],
+     "answer": 0,
+     "explain": "Nêu lý do: because."
+    },
+    {
+     "id": "c3-dtu-02-04",
+     "type": "mcq",
+     "prompt": "(4)",
+     "options": [
+      "out",
+      "away",
+      "off",
+      "far"
+     ],
+     "answer": 0,
+     "explain": "out of reach: ngoài tầm với."
+    },
+    {
+     "id": "c3-dtu-02-05",
+     "type": "mcq",
+     "prompt": "(5)",
+     "options": [
+      "to",
+      "for",
+      "so",
+      "in"
+     ],
+     "answer": 0,
+     "explain": "Chỉ mục đích: to + V."
+    },
+    {
+     "id": "c3-dtu-02-06",
+     "type": "mcq",
+     "prompt": "(6)",
+     "options": [
+      "offline",
+      "online",
+      "outline",
+      "inline"
+     ],
+     "answer": 0,
+     "explain": "Thể thao, đọc sách, gặp bạn là hoạt động ngoài mạng: offline."
+    }
+   ]
+  },
+  {
+   "id": "c3-dtu-02-g2",
+   "type": "group",
+   "title": "Summer coding camp",
+   "passage": "SUMMER CODING CAMP 2027\nAre you curious (7) ___ how apps and games are made? Join our two-week camp and (8) ___ the basics of programming in a fun, hands-on way. Students will work in small teams to design (9) ___ own mobile app. All equipment is provided, so you don't need (10) ___ a laptop. The camp is open to students aged (11) ___ 15 and 18. Register before 30th June to get a 20% (12) ___!",
+   "items": [
+    {
+     "id": "c3-dtu-02-07",
+     "type": "mcq",
+     "prompt": "(7)",
+     "options": [
+      "about",
+      "at",
+      "of",
+      "with"
+     ],
+     "answer": 0,
+     "explain": "curious about: tò mò về."
+    },
+    {
+     "id": "c3-dtu-02-08",
+     "type": "mcq",
+     "prompt": "(8)",
+     "options": [
+      "learn",
+      "learning",
+      "learned",
+      "to learning"
+     ],
+     "answer": 0,
+     "explain": "Join … and learn (hai động từ mệnh lệnh song song)."
+    },
+    {
+     "id": "c3-dtu-02-09",
+     "type": "mcq",
+     "prompt": "(9)",
+     "options": [
+      "their",
+      "his",
+      "its",
+      "our"
+     ],
+     "answer": 0,
+     "explain": "Chủ ngữ Students (số nhiều): their own."
+    },
+    {
+     "id": "c3-dtu-02-10",
+     "type": "mcq",
+     "prompt": "(10)",
+     "options": [
+      "to bring",
+      "bringing",
+      "bring",
+      "brought"
+     ],
+     "answer": 0,
+     "explain": "don't need + to V."
+    },
+    {
+     "id": "c3-dtu-02-11",
+     "type": "mcq",
+     "prompt": "(11)",
+     "options": [
+      "between",
+      "among",
+      "from",
+      "to"
+     ],
+     "answer": 0,
+     "explain": "between … and …"
+    },
+    {
+     "id": "c3-dtu-02-12",
+     "type": "mcq",
+     "prompt": "(12)",
+     "options": [
+      "discount",
+      "discounted",
+      "discounting",
+      "discountable"
+     ],
+     "answer": 0,
+     "explain": "a 20% discount: giảm giá 20% (danh từ)."
+    }
+   ]
+  }
+ ]
+}

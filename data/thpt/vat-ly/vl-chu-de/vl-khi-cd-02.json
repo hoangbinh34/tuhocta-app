@@ -1,0 +1,88 @@
+{
+  "id": "vl-khi-cd-02",
+  "title": "Khí: hiểu quá trình và xử lí số liệu",
+  "items": [
+    {
+      "id": "vl-khi-cd-02-01", "type": "mcq", "level": 2,
+      "prompt": "Một lượng khí giãn nở đẳng áp từ 27 °C lên 177 °C. Dùng T = t + 273. Thể tích cuối bằng bao nhiêu lần thể tích đầu?",
+      "options": ["177/27 lần", "2 lần", "1,5 lần", "2/3 lần"], "answer": 2,
+      "explain": "T_{1} = 300 K, T_{2} = 450 K. Đẳng áp: V_{2}/V_{1} = 450/300 = 1,5. Không lấy tỉ số nhiệt độ Celsius."
+    },
+    {
+      "id": "vl-khi-cd-02-02", "type": "mcq", "level": 2,
+      "prompt": "Đo cùng một lượng khí ở nhiệt độ ổn định, thu được ba cặp (V; p): (2 L; 300 kPa), (3 L; 200 kPa), (4 L; 150 kPa). Nhận xét nào phù hợp?",
+      "options": ["p/V không đổi", "p tăng khi V tăng", "p + V không đổi", "pV không đổi, phù hợp định luật Boyle"], "answer": 3,
+      "explain": "Các tích đều bằng 600 kPa·L. Với lượng khí và nhiệt độ không đổi, kết quả phù hợp pV = hằng số."
+    },
+    {
+      "id": "vl-khi-cd-02-03", "type": "mcq", "level": 2,
+      "prompt": "Khảo sát đẳng nhiệt một lượng khí lí tưởng: trục hoành x = 1/V, trục tung y = p. Đồ thị lí tưởng có dạng nào?",
+      "options": ["Đường thẳng qua gốc có hệ số góc nRT", "Hypebol p = nRT/x", "Đường nằm ngang", "Đường thẳng có hệ số góc âm"], "answer": 0,
+      "explain": "p = nRT/V = nRTx. Vì trục hoành là 1/V nên đồ thị là đường thẳng, khác đồ thị p–V."
+    },
+    {
+      "id": "vl-khi-cd-02-04", "type": "mcq", "level": 2,
+      "prompt": "Hai khí có khối lượng phân tử lần lượt m và 4m ở cùng nhiệt độ. Tỉ số tốc độ căn quân phương của khí nhẹ so với khí nặng là bao nhiêu?",
+      "options": ["4", "2", "1", "1/2"], "answer": 1,
+      "explain": "Cùng nhiệt độ có cùng (1/2)m_{0}v_{rms}². Tốc độ tỉ lệ nghịch căn khối lượng phân tử, nên tỉ số là √(4m/m) = 2."
+    },
+    {
+      "id": "vl-khi-cd-02-05", "type": "mcq", "level": 2,
+      "prompt": "Một lượng khí lí tưởng được nén đẳng nhiệt đến thể tích bằng một nửa ban đầu. Động năng tịnh tiến trung bình mỗi phân tử và áp suất thay đổi thế nào?",
+      "options": ["Động năng tăng gấp đôi, áp suất không đổi", "Cả hai giảm một nửa", "Động năng không đổi, áp suất tăng gấp đôi", "Cả hai tăng gấp đôi"], "answer": 2,
+      "explain": "E phụ thuộc T nên không đổi. Mật độ số phân tử tăng gấp đôi, do đó áp suất tăng gấp đôi."
+    },
+    {
+      "id": "vl-khi-cd-02-06", "type": "mcq", "level": 2,
+      "prompt": "Đo khí kín trong bình cứng. Khi dùng trục hoành t theo °C và trục tung p, đường thẳng biểu diễn p theo t có phần kéo dài cắt trục t ở đâu theo quy ước T = t + 273?",
+      "options": ["0 °C", "273 °C", "100 °C", "−273 °C"], "answer": 3,
+      "explain": "p = (nR/V)(t + 273). Phần kéo dài của mô hình đạt p = 0 tại t = −273 °C; khí thực có thể ngưng tụ trước đó, nên đây không phải khẳng định thực nghiệm tới 0 K."
+    },
+    {
+      "id": "vl-khi-cd-02-07", "type": "tf4", "level": 2,
+      "prompt": "Một lượng khí lí tưởng kín ở trạng thái đầu p_{1} = 200 kPa, V_{1} = 4 L, T_{1} = 300 K. Xét riêng từng quá trình bắt đầu từ trạng thái đầu; không rò rỉ khí.",
+      "statements": [
+        "a) Nén đẳng nhiệt còn 2 L thì áp suất là 400 kPa.",
+        "b) Giãn đẳng áp đến 6 L thì nhiệt độ là 450 K.",
+        "c) Nung đẳng tích đến 600 K thì áp suất vẫn là 200 kPa.",
+        "d) Trong quá trình đẳng nhiệt, động năng tịnh tiến trung bình mỗi phân tử tăng khi nén."
+      ],
+      "answers": [true, true, false, false],
+      "explain": [
+        "Đúng. p_{2} = p_{1}V_{1}/V_{2} = 200 · 4/2 = 400 kPa.",
+        "Đúng. T_{2} = T_{1}V_{2}/V_{1} = 300 · 6/4 = 450 K.",
+        "Sai. p_{2} = p_{1}T_{2}/T_{1} = 200 · 600/300 = 400 kPa.",
+        "Sai. E = (3/2)(R/N_{A})T; đẳng nhiệt giữ E không đổi dù áp suất tăng do mật độ tăng."
+      ]
+    },
+    {
+      "id": "vl-khi-cd-02-08", "type": "tf4", "level": 2,
+      "prompt": "Khí lí tưởng trong bình cứng kín có áp suất tuyệt đối 120 kPa ở 27 °C. Nung khí tới 57 °C, không rò rỉ; dùng T = t + 273.",
+      "statements": [
+        "a) Nhiệt độ đầu và cuối lần lượt là 300 K và 330 K.",
+        "b) Số mol khí tăng 10 % sau khi nung.",
+        "c) Áp suất cuối là 132 kPa.",
+        "d) Động năng tịnh tiến trung bình mỗi phân tử tăng theo tỉ số 57/27."
+      ],
+      "answers": [true, false, true, false],
+      "explain": [
+        "Đúng. T_{1} = 27 + 273 = 300 K; T_{2} = 57 + 273 = 330 K.",
+        "Sai. Bình kín, không rò rỉ nên số mol không đổi; nung chỉ làm khí nóng lên.",
+        "Đúng. Đẳng tích với n không đổi: p_{2} = 120 · 330/300 = 132 kPa.",
+        "Sai. E_{2}/E_{1} = T_{2}/T_{1} = 330/300 = 1,10; phải dùng kelvin, không dùng °C."
+      ]
+    },
+    {
+      "id": "vl-khi-cd-02-09", "type": "num", "level": 2,
+      "prompt": "Bình thể tích 5,00 L chứa khí lí tưởng ở áp suất tuyệt đối 120 kPa và nhiệt độ 300 K. Lấy R = 8,31 J/(mol·K). Tính số mol khí, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 0.24, "round": 2, "exact": 0.24067388688327315, "unit": "mol",
+      "explain": "Đổi V = 0,00500 m³, p = 120 000 Pa. n = pV/(RT) = 120 000 · 0,00500/(8,31 · 300) = 0,240673886… mol ≈ 0,24 mol. Ghi: 0,24."
+    },
+    {
+      "id": "vl-khi-cd-02-10", "type": "num", "level": 2,
+      "prompt": "Khí lí tưởng ở 300 K. Lấy R = 8,31 J/(mol·K), N_{A} = 6,02·10^{23} mol^{-1}. Viết động năng tịnh tiến trung bình mỗi phân tử dưới dạng E = x·10^{-21} J. Tính x, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 6.21, "round": 2, "exact": 6.211794019933555,
+      "explain": "E = (3/2)(R/N_{A})T = 1,5 · 8,31 · 300/(6,02·10^{23}) = 6,211794019…·10^{-21} J. Do đó x ≈ 6,21. Ghi: 6,21, không ghi cả luỹ thừa hoặc đơn vị."
+    }
+  ]
+}

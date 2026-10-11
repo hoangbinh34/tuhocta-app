@@ -1,0 +1,19 @@
+[
+  { "id": "vl-hang-so", "title": "Hằng số dùng trong đề", "emoji": "📏", "file": "vl-ly-thuyet/vl-hang-so.json", "count": 0, "topic": "chung" },
+  { "id": "vl-nhiet-lt-01", "title": "Cấu trúc chất và sự chuyển thể", "emoji": "🧊", "file": "vl-ly-thuyet/vl-nhiet-lt-01.json", "count": 6, "topic": "nhiet" },
+  { "id": "vl-nhiet-lt-02", "title": "Nội năng và định luật I nhiệt động lực học", "emoji": "⚙️", "file": "vl-ly-thuyet/vl-nhiet-lt-02.json", "count": 6, "topic": "nhiet" },
+  { "id": "vl-nhiet-lt-03", "title": "Nhiệt độ, nhiệt dung riêng và phép đo", "emoji": "🌡️", "file": "vl-ly-thuyet/vl-nhiet-lt-03.json", "count": 6, "topic": "nhiet" },
+  { "id": "vl-nhiet-lt-04", "title": "Nhiệt chuyển thể và xử lí số liệu", "emoji": "♨️", "file": "vl-ly-thuyet/vl-nhiet-lt-04.json", "count": 6, "topic": "nhiet" },
+  { "id": "vl-khi-lt-01", "title": "Mô hình khí lí tưởng và lượng chất", "emoji": "🎈", "file": "vl-ly-thuyet/vl-khi-lt-01.json", "count": 6, "topic": "khi" },
+  { "id": "vl-khi-lt-02", "title": "Boyle, Charles và đồ thị quá trình khí", "emoji": "📈", "file": "vl-ly-thuyet/vl-khi-lt-02.json", "count": 6, "topic": "khi" },
+  { "id": "vl-khi-lt-03", "title": "Phương trình trạng thái, lốp xe và pít-tông", "emoji": "⚙️", "file": "vl-ly-thuyet/vl-khi-lt-03.json", "count": 6, "topic": "khi" },
+  { "id": "vl-khi-lt-04", "title": "Áp suất phân tử và động năng theo nhiệt độ", "emoji": "🔬", "file": "vl-ly-thuyet/vl-khi-lt-04.json", "count": 6, "topic": "khi" },
+  { "id": "vl-tu-lt-01", "title": "Từ trường, đường sức và cảm ứng từ", "emoji": "🧲", "file": "vl-ly-thuyet/vl-tu-lt-01.json", "count": 6, "topic": "tu" },
+  { "id": "vl-tu-lt-02", "title": "Lực từ lên dòng điện và phép đo cảm ứng từ", "emoji": "⚖️", "file": "vl-ly-thuyet/vl-tu-lt-02.json", "count": 6, "topic": "tu" },
+  { "id": "vl-tu-lt-03", "title": "Từ thông, Faraday và Lenz", "emoji": "🔄", "file": "vl-ly-thuyet/vl-tu-lt-03.json", "count": 6, "topic": "tu" },
+  { "id": "vl-tu-lt-04", "title": "Dòng điện xoay chiều cơ bản và ứng dụng cảm ứng", "emoji": "⚡", "file": "vl-ly-thuyet/vl-tu-lt-04.json", "count": 6, "topic": "tu" },
+  { "id": "vl-hat-nhan-lt-01", "title": "Cấu trúc hạt nhân, đồng vị và phản ứng hạt nhân", "emoji": "⚛️", "file": "vl-ly-thuyet/vl-hat-nhan-lt-01.json", "count": 6, "topic": "hat-nhan" },
+  { "id": "vl-hat-nhan-lt-02", "title": "Độ hụt khối, năng lượng liên kết và năng lượng phản ứng", "emoji": "🔗", "file": "vl-ly-thuyet/vl-hat-nhan-lt-02.json", "count": 6, "topic": "hat-nhan" },
+  { "id": "vl-hat-nhan-lt-03", "title": "Phóng xạ, chu kì bán rã và độ phóng xạ", "emoji": "☀️", "file": "vl-ly-thuyet/vl-hat-nhan-lt-03.json", "count": 6, "topic": "hat-nhan" },
+  { "id": "vl-hat-nhan-lt-04", "title": "Phân hạch, nhiệt hạch, pin hạt nhân và an toàn phóng xạ", "emoji": "☢️", "file": "vl-ly-thuyet/vl-hat-nhan-lt-04.json", "count": 6, "topic": "hat-nhan" }
+]

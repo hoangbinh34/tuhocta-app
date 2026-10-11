@@ -1,0 +1,121 @@
+{
+ "id": "c3-sx-01",
+ "module": "arrange",
+ "title": "Sắp xếp hội thoại",
+ "emoji": "💬",
+ "intro": "Đề tốt nghiệp câu 13–17: sắp xếp câu thành hội thoại, lá thư, đoạn văn. Mẹo: tìm câu mở đầu (lời chào, câu chủ đề), câu kết (lời cảm ơn, kết luận), rồi nối các câu bằng từ nối (However, As a result…) và đại từ (It, They, This…).",
+ "instruction": "Chọn thứ tự đúng để tạo thành đoạn hội thoại.",
+ "shuffle": true,
+ "shuffleItems": false,
+ "priority": 1,
+ "sources": [
+  "cau-truc-de-tn-2025"
+ ],
+ "items": [
+  {
+   "id": "c3-sx-01-g1",
+   "type": "group",
+   "title": "Hội thoại 1",
+   "passage": "a. Lan: Sure. What time does it start?\nb. Mai: Would you like to come to the science fair with me this Saturday?\nc. Mai: At 9 a.m. at the city museum.",
+   "items": [
+    {
+     "id": "c3-sx-01-01",
+     "type": "mcq",
+     "prompt": "Chọn thứ tự đúng.",
+     "options": [
+      "b – a – c",
+      "a – c – b",
+      "c – a – b",
+      "b – c – a"
+     ],
+     "answer": 0,
+     "explain": "Mở đầu bằng lời mời (b), Lan nhận lời và hỏi giờ (a), Mai trả lời giờ (c)."
+    }
+   ]
+  },
+  {
+   "id": "c3-sx-01-g2",
+   "type": "group",
+   "title": "Hội thoại 2",
+   "passage": "a. Nam: That sounds interesting. Is it difficult to get a place?\nb. Minh: I'm applying for a summer internship at a tech company.\nc. Minh: It's quite competitive, but I've prepared my CV carefully.\nd. Nam: What are your plans for the summer, Minh?\ne. Nam: Good luck! I'm sure you'll do well.",
+   "items": [
+    {
+     "id": "c3-sx-01-02",
+     "type": "mcq",
+     "prompt": "Chọn thứ tự đúng.",
+     "options": [
+      "d – b – a – c – e",
+      "b – d – a – c – e",
+      "d – a – b – c – e",
+      "d – b – c – a – e"
+     ],
+     "answer": 0,
+     "explain": "Hỏi kế hoạch (d) → trả lời (b) → hỏi có khó không (a) → trả lời (c) → chúc (e)."
+    }
+   ]
+  },
+  {
+   "id": "c3-sx-01-g3",
+   "type": "group",
+   "title": "Hội thoại 3",
+   "passage": "a. Customer: The screen keeps freezing. I only bought it here last week.\nb. Assistant: I'm sorry to hear that. What's wrong with it?\nc. Assistant: Could I see your receipt, please? Then we can exchange it for you.\nd. Assistant: Good morning. How can I help you?\ne. Customer: Good morning. I have a problem with this tablet.",
+   "items": [
+    {
+     "id": "c3-sx-01-03",
+     "type": "mcq",
+     "prompt": "Chọn thứ tự đúng.",
+     "options": [
+      "d – e – b – a – c",
+      "d – e – a – b – c",
+      "e – d – b – a – c",
+      "d – b – e – a – c"
+     ],
+     "answer": 0,
+     "explain": "Nhân viên chào (d) → khách nêu có vấn đề (e) → hỏi bị làm sao (b) → khách mô tả lỗi (a) → xin hoá đơn để đổi (c)."
+    }
+   ]
+  },
+  {
+   "id": "c3-sx-01-g4",
+   "type": "group",
+   "title": "Hội thoại 4",
+   "passage": "a. Hoa: Really? I thought it was only for final-year students.\nb. Tuan: Did you know that our school is organising a career fair next month?\nc. Tuan: No, everyone can join. Several universities and companies will be there.\nd. Hoa: Great! I'll ask my friends to go with me.",
+   "items": [
+    {
+     "id": "c3-sx-01-04",
+     "type": "mcq",
+     "prompt": "Chọn thứ tự đúng.",
+     "options": [
+      "b – a – c – d",
+      "a – b – c – d",
+      "b – c – a – d",
+      "b – a – d – c"
+     ],
+     "answer": 0,
+     "explain": "Giới thiệu thông tin (b) → ngạc nhiên (a) → giải thích (c) → phản hồi (d)."
+    }
+   ]
+  },
+  {
+   "id": "c3-sx-01-g5",
+   "type": "group",
+   "title": "Hội thoại 5",
+   "passage": "a. Linh: I'd recommend cycling. It's cheap, healthy and good for the environment.\nb. Phong: I want to find a greener way to get to school. Any ideas?\nc. Phong: But it's quite far – about 6 kilometres.\nd. Linh: Then why don't you take the bus? There's a stop near your house.",
+   "items": [
+    {
+     "id": "c3-sx-01-05",
+     "type": "mcq",
+     "prompt": "Chọn thứ tự đúng.",
+     "options": [
+      "b – a – c – d",
+      "a – b – c – d",
+      "b – d – c – a",
+      "b – c – a – d"
+     ],
+     "answer": 0,
+     "explain": "Hỏi ý kiến (b) → gợi ý đạp xe (a) → phản đối vì xa (c) → gợi ý khác (d)."
+    }
+   ]
+  }
+ ]
+}

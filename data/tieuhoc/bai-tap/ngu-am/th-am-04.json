@@ -1,0 +1,155 @@
+{
+ "id": "th-am-04",
+ "module": "phonics",
+ "title": "Nguyên âm \"o\", \"u\", \"oo\", \"ou\"",
+ "emoji": "⭕",
+ "intro": "Chữ o: /ɒ/ (hot), /əʊ/ (home), /ʌ/ (come), /uː/ (do). Chữ u: /ʌ/ (bus), /ʊ/ (put), /uː/ (June), /juː/ (music). oo: /ʊ/ (book) hoặc /uː/ (food). (Đáp án theo giọng Anh-Anh như sách giáo khoa; nút 🔊 cũng đọc giọng Anh.)",
+ "instruction": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-am-04-01",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "h[[o]]t",
+    "n[[o]]t",
+    "b[[o]]x",
+    "h[[o]]me"
+   ],
+   "answer": 3,
+   "explain": "home: /əʊ/. hot, not, box: /ɒ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-04-02",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "g[[o]]",
+    "n[[o]]",
+    "s[[o]]",
+    "d[[o]]"
+   ],
+   "answer": 3,
+   "explain": "do: /uː/. go, no, so: /əʊ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-04-03",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "c[[o]]me",
+    "s[[o]]me",
+    "m[[o]]ther",
+    "h[[o]]liday"
+   ],
+   "answer": 3,
+   "explain": "holiday: /ɒ/. come, some, mother: /ʌ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-04-04",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "b[[u]]s",
+    "s[[u]]n",
+    "c[[u]]p",
+    "p[[u]]t"
+   ],
+   "answer": 3,
+   "explain": "put: /ʊ/. bus, sun, cup: /ʌ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-04-05",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "r[[u]]le",
+    "J[[u]]ne",
+    "l[[u]]nch",
+    "bl[[u]]e"
+   ],
+   "answer": 2,
+   "explain": "lunch: /ʌ/. rule, June, blue: /uː/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-04-06",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "m[[u]]sic",
+    "st[[u]]dent",
+    "c[[u]]te",
+    "b[[u]]t"
+   ],
+   "answer": 3,
+   "explain": "but: /ʌ/. music, student, cute: /juː/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-04-07",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "s[[o]]n",
+    "br[[o]]ther",
+    "M[[o]]nday",
+    "sh[[o]]p"
+   ],
+   "answer": 3,
+   "explain": "shop: /ɒ/. son, brother, Monday: /ʌ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-04-08",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "b[[oo]]k",
+    "l[[oo]]k",
+    "f[[oo]]t",
+    "f[[oo]]d"
+   ],
+   "answer": 3,
+   "explain": "food: /uː/. book, look, foot: /ʊ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-04-09",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "p[[oo]]l",
+    "m[[oo]]n",
+    "s[[oo]]n",
+    "g[[oo]]d"
+   ],
+   "answer": 3,
+   "explain": "good: /ʊ/. pool, moon, soon: /uː/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-04-10",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "h[[ou]]se",
+    "m[[ou]]se",
+    "y[[ou]]ng",
+    "cl[[ou]]d"
+   ],
+   "answer": 2,
+   "explain": "young: /ʌ/. house, mouse, cloud: /aʊ/.",
+   "skill": "phat-am"
+  }
+ ]
+}

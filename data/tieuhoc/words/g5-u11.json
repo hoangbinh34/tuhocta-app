@@ -1,0 +1,11 @@
+[
+  {"id": "g5-u11-001", "word": "souvenir", "pos": "n", "ipa": "/ˌsuːvəˈnɪə(r)/", "pic": "🎁", "vi": "quà lưu niệm", "defEn": "a thing you buy to remember a place", "example": "I bought a ______ for my grandma in Ha Long.", "level": 3, "priority": 1, "sources": ["sgk-g5-u11"]},
+  {"id": "g5-u11-002", "word": "seashell", "pos": "n", "ipa": "/ˈsiːʃel/", "pic": "🐚", "vi": "vỏ sò", "defEn": "the shell of a small sea animal", "example": "We collected a big ______ on the beach.", "level": 2, "priority": 1, "sources": ["sgk-g5-u11"]},
+  {"id": "g5-u11-003", "word": "seafood", "pos": "n", "ipa": "/ˈsiːfuːd/", "pic": "🦐", "vi": "hải sản", "defEn": "fish and shellfish that people eat", "example": "We ate ______ in Nha Trang.", "level": 2, "priority": 1, "sources": ["sgk-g5-u11"]},
+  {"id": "g5-u11-004", "word": "beach", "pos": "n", "ipa": "/biːtʃ/", "pic": "🏖️", "vi": "bãi biển", "defEn": "an area of sand next to the sea", "example": "We walked on the ______ in the evening.", "level": 1, "priority": 1, "sources": ["sgk-g5-u11"]},
+  {"id": "g5-u11-005", "word": "bay", "pos": "n", "ipa": "/beɪ/", "pic": "🌊", "vi": "vịnh", "defEn": "a part of the sea with land curving around it", "example": "We took a boat trip around the ______. The islands were beautiful.", "level": 2, "priority": 1, "sources": ["sgk-g5-u11"]},
+  {"id": "g5-u11-006", "word": "boat trip", "pos": "n", "ipa": "/ˈbəʊt trɪp/", "pic": "⛵", "vi": "chuyến đi bằng thuyền", "defEn": "a short journey on a boat", "example": "We took a ______ around the bay.", "level": 2, "priority": 1, "sources": ["sgk-g5-u11"]},
+  {"id": "g5-u11-007", "word": "collect", "pos": "v", "ipa": "/kəˈlekt/", "pic": "🧺", "vi": "sưu tầm, nhặt", "defEn": "to get things and keep them together", "example": "I like to ______ seashells.", "level": 2, "priority": 1, "sources": ["sgk-g5-u11"]},
+  {"id": "g5-u11-008", "word": "holiday", "pos": "n", "ipa": "/ˈhɒlədeɪ/", "pic": "🧳", "vi": "kỳ nghỉ", "defEn": "a time when you do not go to school or work", "example": "Where did you go on ______?", "level": 1, "priority": 2, "sources": ["chu-de-on-thi"]},
+  {"id": "g5-u11-009", "word": "family", "pos": "n", "ipa": "/ˈfæməli/", "pic": "👨‍👩‍👧", "vi": "gia đình", "defEn": "a group of parents and children", "example": "My ______ went to Da Nang last summer.", "level": 1, "priority": 2, "sources": ["chu-de-on-thi"]}
+]

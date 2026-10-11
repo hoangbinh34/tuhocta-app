@@ -1,0 +1,58 @@
+{
+  "id": "vl-tu-lt-03",
+  "title": "Từ thông, Faraday và Lenz",
+  "items": [
+    {
+      "id": "vl-tu-lt-03-t1", "type": "card", "title": "Chọn pháp tuyến trước khi tính từ thông",
+      "paras": [
+        "Từ thông qua một vòng phẳng diện tích S trong từ trường đều là Φ = BS cos α, với α là góc giữa B và pháp tuyến đã chọn của mặt vòng. Đơn vị SI là weber (Wb); 1 cm² = 10^{-4} m². Nếu đề cho góc β giữa B và mặt vòng thì |Φ| = BS sin β.",
+        "B vuông góc mặt vòng: |Φ| = BS; B nằm trong mặt vòng: Φ = 0. Từ thông có thể âm do cách chọn pháp tuyến, không phải B có độ lớn âm. Với cuộn N vòng giống nhau, tổng từ thông móc vòng là NΦ; phải phân biệt từ thông một vòng và tổng của cuộn, tránh nhân N hai lần.",
+        "Định luật Faraday: suất điện động cảm ứng trung bình e = −NΔΦ/Δt khi quy ước chiều dương của vòng phù hợp pháp tuyến. Độ lớn là N|ΔΦ|/Δt. Từ thông biến thiên đều theo thời gian thì suất điện động không đổi trong khoảng đó. Đồ thị Φ–t có độ dốc càng lớn về độ lớn thì |e| càng lớn; đoạn ngang có e = 0."
+      ]
+    },
+    {
+      "id": "vl-tu-lt-03-t2", "type": "card", "title": "Lenz chống sự biến thiên; mạch kín mới có dòng cảm ứng",
+      "paras": [
+        "Định luật Lenz: dòng cảm ứng có chiều sao cho từ trường do nó tạo ra chống lại sự biến thiên từ thông đã sinh ra dòng đó. B ngoài hướng ra khỏi giấy và đang tăng thì B cảm ứng vào giấy, dòng theo chiều kim đồng hồ. B ngoài ra khỏi giấy nhưng đang giảm thì B cảm ứng ra khỏi giấy, dòng ngược kim đồng hồ.",
+        "Từ thông thay đổi có thể tạo suất điện động ở mạch hở; chỉ có dòng điện dẫn cảm ứng khi mạch kín. Với mạch thuần trở R, bỏ qua tự cảm, I = |e|/R. Nhiệt lượng tỏa ra Q = I²RΔt khi I không đổi; năng lượng đó được cung cấp bởi tác nhân làm biến thiên từ thông.",
+        "Một vòng kín tịnh tiến hoàn toàn trong từ trường đều không đổi, giữ nguyên diện tích và góc, thì từ thông không đổi và không có dòng cảm ứng. Vòng đi vào hoặc đi ra ranh giới vùng từ trường có thể có dòng cảm ứng vì diện tích phần vòng xuyên từ trường thay đổi. Với thanh dài l trượt vuông góc B và vuông góc chính thanh, đề có thể cho |e| = Blv; vẫn dùng Lenz để xác định chiều dòng."
+      ]
+    },
+    {
+      "id": "vl-tu-lt-03-01", "type": "mcq", "level": 1,
+      "prompt": "Trong Φ = BS cos α, α là góc nào?",
+      "options": ["Giữa B và mặt phẳng vòng", "Giữa B và pháp tuyến mặt vòng", "Giữa dòng điện và mặt vòng", "Giữa hai cạnh vòng"], "answer": 1,
+      "explain": "Công thức dùng góc với pháp tuyến; góc với mặt phẳng phải dùng sin khi tính độ lớn."
+    },
+    {
+      "id": "vl-tu-lt-03-02", "type": "mcq", "level": 1,
+      "prompt": "Định luật nào cho độ lớn suất điện động cảm ứng?",
+      "options": ["Boyle", "Coulomb", "Lenz", "Faraday"], "answer": 3,
+      "explain": "Faraday cho |e| = N|ΔΦ|/Δt; Lenz dùng để xác định chiều dòng cảm ứng."
+    },
+    {
+      "id": "vl-tu-lt-03-03", "type": "mcq", "level": 2,
+      "prompt": "B nằm trong mặt phẳng vòng dây phẳng. Từ thông qua vòng bằng bao nhiêu?",
+      "options": ["0", "BS", "2BS", "BS/2"], "answer": 0,
+      "explain": "Pháp tuyến vuông góc B, α = 90°, nên cos α = 0 và Φ = 0."
+    },
+    {
+      "id": "vl-tu-lt-03-04", "type": "mcq", "level": 2,
+      "prompt": "B ngoài hướng vào mặt giấy và tăng dần, xuyên vuông góc một vòng kín thuần trở. Nhìn vào mặt giấy, dòng cảm ứng chạy theo chiều nào?",
+      "options": ["Theo chiều kim đồng hồ", "Không có dòng vì B không đổi hướng", "Ngược chiều kim đồng hồ", "Lúc nào cũng cùng chiều B"], "answer": 2,
+      "explain": "B cảm ứng phải ra khỏi giấy để chống tăng từ thông vào giấy. Quy tắc nắm tay phải cho dòng ngược kim đồng hồ."
+    },
+    {
+      "id": "vl-tu-lt-03-05", "type": "mcq", "level": 2,
+      "prompt": "Đồ thị từ thông một vòng Φ theo t là đoạn thẳng nằm ngang. Suất điện động cảm ứng trong vòng trên khoảng đó thế nào?",
+      "options": ["Tăng đều", "Bằng 0", "Không đổi và khác 0", "Giảm đều"], "answer": 1,
+      "explain": "Đoạn ngang có ΔΦ = 0; Faraday cho e = 0 dù từ thông có thể khác 0."
+    },
+    {
+      "id": "vl-tu-lt-03-06", "type": "mcq", "level": 2,
+      "prompt": "Hai đầu cuộn dây để hở, từ thông qua cuộn thay đổi. Kết luận nào đúng trong mô hình mạch điện thông thường?",
+      "options": ["Không có suất điện động cảm ứng", "Có dòng dẫn cảm ứng chạy kín qua cuộn", "Điện trở cuộn luôn bằng 0", "Có suất điện động cảm ứng nhưng không có dòng dẫn chạy kín"], "answer": 3,
+      "explain": "Biến thiên từ thông tạo suất điện động; mạch hở không có đường kín cho dòng điện dẫn."
+    }
+  ]
+}

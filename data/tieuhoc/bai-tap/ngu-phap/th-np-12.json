@@ -1,0 +1,131 @@
+{
+ "id": "th-np-12",
+ "module": "grammar",
+ "title": "Chia động từ (tự gõ)",
+ "emoji": "⌨️",
+ "intro": "Đọc dấu hiệu thời gian (every day, now, yesterday, tomorrow…) rồi gõ dạng đúng của động từ trong ngoặc.",
+ "instruction": "Gõ dạng đúng của động từ trong ngoặc.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL-NTT"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-np-12-01",
+   "type": "input",
+   "prompt": "My mother (cook) ___ dinner every evening.",
+   "answers": [
+    "cooks"
+   ],
+   "explain": "Dấu hiệu \"every evening\", chủ ngữ ngôi 3 số ít: cooks."
+  },
+  {
+   "id": "th-np-12-02",
+   "type": "input",
+   "prompt": "Look! The bus (come) ___.",
+   "answers": [
+    "is coming",
+    "'s coming"
+   ],
+   "explain": "\"Look!\": hiện tại tiếp diễn: is coming."
+  },
+  {
+   "id": "th-np-12-03",
+   "type": "input",
+   "prompt": "We (visit) ___ the museum last Saturday.",
+   "answers": [
+    "visited"
+   ],
+   "explain": "\"last Saturday\": quá khứ đơn: visited."
+  },
+  {
+   "id": "th-np-12-04",
+   "type": "input",
+   "prompt": "She (not like) ___ spiders.",
+   "answers": [
+    "doesn't like",
+    "does not like"
+   ],
+   "explain": "Phủ định hiện tại đơn với she: doesn't like."
+  },
+  {
+   "id": "th-np-12-05",
+   "type": "input",
+   "prompt": "I (go) ___ to the cinema yesterday.",
+   "answers": [
+    "went"
+   ],
+   "explain": "\"yesterday\", go là bất quy tắc: went."
+  },
+  {
+   "id": "th-np-12-06",
+   "type": "input",
+   "prompt": "At the moment, they (play) ___ badminton.",
+   "answers": [
+    "are playing",
+    "'re playing"
+   ],
+   "explain": "\"At the moment\": are playing."
+  },
+  {
+   "id": "th-np-12-07",
+   "type": "input",
+   "prompt": "Tom (be) ___ ill last week.",
+   "answers": [
+    "was"
+   ],
+   "explain": "Quá khứ của be với Tom (he): was."
+  },
+  {
+   "id": "th-np-12-08",
+   "type": "input",
+   "prompt": "I think it (be) ___ sunny tomorrow.",
+   "answers": [
+    "will be",
+    "'ll be",
+    "is going to be",
+    "'s going to be"
+   ],
+   "explain": "\"I think\" + dự đoán về \"tomorrow\": will be (is going to be cũng được chấp nhận)."
+  },
+  {
+   "id": "th-np-12-09",
+   "type": "input",
+   "prompt": "My brother (watch) ___ cartoons every Sunday.",
+   "answers": [
+    "watches"
+   ],
+   "explain": "ngôi 3 số ít, watch thêm -es: watches."
+  },
+  {
+   "id": "th-np-12-10",
+   "type": "input",
+   "prompt": "They (not go) ___ to school yesterday.",
+   "answers": [
+    "didn't go",
+    "did not go"
+   ],
+   "explain": "Phủ định quá khứ: didn't go."
+  },
+  {
+   "id": "th-np-12-11",
+   "type": "input",
+   "prompt": "Listen! Somebody (sing) ___.",
+   "answers": [
+    "is singing",
+    "'s singing"
+   ],
+   "explain": "\"Listen!\": is singing."
+  },
+  {
+   "id": "th-np-12-12",
+   "type": "input",
+   "prompt": "Lan (write) ___ a letter to her friend two days ago.",
+   "answers": [
+    "wrote"
+   ],
+   "explain": "\"two days ago\", write là bất quy tắc: wrote."
+  }
+ ]
+}

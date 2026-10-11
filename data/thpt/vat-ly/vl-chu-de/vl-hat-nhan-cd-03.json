@@ -1,0 +1,94 @@
+{
+  "id": "vl-hat-nhan-cd-03",
+  "title": "Hạt nhân: vận dụng số liệu phóng xạ và năng lượng",
+  "items": [
+    {
+      "id": "vl-hat-nhan-cd-03-01", "type": "mcq", "level": 3,
+      "prompt": "Một lượng uranium gồm 0,50 mol hạt nhân, trong đó 20 % số hạt nhân là ^{235}_{92}U. Giả sử tất cả U-235 phân hạch, mỗi phân hạch tỏa 200 MeV; các đồng vị khác không phản ứng. Lấy N_{A} = 6,02·10^{23} mol^{-1}, 1 MeV = 1,60·10^{-13} J. Tổng năng lượng tỏa ra xấp xỉ bao nhiêu?",
+      "options": ["9,63·10^{12} J", "1,93·10^{6} J", "1,93·10^{12} J", "3,85·10^{12} J"], "answer": 2,
+      "explain": "Số U-235 bằng 0,50 · 0,20 · 6,02·10^{23} = 6,02·10^{22}. Mỗi phân hạch tỏa 200 · 1,60·10^{-13} = 3,20·10^{-11} J. Tổng E = 1,9264·10^{12} J ≈ 1,93·10^{12} J. Phải lấy 20 % theo số hạt, không cho toàn bộ uranium phân hạch."
+    },
+    {
+      "id": "vl-hat-nhan-cd-03-02", "type": "mcq", "level": 3,
+      "prompt": "Trong một chuỗi biến đổi từ ^{238}_{92}U thành ^{206}_{82}Pb, chỉ có các phân rã alpha, beta trừ và có thể phát gamma. Số lần phân rã alpha và beta trừ lần lượt là bao nhiêu?",
+      "options": ["8 và 6", "6 và 8", "8 và 10", "4 và 2"], "answer": 0,
+      "explain": "Gọi x lần alpha, y lần beta trừ. Số khối: 238 − 4x = 206 nên x = 8. Điện tích hạt nhân cuối: 92 − 2x + y = 82 nên y = 6. Gamma không đổi A, Z. Phải xét đồng thời cả A và Z."
+    },
+    {
+      "id": "vl-hat-nhan-cd-03-03", "type": "mcq", "level": 3,
+      "prompt": "Một nguồn phân hạch cung cấp nhiệt đều; 75 % năng lượng phân hạch truyền cho 0,20 kg nước, c = 4200 J/(kg·K). Nước tăng 30 K trong 60 s, không chuyển thể. Mỗi phân hạch tỏa 200 MeV, 1 MeV = 1,60·10^{-13} J. Số phân hạch mỗi giây xấp xỉ bao nhiêu?",
+      "options": ["1,31·10^{13} s^{-1}", "1,75·10^{13} s^{-1}", "1,05·10^{15} s^{-1}", "1,75·10^{7} s^{-1}"], "answer": 1,
+      "explain": "Nước nhận Q = 0,20 · 4200 · 30 = 25200 J. Công suất phân hạch P = Q/(0,75 · 60) = 560 W. Năng lượng mỗi phân hạch E = 3,20·10^{-11} J, nên r = P/E = 1,75·10^{13} s^{-1}. Phải chia hiệu suất khi suy ngược năng lượng nguồn."
+    },
+    {
+      "id": "vl-hat-nhan-cd-03-04", "type": "mcq", "level": 3,
+      "prompt": "Pin hạt nhân tỏa nhiệt 400 W, chuyển thành điện với hiệu suất 2,0 %. Bộ sạc nhận toàn bộ điện này, hiệu suất tích trữ vào ắc quy là 75 %. Coi các công suất, hiệu suất không đổi trong thời gian sạc. Để tích trữ thêm 24 Wh trong ắc quy cần bao lâu?",
+      "options": ["3,0 giờ", "0,060 giờ", "12 giờ", "4,0 giờ"], "answer": 3,
+      "explain": "Công suất điện từ pin là 400 · 0,020 = 8 W; công suất tích trữ thực sự bằng 8 · 0,75 = 6 W. Thời gian bằng 24 Wh/6 W = 4 giờ. Phải tính cả hai hiệu suất; Wh là đơn vị năng lượng."
+    },
+    {
+      "id": "vl-hat-nhan-cd-03-05", "type": "num", "level": 3,
+      "prompt": "Tại thời điểm xét, nguồn của pin hạt nhân có độ phóng xạ 5,0·10^{12} Bq. Mỗi phân rã cung cấp 5,0 MeV năng lượng được thu nhận; hiệu suất chuyển năng lượng này thành điện là 8,0 %. Lấy 1 MeV = 1,60·10^{-13} J. Tính công suất điện của pin theo W, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 0.32, "round": 2, "unit": "W",
+      "explain": "Năng lượng mỗi phân rã E = 5,0 · 1,60·10^{-13} = 8,0·10^{-13} J. Công suất năng lượng thu nhận H E = 5,0·10^{12} · 8,0·10^{-13} = 4,0 W. Công suất điện = 0,080 · 4,0 = 0,32 W. Ghi: 0,32; không nhầm H với tổng số hạt còn lại."
+    },
+    {
+      "id": "vl-hat-nhan-cd-03-06", "type": "num", "level": 3,
+      "prompt": "Phép đo đã quy đổi về độ phóng xạ cho số chỉ tổng 980 MBq lúc t = 0, gồm phông không đổi tương đương 20 MBq. Nguồn có chu kì bán rã 6 giờ; số chỉ tổng tối đa cho phép khi đến nơi nhận là 140 MBq. Vận chuyển mất 4 giờ, không bổ sung chất phóng xạ. Phải chờ ít nhất bao nhiêu giờ từ t = 0 rồi mới xuất phát? Làm tròn đến hàng đơn vị.",
+      "answer": 14, "round": 0, "unit": "giờ",
+      "explain": "Trừ phông: H_{0} = 980 − 20 = 960 MBq; ngưỡng thực của nguồn là 140 − 20 = 120 MBq. Tỉ số bằng 8 = 2³ nên lúc đến cần ít nhất 3T = 18 giờ kể từ t = 0. Nguồn tiếp tục phân rã trong 4 giờ vận chuyển nên thời gian chờ là 18 − 4 = 14 giờ. Ghi: 14."
+    },
+    {
+      "id": "vl-hat-nhan-cd-03-07", "type": "tf4", "level": 3,
+      "prompt": "Đo một nguồn có rất nhiều hạt nhân cùng đồng vị, không bổ sung nguồn. Số đếm trung bình mỗi phút tại t = 0 và t = 8 giờ lần lượt là 820 và 420; phông không đổi là 20 số đếm/phút. Hình học đo và hiệu suất không đổi, tốc độ đếm sau khi trừ phông tỉ lệ với độ phóng xạ. Coi thời gian một phút đo rất nhỏ so với chu kì bán rã.",
+      "statements": [
+        "a) Chu kì bán rã của nguồn là 8 giờ.",
+        "b) Tại t = 12 giờ, số đếm tổng trung bình mỗi phút xấp xỉ 303.",
+        "c) Trong 12 giờ đầu, số hạt nhân mẹ đã phân rã chiếm hơn một nửa số hạt nhân mẹ ban đầu.",
+        "d) Số đếm tổng trung bình mỗi phút giảm còn 120 ở t = 24 giờ."
+      ],
+      "answers": [true, true, true, true],
+      "explain": [
+        "Đúng. Sau trừ phông, tốc độ đếm giảm từ 800 còn 400 số đếm/phút trong 8 giờ, tức giảm một nửa: T = 8 giờ.",
+        "Đúng. Tại 12 giờ, tốc độ đếm của riêng nguồn = 800 · 2^{-12/8} = 282,842712…; cộng lại phông 20 được 302,842712… ≈ 303 số đếm/phút.",
+        "Đúng. Phần hạt mẹ còn lại = 2^{-12/8} ≈ 0,353553; phần đã phân rã ≈ 0,646447 = 64,64 %, lớn hơn một nửa.",
+        "Đúng. Tổng 120 nghĩa riêng nguồn là 100 số đếm/phút, bằng 1/8 ban đầu; thời gian là 3T = 24 giờ. Không lấy tỉ số 820/120 khi chưa trừ phông."
+      ]
+    },
+    {
+      "id": "vl-hat-nhan-cd-03-08", "type": "tf4", "level": 3,
+      "prompt": "Xét phản ứng ^{2}_{1}H + ^{3}_{1}H → ^{4}_{2}He + ^{1}_{0}n. Khối lượng hạt nhân D, T, He và neutron lần lượt là 2,0136 u; 3,0155 u; 4,0015 u; 1,0087 u. Lấy u c² = 931,5 MeV, 1 MeV = 1,60·10^{-13} J. Một mô hình có 10^{16} phản ứng mỗi giây, chuyển 2,0 % năng lượng tỏa ra thành điện; tốc độ phản ứng và hiệu suất không đổi.",
+      "statements": [
+        "a) Tổng số nucleon ở mỗi vế bằng 5 và tổng điện tích ở mỗi vế bằng +2e.",
+        "b) Mỗi phản ứng tỏa xấp xỉ 17,61 MeV.",
+        "c) Đây là phản ứng phân hạch vì có neutron sinh ra.",
+        "d) Công suất điện của mô hình xấp xỉ 563 W."
+      ],
+      "answers": [true, true, false, true],
+      "explain": [
+        "Đúng. Tổng A: 2 + 3 = 4 + 1 = 5; tổng Z: 1 + 1 = 2 + 0 = 2. Neutron có A = 1 nhưng Z = 0.",
+        "Đúng. Δm = 2,0136 + 3,0155 − 4,0015 − 1,0087 = 0,0189 u; Q = 0,0189 · 931,5 = 17,60535 MeV, xấp xỉ 17,61 MeV. Không làm tròn Δm trước khi nhân.",
+        "Sai. Hai hạt nhân nhẹ kết hợp tạo helium là nhiệt hạch. Có neutron sinh ra không đủ để kết luận phân hạch.",
+        "Đúng. E mỗi phản ứng = 17,60535 · 1,60·10^{-13} = 2,816856·10^{-12} J. P_{điện} = 0,020 · 10^{16} · E = 563,3712 W ≈ 563 W. Dùng Q chưa làm tròn ở bước này."
+      ]
+    },
+    {
+      "id": "vl-hat-nhan-cd-03-09", "type": "num", "level": 3,
+      "prompt": "Giả sử toàn bộ hạt nhân trong 0,50 g U-235 phân hạch, mỗi phân hạch tỏa 200 MeV. Nhà máy chuyển 30 % năng lượng này thành điện. Cho M = 235 g/mol, N_{A} = 6,02·10^{23} mol^{-1}, 1 MeV = 1,60·10^{-13} J. Điện năng thu được là x·10^{10} J. Tính x, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 1.23, "round": 2, "exact": 1.2296170212765958, "unit": "×10^{10} J",
+      "explain": "N = (0,50/235) · 6,02·10^{23}. Điện năng E = 0,30 · N · 200 · 1,60·10^{-13} J. Hệ số x = E/10^{10} = 1,229617021… nên x = 1,23. Ghi: 1,23; m và M cùng dùng g, không tự đổi riêng m sang kg."
+    },
+    {
+      "id": "vl-hat-nhan-cd-03-10", "type": "num", "level": 3,
+      "prompt": "Pin hạt nhân dùng một đồng vị có chu kì bán rã 30 năm. Mỗi phân rã cung cấp cùng năng lượng, hiệu suất điện không đổi, công suất điện tổng ban đầu là 6,0 W. Thiết bị phụ luôn tiêu thụ 1,0 W, phần còn lại cấp tải chính. Tải chính cần ít nhất 0,20 W. Tính thời gian tối đa từ lúc đầu để pin còn đáp ứng tải chính theo năm; dùng logarit cơ số 2 trực tiếp trên máy tính, làm tròn đến một chữ số sau dấu phẩy.",
+      "answer": 69.7, "round": 1, "exact": 69.65784284662087, "unit": "năm",
+      "explain": "Công suất tổng phải còn ít nhất 1,0 + 0,20 = 1,20 W. Vì P tỉ lệ độ phóng xạ, 6,0 · 2^{-t/30} = 1,20, tức 2^{t/30} = 5. t = 30 ln 5/ln 2 = 69,657842846… năm. Chỉ làm tròn kết quả cuối: 69,7. Ghi: 69,7. Không lấy 5,0/0,20 làm tỉ số suy giảm vì tải phụ không suy giảm theo nguồn."
+    },
+    {
+      "id": "vl-hat-nhan-cd-03-11", "type": "num", "level": 3,
+      "prompt": "Cần chuẩn bị đồng vị I-131 sao cho sau 16 ngày, độ phóng xạ của riêng I-131 còn 1,50 MBq. Chu kì bán rã là 8 ngày; không thêm đồng vị sau khi chuẩn bị. Lấy M = 131 g/mol, N_{A} = 6,02·10^{23} mol^{-1}, ln 2 = 0,693; 1 ngày = 86400 s, 1 ng = 10^{-9} g. Tính khối lượng của phần I-131 cần chuẩn bị lúc đầu theo ng, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 1.3, "round": 2, "exact": 1.3022565474392718, "unit": "ng",
+      "explain": "Sau 16/8 = 2 chu kì, H còn 1/4 nên H_{0} = 4 · 1,50·10^{6} = 6,0·10^{6} Bq. λ = 0,693/(8 · 86400) s^{-1}. N_{0} = H_{0}/λ; m_{0} = N_{0} · 131/(6,02·10^{23}) g = 1,302256547…·10^{-9} g = 1,302256547… ng. Chỉ làm tròn cuối: 1,30 ng. Ghi: 1,30. Phải đổi ngày sang giây và đổi g sang ng."
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+ "id": "c3-dh-02",
+ "module": "reading",
+ "title": "Đọc hiểu (2): Wildlife and tourism",
+ "emoji": "📖",
+ "intro": "Đề tốt nghiệp câu 23–40: hai bài đọc. Dạng câu hỏi: ý chính/tiêu đề, chi tiết, NOT TRUE / NOT mentioned, từ đồng nghĩa/trái nghĩa trong ngữ cảnh, từ quy chiếu (it, they…), diễn đạt lại câu gạch chân, vị trí chèn câu, suy luận.",
+ "instruction": "Đọc bài và chọn đáp án đúng.",
+ "shuffle": true,
+ "shuffleItems": false,
+ "priority": 1,
+ "sources": [
+  "cau-truc-de-tn-2025"
+ ],
+ "items": [
+  {
+   "id": "c3-dh-02-g1",
+   "type": "group",
+   "title": "Elephants and ethical tourism",
+   "passage": "For many tourists in Southeast Asia, riding an elephant used to be a highlight of their holiday. In recent years, however, attitudes have changed. Animal welfare groups have revealed that many elephants used for rides are taken from the wild when they are young and trained through harsh methods. Once tourists learned about this, many of them began to look for alternatives.\n\nIn Viet Nam, Yok Don National Park in Dak Lak province made an important decision in 2018: it stopped offering elephant rides altogether. Instead, visitors can now walk alongside the elephants, watch them bathe in the river and learn about their behaviour from trained guides. The park says that the elephants are healthier and calmer since the change. Visitor numbers have not fallen, as many people prefer this more responsible experience.\n\nThis shift is part of a wider trend called ethical tourism, in which travellers try to make sure that their trips do not harm animals, local communities or the environment. Supporters argue that tourism can actually help conservation, because entrance fees and donations pay for rangers, veterinary care and habitat protection. Critics, however, point out that some businesses simply use words like \"sanctuary\" to attract customers, while conditions for the animals remain poor.\n\nSo how can tourists tell the difference? Experts suggest asking a few simple questions before booking. Can visitors touch or ride the animals? Are the animals allowed to move freely? Does the organisation explain where its money goes? If the answers are unclear, it may be better to choose another place. After all, the most memorable encounters with wild animals are often the ones in which they are left to behave naturally.",
+   "items": [
+    {
+     "id": "c3-dh-02-01",
+     "type": "mcq",
+     "prompt": "What is the passage mainly about?",
+     "options": [
+      "The change from elephant rides to more responsible wildlife tourism",
+      "The history of elephants in Viet Nam",
+      "How to train elephants for tourism",
+      "Why tourists should avoid Southeast Asia"
+     ],
+     "answer": 0,
+     "explain": "Bài nói về việc chuyển từ cưỡi voi sang du lịch có trách nhiệm."
+    },
+    {
+     "id": "c3-dh-02-02",
+     "type": "mcq",
+     "prompt": "According to paragraph 1, why did many tourists stop riding elephants?",
+     "options": [
+      "They learned how the elephants were captured and trained.",
+      "The rides became too expensive.",
+      "The government banned all elephant rides.",
+      "Elephant rides were no longer interesting."
+     ],
+     "answer": 0,
+     "explain": "\"Once tourists learned about this…\": biết voi bị bắt từ rừng và huấn luyện khắc nghiệt."
+    },
+    {
+     "id": "c3-dh-02-03",
+     "type": "mcq",
+     "prompt": "The word \"harsh\" in paragraph 1 is OPPOSITE in meaning to ___.",
+     "options": [
+      "gentle",
+      "cruel",
+      "strict",
+      "difficult"
+     ],
+     "answer": 0,
+     "explain": "harsh (khắc nghiệt) trái nghĩa gentle (nhẹ nhàng)."
+    },
+    {
+     "id": "c3-dh-02-04",
+     "type": "mcq",
+     "prompt": "What happened after Yok Don National Park stopped offering elephant rides?",
+     "options": [
+      "Visitor numbers did not fall.",
+      "Fewer tourists visited the park.",
+      "The elephants became more stressed.",
+      "The park closed for several years."
+     ],
+     "answer": 0,
+     "explain": "\"Visitor numbers have not fallen\"."
+    },
+    {
+     "id": "c3-dh-02-05",
+     "type": "mcq",
+     "prompt": "Which of the following is NOT an activity visitors can do at Yok Don now?",
+     "options": [
+      "Ride the elephants",
+      "Walk alongside the elephants",
+      "Watch the elephants bathe",
+      "Learn from trained guides"
+     ],
+     "answer": 0,
+     "explain": "Công viên đã ngừng cho cưỡi voi."
+    },
+    {
+     "id": "c3-dh-02-06",
+     "type": "mcq",
+     "prompt": "The word \"it\" in paragraph 2 refers to ___.",
+     "options": [
+      "Yok Don National Park",
+      "Dak Lak province",
+      "an important decision",
+      "Viet Nam"
+     ],
+     "answer": 0,
+     "explain": "\"Yok Don National Park … made an important decision: it stopped…\"."
+    },
+    {
+     "id": "c3-dh-02-07",
+     "type": "mcq",
+     "prompt": "According to paragraph 3, how can tourism help conservation?",
+     "options": [
+      "Money from visitors pays for rangers and habitat protection.",
+      "Tourists can train the animals themselves.",
+      "Tourists help animals find new homes.",
+      "Businesses use the word \"sanctuary\"."
+     ],
+     "answer": 0,
+     "explain": "\"entrance fees and donations pay for rangers, veterinary care and habitat protection\"."
+    },
+    {
+     "id": "c3-dh-02-08",
+     "type": "mcq",
+     "prompt": "Which of the following best paraphrases the sentence: \"Critics, however, point out that some businesses simply use words like 'sanctuary' to attract customers, while conditions for the animals remain poor.\"?",
+     "options": [
+      "Some places call themselves sanctuaries to get more visitors, but they still do not treat the animals well.",
+      "All sanctuaries treat their animals badly.",
+      "Critics want businesses to stop using the word \"sanctuary\".",
+      "Animals in sanctuaries live in better conditions than in the wild."
+     ],
+     "answer": 0,
+     "explain": "Một số nơi chỉ dùng từ \"sanctuary\" để hút khách, điều kiện cho động vật vẫn tệ."
+    },
+    {
+     "id": "c3-dh-02-09",
+     "type": "mcq",
+     "prompt": "What do experts advise tourists to do before booking?",
+     "options": [
+      "Ask questions about how the animals are treated",
+      "Read online reviews only",
+      "Choose the cheapest place",
+      "Avoid all wildlife tourism"
+     ],
+     "answer": 0,
+     "explain": "Đoạn 4: đặt vài câu hỏi trước khi đặt chỗ."
+    },
+    {
+     "id": "c3-dh-02-10",
+     "type": "mcq",
+     "prompt": "It can be inferred from the last paragraph that the writer believes ___.",
+     "options": [
+      "watching animals behave naturally is more rewarding than touching or riding them",
+      "tourists should never visit national parks",
+      "all wildlife organisations are dishonest",
+      "riding elephants is the best way to learn about them"
+     ],
+     "answer": 0,
+     "explain": "Câu cuối: những lần gặp đáng nhớ nhất là khi động vật được tự nhiên."
+    }
+   ]
+  }
+ ]
+}

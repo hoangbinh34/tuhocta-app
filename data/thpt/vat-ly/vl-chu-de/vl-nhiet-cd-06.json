@@ -1,0 +1,83 @@
+{
+  "id": "vl-nhiet-cd-06",
+  "title": "Nhiệt: vận dụng thí nghiệm và chuyển thể",
+  "items": [
+    {
+      "id": "vl-nhiet-cd-06-01", "type": "mcq", "level": 3,
+      "prompt": "Đo nhiệt dung riêng c của chất lỏng bằng cùng dây nung. Với khối lượng 0,10 kg, tốc độ tăng nhiệt độ là 0,20 K/s; với khối lượng 0,20 kg, tốc độ là 0,12 K/s. Công suất có ích vào hệ chất lỏng và bình ở cả hai lượt là 60 W; nhiệt dung bình C không đổi, không chuyển thể. Giá trị c là bao nhiêu?",
+      "options": ["3000 J/(kg·K)", "2000 J/(kg·K)", "2500 J/(kg·K)", "1000 J/(kg·K)"], "answer": 1,
+      "explain": "Dùng P = (mc + C)ΔT/Δτ: 0,10c + C = 60/0,20 = 300 J/K; 0,20c + C = 60/0,12 = 500 J/K. Trừ hai phương trình: 0,10c = 200, suy ra c = 2000 J/(kg·K), C = 100 J/K."
+    },
+    {
+      "id": "vl-nhiet-cd-06-02", "type": "mcq", "level": 3,
+      "prompt": "Cho 0,10 kg nước đá ở 0 °C vào 0,20 kg nước ở 20 °C trong bình cách nhiệt, nhiệt dung bình không đáng kể. Lấy λ = 3,34·10^{5} J/kg, c_{nước} = 4200 J/(kg·K). Bỏ qua bay hơi. Trạng thái cân bằng là gì?",
+      "options": ["Toàn bộ đá tan, nước ở 20 °C", "Toàn bộ đá tan, nước ở 0 °C", "Còn đá và nước, cùng ở 0 °C", "Toàn bộ nước đóng băng, ở dưới 0 °C"], "answer": 2,
+      "explain": "Nước nguội đến 0 °C chỉ toả 0,20 · 4200 · 20 = 16 800 J, nhỏ hơn 0,10 · 334 000 = 33 400 J cần làm tan hết đá. Vì vậy chỉ tan một phần đá, cân bằng vẫn có hai pha ở 0 °C."
+    },
+    {
+      "id": "vl-nhiet-cd-06-03", "type": "mcq", "level": 3,
+      "prompt": "Trong phép đo L, nước đã sôi ổn định ở 100 °C, áp suất tiêu chuẩn. Ở lượt 1, dây nung 200 W làm khối lượng nước giảm 3,0 g trong 60 s; lượt 2, dây nung 300 W làm giảm 6,0 g trong 60 s. Công suất mất nhiệt như nhau và không đổi ở hai lượt; điện năng còn lại chỉ dùng hoá hơi. Suy ra L bằng bao nhiêu?",
+      "options": ["2,0·10^{6} J/kg", "4,0·10^{6} J/kg", "3,0·10^{6} J/kg", "6,0·10^{6} J/kg"], "answer": 0,
+      "explain": "Trừ hai phương trình (P − P_{mất})τ = mL để loại thất thoát: L = (300 − 200) · 60/(0,0060 − 0,0030) = 2,0·10^{6} J/kg. Công suất mất nhiệt suy ra là 100 W."
+    },
+    {
+      "id": "vl-nhiet-cd-06-04", "type": "mcq", "level": 3,
+      "prompt": "Trộn 0,20 kg nước ở 80 °C với 0,30 kg nước ở 20 °C trong bình có nhiệt dung C = 210 J/K, ban đầu ở 20 °C. Hệ cách nhiệt, không bay hơi; c_{nước} = 4200 J/(kg·K). Nhiệt độ cân bằng là bao nhiêu?",
+      "options": ["44,0 °C", "50,0 °C", "60,0 °C", "41,8 °C (làm tròn một chữ số sau dấu phẩy)"], "answer": 3,
+      "explain": "Nước nóng toả nhiệt cho nước lạnh và bình: 840(80 − T) = (1260 + 210)(T − 20). T = 96 600/2310 = 41,81818… °C ≈ 41,8 °C. Phải tính cả nhiệt dung bình."
+    },
+    {
+      "id": "vl-nhiet-cd-06-05", "type": "mcq", "level": 3,
+      "prompt": "Một hệ khí thực hiện hai giai đoạn liên tiếp. Giai đoạn 1 nhận công 400 J và toả nhiệt 150 J. Giai đoạn 2 nhận nhiệt 100 J và thực hiện công 300 J ra ngoài. Dùng ΔU = A + Q. Sau cả hai giai đoạn, nội năng thay đổi thế nào?",
+      "options": ["Tăng 650 J", "Tăng 50 J", "Giảm 50 J", "Tăng 950 J"], "answer": 1,
+      "explain": "Giai đoạn 1: ΔU_{1} = 400 − 150 = 250 J. Giai đoạn 2: ΔU_{2} = −300 + 100 = −200 J. Tổng ΔU = 250 − 200 = 50 J, nội năng tăng."
+    },
+    {
+      "id": "vl-nhiet-cd-06-06", "type": "mcq", "level": 3,
+      "prompt": "Dẫn 0,010 kg hơi nước ở 100 °C vào 0,20 kg nước ở 20 °C trong bình cách nhiệt có nhiệt dung không đáng kể. Hơi ngưng tụ hoàn toàn, không thất thoát nước; c = 4200 J/(kg·K), L = 2,26·10^{6} J/kg, áp suất tiêu chuẩn. Nhiệt độ cân bằng gần giá trị nào nhất?",
+      "options": ["46 °C", "80 °C", "49 °C", "100 °C"], "answer": 2,
+      "explain": "Hơi vừa ngưng tụ vừa nguội: 0,010[L + 4200(100 − T)] = 0,20 · 4200(T − 20). Suy ra T = 43 600/882 = 49,4331… °C, gần 49 °C nhất. Bỏ qua nhiệt nước ngưng nguội sẽ ra khoảng 47 °C."
+    },
+    {
+      "id": "vl-nhiet-cd-06-07", "type": "tf4", "level": 3,
+      "prompt": "Ấm điện 700 W đun 0,20 kg nước từ 20 °C đến sôi ở 100 °C, sau đó tiếp tục đun 113 s. Hiệu suất truyền nhiệt vào nước không đổi 80 %; bỏ qua nhiệt dung ấm và bay hơi trước khi sôi. Lấy c = 4200 J/(kg·K), L = 2,26·10^{6} J/kg, áp suất tiêu chuẩn.",
+      "statements": [
+        "a) Nhiệt lượng nước cần để vừa đạt 100 °C là 67,2 kJ.",
+        "b) Thời gian từ đầu đến khi vừa sôi là 96 s.",
+        "c) Khối lượng nước hoá hơi trong 113 s sau khi sôi là 28 g.",
+        "d) Sau 113 s kể từ khi sôi, khối lượng nước lỏng còn lại là 0,144 kg."
+      ],
+      "answers": [true, false, true, false],
+      "explain": [
+        "Đúng. Q = 0,20 · 4200 · (100 − 20) = 67 200 J = 67,2 kJ.",
+        "Sai. P_{ích} = 0,80 · 700 = 560 W, τ = 67 200/560 = 120 s. 96 s là do quên hiệu suất.",
+        "Đúng. m = 560 · 113/2 260 000 = 0,028 kg = 28 g.",
+        "Sai. Khối lượng còn lại là 0,20 − 0,028 = 0,172 kg, không phải 0,144 kg."
+      ]
+    },
+    {
+      "id": "vl-nhiet-cd-06-08", "type": "num", "level": 3,
+      "prompt": "Thả mẫu kim loại 0,150 kg ở 100 °C vào bình có nhiệt dung 42 J/K chứa 0,200 kg nước. Bình và nước ban đầu cùng ở 20 °C, cân bằng ở 22 °C. Hệ cách nhiệt, không chuyển thể, không bay hơi; c_{nước} = 4200 J/(kg·K). Tính nhiệt dung riêng kim loại theo J/(kg·K), làm tròn đến hàng đơn vị.",
+      "answer": 151, "round": 0, "exact": 150.76923076923077, "unit": "J/(kg·K)",
+      "explain": "Kim loại toả nhiệt: 0,150c(100 − 22). Nước và bình thu: (0,200 · 4200 + 42)(22 − 20) = 1764 J. Vậy c = 1764/(0,150 · 78) = 150,769230… J/(kg·K) ≈ 151 J/(kg·K). Ghi: 151."
+    },
+    {
+      "id": "vl-nhiet-cd-06-09", "type": "num", "level": 3,
+      "prompt": "Thả 0,100 kg nước đá ở 0 °C vào 0,300 kg nước ở 40 °C trong bình cách nhiệt có nhiệt dung không đáng kể. Lấy λ = 3,34·10^{5} J/kg, c_{nước} = 4200 J/(kg·K). Bỏ qua bay hơi. Tính nhiệt độ cân bằng theo °C, làm tròn đến một chữ số sau dấu phẩy.",
+      "answer": 10.1, "round": 1, "exact": 10.119047619047619, "unit": "°C",
+      "explain": "Nước nguội tới 0 °C có thể toả 0,300 · 4200 · 40 = 50 400 J > 0,100 · 334 000 = 33 400 J nên đá tan hết. Phần nhiệt còn lại làm nóng 0,400 kg nước: T = (50 400 − 33 400)/(0,400 · 4200) = 10,119047… °C ≈ 10,1 °C. Ghi: 10,1."
+    },
+    {
+      "id": "vl-nhiet-cd-06-10", "type": "num", "level": 3,
+      "prompt": "Đun 0,200 kg nước tăng 10 K bằng dây nung 200 W mất 60 s. Lượt khác dùng dây nung 300 W để cùng lượng nước tăng 10 K từ cùng nhiệt độ đầu. Công suất mất nhiệt không đổi và bằng nhau ở hai lượt; bỏ qua nhiệt dung bình, bay hơi và chuyển thể; c = 4200 J/(kg·K). Thời gian đun lượt sau là bao nhiêu s? Làm tròn đến hàng đơn vị.",
+      "answer": 35, "round": 0, "unit": "s",
+      "explain": "Mỗi lượt nước cần Q = 0,200 · 4200 · 10 = 8400 J. Từ lượt đầu, P_{mất} = 200 − 8400/60 = 60 W. Lượt sau: τ = 8400/(300 − 60) = 35 s. Ghi: 35."
+    },
+    {
+      "id": "vl-nhiet-cd-06-11", "type": "num", "level": 3,
+      "prompt": "Cho 0,100 kg nước đá ở −10 °C vào 0,300 kg nước ở 5 °C trong bình cách nhiệt có nhiệt dung không đáng kể. Lấy c_{đá} = 2100 J/(kg·K), c_{nước} = 4200 J/(kg·K), λ = 3,34·10^{5} J/kg. Bỏ qua bay hơi. Khi cân bằng, khối lượng nước đá còn lại là bao nhiêu g? Làm tròn đến một chữ số sau dấu phẩy.",
+      "answer": 87.4, "round": 1, "exact": 87.42514970059881, "unit": "g",
+      "explain": "Nước nguội tới 0 °C toả 0,300 · 4200 · 5 = 6300 J. Làm đá tăng từ −10 lên 0 °C cần 0,100 · 2100 · 10 = 2100 J. Còn 4200 J chỉ làm tan 4200/334 000 = 0,012574850… kg đá, nên cân bằng ở 0 °C và còn đá. Khối lượng đá còn lại: (0,100 − 0,012574850…) · 1000 = 87,425149… g ≈ 87,4 g. Ghi: 87,4."
+    }
+  ]
+}

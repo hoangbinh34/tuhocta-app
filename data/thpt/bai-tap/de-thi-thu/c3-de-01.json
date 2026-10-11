@@ -1,0 +1,652 @@
+{
+ "id": "c3-de-01",
+ "module": "mock-test",
+ "title": "Đề 1 – cấu trúc đề tốt nghiệp",
+ "emoji": "🏁",
+ "desc": "40 câu, 50 phút. Chủ đề: du lịch sinh thái, thư viện số, năng lượng tái tạo, tình nguyện, nông nghiệp đô thị.",
+ "minutes": 50,
+ "scale": 10,
+ "priority": 1,
+ "sources": [
+  "cau-truc-de-tn-2025"
+ ],
+ "sections": [
+  {
+   "title": "Câu 1–6",
+   "instruction": "Đọc quảng cáo và chọn phương án đúng cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "c3-de-01-g1",
+     "type": "group",
+     "title": "Eco-tour",
+     "passage": "DISCOVER CUC PHUONG – A WEEKEND WITH NATURE\nEscape the noise of the city and (1) ___ two days in Viet Nam's oldest national park. Our small-group tours are led by local guides (2) ___ know every trail and every bird call. You will hike through ancient forests, visit the Endangered Primate Rescue Centre and stay in a traditional stilt house. All meals are prepared with fresh, (3) ___ ingredients from nearby villages. We are (4) ___ to responsible travel: 10% of every booking goes towards forest protection. Book before the end of this month and (5) ___ a free cooking class. Don't miss this chance to reconnect (6) ___ nature!",
+     "items": [
+      {
+       "id": "c3-de-01-01",
+       "type": "mcq",
+       "prompt": "(1)",
+       "options": [
+        "spend",
+        "cost",
+        "last",
+        "pay"
+       ],
+       "answer": 0,
+       "explain": "spend (time) + khoảng thời gian: spend two days."
+      },
+      {
+       "id": "c3-de-01-02",
+       "type": "mcq",
+       "prompt": "(2)",
+       "options": [
+        "who",
+        "which",
+        "whose",
+        "whom"
+       ],
+       "answer": 0,
+       "explain": "Mệnh đề quan hệ chỉ người, làm chủ ngữ: who."
+      },
+      {
+       "id": "c3-de-01-03",
+       "type": "mcq",
+       "prompt": "(3)",
+       "options": [
+        "locally grown",
+        "local growing",
+        "locally growth",
+        "local grown"
+       ],
+       "answer": 0,
+       "explain": "Tính từ ghép trạng từ + quá khứ phân từ: locally grown (được trồng tại địa phương)."
+      },
+      {
+       "id": "c3-de-01-04",
+       "type": "mcq",
+       "prompt": "(4)",
+       "options": [
+        "committed",
+        "commitment",
+        "commit",
+        "committing"
+       ],
+       "answer": 0,
+       "explain": "be committed to: cam kết với."
+      },
+      {
+       "id": "c3-de-01-05",
+       "type": "mcq",
+       "prompt": "(5)",
+       "options": [
+        "receive",
+        "receiving",
+        "received",
+        "to receiving"
+       ],
+       "answer": 0,
+       "explain": "Song song với Book (câu mệnh lệnh): receive."
+      },
+      {
+       "id": "c3-de-01-06",
+       "type": "mcq",
+       "prompt": "(6)",
+       "options": [
+        "with",
+        "at",
+        "for",
+        "by"
+       ],
+       "answer": 0,
+       "explain": "reconnect with nature: kết nối lại với thiên nhiên."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 7–12",
+   "instruction": "Đọc thông báo và chọn phương án đúng cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "c3-de-01-g2",
+     "type": "group",
+     "title": "Library notice",
+     "passage": "NOTICE: NEW DIGITAL LIBRARY SERVICE\nFrom 1st March, all students will have (7) ___ to our new digital library. More than 5,000 e-books and audiobooks will be available (8) ___ charge. To log in, (9) ___ your student ID and the password sent to your school email. Please note that each e-book can be borrowed for a (10) ___ of 14 days. If you have any problems, ask the librarian for (11) ___. Printed books can still be borrowed (12) ___ usual.",
+     "items": [
+      {
+       "id": "c3-de-01-07",
+       "type": "mcq",
+       "prompt": "(7)",
+       "options": [
+        "access",
+        "accessible",
+        "accessibly",
+        "accessing"
+       ],
+       "answer": 0,
+       "explain": "have access to: có quyền truy cập (danh từ)."
+      },
+      {
+       "id": "c3-de-01-08",
+       "type": "mcq",
+       "prompt": "(8)",
+       "options": [
+        "free of",
+        "out of",
+        "free from",
+        "in place of"
+       ],
+       "answer": 0,
+       "explain": "free of charge: miễn phí."
+      },
+      {
+       "id": "c3-de-01-09",
+       "type": "mcq",
+       "prompt": "(9)",
+       "options": [
+        "use",
+        "using",
+        "to use",
+        "used"
+       ],
+       "answer": 0,
+       "explain": "Câu mệnh lệnh: use your student ID."
+      },
+      {
+       "id": "c3-de-01-10",
+       "type": "mcq",
+       "prompt": "(10)",
+       "options": [
+        "maximum",
+        "maximise",
+        "maximal",
+        "maximally"
+       ],
+       "answer": 0,
+       "explain": "for a maximum of: tối đa (danh từ)."
+      },
+      {
+       "id": "c3-de-01-11",
+       "type": "mcq",
+       "prompt": "(11)",
+       "options": [
+        "assistance",
+        "assist",
+        "assistant",
+        "assisted"
+       ],
+       "answer": 0,
+       "explain": "ask for assistance: nhờ giúp đỡ."
+      },
+      {
+       "id": "c3-de-01-12",
+       "type": "mcq",
+       "prompt": "(12)",
+       "options": [
+        "as",
+        "like",
+        "than",
+        "so"
+       ],
+       "answer": 0,
+       "explain": "as usual: như thường lệ."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 13–17",
+   "instruction": "Chọn thứ tự đúng để tạo thành hội thoại, lá thư hoặc đoạn văn.",
+   "items": [
+    {
+     "id": "c3-de-01-g3",
+     "type": "group",
+     "title": "Câu 13",
+     "passage": "a. Ben: Not yet. I can't decide between engineering and business.\nb. Anna: Have you chosen your university major yet?\nc. Anna: Why not talk to a career adviser? They might help you decide.",
+     "items": [
+      {
+       "id": "c3-de-01-13",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "b – a – c",
+        "a – b – c",
+        "b – c – a",
+        "c – a – b"
+       ],
+       "answer": 0,
+       "explain": "Hỏi (b) → trả lời chưa quyết định (a) → gợi ý (c)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-01-g4",
+     "type": "group",
+     "title": "Câu 14",
+     "passage": "a. Mai: Oh no! Did anyone get hurt?\nb. Huy: Did you hear about the flood in my hometown last night?\nc. Huy: Luckily not, but many houses were damaged.\nd. Mai: I hope everything gets back to normal soon.\ne. Huy: Thanks. My class is collecting money to help the families.",
+     "items": [
+      {
+       "id": "c3-de-01-14",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "b – a – c – d – e",
+        "b – c – a – d – e",
+        "a – b – c – d – e",
+        "b – a – c – e – d"
+       ],
+       "answer": 0,
+       "explain": "Kể tin (b) → hỏi có ai bị thương (a) → trả lời (c) → lời chúc (d) → cảm ơn và kể việc quyên góp (e)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-01-g5",
+     "type": "group",
+     "title": "Câu 15",
+     "passage": "Dear Dr Lan,\na. I am writing to thank you for the wonderful talk you gave at our school last week.\nb. Many of my classmates now say they want to study environmental science.\nc. Your stories about protecting sea turtles really inspired us.\nd. We hope you can visit us again next year.\nBest regards,\nNguyen Hoang Anh",
+     "items": [
+      {
+       "id": "c3-de-01-15",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "a – c – b – d",
+        "c – a – b – d",
+        "a – b – c – d",
+        "a – c – d – b"
+       ],
+       "answer": 0,
+       "explain": "Mục đích (a) → điều gây ấn tượng (c) → kết quả (b) → lời mời kết thư (d)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-01-g6",
+     "type": "group",
+     "title": "Câu 16",
+     "passage": "a. This is partly because solar panels and wind turbines are becoming cheaper than fossil fuels.\nb. Many countries are now investing heavily in solar and wind power.\nc. However, these sources depend on the weather, so energy storage is still a challenge.\nd. As a result, renewable energy now produces a large share of electricity in some places.",
+     "items": [
+      {
+       "id": "c3-de-01-16",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "b – a – d – c",
+        "a – b – d – c",
+        "c – b – a – d",
+        "b – a – c – d"
+       ],
+       "answer": 0,
+       "explain": "Chủ đề (b) → lý do \"This is partly because\" (a) → kết quả (d) → hạn chế \"However\" (c)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-01-g7",
+     "type": "group",
+     "title": "Câu 17",
+     "passage": "a. They plan their own budget, cook their meals and manage their study time.\nb. Living away from home for the first time can be challenging for university students.\nc. Although this is difficult at first, it helps them become more independent.\nd. Suddenly, they must take care of many things their parents used to do.",
+     "items": [
+      {
+       "id": "c3-de-01-17",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "b – d – a – c",
+        "d – b – a – c",
+        "b – a – d – c",
+        "b – d – c – a"
+       ],
+       "answer": 0,
+       "explain": "Chủ đề (b) → \"Suddenly, they must…\" (d) → ví dụ cụ thể (a) → đánh giá \"Although this…\" (c)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 18–22",
+   "instruction": "Đọc đoạn văn và chọn phương án phù hợp nhất cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "c3-de-01-g8",
+     "type": "group",
+     "title": "Renewable energy in Viet Nam",
+     "passage": "Viet Nam has great potential for renewable energy, (18) ___. In the south and centre of the country, there are many sunny days throughout the year, (19) ___. Over the past few years, thousands of solar panels have been installed on rooftops, (20) ___. Wind power is also developing, especially along the coast (21) ___. Experts say that to reach its climate goals, Viet Nam needs to upgrade its power grid, (22) ___.",
+     "items": [
+      {
+       "id": "c3-de-01-18",
+       "type": "mcq",
+       "prompt": "(18)",
+       "options": [
+        "especially from the sun and the wind",
+        "which especially the sun and the wind",
+        "the sun and the wind especially are",
+        "that especially sun and wind"
+       ],
+       "answer": 0,
+       "explain": "Cụm bổ sung thông tin: especially from the sun and the wind."
+      },
+      {
+       "id": "c3-de-01-19",
+       "type": "mcq",
+       "prompt": "(19)",
+       "options": [
+        "which makes these regions ideal for solar power",
+        "that make these regions ideal for solar power",
+        "making these regions ideal solar power",
+        "these regions are ideal for solar power"
+       ],
+       "answer": 0,
+       "explain": "Mệnh đề quan hệ không xác định thay cho cả mệnh đề trước, động từ số ít: which makes…"
+      },
+      {
+       "id": "c3-de-01-20",
+       "type": "mcq",
+       "prompt": "(20)",
+       "options": [
+        "allowing families to produce their own electricity",
+        "allowed families producing their own electricity",
+        "families can produce their own electricity",
+        "which allowing families to produce electricity"
+       ],
+       "answer": 0,
+       "explain": "Rút gọn chủ động chỉ kết quả: …, allowing families to…"
+      },
+      {
+       "id": "c3-de-01-21",
+       "type": "mcq",
+       "prompt": "(21)",
+       "options": [
+        "where strong winds blow for much of the year",
+        "which strong winds blow for much of the year",
+        "strong winds blowing much of year there",
+        "that strong winds blow for much of the year"
+       ],
+       "answer": 0,
+       "explain": "Mệnh đề quan hệ chỉ nơi chốn: along the coast where…"
+      },
+      {
+       "id": "c3-de-01-22",
+       "type": "mcq",
+       "prompt": "(22)",
+       "options": [
+        "so that clean electricity can reach more homes",
+        "so clean electricity reaching more homes",
+        "in order clean electricity can reach more homes",
+        "such that clean electricity reaching homes"
+       ],
+       "answer": 0,
+       "explain": "so that + mệnh đề chỉ mục đích."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 23–30",
+   "instruction": "Đọc bài và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "c3-de-01-g9",
+     "type": "group",
+     "title": "Volunteering abroad",
+     "passage": "Every summer, thousands of young people travel to other countries to volunteer. They teach English, build schools or help protect wildlife. For many, it is a life-changing experience that teaches them about different cultures and makes them more independent. Employers also value it, because it shows that a person can adapt to new situations.\n\nHowever, international volunteering has received criticism in recent years. Some programmes charge volunteers high fees but spend little of the money on local projects. Others send volunteers with no relevant skills to do jobs that local people could do better, such as building houses. In the worst cases, short-term volunteers at orphanages may even harm children, who become attached to adults and then lose them a few weeks later.\n\nExperts say that this does not mean young people should stop volunteering. Instead, they should choose carefully. A good programme works closely with local communities, explains clearly how fees are used and matches volunteers' skills with real needs. Volunteers should also stay long enough to make a difference. \"Ask yourself who really benefits,\" advises one charity worker. \"If the answer is mainly you, think again.\"",
+     "items": [
+      {
+       "id": "c3-de-01-23",
+       "type": "mcq",
+       "prompt": "What is the passage mainly about?",
+       "options": [
+        "The benefits and problems of volunteering abroad",
+        "How to find a job abroad",
+        "Why orphanages need more volunteers",
+        "The history of international charities"
+       ],
+       "answer": 0,
+       "explain": "Bài nói cả lợi ích và vấn đề của tình nguyện ở nước ngoài."
+      },
+      {
+       "id": "c3-de-01-24",
+       "type": "mcq",
+       "prompt": "According to paragraph 1, why do employers value volunteering abroad?",
+       "options": [
+        "It shows a person can adapt to new situations.",
+        "It shows a person can speak many languages.",
+        "It shows a person has a lot of money.",
+        "It shows a person likes travelling."
+       ],
+       "answer": 0,
+       "explain": "\"it shows that a person can adapt to new situations\"."
+      },
+      {
+       "id": "c3-de-01-25",
+       "type": "mcq",
+       "prompt": "The word \"relevant\" in paragraph 2 is closest in meaning to ___.",
+       "options": [
+        "suitable",
+        "expensive",
+        "modern",
+        "different"
+       ],
+       "answer": 0,
+       "explain": "relevant skills = kỹ năng phù hợp (suitable)."
+      },
+      {
+       "id": "c3-de-01-26",
+       "type": "mcq",
+       "prompt": "Which of the following is NOT mentioned as a problem of some programmes?",
+       "options": [
+        "Volunteers are not allowed to travel.",
+        "High fees are not spent on local projects.",
+        "Volunteers lack the right skills.",
+        "Short-term volunteers may harm children."
+       ],
+       "answer": 0,
+       "explain": "Bài không nói tình nguyện viên bị cấm đi lại."
+      },
+      {
+       "id": "c3-de-01-27",
+       "type": "mcq",
+       "prompt": "The word \"who\" in paragraph 2 refers to ___.",
+       "options": [
+        "children",
+        "volunteers",
+        "adults",
+        "orphanages"
+       ],
+       "answer": 0,
+       "explain": "\"harm children, who become attached to adults\": who = children."
+      },
+      {
+       "id": "c3-de-01-28",
+       "type": "mcq",
+       "prompt": "According to the experts, what should young people do?",
+       "options": [
+        "Choose a programme carefully",
+        "Stop volunteering completely",
+        "Only volunteer in their own country",
+        "Pay higher fees"
+       ],
+       "answer": 0,
+       "explain": "\"they should choose carefully\"."
+      },
+      {
+       "id": "c3-de-01-29",
+       "type": "mcq",
+       "prompt": "Which of the following best paraphrases \"Ask yourself who really benefits\"?",
+       "options": [
+        "Think about whether the project mainly helps local people or just you.",
+        "Ask the charity how much money it makes.",
+        "Find out which volunteers are the most useful.",
+        "Ask your friends whether they enjoyed volunteering."
+       ],
+       "answer": 0,
+       "explain": "Hãy tự hỏi ai thực sự được lợi: cộng đồng hay chỉ bản thân."
+      },
+      {
+       "id": "c3-de-01-30",
+       "type": "mcq",
+       "prompt": "It can be inferred that the charity worker believes ___.",
+       "options": [
+        "some volunteering trips benefit volunteers more than local communities",
+        "all volunteering trips are harmful",
+        "volunteers should never pay fees",
+        "young people are too selfish to volunteer"
+       ],
+       "answer": 0,
+       "explain": "\"If the answer is mainly you, think again\": có chuyến chủ yếu có lợi cho người đi."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 31–40",
+   "instruction": "Đọc bài và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "c3-de-01-g10",
+     "type": "group",
+     "title": "Farming in the city",
+     "passage": "On the rooftop of a five-storey building in Ho Chi Minh City, rows of lettuce, morning glory and herbs grow in neat boxes. The garden belongs to a group of office workers who started it three years ago. \"We wanted to know where our food comes from,\" explains Thanh, one of the founders. Today, the garden produces enough vegetables to supply twenty families every week.\n\nUrban farming, the practice of growing food in and around cities, is becoming popular worldwide. [I] As cities grow and farmland shrinks, people are finding creative ways to use empty spaces such as rooftops, balconies and car parks. [II] Some cities even have \"vertical farms\" – tall indoor buildings where plants grow in layers under special lights. [III] These farms use up to 95% less water than traditional farms and can produce food all year round. [IV]\n\nSupporters say urban farming has many benefits. It reduces the distance food travels from farm to table, which cuts transport costs and pollution. Green roofs also help to cool buildings in hot weather and provide habitats for bees and birds. In addition, community gardens bring neighbours together and give city children a chance to see how food is grown.\n\nNevertheless, urban farming cannot solve every problem. Vertical farms require a great deal of electricity, and most of them can only grow leafy vegetables, not rice or other staple crops. Rooftop gardens also need strong buildings that can carry the weight of soil and water. For these reasons, experts see urban farming as a valuable addition to traditional agriculture rather than a replacement for it.",
+     "items": [
+      {
+       "id": "c3-de-01-31",
+       "type": "mcq",
+       "prompt": "Which could be the best title for the passage?",
+       "options": [
+        "Growing Food in the City",
+        "How to Build a Five-storey Building",
+        "The End of Traditional Farming",
+        "Why Office Workers Are Stressed"
+       ],
+       "answer": 0,
+       "explain": "Bài nói về nông nghiệp đô thị."
+      },
+      {
+       "id": "c3-de-01-32",
+       "type": "mcq",
+       "prompt": "According to paragraph 1, why did the office workers start the garden?",
+       "options": [
+        "They wanted to know where their food comes from.",
+        "They wanted to sell vegetables.",
+        "Their company asked them to.",
+        "They had too much free time."
+       ],
+       "answer": 0,
+       "explain": "\"We wanted to know where our food comes from\"."
+      },
+      {
+       "id": "c3-de-01-33",
+       "type": "mcq",
+       "prompt": "The word \"shrinks\" in paragraph 2 is OPPOSITE in meaning to ___.",
+       "options": [
+        "expands",
+        "disappears",
+        "decreases",
+        "changes"
+       ],
+       "answer": 0,
+       "explain": "shrink (co lại) trái nghĩa expand (mở rộng)."
+      },
+      {
+       "id": "c3-de-01-34",
+       "type": "mcq",
+       "prompt": "Where in paragraph 2 does the following sentence best fit? \"In Singapore, for example, fish and vegetables are now farmed on top of shopping centres.\"",
+       "options": [
+        "[I]",
+        "[II]",
+        "[III]",
+        "[IV]"
+       ],
+       "answer": 1,
+       "explain": "Câu ví dụ về việc tận dụng không gian (mái trung tâm thương mại) hợp sau câu nói về rooftops, car parks [II].",
+       "noShuffle": true
+      },
+      {
+       "id": "c3-de-01-35",
+       "type": "mcq",
+       "prompt": "According to paragraph 2, vertical farms ___.",
+       "options": [
+        "use much less water than traditional farms",
+        "only work in summer",
+        "are built on rooftops",
+        "do not need any lights"
+       ],
+       "answer": 0,
+       "explain": "\"use up to 95% less water\"."
+      },
+      {
+       "id": "c3-de-01-36",
+       "type": "mcq",
+       "prompt": "Which of the following is NOT mentioned as a benefit of urban farming?",
+       "options": [
+        "It creates many well-paid jobs.",
+        "It reduces transport costs and pollution.",
+        "It helps cool buildings.",
+        "It brings neighbours together."
+       ],
+       "answer": 0,
+       "explain": "Bài không nói tạo nhiều việc làm lương cao."
+      },
+      {
+       "id": "c3-de-01-37",
+       "type": "mcq",
+       "prompt": "The word \"It\" in paragraph 3 refers to ___.",
+       "options": [
+        "urban farming",
+        "the distance",
+        "transport",
+        "pollution"
+       ],
+       "answer": 0,
+       "explain": "\"It reduces the distance food travels\": It = urban farming."
+      },
+      {
+       "id": "c3-de-01-38",
+       "type": "mcq",
+       "prompt": "According to paragraph 4, what is one limitation of vertical farms?",
+       "options": [
+        "They need a lot of electricity.",
+        "They use too much water.",
+        "They can grow rice easily.",
+        "They are too small."
+       ],
+       "answer": 0,
+       "explain": "\"Vertical farms require a great deal of electricity\"."
+      },
+      {
+       "id": "c3-de-01-39",
+       "type": "mcq",
+       "prompt": "Which of the following best paraphrases the last sentence?",
+       "options": [
+        "Experts think urban farming should support, not replace, traditional farming.",
+        "Experts believe traditional farming will soon disappear.",
+        "Experts say urban farming is not useful at all.",
+        "Experts want all farmers to move to cities."
+       ],
+       "answer": 0,
+       "explain": "addition … rather than a replacement: bổ sung chứ không thay thế."
+      },
+      {
+       "id": "c3-de-01-40",
+       "type": "mcq",
+       "prompt": "What is the writer's attitude towards urban farming?",
+       "options": [
+        "Positive but realistic about its limits",
+        "Completely negative",
+        "Uninterested",
+        "Angry"
+       ],
+       "answer": 0,
+       "explain": "Nêu nhiều lợi ích nhưng cũng chỉ ra hạn chế."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

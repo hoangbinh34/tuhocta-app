@@ -1,0 +1,145 @@
+{
+ "id": "th-np-02",
+ "module": "grammar",
+ "title": "Thì hiện tại tiếp diễn",
+ "emoji": "⏳",
+ "intro": "Dùng cho việc đang xảy ra lúc nói (now, at the moment, Look!, Listen!). Cấu trúc: am/is/are + V-ing.",
+ "instruction": "Chọn đáp án đúng.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL-NTT"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-np-02-01",
+   "type": "mcq",
+   "prompt": "Look! The children ___ in the garden.",
+   "options": [
+    "play",
+    "plays",
+    "are playing",
+    "is playing"
+   ],
+   "answer": 2,
+   "explain": "\"Look!\" báo hiệu việc đang xảy ra; the children số nhiều nên are playing."
+  },
+  {
+   "id": "th-np-02-02",
+   "type": "mcq",
+   "prompt": "My mother ___ dinner at the moment.",
+   "options": [
+    "cooks",
+    "is cooking",
+    "cooking",
+    "are cooking"
+   ],
+   "answer": 1,
+   "explain": "\"at the moment\" dùng hiện tại tiếp diễn; my mother = she nên is cooking."
+  },
+  {
+   "id": "th-np-02-03",
+   "type": "mcq",
+   "prompt": "Listen! Somebody ___ the piano.",
+   "options": [
+    "plays",
+    "is playing",
+    "are playing",
+    "play"
+   ],
+   "answer": 1,
+   "explain": "\"Listen!\" báo hiệu đang xảy ra; somebody đi với is."
+  },
+  {
+   "id": "th-np-02-04",
+   "type": "mcq",
+   "prompt": "I ___ my homework now.",
+   "options": [
+    "am doing",
+    "is doing",
+    "do",
+    "doing"
+   ],
+   "answer": 0,
+   "explain": "I + am + V-ing."
+  },
+  {
+   "id": "th-np-02-05",
+   "type": "mcq",
+   "prompt": "What ___ you doing? – I'm reading a book.",
+   "options": [
+    "are",
+    "is",
+    "do",
+    "does"
+   ],
+   "answer": 0,
+   "explain": "Câu hỏi với you: are you doing?"
+  },
+  {
+   "id": "th-np-02-06",
+   "type": "mcq",
+   "prompt": "They ___ watching TV now. They're sleeping.",
+   "options": [
+    "are",
+    "aren't",
+    "isn't",
+    "don't"
+   ],
+   "answer": 1,
+   "explain": "Câu sau nói họ đang ngủ, nên họ không xem TV: aren't."
+  },
+  {
+   "id": "th-np-02-07",
+   "type": "mcq",
+   "prompt": "___ she writing a letter? – Yes, she is.",
+   "options": [
+    "Do",
+    "Does",
+    "Is",
+    "Are"
+   ],
+   "answer": 2,
+   "explain": "Câu hỏi hiện tại tiếp diễn với she dùng Is."
+  },
+  {
+   "id": "th-np-02-08",
+   "type": "mcq",
+   "prompt": "We are ___ a picture of our school.",
+   "options": [
+    "draw",
+    "drawing",
+    "draws",
+    "drew"
+   ],
+   "answer": 1,
+   "explain": "Sau are cần V-ing: drawing."
+  },
+  {
+   "id": "th-np-02-09",
+   "type": "mcq",
+   "prompt": "Be quiet! The baby ___.",
+   "options": [
+    "sleeps",
+    "is sleeping",
+    "sleep",
+    "are sleeping"
+   ],
+   "answer": 1,
+   "explain": "\"Be quiet!\" cho biết em bé đang ngủ: is sleeping."
+  },
+  {
+   "id": "th-np-02-10",
+   "type": "mcq",
+   "prompt": "It ___ heavily now, so take your umbrella.",
+   "options": [
+    "rains",
+    "is raining",
+    "raining",
+    "rain"
+   ],
+   "answer": 1,
+   "explain": "\"now\" dùng hiện tại tiếp diễn: is raining."
+  }
+ ]
+}

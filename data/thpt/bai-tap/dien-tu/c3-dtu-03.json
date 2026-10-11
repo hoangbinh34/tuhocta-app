@@ -1,0 +1,188 @@
+{
+ "id": "c3-dtu-03",
+ "module": "cloze",
+ "title": "Đoạn văn và thông báo (3)",
+ "emoji": "📣",
+ "intro": "Đề tốt nghiệp câu 1–12: điền từ vào quảng cáo, thông báo. Hay kiểm tra: từ loại (danh/động/tính/trạng từ), giới từ đi kèm, cụm từ cố định (collocation), to V / V-ing, liên từ.",
+ "instruction": "Chọn phương án đúng cho mỗi chỗ trống.",
+ "shuffle": true,
+ "shuffleItems": false,
+ "priority": 1,
+ "sources": [
+  "cau-truc-de-tn-2025"
+ ],
+ "items": [
+  {
+   "id": "c3-dtu-03-g1",
+   "type": "group",
+   "title": "Urbanisation",
+   "passage": "In recent decades, more and more people have moved from rural areas to cities in search of better jobs and services. This process, known as urbanisation, has brought many (1) ___ to cities, such as modern infrastructure and more job opportunities. (2) ___, it has also created serious problems. Many cities are now (3) ___, and traffic jams have become part of daily life. The cost of housing has risen sharply, (4) ___ it difficult for young people to buy a home. To deal (5) ___ these issues, city planners are investing in public transport and building more green spaces. They hope these efforts will make cities more (6) ___ for everyone.",
+   "items": [
+    {
+     "id": "c3-dtu-03-01",
+     "type": "mcq",
+     "prompt": "(1)",
+     "options": [
+      "benefits",
+      "benefited",
+      "beneficial",
+      "beneficially"
+     ],
+     "answer": 0,
+     "explain": "Sau many cần danh từ số nhiều: benefits."
+    },
+    {
+     "id": "c3-dtu-03-02",
+     "type": "mcq",
+     "prompt": "(2)",
+     "options": [
+      "However",
+      "Therefore",
+      "Moreover",
+      "Besides"
+     ],
+     "answer": 0,
+     "explain": "Ý trước tốt, ý sau xấu (đối lập): However."
+    },
+    {
+     "id": "c3-dtu-03-03",
+     "type": "mcq",
+     "prompt": "(3)",
+     "options": [
+      "overcrowded",
+      "overcrowd",
+      "overcrowding",
+      "overcrowds"
+     ],
+     "answer": 0,
+     "explain": "Sau are cần tính từ: overcrowded (quá đông đúc)."
+    },
+    {
+     "id": "c3-dtu-03-04",
+     "type": "mcq",
+     "prompt": "(4)",
+     "options": [
+      "making",
+      "made",
+      "makes",
+      "to make"
+     ],
+     "answer": 0,
+     "explain": "Mệnh đề rút gọn chỉ kết quả: …, making it difficult…"
+    },
+    {
+     "id": "c3-dtu-03-05",
+     "type": "mcq",
+     "prompt": "(5)",
+     "options": [
+      "with",
+      "for",
+      "about",
+      "on"
+     ],
+     "answer": 0,
+     "explain": "deal with: giải quyết."
+    },
+    {
+     "id": "c3-dtu-03-06",
+     "type": "mcq",
+     "prompt": "(6)",
+     "options": [
+      "liveable",
+      "live",
+      "living",
+      "life"
+     ],
+     "answer": 0,
+     "explain": "more + tính từ: liveable (đáng sống)."
+    }
+   ]
+  },
+  {
+   "id": "c3-dtu-03-g2",
+   "type": "group",
+   "title": "Imperial Citadel",
+   "passage": "WELCOME TO THE IMPERIAL CITADEL\nTo help (7) ___ this World Heritage Site for future generations, please follow these rules:\n• Do not climb on walls or (8) ___ any objects.\n• Photography is allowed, but flash is not permitted (9) ___ the exhibition rooms.\n• Please (10) ___ your voice down in temple areas.\n• Litter must be put in the bins (11) ___ along the paths.\n• Guided tours (12) ___ every hour from the main gate.",
+   "items": [
+    {
+     "id": "c3-dtu-03-07",
+     "type": "mcq",
+     "prompt": "(7)",
+     "options": [
+      "preserve",
+      "preservation",
+      "preservative",
+      "preserved"
+     ],
+     "answer": 0,
+     "explain": "help (to) + động từ nguyên mẫu: help preserve."
+    },
+    {
+     "id": "c3-dtu-03-08",
+     "type": "mcq",
+     "prompt": "(8)",
+     "options": [
+      "touch",
+      "touched",
+      "touching",
+      "touches"
+     ],
+     "answer": 0,
+     "explain": "Song song với climb (sau Do not): touch."
+    },
+    {
+     "id": "c3-dtu-03-09",
+     "type": "mcq",
+     "prompt": "(9)",
+     "options": [
+      "in",
+      "on",
+      "at",
+      "over"
+     ],
+     "answer": 0,
+     "explain": "Trong phòng trưng bày: in the exhibition rooms."
+    },
+    {
+     "id": "c3-dtu-03-10",
+     "type": "mcq",
+     "prompt": "(10)",
+     "options": [
+      "keep",
+      "hold",
+      "put",
+      "take"
+     ],
+     "answer": 0,
+     "explain": "keep your voice down: nói nhỏ."
+    },
+    {
+     "id": "c3-dtu-03-11",
+     "type": "mcq",
+     "prompt": "(11)",
+     "options": [
+      "placed",
+      "placing",
+      "place",
+      "places"
+     ],
+     "answer": 0,
+     "explain": "Rút gọn bị động: bins (which are) placed along the paths."
+    },
+    {
+     "id": "c3-dtu-03-12",
+     "type": "mcq",
+     "prompt": "(12)",
+     "options": [
+      "depart",
+      "departing",
+      "departed",
+      "to depart"
+     ],
+     "answer": 0,
+     "explain": "Lịch trình, chủ ngữ số nhiều: tours depart every hour."
+    }
+   ]
+  }
+ ]
+}

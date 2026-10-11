@@ -1,0 +1,129 @@
+{
+ "id": "c3-dh-01",
+ "module": "reading",
+ "title": "Đọc hiểu (1): Lifelong learning",
+ "emoji": "📖",
+ "intro": "Đề tốt nghiệp câu 23–40: hai bài đọc. Dạng câu hỏi: ý chính/tiêu đề, chi tiết, NOT TRUE / NOT mentioned, từ đồng nghĩa/trái nghĩa trong ngữ cảnh, từ quy chiếu (it, they…), diễn đạt lại câu gạch chân, vị trí chèn câu, suy luận.",
+ "instruction": "Đọc bài và chọn đáp án đúng.",
+ "shuffle": true,
+ "shuffleItems": false,
+ "priority": 1,
+ "sources": [
+  "cau-truc-de-tn-2025"
+ ],
+ "items": [
+  {
+   "id": "c3-dh-01-g1",
+   "type": "group",
+   "title": "Learning never stops",
+   "passage": "[I] When Nguyen Van Binh retired from his job as an engineer at the age of 62, his family expected him to spend his days reading newspapers and looking after his garden. [II] Instead, he enrolled in an online course in digital photography. [III] Two years later, his photos of rural life in the Mekong Delta were displayed at a small exhibition in Can Tho. [IV]\n\nBinh's story is not unusual. Around the world, a growing number of adults are returning to education, not to get a degree but simply to keep their minds active. Researchers have found that learning new skills in later life can improve memory and may even lower the risk of some brain diseases. It can also reduce loneliness, because classes give older people a chance to meet others who share their interests.\n\nTechnology has made lifelong learning much more accessible. In the past, people had to travel to a college and follow a fixed timetable. Today, thousands of courses, many of them free, are available online, and learners can study at their own pace. However, not everyone benefits equally. Some older adults lack the digital skills or the equipment needed to take part, and experts warn that this \"digital divide\" could leave them further behind.\n\nTo solve this problem, some communities have opened learning centres where volunteers teach basic computer skills. In Ha Noi, a group of university students runs free weekend classes for retired people. \"At first, many of them were afraid of the computer,\" says one volunteer. \"Now they send us messages and photos every day.\"",
+   "items": [
+    {
+     "id": "c3-dh-01-01",
+     "type": "mcq",
+     "prompt": "Where in paragraph 1 does the following sentence best fit? \"He had never owned a camera before.\"",
+     "options": [
+      "[I]",
+      "[II]",
+      "[III]",
+      "[IV]"
+     ],
+     "answer": 2,
+     "explain": "Câu này nói trước đó ông chưa từng có máy ảnh: đặt ở [III], ngay sau câu kể ông đăng ký học nhiếp ảnh và trước câu kể thành quả.",
+     "noShuffle": true
+    },
+    {
+     "id": "c3-dh-01-02",
+     "type": "mcq",
+     "prompt": "According to paragraph 2, why are more adults returning to education?",
+     "options": [
+      "To keep their minds active",
+      "To get a university degree",
+      "To find a better job",
+      "To become teachers"
+     ],
+     "answer": 0,
+     "explain": "\"not to get a degree but simply to keep their minds active\"."
+    },
+    {
+     "id": "c3-dh-01-03",
+     "type": "mcq",
+     "prompt": "Which of the following is NOT mentioned as a benefit of learning in later life?",
+     "options": [
+      "Better memory",
+      "Less loneliness",
+      "A higher income",
+      "A lower risk of some brain diseases"
+     ],
+     "answer": 2,
+     "explain": "Bài không nhắc thu nhập cao hơn."
+    },
+    {
+     "id": "c3-dh-01-04",
+     "type": "mcq",
+     "prompt": "The word \"accessible\" in paragraph 3 is closest in meaning to ___.",
+     "options": [
+      "easy to reach or use",
+      "very expensive",
+      "hard to understand",
+      "well organised"
+     ],
+     "answer": 0,
+     "explain": "accessible = dễ tiếp cận."
+    },
+    {
+     "id": "c3-dh-01-05",
+     "type": "mcq",
+     "prompt": "The word \"them\" in \"many of them free\" (paragraph 3) refers to ___.",
+     "options": [
+      "courses",
+      "people",
+      "learners",
+      "colleges"
+     ],
+     "answer": 0,
+     "explain": "\"thousands of courses, many of them free\": them = courses."
+    },
+    {
+     "id": "c3-dh-01-06",
+     "type": "mcq",
+     "prompt": "What does the writer mean by the \"digital divide\"?",
+     "options": [
+      "The gap between people who can and cannot use digital technology",
+      "The difference between free and paid courses",
+      "The distance between colleges and homes",
+      "The difference between young and old learners' interests"
+     ],
+     "answer": 0,
+     "explain": "Ngữ cảnh: một số người già thiếu kỹ năng/thiết bị số, nên bị bỏ lại phía sau."
+    },
+    {
+     "id": "c3-dh-01-07",
+     "type": "mcq",
+     "prompt": "Which of the following can be inferred from the last paragraph?",
+     "options": [
+      "The retired learners have become more confident with technology.",
+      "The volunteers are paid by the government.",
+      "The classes take place every evening.",
+      "Most retired people refuse to use computers."
+     ],
+     "answer": 0,
+     "explain": "Lúc đầu sợ máy tính, bây giờ nhắn tin, gửi ảnh mỗi ngày: đã tự tin hơn."
+    },
+    {
+     "id": "c3-dh-01-08",
+     "type": "mcq",
+     "prompt": "Which of the following best summarises the passage?",
+     "options": [
+      "Lifelong learning brings many benefits to older people, and technology helps, although some need support to use it.",
+      "Retired engineers often become famous photographers.",
+      "Online courses are better than traditional colleges.",
+      "Older people should not use computers because they are afraid of them."
+     ],
+     "answer": 0,
+     "explain": "Tóm tắt đủ ý: lợi ích, công nghệ, khoảng cách số và giải pháp."
+    }
+   ]
+  }
+ ]
+}

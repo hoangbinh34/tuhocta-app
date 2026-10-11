@@ -1,0 +1,171 @@
+{
+ "id": "th-np-01",
+ "module": "grammar",
+ "title": "Thì hiện tại đơn",
+ "emoji": "🔁",
+ "intro": "Dùng cho thói quen, sự thật. He/She/It + động từ thêm -s/-es. Phủ định/câu hỏi dùng do/does.",
+ "instruction": "Chọn đáp án đúng.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL-NTT"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-np-01-01",
+   "type": "mcq",
+   "prompt": "My brother ___ football every afternoon.",
+   "options": [
+    "play",
+    "plays",
+    "playing",
+    "is play"
+   ],
+   "answer": 1,
+   "explain": "Chủ ngữ \"My brother\" (= he) nên động từ thêm -s: plays."
+  },
+  {
+   "id": "th-np-01-02",
+   "type": "mcq",
+   "prompt": "She ___ to school by bus every day.",
+   "options": [
+    "go",
+    "goes",
+    "going",
+    "is go"
+   ],
+   "answer": 1,
+   "explain": "She + goes (go thêm -es)."
+  },
+  {
+   "id": "th-np-01-03",
+   "type": "mcq",
+   "prompt": "___ your sister like ice cream?",
+   "options": [
+    "Do",
+    "Does",
+    "Is",
+    "Are"
+   ],
+   "answer": 1,
+   "explain": "Chủ ngữ \"your sister\" (ngôi 3 số ít) nên dùng Does."
+  },
+  {
+   "id": "th-np-01-04",
+   "type": "mcq",
+   "prompt": "We ___ have English on Fridays.",
+   "options": [
+    "doesn't",
+    "don't",
+    "isn't",
+    "aren't"
+   ],
+   "answer": 1,
+   "explain": "We + don't + động từ nguyên mẫu."
+  },
+  {
+   "id": "th-np-01-05",
+   "type": "mcq",
+   "prompt": "The sun ___ in the east.",
+   "options": [
+    "rise",
+    "rises",
+    "rising",
+    "is rise"
+   ],
+   "answer": 1,
+   "explain": "Sự thật hiển nhiên dùng hiện tại đơn; the sun = it nên rises."
+  },
+  {
+   "id": "th-np-01-06",
+   "type": "mcq",
+   "prompt": "Lan usually ___ her homework after dinner.",
+   "options": [
+    "does",
+    "do",
+    "doing",
+    "is doing"
+   ],
+   "answer": 0,
+   "explain": "\"usually\" là dấu hiệu hiện tại đơn; Lan = she nên does."
+  },
+  {
+   "id": "th-np-01-07",
+   "type": "mcq",
+   "prompt": "My parents ___ in a hospital.",
+   "options": [
+    "works",
+    "work",
+    "working",
+    "is work"
+   ],
+   "answer": 1,
+   "explain": "My parents = they nên dùng work (không thêm -s)."
+  },
+  {
+   "id": "th-np-01-08",
+   "type": "mcq",
+   "prompt": "How often ___ he go swimming?",
+   "options": [
+    "do",
+    "does",
+    "is",
+    "are"
+   ],
+   "answer": 1,
+   "explain": "Câu hỏi với he dùng does + động từ nguyên mẫu."
+  },
+  {
+   "id": "th-np-01-09",
+   "type": "mcq",
+   "prompt": "Tom ___ like vegetables.",
+   "options": [
+    "don't",
+    "doesn't",
+    "isn't",
+    "not"
+   ],
+   "answer": 1,
+   "explain": "Tom = he nên phủ định là doesn't."
+  },
+  {
+   "id": "th-np-01-10",
+   "type": "mcq",
+   "prompt": "There ___ thirty students in my class.",
+   "options": [
+    "is",
+    "are",
+    "be",
+    "am"
+   ],
+   "answer": 1,
+   "explain": "thirty students là số nhiều nên dùng are."
+  },
+  {
+   "id": "th-np-01-11",
+   "type": "mcq",
+   "prompt": "My cat ___ milk every morning.",
+   "options": [
+    "drink",
+    "drinks",
+    "drinking",
+    "is drink"
+   ],
+   "answer": 1,
+   "explain": "My cat = it nên drinks."
+  },
+  {
+   "id": "th-np-01-12",
+   "type": "mcq",
+   "prompt": "What time ___ you get up?",
+   "options": [
+    "do",
+    "does",
+    "are",
+    "is"
+   ],
+   "answer": 0,
+   "explain": "Câu hỏi với you dùng do."
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "vl-khi-cd-01",
+  "title": "Khí: nhận biết mô hình, định luật và đơn vị",
+  "items": [
+    {
+      "id": "vl-khi-cd-01-01", "type": "mcq", "level": 1,
+      "prompt": "Phát biểu nào đúng với mô hình khí lí tưởng?",
+      "options": ["Các va chạm giữa phân tử được coi là đàn hồi", "Phân tử không có khối lượng", "Các phân tử chỉ chuyển động khi có gió", "Thể tích riêng của phân tử chiếm gần hết bình"], "answer": 0,
+      "explain": "Mô hình coi va chạm là đàn hồi và bỏ qua kích thước phân tử so với khoảng cách giữa chúng. Phân tử vẫn có khối lượng và chuyển động nhiệt."
+    },
+    {
+      "id": "vl-khi-cd-01-02", "type": "mcq", "level": 1,
+      "prompt": "Giữa hai va chạm, phân tử khí lí tưởng chuyển động như thế nào khi bỏ qua ngoại lực?",
+      "options": ["Tròn đều", "Thẳng đều", "Dao động quanh vị trí cố định", "Chậm dần rồi dừng"], "answer": 1,
+      "explain": "Ngoài va chạm, mô hình bỏ qua lực tương tác; không có ngoại lực nên phân tử chuyển động thẳng đều."
+    },
+    {
+      "id": "vl-khi-cd-01-03", "type": "mcq", "level": 1,
+      "prompt": "Hệ thức nào mô tả định luật Boyle cho một lượng khí xác định?",
+      "options": ["p/T không đổi khi V không đổi", "V/T không đổi khi p không đổi", "pV không đổi khi T không đổi", "p/V không đổi khi T không đổi"], "answer": 2,
+      "explain": "Định luật Boyle mô tả quá trình đẳng nhiệt: pV = hằng số với lượng khí không đổi."
+    },
+    {
+      "id": "vl-khi-cd-01-04", "type": "mcq", "level": 1,
+      "prompt": "Với một lượng khí lí tưởng xác định, hệ thức của quá trình đẳng áp là gì?",
+      "options": ["pV = hằng số", "p/T = hằng số", "VT = hằng số", "V/T = hằng số"], "answer": 3,
+      "explain": "Định luật Charles: V tỉ lệ với T theo kelvin khi áp suất và lượng khí không đổi."
+    },
+    {
+      "id": "vl-khi-cd-01-05", "type": "mcq", "level": 1,
+      "prompt": "Kí hiệu n trong pV = nRT biểu thị đại lượng nào?",
+      "options": ["Số mol khí", "Số phân tử trên một m³", "Khối lượng một phân tử", "Số nhát bơm"], "answer": 0,
+      "explain": "n là lượng chất tính theo mol; số phân tử là N = nN_{A}."
+    },
+    {
+      "id": "vl-khi-cd-01-06", "type": "mcq", "level": 1,
+      "prompt": "Theo quy ước T (K) = t (°C) + 273, khí ở 27 °C có nhiệt độ bao nhiêu kelvin?",
+      "options": ["246 K", "300 K", "27 K", "273 K"], "answer": 1,
+      "explain": "T = 27 + 273 = 300 K. Phải đổi nhiệt độ trước khi lấy tỉ số trong định luật khí."
+    },
+    {
+      "id": "vl-khi-cd-01-07", "type": "mcq", "level": 1,
+      "prompt": "Đơn vị SI của áp suất là gì?",
+      "options": ["N", "J", "Pa", "mol"], "answer": 2,
+      "explain": "Áp suất là lực trên một đơn vị diện tích; 1 Pa = 1 N/m²."
+    },
+    {
+      "id": "vl-khi-cd-01-08", "type": "mcq", "level": 1,
+      "prompt": "Biểu thức nào đúng cho động năng tịnh tiến trung bình E của một phân tử khí lí tưởng?",
+      "options": ["E = (3/2)RT", "E = (3/2)nRT", "E = (1/2)(R/N_{A})T", "E = (3/2)(R/N_{A})T"], "answer": 3,
+      "explain": "E = (3/2)kT với k = R/N_{A}. (3/2)RT là năng lượng tịnh tiến của một mol khí, không phải một phân tử."
+    },
+    {
+      "id": "vl-khi-cd-01-09", "type": "mcq", "level": 1,
+      "prompt": "Số mol n của mẫu khí khối lượng m, khối lượng mol M, được tính bằng công thức nào?",
+      "options": ["n = m/M (khối lượng chia khối lượng mol)", "n = mM", "n = M/m (khối lượng mol chia khối lượng)", "n = m + M"], "answer": 0,
+      "explain": "n = m/M khi m và M dùng cùng đơn vị khối lượng, chẳng hạn g và g/mol."
+    },
+    {
+      "id": "vl-khi-cd-01-10", "type": "num", "level": 1,
+      "prompt": "Một bình khí có thể tích 0,0025 m³. Đổi thể tích sang L, làm tròn đến một chữ số sau dấu phẩy.",
+      "answer": 2.5, "round": 1, "unit": "L",
+      "explain": "1 m³ = 1000 L nên V = 0,0025 · 1000 = 2,5 L. Ghi: 2,5."
+    }
+  ]
+}

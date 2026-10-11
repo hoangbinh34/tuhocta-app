@@ -1,0 +1,155 @@
+{
+ "id": "th-am-05",
+ "module": "phonics",
+ "title": "Nguyên âm \"e\", \"i\", \"ea\", \"ee\"",
+ "emoji": "🔡",
+ "intro": "Chữ e: /e/ (bed) hoặc /iː/ (she). Chữ i: /ɪ/ (big) hoặc /aɪ/ (kite). ea: /iː/ (tea), /e/ (head), /eɪ/ (great). ee: /iː/ (tree). (Đáp án theo giọng Anh-Anh như sách giáo khoa; nút 🔊 cũng đọc giọng Anh.)",
+ "instruction": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-am-05-01",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "b[[e]]d",
+    "r[[e]]d",
+    "p[[e]]n",
+    "sh[[e]]"
+   ],
+   "answer": 3,
+   "explain": "she: /iː/. bed, red, pen: /e/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-05-02",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "b[[i]]g",
+    "s[[i]]t",
+    "f[[i]]sh",
+    "k[[i]]te"
+   ],
+   "answer": 3,
+   "explain": "kite: /aɪ/. big, sit, fish: /ɪ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-05-03",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "f[[i]]ve",
+    "n[[i]]ne",
+    "l[[i]]ke",
+    "sw[[i]]m"
+   ],
+   "answer": 3,
+   "explain": "swim: /ɪ/. five, nine, like: /aɪ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-05-04",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "t[[ea]]",
+    "s[[ea]]",
+    "[[ea]]t",
+    "h[[ea]]d"
+   ],
+   "answer": 3,
+   "explain": "head: /e/. tea, sea, eat: /iː/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-05-05",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "br[[ea]]d",
+    "w[[ea]]ther",
+    "h[[ea]]vy",
+    "b[[ea]]ch"
+   ],
+   "answer": 3,
+   "explain": "beach: /iː/. bread, weather, heavy: /e/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-05-06",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "gr[[ea]]t",
+    "br[[ea]]k",
+    "st[[ea]]k",
+    "m[[ea]]t"
+   ],
+   "answer": 3,
+   "explain": "meat: /iː/. great, break, steak: /eɪ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-05-07",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "b[[e]]",
+    "m[[e]]",
+    "h[[e]]",
+    "th[[e]]m"
+   ],
+   "answer": 3,
+   "explain": "them: /e/. be, me, he: /iː/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-05-08",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "ch[[i]]ld",
+    "m[[i]]nd",
+    "k[[i]]nd",
+    "w[[i]]nter"
+   ],
+   "answer": 3,
+   "explain": "winter: /ɪ/. child, mind, kind: /aɪ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-05-09",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "n[[ee]]d",
+    "s[[ee]]",
+    "m[[ea]]t",
+    "br[[ea]]kfast"
+   ],
+   "answer": 3,
+   "explain": "breakfast: /e/. need, see, meat: /iː/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-05-10",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "t[[e]]n",
+    "m[[e]]t",
+    "l[[e]]g",
+    "w[[e]]"
+   ],
+   "answer": 3,
+   "explain": "we: /iː/. ten, met, leg: /e/.",
+   "skill": "phat-am"
+  }
+ ]
+}

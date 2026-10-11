@@ -1,0 +1,94 @@
+{
+  "id": "vl-tu-cd-03",
+  "title": "Từ: vận dụng phép đo, cảm ứng và bảo toàn năng lượng",
+  "items": [
+    {
+      "id": "vl-tu-cd-03-01", "type": "mcq", "level": 3,
+      "prompt": "Một đoạn dây nằm ngang dài 20 cm, khối lượng 6,0 g nằm hoàn toàn trong từ trường đều B = 0,50 T hướng ra khỏi mặt giấy. Dây có thể chuyển động thẳng đứng trên mặt giấy. Bỏ qua lực khác ngoài trọng lực và lực từ; g = 10 m/s². Dòng điện nào làm lực từ cân bằng trọng lực?",
+      "options": ["0,60 A từ trái sang phải", "3,0 A từ phải sang trái", "0,60 A từ phải sang trái", "0,060 A từ trái sang phải"], "answer": 2,
+      "explain": "Cần lực từ hướng lên: với B ra khỏi giấy, dòng điện phải từ phải sang trái. Độ lớn I = mg/(Bl) = 0,0060 · 10/(0,50 · 0,20) = 0,60 A. Phải kiểm cả chiều và độ lớn, đồng thời đổi g → kg, cm → m."
+    },
+    {
+      "id": "vl-tu-cd-03-02", "type": "mcq", "level": 3,
+      "prompt": "Cuộn dây 200 vòng giống nhau, diện tích mỗi vòng 40 cm², nằm trong từ trường đều B = 0,30 T. Cuộn quay trong 0,10 s làm góc giữa B và pháp tuyến đã chọn tăng từ 60° đến 120°. Độ lớn suất điện động cảm ứng trung bình là bao nhiêu?",
+      "options": ["2,4 V", "0 V", "1,2 V", "4,8 V"], "answer": 0,
+      "explain": "Từ thông đổi dấu: Φ_{1} = 0,30 · 0,0040 · cos 60° = 0,00060 Wb; Φ_{2} = −0,00060 Wb. |e| = 200 · |−0,00060 − 0,00060|/0,10 = 2,4 V. Không lấy hiệu hai độ lớn từ thông, vì như vậy sẽ ra 0 sai."
+    },
+    {
+      "id": "vl-tu-cd-03-03", "type": "mcq", "level": 3,
+      "prompt": "Thanh dẫn nằm ngang dài l = 0,40 m, khối lượng 0,020 kg, trượt xuống không ma sát dọc hai ray thẳng đứng trên mặt giấy, tạo mạch kín có điện trở tổng R = 2,0 Ω. B = 0,50 T đều hướng vào giấy. Chỉ xét trọng lực và lực từ; g = 10 m/s², bỏ qua tự cảm. Cho |e| = Blv, I = |e|/R, F = BIl. Khi thanh đạt tốc độ không đổi, tốc độ đó bằng bao nhiêu?",
+      "options": ["5,0 m/s", "2,5 m/s", "20 m/s", "10 m/s"], "answer": 3,
+      "explain": "Lenz cho lực từ cản thanh rơi, hướng lên. Khi tốc độ không đổi, mg = BIl = B²l²v/R. v = mgR/(B²l²) = 0,020 · 10 · 2,0/(0,50² · 0,40²) = 10 m/s. Không đặt mg = Blv vì Blv là suất điện động, không phải lực."
+    },
+    {
+      "id": "vl-tu-cd-03-04", "type": "mcq", "level": 3,
+      "prompt": "Dòng i = 2√2 cos(100πt) A chạy qua điện trở thuần 25 Ω của bộ đun trong 120 s. 80 % điện năng biến thành nhiệt làm nóng 0,200 kg nước; c = 4000 J/(kg·K), nước không chuyển thể. Độ tăng nhiệt độ nước là bao nhiêu?",
+      "options": ["6,0 K", "12 K", "24 K", "15 K"], "answer": 1,
+      "explain": "I hiệu dụng = 2 A nên P = I²R = 100 W. Nước nhận Q = 0,80 · 100 · 120 = 9600 J. ΔT = Q/(mc) = 9600/(0,200 · 4000) = 12 K. Dùng I_{0} thay I sẽ làm kết quả tăng gấp đôi sai."
+    },
+    {
+      "id": "vl-tu-cd-03-05", "type": "num", "level": 3,
+      "prompt": "Nam châm đặt trên cân; dây dẫn thẳng nằm ngang được giá riêng giữ cố định, vuông góc với B nằm ngang. Chiều dài hữu hiệu của dây trong từ trường đều là 6,0 cm. Khi tăng dòng điện từ 0 đến 3,0 A, số chỉ cân tăng 1,8 g. Bỏ qua các tác động khác; g = 10 m/s². Tính B theo T, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 0.1, "round": 2, "unit": "T",
+      "explain": "Dây dẫn thẳng và B đều nằm ngang, vuông góc nhau nên lực từ theo phương thẳng đứng. Cân tăng vì nam châm bị đẩy xuống, dây chịu lực từ hướng lên. Do đó F = Δm g = 0,0018 · 10 = 0,018 N. B = F/(Il) = 0,018/(3,0 · 0,060) = 0,10 T. Ghi: 0,10; không dùng khối lượng toàn bộ nam châm."
+    },
+    {
+      "id": "vl-tu-cd-03-06", "type": "num", "level": 3,
+      "prompt": "Cuộn dây 120 vòng giống nhau, mỗi vòng có diện tích 25 cm², đặt vuông góc với B đều. Trong 0,30 s, B tăng đều từ 0,080 T lên 0,320 T. Hai đầu cuộn nối với điện trở ngoài 4,0 Ω; điện trở cuộn 2,0 Ω, bỏ qua tự cảm. Tính cường độ dòng cảm ứng theo mA, làm tròn đến hàng đơn vị.",
+      "answer": 40, "round": 0, "unit": "mA",
+      "explain": "Suất điện động |e| = NSΔB/Δt = 120 · 25·10^{-4} · (0,320 − 0,080)/0,30 = 0,24 V. Điện trở toàn mạch là 4,0 + 2,0 = 6,0 Ω. I = 0,24/6,0 = 0,040 A = 40 mA. Ghi: 40; phải cộng điện trở cuộn dây."
+    },
+    {
+      "id": "vl-tu-cd-03-07", "type": "tf4", "level": 3,
+      "prompt": "Hai ray nằm ngang trên mặt giấy, cách nhau l = 0,20 m, đầu trái nối với điện trở. Một thanh dẫn thẳng đứng trên giấy nối hai ray, trượt đều sang phải với v = 2,0 m/s, làm diện tích mạch kín tăng. B = 0,40 T đều hướng vào mặt giấy. Điện trở toàn mạch R = 0,80 Ω; bỏ qua ma sát và tự cảm. Cho |e| = Blv và lực từ lên thanh F = BIl.",
+      "statements": [
+        "a) Độ lớn suất điện động cảm ứng là 0,16 V.",
+        "b) Dòng cảm ứng trong thanh chạy từ đầu dưới lên đầu trên.",
+        "c) Lực từ lên thanh hướng sang phải, cùng chiều vận tốc.",
+        "d) Công suất lực kéo ngoài cần để duy trì chuyển động đều là 0,032 W."
+      ],
+      "answers": [true, true, false, true],
+      "explain": [
+        "Đúng. |e| = 0,40 · 0,20 · 2,0 = 0,16 V.",
+        "Đúng. Từ thông vào giấy tăng nên B cảm ứng ra khỏi giấy. Dòng chạy ngược kim đồng hồ quanh mạch, tức từ dưới lên trong thanh bên phải.",
+        "Sai. I hướng lên, B vào giấy nên lực từ hướng sang trái, cản chuyển động của thanh.",
+        "Đúng. I = 0,16/0,80 = 0,20 A; F = 0,40 · 0,20 · 0,20 = 0,016 N. Lực kéo cân bằng lực từ nên P = Fv = 0,032 W = I²R, phù hợp bảo toàn năng lượng."
+      ]
+    },
+    {
+      "id": "vl-tu-cd-03-08", "type": "tf4", "level": 3,
+      "prompt": "Nam châm đặt trên cân điện tử, dây thẳng nằm ngang trên mặt giấy được giá riêng giữ cố định, phần hữu hiệu dài 4,0 cm. B đều hướng vào giấy. Khi cho dòng 2,0 A chạy từ trái sang phải, số chỉ cân tăng 1,2 g so với lúc chưa có dòng. Lấy g = 10 m/s²; bỏ qua tác động khác. Các ý c, d xét các thay đổi riêng biệt từ bố trí này.",
+      "statements": [
+        "a) Độ lớn cảm ứng từ đo được là 0,15 T.",
+        "b) Lực từ lên dây hướng xuống dưới trên mặt giấy.",
+        "c) Nếu đảo dòng điện, giữ nguyên độ lớn, số chỉ cân vẫn tăng 1,2 g so với khi chưa có dòng.",
+        "d) Nếu quay dây để phần hữu hiệu song song B, giữ nguyên B và I, số chỉ cân trở về giá trị khi chưa có dòng."
+      ],
+      "answers": [true, false, false, true],
+      "explain": [
+        "Đúng. F = 0,0012 · 10 = 0,012 N. B = F/(Il) = 0,012/(2,0 · 0,040) = 0,15 T.",
+        "Sai. Dòng sang phải, B vào giấy nên lực lên dây hướng lên. Phản lực lên nam châm hướng xuống làm cân tăng.",
+        "Sai. Đảo I làm dây bị đẩy xuống, nam châm bị đẩy lên: số chỉ cân giảm 1,2 g so với mốc chưa có dòng.",
+        "Đúng. Dây song song B cho F = BIl sin 0° = 0, nên không còn phản lực từ theo phương thẳng đứng lên nam châm."
+      ]
+    },
+    {
+      "id": "vl-tu-cd-03-09", "type": "num", "level": 3,
+      "prompt": "Thanh dài 0,25 m trượt đều vuông góc với chính nó và với B = 0,60 T, với v = 4,0 m/s, trong mạch kín có điện trở tổng 1,5 Ω. Bỏ qua ma sát, tự cảm và mọi tổn hao khác. Cho |e| = Blv; lực kéo ngoài duy trì chuyển động đều và toàn bộ công của lực kéo biến thành nhiệt trong mạch. Tính công lực kéo trong 30 s theo J, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 7.2, "round": 2, "unit": "J",
+      "explain": "|e| = 0,60 · 0,25 · 4,0 = 0,60 V. P = e²/R = 0,60²/1,5 = 0,24 W. Công lực kéo A = Q = PΔt = 0,24 · 30 = 7,20 J. Ghi: 7,20. Năng lượng do lực kéo cung cấp, không phải do từ trường tự sinh ra."
+    },
+    {
+      "id": "vl-tu-cd-03-10", "type": "num", "level": 3,
+      "prompt": "Electron có m = 9,1·10^{-31} kg, |q| = 1,6·10^{-19} C bay vào từ trường đều B = 2,0 mT với tốc độ v = 3,2·10^{6} m/s, vận tốc vuông góc B. Chỉ có lực từ tác dụng; bỏ qua hiệu ứng tương đối tính. Cho F = |q|vB và lực hướng tâm F = mv²/r. Tính bán kính quỹ đạo theo mm, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 9.1, "round": 2, "unit": "mm",
+      "explain": "Từ |q|vB = mv²/r suy ra r = mv/(|q|B). B = 0,0020 T. r = (9,1·10^{-31} · 3,2·10^{6})/(1,6·10^{-19} · 0,0020) = 0,00910 m = 9,10 mm. Ghi: 9,10. Điện tích âm quyết định chiều quay, không làm bán kính âm."
+    },
+    {
+      "id": "vl-tu-cd-03-11", "type": "num", "level": 3,
+      "prompt": "Cuộn kín thuần trở có 50 vòng giống nhau, điện trở tổng 3,0 Ω. Đồ thị từ thông qua mỗi vòng theo thời gian gồm đoạn thẳng từ (0 s; 0,20 mWb) đến (0,40 s; 0,44 mWb), rồi đoạn ngang đến t = 0,60 s. Bỏ qua tự cảm. Tính tổng nhiệt lượng tỏa ra từ t = 0 đến 0,60 s theo mJ, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 0.12, "round": 2, "unit": "mJ",
+      "explain": "Trong 0,40 s đầu: |e| = 50 · (0,44 − 0,20)·10^{-3}/0,40 = 0,030 V. Đoạn đồ thị ngang có e = 0, không tỏa thêm nhiệt trong mô hình bỏ qua tự cảm. Q = (e²/R) · 0,40 = (0,030²/3,0) · 0,40 = 0,00012 J = 0,12 mJ. Ghi: 0,12. Không dùng Δt = 0,60 s để tính e cho cả quá trình."
+    }
+  ]
+}

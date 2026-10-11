@@ -1,0 +1,73 @@
+/* Màu và biến giao diện. Thêm bộ màu mới: thêm một khối [data-palette="..."] */
+
+:root {
+  /* nền (sáng) */
+  --bg: #FAF7F2;
+  --surface: #FFFFFF;
+  --text: #2A2340;
+  --text-2: #6E6787;
+  --line: #ECE6F5;
+  --shadow: 0 6px 20px rgba(60, 40, 120, .10);
+  --tile: #FFFFFF;
+  --tile-text: #2A2340;
+
+  /* bộ màu mặc định: Mint-Lavender */
+  --primary: #7C5CFF;
+  --primary-deep: #5B3FE0;
+  --accent: #22C3A0;
+  --accent-deep: #149679;
+  --gold: #FFC94D;
+  --warn: #FF6B5E;
+
+  --primary-soft: color-mix(in srgb, var(--primary) 14%, var(--surface));
+  --accent-soft: color-mix(in srgb, var(--accent) 16%, var(--surface));
+  --warn-soft: color-mix(in srgb, var(--warn) 14%, var(--surface));
+  --tile-edge: color-mix(in srgb, var(--primary) 30%, var(--surface));
+
+  --radius: 20px;
+  --radius-sm: 14px;
+  --font: 'Be Vietnam Pro', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-fun: 'Baloo 2', 'Be Vietnam Pro', system-ui, sans-serif;
+  color-scheme: light;
+}
+
+[data-palette="peach"] {
+  --primary: #FF6F61;
+  --primary-deep: #E04B3D;
+  --accent: #FFB13D;
+  --accent-deep: #D98A12;
+}
+
+[data-palette="ocean"] {
+  --primary: #2F7BFF;
+  --primary-deep: #1A5AD6;
+  --accent: #00C2D1;
+  --accent-deep: #0098A4;
+}
+
+/* Chế độ tối: theo máy (khi để Tự động) hoặc khi chọn Tối */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #15121E;
+    --surface: #221D2F;
+    --text: #F3F0FA;
+    --text-2: #A9A2BE;
+    --line: #342D45;
+    --shadow: 0 6px 20px rgba(0, 0, 0, .35);
+    --tile: #2D2640;
+    --tile-text: #F3F0FA;
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme="dark"] {
+  --bg: #15121E;
+  --surface: #221D2F;
+  --text: #F3F0FA;
+  --text-2: #A9A2BE;
+  --line: #342D45;
+  --shadow: 0 6px 20px rgba(0, 0, 0, .35);
+  --tile: #2D2640;
+  --tile-text: #F3F0FA;
+  color-scheme: dark;
+}

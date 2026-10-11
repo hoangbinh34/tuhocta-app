@@ -1,0 +1,652 @@
+{
+ "id": "c3-de-02",
+ "module": "mock-test",
+ "title": "Đề 2 – cấu trúc đề tốt nghiệp",
+ "emoji": "🏁",
+ "desc": "40 câu, 50 phút. Chủ đề: ứng dụng học ngoại ngữ, chạy từ thiện, mạng xã hội, di sản, giấc ngủ của tuổi teen.",
+ "minutes": 50,
+ "scale": 10,
+ "priority": 1,
+ "sources": [
+  "cau-truc-de-tn-2025"
+ ],
+ "sections": [
+  {
+   "title": "Câu 1–6",
+   "instruction": "Đọc quảng cáo và chọn phương án đúng cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "c3-de-02-g1",
+     "type": "group",
+     "title": "Language app",
+     "passage": "SPEAKUP – YOUR POCKET ENGLISH TUTOR\nTired of boring grammar books? SpeakUp makes learning English (1) ___ and effective. Our app uses AI to create (2) ___ lessons based on your level and interests. You can practise speaking with a virtual partner (3) ___ gives instant feedback on your pronunciation. Just 15 minutes a day is enough to (4) ___ real progress. Thousands of Vietnamese students have already improved their test scores (5) ___ SpeakUp. Download it now and enjoy a free trial (6) ___ seven days!",
+     "items": [
+      {
+       "id": "c3-de-02-01",
+       "type": "mcq",
+       "prompt": "(1)",
+       "options": [
+        "enjoyable",
+        "enjoy",
+        "enjoyment",
+        "enjoyably"
+       ],
+       "answer": 0,
+       "explain": "make + tân ngữ + tính từ: make learning enjoyable."
+      },
+      {
+       "id": "c3-de-02-02",
+       "type": "mcq",
+       "prompt": "(2)",
+       "options": [
+        "personalised",
+        "personalise",
+        "personality",
+        "personally"
+       ],
+       "answer": 0,
+       "explain": "personalised lessons: bài học được cá nhân hoá."
+      },
+      {
+       "id": "c3-de-02-03",
+       "type": "mcq",
+       "prompt": "(3)",
+       "options": [
+        "which",
+        "what",
+        "whom",
+        "whose"
+       ],
+       "answer": 0,
+       "explain": "a virtual partner là chương trình máy (vật): which."
+      },
+      {
+       "id": "c3-de-02-04",
+       "type": "mcq",
+       "prompt": "(4)",
+       "options": [
+        "make",
+        "do",
+        "take",
+        "get"
+       ],
+       "answer": 0,
+       "explain": "make progress: tiến bộ."
+      },
+      {
+       "id": "c3-de-02-05",
+       "type": "mcq",
+       "prompt": "(5)",
+       "options": [
+        "thanks to",
+        "instead of",
+        "in spite of",
+        "apart from"
+       ],
+       "answer": 0,
+       "explain": "thanks to: nhờ có."
+      },
+      {
+       "id": "c3-de-02-06",
+       "type": "mcq",
+       "prompt": "(6)",
+       "options": [
+        "for",
+        "in",
+        "during",
+        "since"
+       ],
+       "answer": 0,
+       "explain": "a free trial for seven days: dùng thử 7 ngày."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 7–12",
+   "instruction": "Đọc thông báo và chọn phương án đúng cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "c3-de-02-g2",
+     "type": "group",
+     "title": "Charity run",
+     "passage": "GREEN RUN FOR CHILDREN – SUNDAY 12TH APRIL\nOur school is organising a 5-kilometre charity run to (7) ___ money for children in mountainous areas. All students, teachers and parents are welcome to (8) ___ part. The registration fee is 50,000 dong, and every runner will receive a T-shirt and a medal. The run starts at 6.30 a.m., so please arrive at least 30 minutes (9) ___. Water will be provided at three points (10) ___ the route. Remember to bring your own bottle, as we are trying to reduce plastic (11) ___. For more information, contact the Youth Union office (12) ___ Room 105.",
+     "items": [
+      {
+       "id": "c3-de-02-07",
+       "type": "mcq",
+       "prompt": "(7)",
+       "options": [
+        "raise",
+        "rise",
+        "arise",
+        "grow"
+       ],
+       "answer": 0,
+       "explain": "raise money: quyên góp tiền."
+      },
+      {
+       "id": "c3-de-02-08",
+       "type": "mcq",
+       "prompt": "(8)",
+       "options": [
+        "take",
+        "make",
+        "have",
+        "do"
+       ],
+       "answer": 0,
+       "explain": "take part: tham gia."
+      },
+      {
+       "id": "c3-de-02-09",
+       "type": "mcq",
+       "prompt": "(9)",
+       "options": [
+        "early",
+        "earliness",
+        "earliest",
+        "earlier than"
+       ],
+       "answer": 0,
+       "explain": "arrive 30 minutes early: đến sớm 30 phút."
+      },
+      {
+       "id": "c3-de-02-10",
+       "type": "mcq",
+       "prompt": "(10)",
+       "options": [
+        "along",
+        "across",
+        "through",
+        "above"
+       ],
+       "answer": 0,
+       "explain": "along the route: dọc đường chạy."
+      },
+      {
+       "id": "c3-de-02-11",
+       "type": "mcq",
+       "prompt": "(11)",
+       "options": [
+        "waste",
+        "wasteful",
+        "wastefully",
+        "wasted"
+       ],
+       "answer": 0,
+       "explain": "plastic waste: rác thải nhựa (danh từ)."
+      },
+      {
+       "id": "c3-de-02-12",
+       "type": "mcq",
+       "prompt": "(12)",
+       "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+       ],
+       "answer": 0,
+       "explain": "in Room 105."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 13–17",
+   "instruction": "Chọn thứ tự đúng để tạo thành hội thoại, lá thư hoặc đoạn văn.",
+   "items": [
+    {
+     "id": "c3-de-02-g3",
+     "type": "group",
+     "title": "Câu 13",
+     "passage": "a. Khoa: Sure, I'd be happy to. Which part don't you understand?\nb. Vy: Could you help me with this physics exercise?\nc. Vy: The question about electric circuits. I've read it three times!",
+     "items": [
+      {
+       "id": "c3-de-02-13",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "b – a – c",
+        "a – b – c",
+        "b – c – a",
+        "c – b – a"
+       ],
+       "answer": 0,
+       "explain": "Nhờ giúp (b) → đồng ý, hỏi phần nào (a) → trả lời (c)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-02-g4",
+     "type": "group",
+     "title": "Câu 14",
+     "passage": "a. Long: Really? I thought you didn't like science fiction.\nb. Thu: I watched the new space film last night. It was amazing!\nc. Thu: I usually don't, but this one had a great story about friendship.\nd. Long: Then I'll watch it this weekend.\ne. Thu: You won't regret it!",
+     "items": [
+      {
+       "id": "c3-de-02-14",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "b – a – c – d – e",
+        "b – c – a – d – e",
+        "a – b – c – d – e",
+        "b – a – c – e – d"
+       ],
+       "answer": 0,
+       "explain": "Kể (b) → ngạc nhiên (a) → giải thích (c) → quyết định xem (d) → đáp (e)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-02-g5",
+     "type": "group",
+     "title": "Câu 15",
+     "passage": "Dear Sir or Madam,\na. Recently, however, a lot of rubbish has been left near the entrance.\nb. I am writing to express my concern about the condition of the park near our school.\nc. I would suggest placing more bins and putting up signs to remind visitors.\nd. The park used to be a clean and pleasant place for students to relax.\nYours faithfully,\nPham Minh Chau",
+     "items": [
+      {
+       "id": "c3-de-02-15",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "b – d – a – c",
+        "d – b – a – c",
+        "b – a – d – c",
+        "b – d – c – a"
+       ],
+       "answer": 0,
+       "explain": "Mục đích (b) → trước đây (d) → \"Recently, however\" (a) → đề xuất (c)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-02-g6",
+     "type": "group",
+     "title": "Câu 16",
+     "passage": "a. For example, many teenagers check their phones within minutes of waking up.\nb. Smartphones have become an essential part of daily life for young people.\nc. Therefore, it is important to learn how to use them in a balanced way.\nd. Yet spending too much time on screens can affect sleep, concentration and mood.",
+     "items": [
+      {
+       "id": "c3-de-02-16",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "b – a – d – c",
+        "a – b – d – c",
+        "a – d – b – c",
+        "b – a – c – d"
+       ],
+       "answer": 0,
+       "explain": "Chủ đề (b) → ví dụ (a) → mặt trái \"Yet\" (d) → kết luận \"Therefore\" (c)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-02-g7",
+     "type": "group",
+     "title": "Câu 17",
+     "passage": "a. Many of them were built in the nineteenth century and combine Vietnamese and French styles.\nb. Ha Noi's Old Quarter is famous for its narrow \"tube houses\".\nc. Today, some owners are turning these houses into cafés and small hotels.\nd. This helps preserve the buildings while bringing new life to the area.",
+     "items": [
+      {
+       "id": "c3-de-02-17",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "b – a – c – d",
+        "a – b – c – d",
+        "b – c – a – d",
+        "b – a – d – c"
+       ],
+       "answer": 0,
+       "explain": "Giới thiệu (b) → \"Many of them\" (a) → hiện nay (c) → \"This helps\" (d)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 18–22",
+   "instruction": "Đọc đoạn văn và chọn phương án phù hợp nhất cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "c3-de-02-g8",
+     "type": "group",
+     "title": "Teenagers and social media",
+     "passage": "Social media has changed the way teenagers communicate with each other. Platforms such as TikTok and Instagram allow them to share ideas instantly, (18) ___. For shy students, online communication can feel more comfortable (19) ___. However, psychologists warn about the pressure (20) ___. Many teenagers compare their lives with the \"perfect\" photos they see online, (21) ___. To use social media in a healthy way, young people are advised to limit their screen time and (22) ___.",
+     "items": [
+      {
+       "id": "c3-de-02-18",
+       "type": "mcq",
+       "prompt": "(18)",
+       "options": [
+        "making it easy to stay in touch with friends",
+        "made it easy staying in touch with friends",
+        "it is easy to stay in touch with friends",
+        "which make easy to stay in touch with friends"
+       ],
+       "answer": 0,
+       "explain": "Rút gọn chủ động chỉ kết quả: …, making it easy to…"
+      },
+      {
+       "id": "c3-de-02-19",
+       "type": "mcq",
+       "prompt": "(19)",
+       "options": [
+        "than talking face to face",
+        "than to talking face to face",
+        "as talking face to face",
+        "than talk face to face"
+       ],
+       "answer": 0,
+       "explain": "So sánh hai hoạt động: more comfortable than talking…"
+      },
+      {
+       "id": "c3-de-02-20",
+       "type": "mcq",
+       "prompt": "(20)",
+       "options": [
+        "that comes from constantly receiving \"likes\" and comments",
+        "which coming from receiving \"likes\" and comments",
+        "comes from receiving \"likes\" and comments",
+        "that come from constantly receive \"likes\""
+       ],
+       "answer": 0,
+       "explain": "Mệnh đề quan hệ bổ nghĩa cho the pressure (số ít): that comes from…"
+      },
+      {
+       "id": "c3-de-02-21",
+       "type": "mcq",
+       "prompt": "(21)",
+       "options": [
+        "which can lead to low self-esteem",
+        "that can lead to low self-esteem",
+        "leading low self-esteem to",
+        "can lead to low self-esteem"
+       ],
+       "answer": 0,
+       "explain": "Mệnh đề quan hệ không xác định (sau dấu phẩy) thay cho cả việc so sánh: which."
+      },
+      {
+       "id": "c3-de-02-22",
+       "type": "mcq",
+       "prompt": "(22)",
+       "options": [
+        "follow accounts that make them feel positive",
+        "following accounts that make them feel positive",
+        "to following accounts making them positive",
+        "followed accounts which make them positive"
+       ],
+       "answer": 0,
+       "explain": "Song song với limit (sau to): limit … and follow …"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 23–30",
+   "instruction": "Đọc bài và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "c3-de-02-g9",
+     "type": "group",
+     "title": "Saving traditional crafts",
+     "passage": "In a small village near Hue, 70-year-old Mrs Hoa sits at her loom, weaving silk in the same way her grandmother taught her. For centuries, her village was famous for this craft. Today, however, she is one of only a few weavers left. Most young people have moved to the city to work in factories, where wages are higher and the work is less tiring.\n\nMrs Hoa's story is common across Viet Nam. Traditional crafts such as pottery, woodcarving and conical hat making are struggling to survive. Cheap factory-made products have replaced many handmade goods, and fewer young people are willing to spend years learning the skills.\n\nYet there are signs of hope. Some villages have opened workshops where tourists can try making pottery or lanterns, which provides extra income for craftspeople. Young designers are also working with artisans to create modern products, such as bags and phone cases, that use traditional patterns. In Mrs Hoa's village, a group of university students has started selling silk scarves online. \"Our customers love the story behind each piece,\" says one of them. \"They know they are buying something unique.\"",
+     "items": [
+      {
+       "id": "c3-de-02-23",
+       "type": "mcq",
+       "prompt": "What is the passage mainly about?",
+       "options": [
+        "The decline of traditional crafts and efforts to save them",
+        "How to weave silk",
+        "Why factory work is better",
+        "Tourism in Hue"
+       ],
+       "answer": 0,
+       "explain": "Bài nói nghề truyền thống mai một và nỗ lực cứu nghề."
+      },
+      {
+       "id": "c3-de-02-24",
+       "type": "mcq",
+       "prompt": "According to paragraph 1, why have most young people left the village?",
+       "options": [
+        "They want higher wages and easier work.",
+        "They do not like silk.",
+        "The village is too crowded.",
+        "They want to study abroad."
+       ],
+       "answer": 0,
+       "explain": "\"where wages are higher and the work is less tiring\"."
+      },
+      {
+       "id": "c3-de-02-25",
+       "type": "mcq",
+       "prompt": "The word \"struggling\" in paragraph 2 is closest in meaning to ___.",
+       "options": [
+        "having difficulty",
+        "growing quickly",
+        "becoming famous",
+        "changing slowly"
+       ],
+       "answer": 0,
+       "explain": "struggling to survive: chật vật để tồn tại."
+      },
+      {
+       "id": "c3-de-02-26",
+       "type": "mcq",
+       "prompt": "Which of the following is NOT mentioned as a reason for the decline of crafts?",
+       "options": [
+        "Government bans on handmade goods",
+        "Cheap factory-made products",
+        "Young people unwilling to learn the skills",
+        "Young people moving to cities"
+       ],
+       "answer": 0,
+       "explain": "Bài không nói chính phủ cấm hàng thủ công."
+      },
+      {
+       "id": "c3-de-02-27",
+       "type": "mcq",
+       "prompt": "The word \"which\" in paragraph 3 refers to ___.",
+       "options": [
+        "tourists trying crafts in workshops",
+        "villages",
+        "pottery",
+        "lanterns"
+       ],
+       "answer": 0,
+       "explain": "\"which provides extra income\": việc mở xưởng cho khách thử làm."
+      },
+      {
+       "id": "c3-de-02-28",
+       "type": "mcq",
+       "prompt": "How are young designers helping?",
+       "options": [
+        "By creating modern products with traditional patterns",
+        "By opening factories",
+        "By teaching tourists to weave",
+        "By buying all the silk"
+       ],
+       "answer": 0,
+       "explain": "\"create modern products… that use traditional patterns\"."
+      },
+      {
+       "id": "c3-de-02-29",
+       "type": "mcq",
+       "prompt": "Why do customers like the silk scarves, according to the student?",
+       "options": [
+        "Each piece has a story and is unique.",
+        "They are cheaper than factory scarves.",
+        "They are made by machines.",
+        "They are only sold in Hue."
+       ],
+       "answer": 0,
+       "explain": "\"love the story behind each piece… something unique\"."
+      },
+      {
+       "id": "c3-de-02-30",
+       "type": "mcq",
+       "prompt": "Which best describes the tone of the last paragraph?",
+       "options": [
+        "Hopeful",
+        "Angry",
+        "Sad",
+        "Doubtful"
+       ],
+       "answer": 0,
+       "explain": "Bắt đầu bằng \"Yet there are signs of hope\"."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 31–40",
+   "instruction": "Đọc bài và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "c3-de-02-g10",
+     "type": "group",
+     "title": "Why teenagers need more sleep",
+     "passage": "Many parents complain that their teenage children stay up late and are impossible to wake up in the morning. They often blame phones or laziness. Scientists, however, say that biology plays a big role. During adolescence, the body's internal clock shifts, so teenagers naturally feel sleepy later at night – often not until 11 p.m. or midnight.\n\nThe problem is that school usually starts early. In Viet Nam, many students must be in class by 7 a.m., which means getting up before 6. [I] As a result, a large number of teenagers sleep only six or seven hours a night, although experts recommend eight to ten. [II] Lack of sleep can affect memory, concentration and mood. [III] It has also been linked to a higher risk of accidents and weight gain. [IV]\n\nSome schools in other countries have experimented with later start times. In one study in the United States, when a school changed its start time from 7.50 a.m. to 8.45 a.m., students slept longer, attended class more regularly and got better grades. Teachers also reported that students were more alert in the morning.\n\nChanging school timetables is not always possible, but teenagers can still improve their sleep habits. Experts suggest keeping a regular bedtime, even at weekends, and avoiding screens for an hour before going to bed. Getting some sunlight in the morning can also help reset the body's clock. Finally, they recommend that teenagers avoid drinks containing caffeine, such as coffee and energy drinks, in the afternoon and evening.",
+     "items": [
+      {
+       "id": "c3-de-02-31",
+       "type": "mcq",
+       "prompt": "What is the main idea of the passage?",
+       "options": [
+        "Teenagers need more sleep, and both biology and habits affect it.",
+        "Teenagers are lazy because of their phones.",
+        "Schools should start at 6 a.m.",
+        "Coffee is good for students."
+       ],
+       "answer": 0,
+       "explain": "Bài giải thích vì sao tuổi teen thiếu ngủ và cách cải thiện."
+      },
+      {
+       "id": "c3-de-02-32",
+       "type": "mcq",
+       "prompt": "According to paragraph 1, why do teenagers feel sleepy later at night?",
+       "options": [
+        "Their body's internal clock changes.",
+        "They drink too much water.",
+        "They do too much homework.",
+        "Their parents let them stay up."
+       ],
+       "answer": 0,
+       "explain": "\"the body's internal clock shifts\"."
+      },
+      {
+       "id": "c3-de-02-33",
+       "type": "mcq",
+       "prompt": "The word \"shifts\" in paragraph 1 is closest in meaning to ___.",
+       "options": [
+        "changes",
+        "stops",
+        "breaks",
+        "repeats"
+       ],
+       "answer": 0,
+       "explain": "shift = thay đổi, dịch chuyển."
+      },
+      {
+       "id": "c3-de-02-34",
+       "type": "mcq",
+       "prompt": "How many hours of sleep do experts recommend for teenagers?",
+       "options": [
+        "Eight to ten",
+        "Six to seven",
+        "Five to six",
+        "Ten to twelve"
+       ],
+       "answer": 0,
+       "explain": "\"experts recommend eight to ten\"."
+      },
+      {
+       "id": "c3-de-02-35",
+       "type": "mcq",
+       "prompt": "Where in paragraph 2 does the following sentence best fit? \"In other words, they are often tired before the school day even begins.\"",
+       "options": [
+        "[I]",
+        "[II]",
+        "[III]",
+        "[IV]"
+       ],
+       "answer": 1,
+       "explain": "Câu \"In other words\" diễn đạt lại ý dậy trước 6 giờ, chỉ ngủ 6–7 tiếng; hợp nhất ở [II], sau câu \"As a result…\".",
+       "noShuffle": true
+      },
+      {
+       "id": "c3-de-02-36",
+       "type": "mcq",
+       "prompt": "Which of the following is NOT mentioned as an effect of lack of sleep?",
+       "options": [
+        "Better grades",
+        "Poorer memory",
+        "Changes in mood",
+        "Higher risk of accidents"
+       ],
+       "answer": 0,
+       "explain": "Thiếu ngủ không dẫn tới điểm tốt hơn."
+      },
+      {
+       "id": "c3-de-02-37",
+       "type": "mcq",
+       "prompt": "What happened when the US school started later?",
+       "options": [
+        "Students slept longer and got better grades.",
+        "Students went to bed later and were more tired.",
+        "Teachers complained about the change.",
+        "Fewer students came to class."
+       ],
+       "answer": 0,
+       "explain": "\"students slept longer, attended class more regularly and got better grades\"."
+      },
+      {
+       "id": "c3-de-02-38",
+       "type": "mcq",
+       "prompt": "The word \"alert\" in paragraph 3 is OPPOSITE in meaning to ___.",
+       "options": [
+        "sleepy",
+        "awake",
+        "careful",
+        "active"
+       ],
+       "answer": 0,
+       "explain": "alert (tỉnh táo) trái nghĩa sleepy (buồn ngủ)."
+      },
+      {
+       "id": "c3-de-02-39",
+       "type": "mcq",
+       "prompt": "Which of the following is NOT one of the experts' suggestions?",
+       "options": [
+        "Sleeping later at weekends",
+        "Keeping a regular bedtime",
+        "Avoiding screens before bed",
+        "Getting morning sunlight"
+       ],
+       "answer": 0,
+       "explain": "Chuyên gia khuyên giữ giờ ngủ đều cả cuối tuần, không khuyên ngủ muộn hơn."
+      },
+      {
+       "id": "c3-de-02-40",
+       "type": "mcq",
+       "prompt": "It can be inferred from the passage that ___.",
+       "options": [
+        "teenagers who sleep late are not always just being lazy",
+        "all schools in Viet Nam will start later",
+        "energy drinks help teenagers sleep",
+        "phones have no effect on sleep"
+       ],
+       "answer": 0,
+       "explain": "Đoạn 1: không chỉ do lười hay điện thoại mà do sinh học."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

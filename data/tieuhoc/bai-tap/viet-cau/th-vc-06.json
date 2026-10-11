@@ -1,0 +1,211 @@
+{
+ "id": "th-vc-06",
+ "module": "sentence",
+ "title": "Tìm và sửa lỗi sai (2)",
+ "emoji": "🔍",
+ "intro": "Lỗi hay gặp: chủ ngữ – động từ (he go → goes), thì (yesterday … see → saw), giới từ, a/an, much/many, và từ đồng âm viết sai (hair/hare, sun/son).",
+ "instruction": "Mỗi câu có MỘT từ sai. Bấm vào từ đó rồi gõ từ đúng.",
+ "shuffle": true,
+ "priority": 1,
+ "sources": [
+  "dang-de-NTT"
+ ],
+ "items": [
+  {
+   "id": "th-vc-06-01",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "He",
+    "is",
+    "good",
+    "at",
+    "play",
+    "chess."
+   ],
+   "wrong": 4,
+   "answers": [
+    "playing"
+   ],
+   "explain": "Sau giới từ at dùng V-ing."
+  },
+  {
+   "id": "th-vc-06-02",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "I",
+    "usually",
+    "gets",
+    "up",
+    "at",
+    "six."
+   ],
+   "wrong": 2,
+   "answers": [
+    "get"
+   ],
+   "explain": "I + get (không thêm -s)."
+  },
+  {
+   "id": "th-vc-06-03",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "This",
+    "is",
+    "the",
+    "goodest",
+    "book",
+    "in",
+    "the",
+    "shop."
+   ],
+   "wrong": 3,
+   "answers": [
+    "best"
+   ],
+   "explain": "good → the best (bất quy tắc)."
+  },
+  {
+   "id": "th-vc-06-04",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "Mai",
+    "and",
+    "Lan",
+    "is",
+    "my",
+    "best",
+    "friends."
+   ],
+   "wrong": 3,
+   "answers": [
+    "are"
+   ],
+   "explain": "Mai and Lan là số nhiều: are."
+  },
+  {
+   "id": "th-vc-06-05",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "We",
+    "went",
+    "to",
+    "the",
+    "zoo",
+    "and",
+    "see",
+    "many",
+    "animals",
+    "yesterday."
+   ],
+   "wrong": 6,
+   "answers": [
+    "saw"
+   ],
+   "explain": "Câu kể chuyện quá khứ: see → saw."
+  },
+  {
+   "id": "th-vc-06-06",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "My",
+    "sister",
+    "can",
+    "sings",
+    "very",
+    "well."
+   ],
+   "wrong": 3,
+   "answers": [
+    "sing"
+   ],
+   "explain": "Sau can dùng động từ nguyên mẫu: sing."
+  },
+  {
+   "id": "th-vc-06-07",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "They",
+    "saw",
+    "a",
+    "big",
+    "white",
+    "hair",
+    "jumping",
+    "in",
+    "the",
+    "forest."
+   ],
+   "wrong": 5,
+   "answers": [
+    "hare"
+   ],
+   "explain": "hair (tóc) đọc giống hare (thỏ rừng); con vật nhảy trong rừng là hare."
+  },
+  {
+   "id": "th-vc-06-08",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "I",
+    "bought",
+    "a",
+    "new",
+    "toy",
+    "car",
+    "for",
+    "my",
+    "sun."
+   ],
+   "wrong": 8,
+   "answers": [
+    "son"
+   ],
+   "explain": "sun (mặt trời) đọc giống son (con trai)."
+  },
+  {
+   "id": "th-vc-06-09",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "It's",
+    "very",
+    "hot.",
+    "Let's",
+    "swim",
+    "at",
+    "the",
+    "beech."
+   ],
+   "wrong": 7,
+   "answers": [
+    "beach"
+   ],
+   "explain": "beech (cây sồi) đọc giống beach (bãi biển)."
+  },
+  {
+   "id": "th-vc-06-10",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "My",
+    "father",
+    "drink",
+    "coffee",
+    "every",
+    "morning."
+   ],
+   "wrong": 2,
+   "answers": [
+    "drinks"
+   ],
+   "explain": "My father là ngôi 3 số ít, hiện tại đơn: drinks."
+  }
+ ]
+}

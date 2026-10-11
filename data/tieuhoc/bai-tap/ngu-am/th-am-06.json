@@ -1,0 +1,155 @@
+{
+ "id": "th-am-06",
+ "module": "phonics",
+ "title": "Phụ âm c, g, ch, th, s",
+ "emoji": "🔠",
+ "intro": "c: /k/ (cat), /s/ trước e, i, y (city). g: /ɡ/ (game), /dʒ/ trước e, i, y (gym, page). ch: /tʃ/ (chair), đôi khi /k/ (school). th: /θ/ (think) hoặc /ð/ (this). s: /s/, /z/ hoặc /ʃ/. (Đáp án theo giọng Anh-Anh như sách giáo khoa; nút 🔊 cũng đọc giọng Anh.)",
+ "instruction": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-am-06-01",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "[[c]]at",
+    "[[c]]ake",
+    "[[c]]ity",
+    "[[c]]ome"
+   ],
+   "answer": 2,
+   "explain": "city: /s/. cat, cake, come: /k/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-06-02",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "ri[[c]]e",
+    "fa[[c]]e",
+    "ni[[c]]e",
+    "musi[[c]]"
+   ],
+   "answer": 3,
+   "explain": "music: /k/. rice, face, nice: /s/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-06-03",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "[[g]]ame",
+    "[[g]]ood",
+    "[[g]]ym",
+    "[[g]]arden"
+   ],
+   "answer": 2,
+   "explain": "gym: /dʒ/. game, good, garden: /ɡ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-06-04",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "oran[[g]]e",
+    "pa[[g]]e",
+    "[[g]]iant",
+    "[[g]]ift"
+   ],
+   "answer": 3,
+   "explain": "gift: /ɡ/. orange, page, giant: /dʒ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-06-05",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "[[ch]]air",
+    "[[ch]]eap",
+    "tea[[ch]]er",
+    "s[[ch]]ool"
+   ],
+   "answer": 3,
+   "explain": "school: /k/. chair, cheap, teacher: /tʃ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-06-06",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "[[ch]]icken",
+    "[[ch]]ildren",
+    "[[ch]]emistry",
+    "[[ch]]urch"
+   ],
+   "answer": 2,
+   "explain": "chemistry: /k/. chicken, children, church: /tʃ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-06-07",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "[[th]]ink",
+    "[[th]]ree",
+    "[[th]]ank",
+    "[[th]]is"
+   ],
+   "answer": 3,
+   "explain": "this: /ð/. think, three, thank: /θ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-06-08",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "[[th]]ey",
+    "mo[[th]]er",
+    "[[th]]ere",
+    "ba[[th]]"
+   ],
+   "answer": 3,
+   "explain": "bath: /θ/. they, mother, there: /ð/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-06-09",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "[[s]]ee",
+    "[[s]]ugar",
+    "[[s]]it",
+    "[[s]]ix"
+   ],
+   "answer": 1,
+   "explain": "sugar: /ʃ/. see, sit, six: /s/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-06-10",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "hou[[s]]e",
+    "mou[[s]]e",
+    "ri[[s]]e",
+    "hor[[s]]e"
+   ],
+   "answer": 2,
+   "explain": "rise: /z/. house, mouse, horse: /s/.",
+   "skill": "phat-am"
+  }
+ ]
+}

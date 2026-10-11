@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "book": "Global Success",
+  "grades": [
+    {
+      "grade": 5,
+      "units": [
+        { "id": "g5-u01", "no": 1, "title": "All about me!", "titleVi": "Tất cả về mình", "emoji": "🙋", "file": "words/g5-u01.json" },
+        { "id": "g5-u02", "no": 2, "title": "Our homes", "titleVi": "Nhà của chúng mình", "emoji": "🏠", "file": "words/g5-u02.json" },
+        { "id": "g5-u03", "no": 3, "title": "My foreign friends", "titleVi": "Bạn nước ngoài của mình", "emoji": "🌏", "file": "words/g5-u03.json" },
+        { "id": "g5-u04", "no": 4, "title": "Our free-time activities", "titleVi": "Hoạt động lúc rảnh", "emoji": "🎻", "file": "words/g5-u04.json" },
+        { "id": "g5-u05", "no": 5, "title": "My future job", "titleVi": "Nghề nghiệp tương lai", "emoji": "👩‍🚒", "file": "words/g5-u05.json" },
+        { "id": "g5-u06", "no": 6, "title": "Our school rooms", "titleVi": "Các phòng ở trường", "emoji": "🏫", "file": "words/g5-u06.json" },
+        { "id": "g5-u07", "no": 7, "title": "Our favourite school activities", "titleVi": "Hoạt động ở trường yêu thích", "emoji": "✏️", "file": "words/g5-u07.json" },
+        { "id": "g5-u08", "no": 8, "title": "In our classroom", "titleVi": "Trong lớp học", "emoji": "📐", "file": "words/g5-u08.json" },
+        { "id": "g5-u09", "no": 9, "title": "Our outdoor activities", "titleVi": "Hoạt động ngoài trời", "emoji": "⚽", "file": "words/g5-u09.json" },
+        { "id": "g5-u10", "no": 10, "title": "Our school trip", "titleVi": "Chuyến đi của trường", "emoji": "🚌", "file": "words/g5-u10.json" },
+        { "id": "g5-u11", "no": 11, "title": "Family time", "titleVi": "Thời gian bên gia đình", "emoji": "👨‍👩‍👦", "file": "words/g5-u11.json" },
+        { "id": "g5-u12", "no": 12, "title": "Our Tet holiday", "titleVi": "Kỳ nghỉ Tết", "emoji": "🧧", "file": "words/g5-u12.json" },
+        { "id": "g5-u13", "no": 13, "title": "Our special days", "titleVi": "Những ngày đặc biệt", "emoji": "🎉", "file": "words/g5-u13.json" },
+        { "id": "g5-u14", "no": 14, "title": "Staying healthy", "titleVi": "Sống khoẻ", "emoji": "🥦", "file": "words/g5-u14.json" },
+        { "id": "g5-u15", "no": 15, "title": "Our health", "titleVi": "Sức khoẻ của chúng mình", "emoji": "🩺", "file": "words/g5-u15.json" },
+        { "id": "g5-u16", "no": 16, "title": "Seasons and the weather", "titleVi": "Các mùa và thời tiết", "emoji": "⛅", "file": "words/g5-u16.json" },
+        { "id": "g5-u17", "no": 17, "title": "Stories for children", "titleVi": "Truyện thiếu nhi", "emoji": "📖", "file": "words/g5-u17.json" },
+        { "id": "g5-u18", "no": 18, "title": "Means of transport", "titleVi": "Phương tiện giao thông", "emoji": "🚲", "file": "words/g5-u18.json" },
+        { "id": "g5-u19", "no": 19, "title": "Places of interest", "titleVi": "Địa điểm thú vị", "emoji": "🗺️", "file": "words/g5-u19.json" },
+        { "id": "g5-u20", "no": 20, "title": "Our summer holiday", "titleVi": "Kỳ nghỉ hè", "emoji": "🏖️", "file": "words/g5-u20.json" }
+      ]
+    }
+  ]
+}

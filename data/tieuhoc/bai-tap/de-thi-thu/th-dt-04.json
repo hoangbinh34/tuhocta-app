@@ -1,0 +1,431 @@
+{
+ "id": "th-dt-04",
+ "module": "mock-test",
+ "title": "Đề 4 – kiểu Nguyễn Tất Thành",
+ "emoji": "🏁",
+ "desc": "Khuôn kiểu Nguyễn Tất Thành (đề thứ hai, nội dung khác đề 3).",
+ "minutes": 30,
+ "scale": 10,
+ "priority": 1,
+ "sources": [
+  "khuon-de-vao-6"
+ ],
+ "sections": [
+  {
+   "title": "Câu 1–13. Chọn đáp án đúng",
+   "instruction": "Chọn từ hoặc cụm từ đúng để hoàn thành câu.",
+   "items": [
+    {
+     "id": "th-dt-04-01",
+     "type": "mcq",
+     "prompt": "___ elephant is bigger than a horse.",
+     "options": [
+      "A",
+      "An",
+      "Many",
+      "Some"
+     ],
+     "answer": 1,
+     "explain": "elephant bắt đầu bằng nguyên âm: An."
+    },
+    {
+     "id": "th-dt-04-02",
+     "type": "mcq",
+     "prompt": "I'm not very good ___ maths.",
+     "options": [
+      "in",
+      "at",
+      "on",
+      "with"
+     ],
+     "answer": 1,
+     "explain": "good at."
+    },
+    {
+     "id": "th-dt-04-03",
+     "type": "mcq",
+     "prompt": "There are only ___ eggs in the fridge. We need to buy some more.",
+     "options": [
+      "a few",
+      "a little",
+      "much",
+      "many"
+     ],
+     "answer": 0,
+     "explain": "eggs đếm được, \"only… need more\": only a few."
+    },
+    {
+     "id": "th-dt-04-04",
+     "type": "mcq",
+     "prompt": "She didn't come to school ___ she was ill.",
+     "options": [
+      "so",
+      "because",
+      "but",
+      "and"
+     ],
+     "answer": 1,
+     "explain": "Nguyên nhân: because."
+    },
+    {
+     "id": "th-dt-04-05",
+     "type": "mcq",
+     "prompt": "Please take ___ your shoes before you come in.",
+     "options": [
+      "off",
+      "on",
+      "up",
+      "out"
+     ],
+     "answer": 0,
+     "explain": "Cởi giày: take off."
+    },
+    {
+     "id": "th-dt-04-06",
+     "type": "mcq",
+     "prompt": "The weather was ___, so we stayed inside.",
+     "options": [
+      "lovely",
+      "sunny",
+      "terrible",
+      "warm"
+     ],
+     "answer": 2,
+     "explain": "Ở trong nhà vì thời tiết xấu: terrible."
+    },
+    {
+     "id": "th-dt-04-07",
+     "type": "mcq",
+     "prompt": "This is the ___ day of my life!",
+     "options": [
+      "happy",
+      "happier",
+      "happiest",
+      "most happy"
+     ],
+     "answer": 2,
+     "explain": "the happiest (happy → happiest)."
+    },
+    {
+     "id": "th-dt-04-08",
+     "type": "mcq",
+     "prompt": "How long does it take ___ to school?",
+     "options": [
+      "you get",
+      "you to get",
+      "to you get",
+      "getting you"
+     ],
+     "answer": 1,
+     "explain": "It takes + người + to V: take you to get."
+    },
+    {
+     "id": "th-dt-04-09",
+     "type": "mcq",
+     "prompt": "When I arrived home, my sister ___ a book.",
+     "options": [
+      "read",
+      "is reading",
+      "was reading",
+      "reads"
+     ],
+     "answer": 2,
+     "explain": "Việc đang diễn ra khi một việc khác xen vào trong quá khứ: was reading."
+    },
+    {
+     "id": "th-dt-04-10",
+     "type": "mcq",
+     "prompt": "Would you like ___ tea?",
+     "options": [
+      "some",
+      "any",
+      "an",
+      "many"
+     ],
+     "answer": 0,
+     "explain": "Lời mời dùng some."
+    },
+    {
+     "id": "th-dt-04-11",
+     "type": "mcq",
+     "prompt": "Our teacher made us ___ the new words ten times.",
+     "options": [
+      "write",
+      "to write",
+      "writing",
+      "wrote"
+     ],
+     "answer": 0,
+     "explain": "make + tân ngữ + động từ nguyên mẫu."
+    },
+    {
+     "id": "th-dt-04-12",
+     "type": "mcq",
+     "prompt": "A person who looks after sick animals is a ___.",
+     "options": [
+      "vet",
+      "pilot",
+      "chef",
+      "dentist"
+     ],
+     "answer": 0,
+     "explain": "vet: bác sĩ thú y."
+    },
+    {
+     "id": "th-dt-04-13",
+     "type": "mcq",
+     "prompt": "My friends and I ___ to the zoo next Sunday.",
+     "options": [
+      "go",
+      "went",
+      "are going",
+      "have gone"
+     ],
+     "answer": 2,
+     "explain": "Kế hoạch đã định trong tương lai gần: are going."
+    }
+   ]
+  },
+  {
+   "title": "Câu 14–15. Hội thoại",
+   "instruction": "Chọn câu đáp lại phù hợp nhất.",
+   "items": [
+    {
+     "id": "th-dt-04-14",
+     "type": "mcq",
+     "prompt": "A: \"What does your father do?\" – B: \"___\"",
+     "options": [
+      "He's an engineer.",
+      "He's fine, thanks.",
+      "He's tall.",
+      "He likes football."
+     ],
+     "answer": 0,
+     "explain": "Hỏi nghề nghiệp: He's an engineer."
+    },
+    {
+     "id": "th-dt-04-15",
+     "type": "mcq",
+     "prompt": "A: \"Let's go to the beach this weekend.\" – B: \"___\"",
+     "options": [
+      "That sounds great!",
+      "No, thank you very much.",
+      "I'm sorry to hear that.",
+      "Yes, I am."
+     ],
+     "answer": 0,
+     "explain": "Đồng ý với lời rủ: That sounds great!"
+    }
+   ]
+  },
+  {
+   "title": "Câu 16–17. Đọc thông báo",
+   "instruction": "Đọc thông báo và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "th-dt-04-g1",
+     "type": "group",
+     "title": "Sports Day",
+     "passage": "SPORTS DAY – SATURDAY 20TH MAY\n• Races start at 8.00 a.m. on the school field.\n• Wear your school sports uniform and trainers.\n• Bring a water bottle. Lunch is provided.\n• Parents are welcome to watch.",
+     "items": [
+      {
+       "id": "th-dt-04-16",
+       "type": "mcq",
+       "prompt": "What must students wear?",
+       "options": [
+        "Their sports uniform and trainers",
+        "Jeans and a T-shirt",
+        "Their best clothes",
+        "Boots"
+       ],
+       "answer": 0,
+       "explain": "\"Wear your school sports uniform and trainers\"."
+      },
+      {
+       "id": "th-dt-04-17",
+       "type": "mcq",
+       "prompt": "Which is TRUE?",
+       "options": [
+        "Parents can come and watch.",
+        "Students must bring lunch.",
+        "The races start at 9 a.m.",
+        "Sports Day is on Sunday."
+       ],
+       "answer": 0,
+       "explain": "\"Parents are welcome to watch\"."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 18. Đọc tin nhắn",
+   "instruction": "Đọc tin nhắn và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "th-dt-04-g2",
+     "type": "group",
+     "title": "Message",
+     "passage": "Dear Mrs Hoa,\nMy son Duc has a high fever today, so he cannot come to school. Could you please give him the homework? Thank you.\nLan Nguyen",
+     "items": [
+      {
+       "id": "th-dt-04-18",
+       "type": "mcq",
+       "prompt": "Why does Mrs Nguyen write to Mrs Hoa?",
+       "options": [
+        "To say her son is ill and ask for his homework",
+        "To invite the teacher to her house",
+        "To complain about the homework",
+        "To ask about a test"
+       ],
+       "answer": 0,
+       "explain": "Con ốm không đi học, xin bài tập về nhà."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 19–21. Đọc đoạn văn",
+   "instruction": "Đọc đoạn văn và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "th-dt-04-g3",
+     "type": "group",
+     "title": "Bees",
+     "passage": "Bees are small, but they are very important. They fly from flower to flower to collect nectar, and they help plants make fruit and seeds. Without bees, we would have fewer apples, strawberries and many other foods. Bees also make honey, which people have eaten for thousands of years. Sadly, the number of bees is falling because of pollution and the loss of wild flowers. We can help them by planting flowers in our gardens.",
+     "items": [
+      {
+       "id": "th-dt-04-19",
+       "type": "mcq",
+       "prompt": "What is the text mainly about?",
+       "options": [
+        "Why bees are important",
+        "How to make honey",
+        "Pollution in cities",
+        "Different kinds of flowers"
+       ],
+       "answer": 0,
+       "explain": "Câu đầu và cả đoạn nói về tầm quan trọng của ong."
+      },
+      {
+       "id": "th-dt-04-20",
+       "type": "mcq",
+       "prompt": "According to the text, why is the number of bees falling?",
+       "options": [
+        "Because of pollution",
+        "Because people eat too much honey",
+        "Because there are too many apples",
+        "Because of cold weather"
+       ],
+       "answer": 0,
+       "explain": "\"because of pollution and the loss of wild flowers\"."
+      },
+      {
+       "id": "th-dt-04-21",
+       "type": "mcq",
+       "prompt": "The word \"collect\" is closest in meaning to ___.",
+       "options": [
+        "gather",
+        "sell",
+        "eat",
+        "grow"
+       ],
+       "answer": 0,
+       "explain": "collect = gather (thu thập)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 22–24. Điền một từ",
+   "instruction": "Điền MỘT từ lấy từ bài đọc vào chỗ trống.",
+   "items": [
+    {
+     "id": "th-dt-04-g4",
+     "type": "group",
+     "title": "In the garden",
+     "passage": "Last Sunday, Hung helped his grandfather in the vegetable garden. First, they pulled out the weeds. Then they planted tomatoes and watered them. Hung's grandfather told him that tomatoes need a lot of sun. At lunchtime, his grandmother made a salad with fresh lettuce from the garden.",
+     "items": [
+      {
+       "id": "th-dt-04-22",
+       "type": "input",
+       "prompt": "First, they pulled out the ___.",
+       "answers": [
+        "weeds"
+       ],
+       "explain": "\"they pulled out the weeds\"."
+      },
+      {
+       "id": "th-dt-04-23",
+       "type": "input",
+       "prompt": "Tomatoes need a lot of ___.",
+       "answers": [
+        "sun"
+       ],
+       "explain": "\"tomatoes need a lot of sun\"."
+      },
+      {
+       "id": "th-dt-04-24",
+       "type": "input",
+       "prompt": "His grandmother made a ___ with fresh lettuce.",
+       "answers": [
+        "salad"
+       ],
+       "explain": "\"made a salad with fresh lettuce\"."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 25. Tìm và sửa lỗi",
+   "instruction": "Tìm một từ sai rồi viết lại từ đúng (từ đúng có cách đọc giống từ sai).",
+   "items": [
+    {
+     "id": "th-dt-04-25",
+     "type": "error",
+     "prompt": "Tìm một từ sai và sửa lại",
+     "tokens": [
+      "We",
+      "waited",
+      "for",
+      "our",
+      "friends",
+      "for",
+      "an",
+      "our."
+     ],
+     "wrong": 7,
+     "answers": [
+      "hour"
+     ],
+     "explain": "our (của chúng tôi) đọc giống hour (giờ); chờ một tiếng là an hour."
+    }
+   ]
+  },
+  {
+   "title": "Câu 26. Viết đoạn văn",
+   "instruction": "Viết đoạn văn 30–50 từ.",
+   "items": [
+    {
+     "id": "th-dt-04-26",
+     "type": "writing",
+     "prompt": "In about 30–50 words, write about a person you admire and why.",
+     "minWords": 30,
+     "maxWords": 50,
+     "checklist": [
+      "Viết đúng chủ đề đề bài yêu cầu",
+      "Có ít nhất 2 ý hoặc lý do (because…)",
+      "Dùng đúng thì",
+      "Khoảng 30–50 từ",
+      "Viết hoa đầu câu, có dấu chấm"
+     ],
+     "sample": "I admire my mother. She is a nurse and she works very hard at the hospital. She helps many sick people. At home, she cooks delicious meals and helps me with my homework. I admire her because she is kind and never gives up.",
+     "explain": "Câu viết không tính vào điểm tự động. Đối chiếu với danh sách kiểm tra và bài mẫu."
+    }
+   ]
+  }
+ ]
+}

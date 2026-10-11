@@ -1,0 +1,145 @@
+{
+ "id": "th-np-09",
+ "module": "grammar",
+ "title": "Câu hỏi Wh- và đại từ",
+ "emoji": "❓",
+ "intro": "What (cái gì), Where (ở đâu), When (khi nào), Who (ai), Why (tại sao), How (thế nào), How many/How much (bao nhiêu), Whose (của ai). Tính từ sở hữu: my, your, his, her, its, our, their.",
+ "instruction": "Chọn đáp án đúng.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL-NTT"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-np-09-01",
+   "type": "mcq",
+   "prompt": "___ do you live? – I live in Ha Noi.",
+   "options": [
+    "What",
+    "Where",
+    "When",
+    "Who"
+   ],
+   "answer": 1,
+   "explain": "Trả lời về nơi chốn nên hỏi Where."
+  },
+  {
+   "id": "th-np-09-02",
+   "type": "mcq",
+   "prompt": "___ is your birthday? – It's on 5th June.",
+   "options": [
+    "Where",
+    "When",
+    "What",
+    "Who"
+   ],
+   "answer": 1,
+   "explain": "Trả lời về thời gian nên hỏi When."
+  },
+  {
+   "id": "th-np-09-03",
+   "type": "mcq",
+   "prompt": "___ is that girl? – She's my cousin.",
+   "options": [
+    "What",
+    "Who",
+    "Where",
+    "How"
+   ],
+   "answer": 1,
+   "explain": "Hỏi về người dùng Who."
+  },
+  {
+   "id": "th-np-09-04",
+   "type": "mcq",
+   "prompt": "___ are you late? – Because I missed the bus.",
+   "options": [
+    "What",
+    "Why",
+    "How",
+    "When"
+   ],
+   "answer": 1,
+   "explain": "Trả lời có Because nên hỏi Why."
+  },
+  {
+   "id": "th-np-09-05",
+   "type": "mcq",
+   "prompt": "___ do you go to school? – By bus.",
+   "options": [
+    "What",
+    "How",
+    "Where",
+    "Who"
+   ],
+   "answer": 1,
+   "explain": "Hỏi cách đi lại dùng How."
+  },
+  {
+   "id": "th-np-09-06",
+   "type": "mcq",
+   "prompt": "___ much is this T-shirt? – It's 100,000 dong.",
+   "options": [
+    "How",
+    "What",
+    "Which",
+    "Who"
+   ],
+   "answer": 0,
+   "explain": "Hỏi giá: How much."
+  },
+  {
+   "id": "th-np-09-07",
+   "type": "mcq",
+   "prompt": "___ book is this? – It's Mai's.",
+   "options": [
+    "Who",
+    "Whose",
+    "Which",
+    "What"
+   ],
+   "answer": 1,
+   "explain": "Hỏi của ai: Whose."
+  },
+  {
+   "id": "th-np-09-08",
+   "type": "mcq",
+   "prompt": "This is my friend. ___ name is Peter.",
+   "options": [
+    "His",
+    "He",
+    "Him",
+    "Her"
+   ],
+   "answer": 0,
+   "explain": "Peter là nam: His name."
+  },
+  {
+   "id": "th-np-09-09",
+   "type": "mcq",
+   "prompt": "We love ___ school very much.",
+   "options": [
+    "our",
+    "us",
+    "we",
+    "their"
+   ],
+   "answer": 0,
+   "explain": "Tính từ sở hữu của we là our."
+  },
+  {
+   "id": "th-np-09-10",
+   "type": "mcq",
+   "prompt": "Can you help ___ with this box, please?",
+   "options": [
+    "I",
+    "me",
+    "my",
+    "mine"
+   ],
+   "answer": 1,
+   "explain": "Sau động từ help dùng tân ngữ: me."
+  }
+ ]
+}

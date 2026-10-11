@@ -1,0 +1,131 @@
+{
+ "id": "th-np-13",
+ "module": "grammar",
+ "title": "Chia động từ 2 (tự gõ)",
+ "emoji": "⌨️",
+ "intro": "Ôn thêm: hiện tại đơn, hiện tại tiếp diễn, quá khứ đơn, tương lai, và động từ sau like/enjoy/want.",
+ "instruction": "Gõ dạng đúng của động từ trong ngoặc.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL-NTT"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-np-13-01",
+   "type": "input",
+   "prompt": "My father usually (drive) ___ to work.",
+   "answers": [
+    "drives"
+   ],
+   "explain": "Dấu hiệu \"usually\", chủ ngữ ngôi 3 số ít: drives."
+  },
+  {
+   "id": "th-np-13-02",
+   "type": "input",
+   "prompt": "Be quiet! The baby (sleep) ___.",
+   "answers": [
+    "is sleeping",
+    "'s sleeping"
+   ],
+   "explain": "\"Be quiet!\": việc đang xảy ra: is sleeping."
+  },
+  {
+   "id": "th-np-13-03",
+   "type": "input",
+   "prompt": "We (have) ___ a party last weekend.",
+   "answers": [
+    "had"
+   ],
+   "explain": "\"last weekend\": quá khứ của have là had."
+  },
+  {
+   "id": "th-np-13-04",
+   "type": "input",
+   "prompt": "She (not watch) ___ TV every evening.",
+   "answers": [
+    "doesn't watch",
+    "does not watch"
+   ],
+   "explain": "Phủ định hiện tại đơn với she: doesn't watch."
+  },
+  {
+   "id": "th-np-13-05",
+   "type": "input",
+   "prompt": "I enjoy (read) ___ comics.",
+   "answers": [
+    "reading"
+   ],
+   "explain": "Sau enjoy dùng V-ing: reading."
+  },
+  {
+   "id": "th-np-13-06",
+   "type": "input",
+   "prompt": "They want (visit) ___ Ha Long Bay.",
+   "answers": [
+    "to visit"
+   ],
+   "explain": "Sau want dùng to V: to visit."
+  },
+  {
+   "id": "th-np-13-07",
+   "type": "input",
+   "prompt": "(you / go) ___ to the zoo yesterday?",
+   "answers": [
+    "Did you go"
+   ],
+   "explain": "Câu hỏi quá khứ: Did you go…?"
+  },
+  {
+   "id": "th-np-13-08",
+   "type": "input",
+   "prompt": "Tomorrow I (help) ___ my mum clean the house.",
+   "answers": [
+    "will help",
+    "'ll help",
+    "am going to help",
+    "'m going to help"
+   ],
+   "explain": "\"Tomorrow\": tương lai: will help (am going to help cũng đúng)."
+  },
+  {
+   "id": "th-np-13-09",
+   "type": "input",
+   "prompt": "Mai and Lan (be) ___ in the library now.",
+   "answers": [
+    "are",
+    "'re"
+   ],
+   "explain": "\"now\", chủ ngữ số nhiều: are."
+  },
+  {
+   "id": "th-np-13-10",
+   "type": "input",
+   "prompt": "He (buy) ___ a new bike two weeks ago.",
+   "answers": [
+    "bought"
+   ],
+   "explain": "\"two weeks ago\", buy là bất quy tắc: bought."
+  },
+  {
+   "id": "th-np-13-11",
+   "type": "input",
+   "prompt": "My sister likes (swim) ___ in summer.",
+   "answers": [
+    "swimming",
+    "to swim"
+   ],
+   "explain": "Sau like dùng V-ing (swimming), to V cũng được chấp nhận."
+  },
+  {
+   "id": "th-np-13-12",
+   "type": "input",
+   "prompt": "Look! The cat (climb) ___ the tree.",
+   "answers": [
+    "is climbing",
+    "'s climbing"
+   ],
+   "explain": "\"Look!\": việc đang xảy ra: is climbing."
+  }
+ ]
+}

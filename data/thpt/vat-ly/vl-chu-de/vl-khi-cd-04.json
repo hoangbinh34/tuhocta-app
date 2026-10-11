@@ -1,0 +1,66 @@
+{
+  "id": "vl-khi-cd-04",
+  "title": "Khí: ghi nhớ mô hình phân tử và phép đo",
+  "items": [
+    {
+      "id": "vl-khi-cd-04-01", "type": "mcq", "level": 1,
+      "prompt": "Áp suất khí lên thành bình trong mô hình động học phân tử có nguyên nhân trực tiếp nào?",
+      "options": ["Các phân tử va chạm, truyền động lượng cho thành bình", "Các phân tử đứng yên ép lên nhau", "Chỉ trọng lực của các phân tử", "Lực hút giữa các phân tử ở xa nhau"], "answer": 0,
+      "explain": "Va chạm làm đổi động lượng phân tử; thành bình chịu lực do các va chạm. Áp suất là lực trung bình trên một đơn vị diện tích."
+    },
+    {
+      "id": "vl-khi-cd-04-02", "type": "mcq", "level": 1,
+      "prompt": "Đại lượng N/V trong p = (1/3)(N/V)m₀v_{rms}² là gì?",
+      "options": ["Khối lượng riêng của khí", "Mật độ số phân tử", "Khối lượng mol", "Số mol khí"], "answer": 1,
+      "explain": "N/V là số phân tử trong một đơn vị thể tích, đơn vị m^{-3}; khối lượng riêng bằng (N/V)m₀."
+    },
+    {
+      "id": "vl-khi-cd-04-03", "type": "mcq", "level": 1,
+      "prompt": "Tốc độ căn quân phương v_{rms} được định nghĩa bằng biểu thức nào với N phân tử?",
+      "options": ["(v₁ + v₂ + … + v_{N})/N", "√(v₁ + v₂ + … + v_{N})", "√[(v₁² + v₂² + … + v_{N}²)/N]", "(v₁² + v₂² + … + v_{N}²)/N"], "answer": 2,
+      "explain": "Lấy trung bình các bình phương tốc độ rồi lấy căn bậc hai. Tốc độ căn quân phương khác tốc độ trung bình."
+    },
+    {
+      "id": "vl-khi-cd-04-04", "type": "mcq", "level": 1,
+      "prompt": "Đồng hồ đo áp suất dư p_{dư} của bình khí đặt trong khí quyển có áp suất p₀. Áp suất tuyệt đối p trong pV = nRT được tính thế nào?",
+      "options": ["p = p_{dư} − p₀", "p = p_{dư}", "p = p₀ − p_{dư}", "p = p_{dư} + p₀"], "answer": 3,
+      "explain": "Áp suất dư là phần chênh so với khí quyển: p_{dư} = p − p₀. Phương trình trạng thái dùng p tuyệt đối."
+    },
+    {
+      "id": "vl-khi-cd-04-05", "type": "mcq", "level": 1,
+      "prompt": "Với một lượng khí lí tưởng xác định trong quá trình đẳng tích, đại lượng nào không đổi? T tính theo kelvin.",
+      "options": ["p/T", "pT", "pV", "V/T"], "answer": 0,
+      "explain": "Giữ n và V không đổi trong pV = nRT cho p/T = nR/V = hằng số."
+    },
+    {
+      "id": "vl-khi-cd-04-06", "type": "mcq", "level": 1,
+      "prompt": "Khi khảo sát định luật Boyle với một mẫu khí, hai đại lượng nào phải được giữ không đổi?",
+      "options": ["Áp suất và thể tích", "Lượng khí và nhiệt độ", "Áp suất và nhiệt độ", "Lượng khí và thể tích"], "answer": 1,
+      "explain": "Boyle áp dụng cho một lượng khí xác định ở nhiệt độ không đổi; áp suất và thể tích là hai đại lượng khảo sát."
+    },
+    {
+      "id": "vl-khi-cd-04-07", "type": "mcq", "level": 1,
+      "prompt": "Quan hệ giữa hằng số Boltzmann k, hằng số khí R và hằng số Avogadro N_{A} là gì?",
+      "options": ["k = RN_{A}", "k = N_{A}/R", "k = R/N_{A}", "k = R + N_{A}"], "answer": 2,
+      "explain": "pV = NkT = nRT với N = nN_{A}, nên k = R/N_{A}."
+    },
+    {
+      "id": "vl-khi-cd-04-08", "type": "mcq", "level": 1,
+      "prompt": "Mô hình khí lí tưởng thường gần đúng tốt hơn cho khí thực trong điều kiện nào, ở xa vùng ngưng tụ?",
+      "options": ["Áp suất rất cao, nhiệt độ thấp", "Mật độ phân tử rất lớn", "Khí đang hoá lỏng", "Áp suất thấp, nhiệt độ đủ cao"], "answer": 3,
+      "explain": "Khí loãng, ở xa vùng ngưng tụ giúp kích thước riêng và tương tác giữa các phân tử ít ảnh hưởng, phù hợp các giả thiết khí lí tưởng."
+    },
+    {
+      "id": "vl-khi-cd-04-09", "type": "mcq", "level": 1,
+      "prompt": "Trong pV = nRT, khi p tính bằng Pa và R tính bằng J/(mol·K), thể tích V phải tính bằng đơn vị nào?",
+      "options": ["m³", "L", "cm³", "mL"], "answer": 0,
+      "explain": "Pa·m³ = N·m = J nên V phải đổi sang m³ khi dùng hệ đơn vị đã cho."
+    },
+    {
+      "id": "vl-khi-cd-04-10", "type": "num", "level": 1,
+      "prompt": "Áp suất tuyệt đối của khí là 25,0·10^{4} Pa. Cho 1 bar = 10^{5} Pa. Đổi áp suất sang bar, làm tròn đến một chữ số sau dấu phẩy.",
+      "answer": 2.5, "round": 1, "unit": "bar",
+      "explain": "p = 25,0·10^{4}/10^{5} = 2,5 bar. Ghi: 2,5."
+    }
+  ]
+}

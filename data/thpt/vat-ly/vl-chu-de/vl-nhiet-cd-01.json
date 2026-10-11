@@ -1,0 +1,66 @@
+{
+  "id": "vl-nhiet-cd-01",
+  "title": "Nhiệt: nhận biết kiến thức và đơn vị",
+  "items": [
+    {
+      "id": "vl-nhiet-cd-01-01", "type": "mcq", "level": 1,
+      "prompt": "Ở điều kiện thông thường, chất lỏng có đặc điểm hình dạng và thể tích nào?",
+      "options": ["Có hình dạng riêng và thể tích riêng", "Có thể tích gần như xác định, hình dạng phụ thuộc bình chứa", "Luôn chiếm toàn bộ thể tích bình kín như chất khí", "Không có thể tích dù có khối lượng"], "answer": 1,
+      "explain": "Các hạt chất lỏng ở gần nhau nhưng có thể đổi chỗ, nên chất lỏng giữ thể tích gần như xác định và nhận hình dạng phần bình chứa nó."
+    },
+    {
+      "id": "vl-nhiet-cd-01-02", "type": "mcq", "level": 1,
+      "prompt": "Khi nhiệt độ một mẫu chất tăng, đại lượng vi mô nào tăng theo nhiệt độ?",
+      "options": ["Khối lượng của mỗi phân tử", "Số nguyên tử trong mỗi phân tử", "Động năng chuyển động nhiệt trung bình của các hạt", "Điện tích của mỗi electron"], "answer": 2,
+      "explain": "Nhiệt độ cao hơn ứng với động năng chuyển động nhiệt trung bình lớn hơn; không làm thay đổi khối lượng hay điện tích của từng hạt theo các cách nêu ở phương án khác."
+    },
+    {
+      "id": "vl-nhiet-cd-01-03", "type": "mcq", "level": 1,
+      "prompt": "Hai cách làm thay đổi nội năng của một hệ là gì?",
+      "options": ["Truyền nhiệt và thực hiện công", "Truyền nhiệt và đổi tên hệ", "Đổi đơn vị và đổi nhiệt kế", "Đổi vị trí người quan sát và đổi đơn vị"], "answer": 0,
+      "explain": "Hệ có thể trao đổi năng lượng bằng truyền nhiệt hoặc thực hiện công, từ đó thay đổi nội năng."
+    },
+    {
+      "id": "vl-nhiet-cd-01-04", "type": "mcq", "level": 1,
+      "prompt": "Theo quy ước ΔU = A + Q, trường hợp nào có A > 0 đối với khí trong xilanh?",
+      "options": ["Khí tự nở, đẩy pít-tông ra", "Khí chỉ toả nhiệt", "Khí không trao đổi công", "Ngoại lực đẩy pít-tông nén khí"], "answer": 3,
+      "explain": "A là công khí nhận; ngoại lực nén khí thực hiện công lên khí, nên A > 0."
+    },
+    {
+      "id": "vl-nhiet-cd-01-05", "type": "mcq", "level": 1,
+      "prompt": "Nếu A là công hệ nhận, Q là nhiệt lượng hệ nhận thì biểu thức định luật I nhiệt động lực học là gì?",
+      "options": ["ΔU = A − Q", "ΔU = A + Q", "ΔU = AQ", "ΔU = Q/A"], "answer": 1,
+      "explain": "Bảo toàn năng lượng với quy ước công nhận và nhiệt nhận cho ΔU = A + Q. Phải dùng cùng quy ước dấu trong cả bài."
+    },
+    {
+      "id": "vl-nhiet-cd-01-06", "type": "mcq", "level": 1,
+      "prompt": "Nhôm có nhiệt dung riêng 900 J/(kg·K). Số liệu này cho biết điều gì khi nhôm không chuyển thể?",
+      "options": ["1 kg nhôm cần 900 J để nóng chảy hoàn toàn", "Mọi khối nhôm cần 900 J để tăng 1 K", "1 kg nhôm cần nhận 900 J để tăng nhiệt độ 1 K", "1 g nhôm cần nhận 900 J để tăng nhiệt độ 1 K"], "answer": 2,
+      "explain": "Nhiệt dung riêng tính cho 1 kg và độ tăng 1 K. Nhiệt chuyển thể được mô tả bằng λ hoặc L, không phải c."
+    },
+    {
+      "id": "vl-nhiet-cd-01-07", "type": "mcq", "level": 1,
+      "prompt": "Theo định nghĩa chính xác của thang Celsius và kelvin, độ không tuyệt đối ứng với nhiệt độ nào?",
+      "options": ["−273,15 °C", "0 °C", "273,15 °C", "−100 °C"], "answer": 0,
+      "explain": "0 K ứng với −273,15 °C. Đề thi có thể dùng quy đổi gần đúng T = t + 273 cho các phép tính, nhưng định nghĩa chính xác có độ lệch 273,15."
+    },
+    {
+      "id": "vl-nhiet-cd-01-08", "type": "mcq", "level": 1,
+      "prompt": "Đặc điểm nào phân biệt sự sôi với sự bay hơi ở dưới nhiệt độ sôi?",
+      "options": ["Sôi chỉ diễn ra tại mặt thoáng", "Sôi luôn xảy ra ở 100 °C với mọi chất", "Sôi là chuyển từ khí sang lỏng", "Sôi có hoá hơi trong lòng và ở mặt thoáng chất lỏng"], "answer": 3,
+      "explain": "Khi sôi, bọt hơi hình thành trong lòng chất lỏng đồng thời hoá hơi ở mặt thoáng; bay hơi dưới nhiệt độ sôi xảy ra ở mặt thoáng."
+    },
+    {
+      "id": "vl-nhiet-cd-01-09", "type": "mcq", "level": 1,
+      "prompt": "Nhiệt lượng 2,5 kJ được viết theo đơn vị J là bao nhiêu?",
+      "options": ["0,0025 J", "2500 J", "25 J", "250 J"], "answer": 1,
+      "explain": "1 kJ = 1000 J nên 2,5 kJ = 2500 J. Đổi về cùng hệ đơn vị trước khi thế vào công thức."
+    },
+    {
+      "id": "vl-nhiet-cd-01-10", "type": "num", "level": 1,
+      "prompt": "Một mẫu nước có khối lượng 350 g. Đổi khối lượng mẫu sang kg, làm tròn kết quả đến hai chữ số sau dấu phẩy.",
+      "answer": 0.35, "round": 2, "unit": "kg",
+      "explain": "m = 350/1000 = 0,35 kg. Ghi: 0,35. Không dùng 350 trong công thức khi c có đơn vị J/(kg·K)."
+    }
+  ]
+}

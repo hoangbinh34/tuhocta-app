@@ -1,0 +1,235 @@
+{
+ "id": "th-dh-05",
+ "module": "reading",
+ "title": "Điền từ vào đoạn văn",
+ "emoji": "🧩",
+ "intro": "Đọc cả câu chứa chỗ trống. Xem dấu hiệu thì (last…, every…), giới từ đi kèm, và nghĩa của câu trước/sau.",
+ "instruction": "Chọn từ đúng cho mỗi chỗ trống trong đoạn văn.",
+ "shuffle": false,
+ "shuffleItems": false,
+ "priority": 1,
+ "sources": [
+  "dang-de-CG"
+ ],
+ "items": [
+  {
+   "id": "th-dh-05-g1",
+   "type": "group",
+   "title": "My school",
+   "passage": "My school is in the centre of the city. It (1) ___ a big playground and a modern library. There are thirty classrooms (2) ___ my school. I usually go to school (3) ___ bike with my best friend. Our favourite subject is science (4) ___ we can do experiments. After school, we often play football (5) ___ the playground.",
+   "items": [
+    {
+     "id": "th-dh-05-01",
+     "type": "mcq",
+     "prompt": "(1)",
+     "options": [
+      "have",
+      "has",
+      "having",
+      "is"
+     ],
+     "answer": 1,
+     "explain": "Chủ ngữ \"It\" (ngôi 3 số ít) dùng has."
+    },
+    {
+     "id": "th-dh-05-02",
+     "type": "mcq",
+     "prompt": "(2)",
+     "options": [
+      "in",
+      "on",
+      "of",
+      "to"
+     ],
+     "answer": 0,
+     "explain": "Trong trường: in my school."
+    },
+    {
+     "id": "th-dh-05-03",
+     "type": "mcq",
+     "prompt": "(3)",
+     "options": [
+      "on",
+      "in",
+      "by",
+      "with"
+     ],
+     "answer": 2,
+     "explain": "Đi bằng phương tiện: by bike."
+    },
+    {
+     "id": "th-dh-05-04",
+     "type": "mcq",
+     "prompt": "(4)",
+     "options": [
+      "but",
+      "so",
+      "or",
+      "because"
+     ],
+     "answer": 3,
+     "explain": "Nêu lý do thích môn học: because."
+    },
+    {
+     "id": "th-dh-05-05",
+     "type": "mcq",
+     "prompt": "(5)",
+     "options": [
+      "to",
+      "on",
+      "from",
+      "under"
+     ],
+     "answer": 1,
+     "explain": "Chơi trên sân chơi: on the playground (to/from/under không hợp nghĩa)."
+    }
+   ]
+  },
+  {
+   "id": "th-dh-05-g2",
+   "type": "group",
+   "title": "Last summer",
+   "passage": "Last summer, my family (1) ___ to Nha Trang. We stayed in a hotel near the (2) ___. Every morning, my brother and I swam in the sea. One day, we (3) ___ a boat trip to the islands. The water was very (4) ___ and we could see many colourful fish. It was the (5) ___ holiday of my life.",
+   "items": [
+    {
+     "id": "th-dh-05-06",
+     "type": "mcq",
+     "prompt": "(1)",
+     "options": [
+      "go",
+      "goes",
+      "went",
+      "going"
+     ],
+     "answer": 2,
+     "explain": "\"Last summer\": quá khứ đơn, go → went."
+    },
+    {
+     "id": "th-dh-05-07",
+     "type": "mcq",
+     "prompt": "(2)",
+     "options": [
+      "beach",
+      "mountain",
+      "forest",
+      "desert"
+     ],
+     "answer": 0,
+     "explain": "Khách sạn gần bãi biển, vì sáng nào cũng bơi ở biển."
+    },
+    {
+     "id": "th-dh-05-08",
+     "type": "mcq",
+     "prompt": "(3)",
+     "options": [
+      "take",
+      "took",
+      "takes",
+      "taking"
+     ],
+     "answer": 1,
+     "explain": "Quá khứ đơn: take → took."
+    },
+    {
+     "id": "th-dh-05-09",
+     "type": "mcq",
+     "prompt": "(4)",
+     "options": [
+      "dirty",
+      "clear",
+      "dark",
+      "cold"
+     ],
+     "answer": 1,
+     "explain": "Nhìn thấy nhiều cá, nên nước trong: clear."
+    },
+    {
+     "id": "th-dh-05-10",
+     "type": "mcq",
+     "prompt": "(5)",
+     "options": [
+      "good",
+      "better",
+      "best",
+      "well"
+     ],
+     "answer": 2,
+     "explain": "So sánh nhất có \"the\": the best."
+    }
+   ]
+  },
+  {
+   "id": "th-dh-05-g3",
+   "type": "group",
+   "title": "Healthy habits",
+   "passage": "To stay healthy, you (1) ___ eat a lot of fruit and vegetables. You should not eat too (2) ___ sweets or cakes. Drinking water is also very important. Try to drink (3) ___ glasses of water every day. Doing exercise is good for you, (4) ___ you should play sports or go for a walk every day. Finally, go to bed early (5) ___ you can get up early and feel fresh.",
+   "items": [
+    {
+     "id": "th-dh-05-11",
+     "type": "mcq",
+     "prompt": "(1)",
+     "options": [
+      "should",
+      "shouldn't",
+      "can't",
+      "mustn't"
+     ],
+     "answer": 0,
+     "explain": "Lời khuyên nên làm: should."
+    },
+    {
+     "id": "th-dh-05-12",
+     "type": "mcq",
+     "prompt": "(2)",
+     "options": [
+      "much",
+      "many",
+      "a lot",
+      "little"
+     ],
+     "answer": 1,
+     "explain": "sweets là danh từ đếm được số nhiều: too many."
+    },
+    {
+     "id": "th-dh-05-13",
+     "type": "mcq",
+     "prompt": "(3)",
+     "options": [
+      "eight",
+      "eighth",
+      "eighty",
+      "eights"
+     ],
+     "answer": 0,
+     "explain": "Số đếm trước danh từ: eight glasses."
+    },
+    {
+     "id": "th-dh-05-14",
+     "type": "mcq",
+     "prompt": "(4)",
+     "options": [
+      "but",
+      "so",
+      "or",
+      "because"
+     ],
+     "answer": 1,
+     "explain": "Kết quả: tập thể dục tốt, nên (so) hãy chơi thể thao."
+    },
+    {
+     "id": "th-dh-05-15",
+     "type": "mcq",
+     "prompt": "(5)",
+     "options": [
+      "so",
+      "but",
+      "although",
+      "or"
+     ],
+     "answer": 0,
+     "explain": "\"so (that) you can…\": để bạn có thể dậy sớm."
+    }
+   ]
+  }
+ ]
+}

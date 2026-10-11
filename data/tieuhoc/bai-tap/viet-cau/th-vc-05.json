@@ -1,0 +1,197 @@
+{
+ "id": "th-vc-05",
+ "module": "sentence",
+ "title": "Tìm và sửa lỗi sai (1)",
+ "emoji": "🔍",
+ "intro": "Lỗi hay gặp: chủ ngữ – động từ (he go → goes), thì (yesterday … see → saw), giới từ, a/an, much/many, và từ đồng âm viết sai (hair/hare, sun/son).",
+ "instruction": "Mỗi câu có MỘT từ sai. Bấm vào từ đó rồi gõ từ đúng.",
+ "shuffle": true,
+ "priority": 1,
+ "sources": [
+  "dang-de-NTT"
+ ],
+ "items": [
+  {
+   "id": "th-vc-05-01",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "She",
+    "go",
+    "to",
+    "school",
+    "by",
+    "bus",
+    "every",
+    "day."
+   ],
+   "wrong": 1,
+   "answers": [
+    "goes"
+   ],
+   "explain": "She là ngôi 3 số ít: goes."
+  },
+  {
+   "id": "th-vc-05-02",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "There",
+    "is",
+    "many",
+    "books",
+    "on",
+    "the",
+    "shelf."
+   ],
+   "wrong": 1,
+   "answers": [
+    "are"
+   ],
+   "explain": "many books là số nhiều: There are."
+  },
+  {
+   "id": "th-vc-05-03",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "I",
+    "am",
+    "interested",
+    "on",
+    "music."
+   ],
+   "wrong": 3,
+   "answers": [
+    "in"
+   ],
+   "explain": "interested in (thích, quan tâm đến)."
+  },
+  {
+   "id": "th-vc-05-04",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "He",
+    "didn't",
+    "went",
+    "to",
+    "the",
+    "party",
+    "last",
+    "night."
+   ],
+   "wrong": 2,
+   "answers": [
+    "go"
+   ],
+   "explain": "Sau didn't dùng động từ nguyên mẫu: go."
+  },
+  {
+   "id": "th-vc-05-05",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "My",
+    "brother",
+    "is",
+    "tall",
+    "than",
+    "me."
+   ],
+   "wrong": 3,
+   "answers": [
+    "taller"
+   ],
+   "explain": "So sánh hơn có than: taller."
+  },
+  {
+   "id": "th-vc-05-06",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "They",
+    "are",
+    "play",
+    "football",
+    "now."
+   ],
+   "wrong": 2,
+   "answers": [
+    "playing"
+   ],
+   "explain": "are + V-ing: playing."
+  },
+  {
+   "id": "th-vc-05-07",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "We",
+    "have",
+    "English",
+    "in",
+    "Monday."
+   ],
+   "wrong": 3,
+   "answers": [
+    "on"
+   ],
+   "explain": "Ngày trong tuần dùng on."
+  },
+  {
+   "id": "th-vc-05-08",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "She",
+    "has",
+    "a",
+    "apple",
+    "in",
+    "her",
+    "bag."
+   ],
+   "wrong": 2,
+   "answers": [
+    "an"
+   ],
+   "explain": "apple bắt đầu bằng nguyên âm: an apple."
+  },
+  {
+   "id": "th-vc-05-09",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "Look!",
+    "The",
+    "children",
+    "is",
+    "singing."
+   ],
+   "wrong": 3,
+   "answers": [
+    "are"
+   ],
+   "explain": "children là số nhiều: are."
+  },
+  {
+   "id": "th-vc-05-10",
+   "type": "error",
+   "prompt": "Tìm một từ sai và sửa lại",
+   "tokens": [
+    "How",
+    "many",
+    "money",
+    "do",
+    "you",
+    "have?"
+   ],
+   "wrong": 1,
+   "answers": [
+    "much"
+   ],
+   "explain": "money không đếm được: How much."
+  }
+ ]
+}

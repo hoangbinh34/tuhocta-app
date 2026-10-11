@@ -1,0 +1,608 @@
+{
+ "id": "th-dt-06",
+ "module": "mock-test",
+ "title": "Đề 6 – tham khảo kiểu Lômônôxốp",
+ "emoji": "🏁",
+ "desc": "Khuôn tham khảo kiểu Lômônôxốp (đề thứ hai, nội dung khác đề 5).",
+ "minutes": 45,
+ "scale": 20,
+ "priority": 1,
+ "sources": [
+  "khuon-de-vao-6"
+ ],
+ "sections": [
+  {
+   "title": "I. Ngữ âm",
+   "instruction": "Câu 1–2: phát âm; câu 3–4: trọng âm.",
+   "items": [
+    {
+     "id": "th-dt-06-01",
+     "type": "mcq",
+     "prompt": "Chọn từ có phần gạch chân phát âm khác.",
+     "options": [
+      "f[[a]]ther",
+      "c[[a]]r",
+      "p[[a]]rk",
+      "h[[a]]t"
+     ],
+     "answer": 3,
+     "explain": "hat: /æ/. father, car, park: /ɑː/."
+    },
+    {
+     "id": "th-dt-06-02",
+     "type": "mcq",
+     "prompt": "Chọn từ có phần gạch chân phát âm khác.",
+     "options": [
+      "climb[[ed]]",
+      "open[[ed]]",
+      "want[[ed]]",
+      "stay[[ed]]"
+     ],
+     "answer": 2,
+     "explain": "wanted: /ɪd/. climbed, opened, stayed: /d/."
+    },
+    {
+     "id": "th-dt-06-03",
+     "type": "mcq",
+     "prompt": "Chọn từ có trọng âm khác.",
+     "options": [
+      "chocolate",
+      "umbrella",
+      "hospital",
+      "elephant"
+     ],
+     "answer": 1,
+     "explain": "umbrella nhấn âm 2; chocolate (âm 1), hospital (âm 1), elephant (âm 1)."
+    },
+    {
+     "id": "th-dt-06-04",
+     "type": "mcq",
+     "prompt": "Chọn từ có trọng âm khác.",
+     "options": [
+      "today",
+      "lesson",
+      "carrot",
+      "garden"
+     ],
+     "answer": 0,
+     "explain": "today nhấn âm 2; lesson (âm 1), carrot (âm 1), garden (âm 1)."
+    }
+   ]
+  },
+  {
+   "title": "II. Ngữ pháp và từ vựng",
+   "instruction": "Chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "th-dt-06-05",
+     "type": "mcq",
+     "prompt": "Hoa ___ her grandparents every Sunday.",
+     "options": [
+      "visit",
+      "visits",
+      "visiting",
+      "visited"
+     ],
+     "answer": 1,
+     "explain": "\"every Sunday\", Hoa = she: visits."
+    },
+    {
+     "id": "th-dt-06-06",
+     "type": "mcq",
+     "prompt": "My sister and I ___ at home last night.",
+     "options": [
+      "was",
+      "were",
+      "are",
+      "is"
+     ],
+     "answer": 1,
+     "explain": "My sister and I (số nhiều), quá khứ: were."
+    },
+    {
+     "id": "th-dt-06-07",
+     "type": "mcq",
+     "prompt": "This T-shirt is too small. Can I try a ___ size?",
+     "options": [
+      "big",
+      "bigger",
+      "biggest",
+      "more big"
+     ],
+     "answer": 1,
+     "explain": "So với cái đang mặc: bigger."
+    },
+    {
+     "id": "th-dt-06-08",
+     "type": "mcq",
+     "prompt": "Don't make ___ noise. The baby is sleeping.",
+     "options": [
+      "many",
+      "much",
+      "a few",
+      "few"
+     ],
+     "answer": 1,
+     "explain": "noise không đếm được: much."
+    },
+    {
+     "id": "th-dt-06-09",
+     "type": "mcq",
+     "prompt": "I'll call you ___ I get home.",
+     "options": [
+      "when",
+      "what",
+      "where",
+      "which"
+     ],
+     "answer": 0,
+     "explain": "Khi về đến nhà: when."
+    },
+    {
+     "id": "th-dt-06-10",
+     "type": "mcq",
+     "prompt": "He is interested ___ collecting stamps.",
+     "options": [
+      "on",
+      "in",
+      "at",
+      "with"
+     ],
+     "answer": 1,
+     "explain": "interested in."
+    },
+    {
+     "id": "th-dt-06-11",
+     "type": "mcq",
+     "prompt": "We'd better ___ now or we'll be late.",
+     "options": [
+      "leave",
+      "to leave",
+      "leaving",
+      "left"
+     ],
+     "answer": 0,
+     "explain": "had better + động từ nguyên mẫu."
+    },
+    {
+     "id": "th-dt-06-12",
+     "type": "mcq",
+     "prompt": "There ___ a lot of people at the festival yesterday.",
+     "options": [
+      "was",
+      "were",
+      "is",
+      "are"
+     ],
+     "answer": 1,
+     "explain": "a lot of people (số nhiều), quá khứ: were."
+    },
+    {
+     "id": "th-dt-06-13",
+     "type": "mcq",
+     "prompt": "My brother is ___ than me, but I'm taller.",
+     "options": [
+      "old",
+      "older",
+      "oldest",
+      "more old"
+     ],
+     "answer": 1,
+     "explain": "So sánh hai người: older than."
+    },
+    {
+     "id": "th-dt-06-14",
+     "type": "mcq",
+     "prompt": "Mai can't ___ the piano, but she can sing well.",
+     "options": [
+      "play",
+      "plays",
+      "playing",
+      "played"
+     ],
+     "answer": 0,
+     "explain": "can't + động từ nguyên mẫu."
+    },
+    {
+     "id": "th-dt-06-15",
+     "type": "mcq",
+     "prompt": "You can see many kinds of fish and sharks at an ___.",
+     "options": [
+      "aquarium",
+      "library",
+      "bakery",
+      "theatre"
+     ],
+     "answer": 0,
+     "explain": "aquarium: thuỷ cung."
+    },
+    {
+     "id": "th-dt-06-16",
+     "type": "mcq",
+     "prompt": "They are going to ___ a new school in our town next year.",
+     "options": [
+      "build",
+      "built",
+      "building",
+      "builds"
+     ],
+     "answer": 0,
+     "explain": "be going to + động từ nguyên mẫu."
+    }
+   ]
+  },
+  {
+   "title": "III. Giao tiếp",
+   "instruction": "Chọn câu đáp lại phù hợp nhất.",
+   "items": [
+    {
+     "id": "th-dt-06-17",
+     "type": "mcq",
+     "prompt": "A: \"I've got a headache.\" – B: \"___\"",
+     "options": [
+      "You should take a rest.",
+      "Congratulations!",
+      "Yes, please.",
+      "I'm fine, thanks."
+     ],
+     "answer": 0,
+     "explain": "Khuyên khi bị đau đầu: You should take a rest."
+    },
+    {
+     "id": "th-dt-06-18",
+     "type": "mcq",
+     "prompt": "A: \"Thank you for helping me.\" – B: \"___\"",
+     "options": [
+      "It's my pleasure.",
+      "Never mind.",
+      "Yes, I do.",
+      "Good luck."
+     ],
+     "answer": 0,
+     "explain": "Đáp lời cảm ơn: It's my pleasure."
+    },
+    {
+     "id": "th-dt-06-19",
+     "type": "mcq",
+     "prompt": "A: \"What's your favourite subject?\" – B: \"___\"",
+     "options": [
+      "I like science best.",
+      "I'm in class 5A.",
+      "At school.",
+      "On Monday."
+     ],
+     "answer": 0,
+     "explain": "Hỏi môn học yêu thích."
+    },
+    {
+     "id": "th-dt-06-20",
+     "type": "mcq",
+     "prompt": "A: \"Can I use your dictionary?\" – B: \"___\"",
+     "options": [
+      "Of course. Here you are.",
+      "No, I can't.",
+      "You're welcome.",
+      "It's mine."
+     ],
+     "answer": 0,
+     "explain": "Đồng ý cho mượn: Of course. Here you are."
+    }
+   ]
+  },
+  {
+   "title": "IV. Điền từ vào đoạn văn",
+   "instruction": "Chọn từ đúng cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "th-dt-06-g1",
+     "type": "group",
+     "title": "A school trip",
+     "passage": "Last Sunday, my class (21) ___ a trip to the Botanical Garden. We went there (22) ___ bus. The garden was very big and (23) ___ were many kinds of trees and flowers. Our teacher told us (24) ___ the plants and their names. We took a lot of photos and had lunch (25) ___ the grass. Everybody was tired but happy. It was a really (26) ___ day.",
+     "items": [
+      {
+       "id": "th-dt-06-21",
+       "type": "mcq",
+       "prompt": "(21)",
+       "options": [
+        "had",
+        "has",
+        "have",
+        "having"
+       ],
+       "answer": 0,
+       "explain": "\"Last Sunday\": had a trip."
+      },
+      {
+       "id": "th-dt-06-22",
+       "type": "mcq",
+       "prompt": "(22)",
+       "options": [
+        "by",
+        "on",
+        "in",
+        "with"
+       ],
+       "answer": 0,
+       "explain": "by bus."
+      },
+      {
+       "id": "th-dt-06-23",
+       "type": "mcq",
+       "prompt": "(23)",
+       "options": [
+        "there",
+        "they",
+        "their",
+        "it"
+       ],
+       "answer": 0,
+       "explain": "there were + danh từ số nhiều."
+      },
+      {
+       "id": "th-dt-06-24",
+       "type": "mcq",
+       "prompt": "(24)",
+       "options": [
+        "about",
+        "for",
+        "with",
+        "at"
+       ],
+       "answer": 0,
+       "explain": "tell somebody about something."
+      },
+      {
+       "id": "th-dt-06-25",
+       "type": "mcq",
+       "prompt": "(25)",
+       "options": [
+        "on",
+        "at",
+        "in",
+        "to"
+       ],
+       "answer": 0,
+       "explain": "on the grass."
+      },
+      {
+       "id": "th-dt-06-26",
+       "type": "mcq",
+       "prompt": "(26)",
+       "options": [
+        "wonderful",
+        "terrible",
+        "boring",
+        "awful"
+       ],
+       "answer": 0,
+       "explain": "Mệt nhưng vui nên ngày tuyệt vời: wonderful."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "V. Đọc hiểu",
+   "instruction": "Đọc đoạn văn và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "th-dt-06-g2",
+     "type": "group",
+     "title": "Ben the robot",
+     "passage": "Ben is a robot. He lives with the Smith family in a smart house. Every morning, Ben wakes the children up at 6.30 and makes breakfast for them. He can clean the floor, wash the dishes and water the plants. He cannot cook dinner yet, but Mr Smith is teaching him. In the evening, Ben helps the children with their homework and plays chess with them. The children love Ben, but sometimes he makes mistakes. Last week, he put salt in the coffee instead of sugar!",
+     "items": [
+      {
+       "id": "th-dt-06-27",
+       "type": "mcq",
+       "prompt": "Where does Ben live?",
+       "options": [
+        "In a smart house with the Smith family",
+        "In a robot shop",
+        "At a school",
+        "In a factory"
+       ],
+       "answer": 0,
+       "explain": "\"He lives with the Smith family in a smart house\"."
+      },
+      {
+       "id": "th-dt-06-28",
+       "type": "mcq",
+       "prompt": "What time does Ben wake the children up?",
+       "options": [
+        "At 6.00",
+        "At 6.30",
+        "At 7.00",
+        "At 7.30"
+       ],
+       "answer": 1,
+       "explain": "\"at 6.30\"."
+      },
+      {
+       "id": "th-dt-06-29",
+       "type": "mcq",
+       "prompt": "What can't Ben do yet?",
+       "options": [
+        "Cook dinner",
+        "Clean the floor",
+        "Wash the dishes",
+        "Water the plants"
+       ],
+       "answer": 0,
+       "explain": "\"He cannot cook dinner yet\"."
+      },
+      {
+       "id": "th-dt-06-30",
+       "type": "mcq",
+       "prompt": "Who is teaching Ben?",
+       "options": [
+        "Mr Smith",
+        "Mrs Smith",
+        "The children",
+        "A teacher"
+       ],
+       "answer": 0,
+       "explain": "\"Mr Smith is teaching him\"."
+      },
+      {
+       "id": "th-dt-06-31",
+       "type": "mcq",
+       "prompt": "Which is TRUE?",
+       "options": [
+        "Ben plays chess with the children.",
+        "Ben never makes mistakes.",
+        "Ben goes to school.",
+        "Ben cooks dinner every day."
+       ],
+       "answer": 0,
+       "explain": "\"plays chess with them\"."
+      },
+      {
+       "id": "th-dt-06-32",
+       "type": "mcq",
+       "prompt": "What mistake did Ben make last week?",
+       "options": [
+        "He put salt in the coffee.",
+        "He broke a cup.",
+        "He woke up late.",
+        "He lost the homework."
+       ],
+       "answer": 0,
+       "explain": "\"he put salt in the coffee instead of sugar\"."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "VI. Tìm và sửa lỗi",
+   "instruction": "Mỗi câu có MỘT từ sai. Bấm vào từ sai rồi gõ từ đúng.",
+   "items": [
+    {
+     "id": "th-dt-06-33",
+     "type": "error",
+     "prompt": "Tìm một từ sai và sửa lại",
+     "tokens": [
+      "Lan",
+      "go",
+      "to",
+      "the",
+      "library",
+      "yesterday."
+     ],
+     "wrong": 1,
+     "answers": [
+      "went"
+     ],
+     "explain": "\"yesterday\": go → went."
+    },
+    {
+     "id": "th-dt-06-34",
+     "type": "error",
+     "prompt": "Tìm một từ sai và sửa lại",
+     "tokens": [
+      "There",
+      "are",
+      "many",
+      "child",
+      "in",
+      "the",
+      "park."
+     ],
+     "wrong": 3,
+     "answers": [
+      "children"
+     ],
+     "explain": "many + danh từ số nhiều: children."
+    },
+    {
+     "id": "th-dt-06-35",
+     "type": "error",
+     "prompt": "Tìm một từ sai và sửa lại",
+     "tokens": [
+      "She",
+      "doesn't",
+      "likes",
+      "coffee."
+     ],
+     "wrong": 2,
+     "answers": [
+      "like"
+     ],
+     "explain": "Sau doesn't dùng động từ nguyên mẫu: like."
+    },
+    {
+     "id": "th-dt-06-36",
+     "type": "error",
+     "prompt": "Tìm một từ sai và sửa lại",
+     "tokens": [
+      "We",
+      "have",
+      "a",
+      "English",
+      "test",
+      "tomorrow."
+     ],
+     "wrong": 2,
+     "answers": [
+      "an"
+     ],
+     "explain": "English bắt đầu bằng nguyên âm: an."
+    }
+   ]
+  },
+  {
+   "title": "VII. Viết lại câu",
+   "instruction": "Hoàn thành câu thứ hai sao cho nghĩa không đổi.",
+   "items": [
+    {
+     "id": "th-dt-06-37",
+     "type": "input",
+     "prompt": "My bike is older than your bike.",
+     "answers": [
+      "newer than my bike",
+      "newer than mine",
+      "not as old as my bike",
+      "not as old as mine",
+      "not so old as my bike",
+      "not so old as mine"
+     ],
+     "explain": "older ↔ newer.",
+     "lead": "Your bike is ___"
+    },
+    {
+     "id": "th-dt-06-38",
+     "type": "input",
+     "prompt": "Shall we go out for dinner?",
+     "answers": [
+      "go out for dinner"
+     ],
+     "explain": "Shall we + V = Let's + V.",
+     "lead": "Let's ___"
+    },
+    {
+     "id": "th-dt-06-39",
+     "type": "input",
+     "prompt": "Nam doesn't swim well.",
+     "answers": [
+      "good swimmer"
+     ],
+     "explain": "doesn't swim well = is not a good swimmer.",
+     "lead": "Nam is not a ___"
+    },
+    {
+     "id": "th-dt-06-40",
+     "type": "input",
+     "prompt": "There are 20 rooms in the hotel.",
+     "answers": [
+      "has 20 rooms",
+      "has twenty rooms",
+      "has got 20 rooms",
+      "has got twenty rooms"
+     ],
+     "explain": "There are … in … = … has …",
+     "lead": "The hotel ___"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "vl-tu-cd-05",
+  "title": "Từ: hiểu góc, đồ thị và dòng điện hình sin",
+  "items": [
+    {
+      "id": "vl-tu-cd-05-01", "type": "mcq", "level": 2,
+      "prompt": "Giữ nguyên B, I và chiều dài đoạn dây trong từ trường đều. Khi góc giữa chiều dòng điện và B tăng từ 30° lên 90°, độ lớn lực từ thay đổi thế nào?",
+      "options": ["Giảm 2 lần", "Tăng 2 lần", "Tăng √3 lần", "Không đổi"], "answer": 1,
+      "explain": "F = BIl sin α. Tỉ số lực cuối/đầu = sin 90°/sin 30° = 2; không dùng cos α cho lực từ."
+    },
+    {
+      "id": "vl-tu-cd-05-02", "type": "mcq", "level": 2,
+      "prompt": "Vòng dây cố định, chọn pháp tuyến hướng ra khỏi mặt giấy. B đều hướng vào mặt giấy và có độ lớn tăng. Từ thông đại số qua vòng thay đổi thế nào?",
+      "options": ["Dương và tăng", "Dương và giảm", "Âm và không đổi", "Âm và giảm (âm hơn)"], "answer": 3,
+      "explain": "B ngược pháp tuyến nên Φ = −BS. Khi độ lớn B tăng, Φ âm hơn, tức giá trị đại số giảm dù độ lớn từ thông tăng."
+    },
+    {
+      "id": "vl-tu-cd-05-03", "type": "mcq", "level": 2,
+      "prompt": "Từ thông qua mỗi vòng của một cuộn dây là hàm liên tục: tăng tuyến tính 0 đến 2 mWb trong 0–1 s, không đổi trong 1–2 s, rồi giảm tuyến tính 2 về 0 mWb trong 2–2,5 s. Độ lớn suất điện động cảm ứng lớn nhất trong khoảng nào? Bỏ qua các thời điểm nối đoạn.",
+      "options": ["2–2,5 s", "0–1 s", "1–2 s", "Bằng nhau ở cả ba khoảng"], "answer": 0,
+      "explain": "Độ lớn độ dốc lần lượt là 2; 0; 4 mWb/s. |e| bằng N lần độ lớn độ dốc nên lớn nhất trong 2–2,5 s; không căn cứ vào từ thông lớn nhất."
+    },
+    {
+      "id": "vl-tu-cd-05-04", "type": "mcq", "level": 2,
+      "prompt": "Đoạn dây trên mặt giấy mang dòng điện từ dưới lên, B đều hướng ra khỏi mặt giấy. Lực từ lên dây hướng về đâu?",
+      "options": ["Sang trái", "Lên trên", "Sang phải", "Vào mặt giấy"], "answer": 2,
+      "explain": "Theo quy tắc bàn tay trái (hoặc I l × B), dòng hướng lên và B ra khỏi giấy cho lực hướng sang phải, vuông góc cả dây lẫn B."
+    },
+    {
+      "id": "vl-tu-cd-05-05", "type": "mcq", "level": 2,
+      "prompt": "Dòng điện i = 2√2 cos(100πt) A chạy qua ampe kế xoay chiều lí tưởng. Số chỉ của ampe kế là bao nhiêu?",
+      "options": ["0 A", "2 A", "2√2 A", "4 A"], "answer": 1,
+      "explain": "Ampe kế đo giá trị hiệu dụng: I = I_{0}/√2 = 2 A. Dòng đổi chiều không làm số chỉ hiệu dụng bằng 0."
+    },
+    {
+      "id": "vl-tu-cd-05-06", "type": "mcq", "level": 2,
+      "prompt": "Một vòng dây kín thuần trở được kéo vào vùng từ trường đều không đổi, B vuông góc mặt vòng. Sau đó vòng tiếp tục tịnh tiến và luôn nằm hoàn toàn trong vùng từ trường. Bỏ qua tự cảm. So sánh dòng cảm ứng trong hai giai đoạn.",
+      "options": ["Cả hai giai đoạn đều không có dòng", "Chỉ có dòng khi vòng nằm hoàn toàn trong vùng", "Hai giai đoạn luôn có dòng như nhau", "Có dòng lúc diện tích phần vòng trong vùng tăng; không có dòng khi vòng nằm hoàn toàn trong vùng"], "answer": 3,
+      "explain": "Khi đi vào, diện tích phần vòng có B tăng nên từ thông biến thiên. Khi cả vòng đã ở trong vùng đều và không quay, B, S và góc đều không đổi, nên e = 0 và dòng bằng 0 trong mô hình bỏ qua tự cảm."
+    },
+    {
+      "id": "vl-tu-cd-05-07", "type": "mcq", "level": 2,
+      "prompt": "Thay một vòng dây bằng cuộn gồm 3 vòng giống vòng ban đầu; mỗi vòng đều có cùng từ thông Φ(t) như vòng ban đầu. So với một vòng, độ lớn suất điện động cảm ứng của cả cuộn là bao nhiêu?",
+      "options": ["Gấp 3 lần", "Gấp 9 lần", "Bằng một phần ba", "Không đổi"], "answer": 0,
+      "explain": "|e| = N|ΔΦ|/Δt; Φ(t) là từ thông qua MỖI vòng nên chỉ nhân N một lần. Không nhân số vòng hai lần."
+    },
+    {
+      "id": "vl-tu-cd-05-08", "type": "tf4", "level": 2,
+      "prompt": "Dòng điện i = 4 cos(120πt) A (t tính bằng s) chạy qua điện trở thuần không đổi R = 25 Ω trong 30 s.",
+      "statements": [
+        "a) Tần số dòng điện là 60 Hz.",
+        "b) Cường độ hiệu dụng bằng 4 A.",
+        "c) Công suất tỏa nhiệt trung bình bằng 200 W.",
+        "d) Nhiệt lượng tỏa ra trong 30 s bằng 3000 J."
+      ],
+      "answers": [true, false, true, false],
+      "explain": [
+        "Đúng. ω = 120π rad/s nên f = ω/(2π) = 60 Hz.",
+        "Sai. 4 A là cực đại; I = 4/√2 = 2√2 A.",
+        "Đúng. P = I²R = (4²/2) · 25 = 200 W.",
+        "Sai. 30 s gồm 1800 chu kì, nên Q = PΔt = 200 · 30 = 6000 J, không phải 3000 J."
+      ]
+    },
+    {
+      "id": "vl-tu-cd-05-09", "type": "num", "level": 2,
+      "prompt": "Vòng dây phẳng diện tích 40 cm² đặt trong B đều có độ lớn 0,30 T. B hợp với MẶT PHẲNG vòng góc 30°; chọn pháp tuyến sao cho từ thông dương. Tính từ thông theo mWb, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 0.6, "round": 2, "unit": "mWb",
+      "explain": "Góc với pháp tuyến là 60°. Φ = BS cos 60° = 0,30 · 40·10^{-4} · 0,5 = 0,00060 Wb = 0,60 mWb. Tương đương dùng BS sin 30°. Ghi: 0,60."
+    },
+    {
+      "id": "vl-tu-cd-05-10", "type": "num", "level": 2,
+      "prompt": "Dòng điện i = 6 sin(100πt) A, với t tính bằng s. Tính cường độ tức thời ở t = 1/600 s theo A, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 3, "round": 2, "unit": "A",
+      "explain": "Pha ở thời điểm xét là 100π/600 = π/6 rad. i = 6 sin(π/6) = 6 · 0,5 = 3,00 A. Đây là giá trị tức thời, không lấy 6/√2. Ghi: 3,00."
+    }
+  ]
+}
