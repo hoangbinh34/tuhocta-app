@@ -1,0 +1,121 @@
+{
+ "id": "c3-sx-03",
+ "module": "arrange",
+ "title": "Sắp xếp đoạn văn",
+ "emoji": "📄",
+ "intro": "Đề tốt nghiệp câu 13–17: sắp xếp câu thành hội thoại, lá thư, đoạn văn. Mẹo: tìm câu mở đầu (lời chào, câu chủ đề), câu kết (lời cảm ơn, kết luận), rồi nối các câu bằng từ nối (However, As a result…) và đại từ (It, They, This…).",
+ "instruction": "Chọn thứ tự đúng để tạo thành đoạn văn.",
+ "shuffle": true,
+ "shuffleItems": false,
+ "priority": 1,
+ "sources": [
+  "cau-truc-de-tn-2025"
+ ],
+ "items": [
+  {
+   "id": "c3-sx-03-g1",
+   "type": "group",
+   "title": "AI in language lessons",
+   "passage": "a. As a result, many students now feel more confident when speaking English.\nb. In recent years, many schools have started to use AI chatbots in language lessons.\nc. These tools allow students to practise conversations at any time.\nd. However, teachers warn that chatbots cannot replace real human interaction.",
+   "items": [
+    {
+     "id": "c3-sx-03-01",
+     "type": "mcq",
+     "prompt": "Chọn thứ tự đúng.",
+     "options": [
+      "b – c – a – d",
+      "c – b – a – d",
+      "b – a – c – d",
+      "b – c – d – a"
+     ],
+     "answer": 0,
+     "explain": "Câu chủ đề (b) → \"These tools\" chỉ chatbots (c) → kết quả (a) → mặt trái \"However\" (d)."
+    }
+   ]
+  },
+  {
+   "id": "c3-sx-03-g2",
+   "type": "group",
+   "title": "Plastic waste",
+   "passage": "a. Moreover, plastic can take hundreds of years to decompose.\nb. Plastic waste is one of the biggest environmental problems today.\nc. Therefore, reducing single-use plastic is something everyone should do.\nd. Most of it ends up in landfills or in the ocean, where it harms wildlife.\ne. It also breaks into tiny pieces that animals mistake for food.",
+   "items": [
+    {
+     "id": "c3-sx-03-02",
+     "type": "mcq",
+     "prompt": "Chọn thứ tự đúng.",
+     "options": [
+      "b – d – a – e – c",
+      "b – a – d – e – c",
+      "d – b – a – e – c",
+      "b – e – d – a – c"
+     ],
+     "answer": 0,
+     "explain": "Chủ đề (b) → rác đi đâu (d) → \"Moreover\" thêm ý phân huỷ rất lâu (a) → \"It also\" thêm tác hại (e) → kết luận \"Therefore\" (c)."
+    }
+   ]
+  },
+  {
+   "id": "c3-sx-03-g3",
+   "type": "group",
+   "title": "Lifelong learning",
+   "passage": "a. Today, however, people often need to learn new skills throughout their lives.\nb. This is because technology is changing the job market faster than ever.\nc. In the past, many people finished their education when they left school.\nd. Fortunately, online courses make lifelong learning easier and cheaper.",
+   "items": [
+    {
+     "id": "c3-sx-03-03",
+     "type": "mcq",
+     "prompt": "Chọn thứ tự đúng.",
+     "options": [
+      "c – a – b – d",
+      "a – c – b – d",
+      "c – b – a – d",
+      "c – a – d – b"
+     ],
+     "answer": 0,
+     "explain": "Quá khứ (c) → \"Today, however\" (a) → lý do \"This is because\" (b) → giải pháp (d)."
+    }
+   ]
+  },
+  {
+   "id": "c3-sx-03-g4",
+   "type": "group",
+   "title": "Gap year",
+   "passage": "a. Some students use this time to travel, volunteer or work.\nb. A gap year is a year that students take off between school and university.\nc. Supporters say it helps young people become more independent and mature.\nd. Critics, on the other hand, worry that students may lose the habit of studying.",
+   "items": [
+    {
+     "id": "c3-sx-03-04",
+     "type": "mcq",
+     "prompt": "Chọn thứ tự đúng.",
+     "options": [
+      "b – a – c – d",
+      "a – b – c – d",
+      "b – c – a – d",
+      "b – a – d – c"
+     ],
+     "answer": 0,
+     "explain": "Định nghĩa (b) → \"this time\" (a) → ý ủng hộ (c) → ý phản đối \"on the other hand\" (d)."
+    }
+   ]
+  },
+  {
+   "id": "c3-sx-03-g5",
+   "type": "group",
+   "title": "Saola",
+   "passage": "a. Scientists first discovered it in 1992 in the forests on the border of Viet Nam and Laos.\nb. The saola is one of the rarest mammals in the world.\nc. Since then, it has been seen alive only a few times.\nd. Conservation groups are now working with local people to protect its habitat.",
+   "items": [
+    {
+     "id": "c3-sx-03-05",
+     "type": "mcq",
+     "prompt": "Chọn thứ tự đúng.",
+     "options": [
+      "b – a – c – d",
+      "a – b – c – d",
+      "b – c – a – d",
+      "b – a – d – c"
+     ],
+     "answer": 0,
+     "explain": "Giới thiệu (b) → \"it\" được phát hiện năm 1992 (a) → \"Since then\" (c) → hành động bảo tồn (d)."
+    }
+   ]
+  }
+ ]
+}

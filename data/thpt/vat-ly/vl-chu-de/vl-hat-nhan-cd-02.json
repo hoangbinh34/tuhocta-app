@@ -1,0 +1,77 @@
+{
+  "id": "vl-hat-nhan-cd-02",
+  "title": "Hạt nhân: hiểu liên kết, phản ứng và bán rã",
+  "items": [
+    {
+      "id": "vl-hat-nhan-cd-02-01", "type": "mcq", "level": 2,
+      "prompt": "Hạt nhân X có A = 12, E_{lk} = 90 MeV; Y có A = 40, E_{lk} = 320 MeV. Theo năng lượng liên kết riêng, kết luận nào đúng?",
+      "options": ["X bền vững hơn vì có ít nucleon", "X bền vững hơn vì 90 < 320", "Hai hạt nhân bền vững như nhau", "Y bền vững hơn vì 8 > 7,5 MeV/nucleon"], "answer": 3,
+      "explain": "ε_X = 90/12 = 7,5; ε_Y = 320/40 = 8 MeV/nucleon. So sánh năng lượng liên kết riêng, không chỉ tổng năng lượng."
+    },
+    {
+      "id": "vl-hat-nhan-cd-02-02", "type": "mcq", "level": 2,
+      "prompt": "Hạt nhân ^{14}_{6}C phóng xạ beta trừ. Hạt nhân con là hạt nhân nào?",
+      "options": ["^{14}_{7}N", "^{14}_{5}B", "^{10}_{4}Be", "^{15}_{6}C"], "answer": 0,
+      "explain": "Beta trừ làm neutron thành proton: A giữ bằng 14, Z tăng từ 6 lên 7, tạo nitrogen-14. Electron beta và phản neutrino được phát ra."
+    },
+    {
+      "id": "vl-hat-nhan-cd-02-03", "type": "mcq", "level": 2,
+      "prompt": "Một hạt nhân ở trạng thái kích thích phát photon gamma để xuống trạng thái năng lượng thấp hơn. Điều gì xảy ra với A, Z?",
+      "options": ["A giảm 4, Z giảm 2", "A không đổi, Z tăng 1", "Cả A và Z không đổi", "A và Z đều giảm 1"], "answer": 2,
+      "explain": "Gamma mang năng lượng nhưng không mang điện và không làm mất nucleon; A, Z không đổi, năng lượng nghỉ của hạt nhân giảm."
+    },
+    {
+      "id": "vl-hat-nhan-cd-02-04", "type": "mcq", "level": 2,
+      "prompt": "Phản ứng ^{1}_{0}n + ^{235}_{92}U → ^{141}_{56}Ba + ^{92}_{36}Kr + k ^{1}_{0}n. Giá trị k là bao nhiêu?",
+      "options": ["1", "3", "2", "4"], "answer": 1,
+      "explain": "Bảo toàn số nucleon: 1 + 235 = 141 + 92 + k nên k = 3. Bảo toàn điện tích cũng thỏa: 92 = 56 + 36."
+    },
+    {
+      "id": "vl-hat-nhan-cd-02-05", "type": "mcq", "level": 2,
+      "prompt": "Đồ thị số hạt nhân mẹ N theo t đi qua (0; N_{0}) và (6 ngày; N_{0}/4). Chu kì bán rã là bao nhiêu?",
+      "options": ["6 ngày", "12 ngày", "1,5 ngày", "3 ngày"], "answer": 3,
+      "explain": "N/N_{0} = 1/4 = 2^{-2}; 6 ngày tương ứng 2T, nên T = 3 ngày. Không lấy 6 ngày làm một chu kì."
+    },
+    {
+      "id": "vl-hat-nhan-cd-02-06", "type": "mcq", "level": 2,
+      "prompt": "Một mẫu kín chỉ chứa hạt nhân mẹ lúc đầu. Sau một chu kì bán rã, một bạn nói tổng khối lượng mọi chất trong bình còn đúng một nửa vì m = m_{0}·2^{-t/T}. Lỗi lập luận là gì?",
+      "options": ["Công thức chỉ áp cho khối lượng của phần đồng vị mẹ chưa phân rã", "Công thức phải thay 2 bằng 10", "Chu kì bán rã chỉ dùng được cho electron", "Hạt nhân con không có khối lượng"], "answer": 0,
+      "explain": "Hạt nhân con và sản phẩm khác vẫn có khối lượng. m_{0}·2^{-t/T} tính khối lượng đồng vị mẹ còn lại, không phải tổng khối lượng mọi chất trong bình."
+    },
+    {
+      "id": "vl-hat-nhan-cd-02-07", "type": "mcq", "level": 2,
+      "prompt": "Một nguồn có H = 2,0·10^{6} Bq, hằng số phóng xạ λ = 1,0·10^{-5} s^{-1}. Số hạt nhân mẹ chưa phân rã tại thời điểm xét là bao nhiêu?",
+      "options": ["20", "2,0·10^{6}", "2,0·10^{11}", "2,0·10^{-11}"], "answer": 2,
+      "explain": "H = λN nên N = H/λ = 2,0·10^{6}/10^{-5} = 2,0·10^{11}. H là tốc độ phân rã, không phải số hạt còn lại."
+    },
+    {
+      "id": "vl-hat-nhan-cd-02-08", "type": "tf4", "level": 2,
+      "prompt": "Hạt nhân ^{238}_{92}U phóng xạ alpha tạo hạt nhân con X. Xét riêng một phân rã alpha và so sánh với phát gamma.",
+      "statements": [
+        "a) Số khối của X là 234.",
+        "b) Số proton của X là 90.",
+        "c) Hạt alpha được phát ra chính là một electron của lớp vỏ.",
+        "d) Nếu một hạt nhân chỉ phát gamma, số khối của nó cũng giảm 4 như khi phát alpha."
+      ],
+      "answers": [true, true, false, false],
+      "explain": [
+        "Đúng. Alpha có A = 4 nên A_X = 238 − 4 = 234.",
+        "Đúng. Alpha có Z = 2 nên Z_X = 92 − 2 = 90, X là thorium.",
+        "Sai. Alpha là hạt nhân helium gồm 2 proton và 2 neutron, không phải electron.",
+        "Sai. Phát gamma làm hạt nhân giảm năng lượng nhưng A và Z đều không đổi."
+      ]
+    },
+    {
+      "id": "vl-hat-nhan-cd-02-09", "type": "num", "level": 2,
+      "prompt": "Cho khối lượng proton m_{p} = 1,0073 u, neutron m_{n} = 1,0087 u và hạt nhân ^{4}_{2}He là 4,0015 u (không phải khối lượng nguyên tử). Lấy u c² = 931,5 MeV. Tính năng lượng liên kết của hạt nhân này theo MeV, làm tròn đến một chữ số sau dấu phẩy.",
+      "answer": 28.4, "round": 1, "exact": 28.41075, "unit": "MeV",
+      "explain": "Hạt nhân có 2 proton, 2 neutron. Δm = 2 · 1,0073 + 2 · 1,0087 − 4,0015 = 0,0305 u. E_{lk} = 0,0305 · 931,5 = 28,41075 MeV. Chỉ làm tròn kết quả cuối: 28,4 MeV. Ghi: 28,4."
+    },
+    {
+      "id": "vl-hat-nhan-cd-02-10", "type": "num", "level": 2,
+      "prompt": "Một mẫu lúc đầu có 80 mg đồng vị mẹ phóng xạ, chu kì bán rã 3 ngày. Không bổ sung đồng vị mẹ. Tính khối lượng của phần đồng vị mẹ chưa phân rã sau 6 ngày theo mg, làm tròn đến hàng đơn vị.",
+      "answer": 20, "round": 0, "unit": "mg",
+      "explain": "t/T = 6/3 = 2. Khối lượng đồng vị mẹ m = 80 · 2^{-2} = 20 mg. Không cộng khối lượng sản phẩm phân rã vào m. Ghi: 20."
+    }
+  ]
+}

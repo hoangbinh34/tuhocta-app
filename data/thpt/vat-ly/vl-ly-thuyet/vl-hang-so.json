@@ -1,0 +1,23 @@
+{
+  "id": "vl-hang-so",
+  "title": "Hằng số dùng trong đề",
+  "items": [
+    {
+      "id": "vl-hang-so-t1", "type": "card", "title": "Hằng số dùng trong đề",
+      "paras": [
+        "Bảng dưới dùng các giá trị quy ước ở đầu đề chính thức Vật lí tốt nghiệp THPT 2025, mã 0201. Dùng giá trị đề cho; không tự thay bằng số chính xác hơn lưu trong máy tính.",
+        "Quy đổi nhiệt độ theo quy ước của đề: T (K) = t (°C) + 273. Công thức chính xác của hai thang là T (K) = t (°C) + 273,15; độ tăng 1 °C bằng độ tăng 1 K trong cả hai cách viết.",
+        "Nhiệt dung riêng c, nhiệt nóng chảy riêng λ, nhiệt hoá hơi riêng L và nhiệt độ chuyển thể phụ thuộc chất, điều kiện đo; đọc số liệu cho ở từng câu. Không mặc định nước luôn sôi ở 100 °C: điều đó ứng với áp suất khí quyển tiêu chuẩn.",
+        "Không làm tròn kết quả trung gian. Câu trả lời ngắn ghi rõ đơn vị cần trả lời và số chữ số làm tròn; chỉ ghi phần số vào ô đáp án."
+      ],
+      "table": [
+        ["Đại lượng", "Giá trị theo đề 2025 mã 0201", "Đơn vị"],
+        ["π", "3,14", "Không có đơn vị"],
+        ["R — hằng số khí lí tưởng", "8,31", "J/(mol·K)"],
+        ["N_{A} — hằng số Avogadro", "6,02·10^{23}", "mol^{-1} (số hạt trong 1 mol)"],
+        ["ln 2", "0,693", "Không có đơn vị"]
+      ],
+      "source": "Bộ GD&ĐT, đề chính thức Vật lí tốt nghiệp THPT 2025, mã 0201, trang 1, dòng Cho biết; bản đăng lại: https://www.scribd.com/document/985462929/Mon-V%E1%BA%ADt-Li-%C4%90%E1%BB%81-Thi-Chinh-Th%E1%BB%A9c-Ki-Thi-T%E1%BB%91t-Nghi%E1%BB%87p-THPT-2025-Ma-0201"
+    }
+  ]
+}

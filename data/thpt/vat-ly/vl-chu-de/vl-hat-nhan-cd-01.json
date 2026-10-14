@@ -1,0 +1,77 @@
+{
+  "id": "vl-hat-nhan-cd-01",
+  "title": "Hạt nhân: nhận biết cấu trúc, đại lượng và phóng xạ",
+  "items": [
+    {
+      "id": "vl-hat-nhan-cd-01-01", "type": "mcq", "level": 1,
+      "prompt": "Hạt nhân nguyên tử được cấu tạo từ các hạt nào?",
+      "options": ["Proton và electron", "Electron và neutron", "Proton và neutron", "Chỉ electron"], "answer": 2,
+      "explain": "Hạt nhân gồm proton và neutron, gọi chung là nucleon; electron thuộc lớp vỏ nguyên tử."
+    },
+    {
+      "id": "vl-hat-nhan-cd-01-02", "type": "mcq", "level": 1,
+      "prompt": "Trong kí hiệu ^{A}_{Z}X, số Z là số hạt nào trong hạt nhân?",
+      "options": ["Proton", "Neutron", "Electron", "Tất cả nucleon"], "answer": 0,
+      "explain": "Z là số proton, cũng là số hiệu nguyên tử. Tổng số nucleon là A."
+    },
+    {
+      "id": "vl-hat-nhan-cd-01-03", "type": "mcq", "level": 1,
+      "prompt": "Hai đồng vị của cùng một nguyên tố có đặc điểm nào?",
+      "options": ["Cùng A, khác Z", "Cùng số neutron, khác Z", "Cùng A và cùng số neutron", "Cùng Z, khác số neutron"], "answer": 3,
+      "explain": "Đồng vị có cùng số proton Z, khác số neutron nên khác số khối A."
+    },
+    {
+      "id": "vl-hat-nhan-cd-01-04", "type": "mcq", "level": 1,
+      "prompt": "Năng lượng liên kết riêng của hạt nhân số khối A được xác định bằng biểu thức nào?",
+      "options": ["E_{lk}·A", "E_{lk}/A", "A/E_{lk}", "E_{lk} − A"], "answer": 1,
+      "explain": "Năng lượng liên kết riêng là năng lượng liên kết tính trên một nucleon: ε = E_{lk}/A."
+    },
+    {
+      "id": "vl-hat-nhan-cd-01-05", "type": "mcq", "level": 1,
+      "prompt": "Phân hạch là quá trình nào?",
+      "options": ["Hạt nhân nặng tách thành các hạt nhân nhẹ hơn", "Hai nguyên tử kết hợp thành phân tử", "Electron rời lớp vỏ nguyên tử", "Hai hạt nhân nhẹ kết hợp thành hạt nhân nặng hơn"], "answer": 0,
+      "explain": "Phân hạch chia hạt nhân nặng thành các hạt nhân nhẹ hơn; kết hợp hạt nhân nhẹ là nhiệt hạch."
+    },
+    {
+      "id": "vl-hat-nhan-cd-01-06", "type": "mcq", "level": 1,
+      "prompt": "Hạt alpha phát ra khi phóng xạ là hạt nào?",
+      "options": ["Electron", "Neutron", "Hạt nhân ^{4}_{2}He", "Photon"], "answer": 2,
+      "explain": "Alpha là hạt nhân helium-4 gồm 2 proton và 2 neutron, điện tích +2e."
+    },
+    {
+      "id": "vl-hat-nhan-cd-01-07", "type": "mcq", "level": 1,
+      "prompt": "Chu kì bán rã của một đồng vị phóng xạ là khoảng thời gian để đại lượng nào giảm còn một nửa trong mẫu rất nhiều hạt nhân?",
+      "options": ["Số neutron của từng hạt nhân mẹ", "Số hạt nhân mẹ chưa phân rã", "Tổng số nucleon của từng hạt nhân mẹ", "Khối lượng của mọi chất trong bình chứa"], "answer": 1,
+      "explain": "Sau một chu kì bán rã, số hạt nhân mẹ chưa phân rã còn một nửa; không phải mỗi hạt nhân mất nửa số nucleon."
+    },
+    {
+      "id": "vl-hat-nhan-cd-01-08", "type": "mcq", "level": 1,
+      "prompt": "Chọn bộ ba nguyên tắc cơ bản để giảm chiếu xạ ngoài.",
+      "options": ["Tăng thời gian, giảm khoảng cách, bỏ che chắn", "Chỉ giảm nhiệt độ nguồn", "Chạm nguồn nhanh, đưa sát mắt, che bằng tay", "Giảm thời gian, tăng khoảng cách, dùng che chắn phù hợp"], "answer": 3,
+      "explain": "Giảm thời gian tiếp xúc, tăng khoảng cách và che chắn phù hợp giúp giảm chiếu xạ ngoài; phải theo hướng dẫn an toàn của người phụ trách."
+    },
+    {
+      "id": "vl-hat-nhan-cd-01-09", "type": "tf4", "level": 1,
+      "prompt": "Xét nguyên tử trung hòa ^{56}_{26}Fe và đồng vị ^{57}_{26}Fe. Đánh giá các phát biểu về cấu trúc.",
+      "statements": [
+        "a) Hạt nhân ^{56}_{26}Fe có 26 proton.",
+        "b) Hạt nhân ^{56}_{26}Fe có 56 neutron.",
+        "c) Nguyên tử trung hòa ^{56}_{26}Fe có 26 electron.",
+        "d) Hai hạt nhân đã cho là hai đồng vị của cùng một nguyên tố."
+      ],
+      "answers": [true, false, true, true],
+      "explain": [
+        "Đúng. Số hiệu nguyên tử Z = 26 là số proton.",
+        "Sai. Số neutron là A − Z = 56 − 26 = 30, không phải 56.",
+        "Đúng. Nguyên tử trung hòa có số electron bằng số proton, tức 26.",
+        "Đúng. Cùng Z = 26 nhưng A lần lượt là 56 và 57, số neutron là 30 và 31."
+      ]
+    },
+    {
+      "id": "vl-hat-nhan-cd-01-10", "type": "num", "level": 1,
+      "prompt": "Hạt nhân ^{208}_{82}Pb có bao nhiêu neutron? Ghi số neutron, làm tròn đến hàng đơn vị.",
+      "answer": 126, "round": 0, "unit": "neutron",
+      "explain": "Số neutron là A − Z = 208 − 82 = 126. Đây là số nguyên đếm hạt, không phải khối lượng. Ghi: 126."
+    }
+  ]
+}

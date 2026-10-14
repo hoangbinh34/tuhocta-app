@@ -1,0 +1,123 @@
+{
+ "id": "th-vc-03",
+ "module": "sentence",
+ "title": "Viết lại câu cùng nghĩa (1)",
+ "emoji": "🔁",
+ "intro": "Viết lại sao cho NGHĨA KHÔNG ĐỔI. Dạng hay gặp: so sánh (taller ↔ shorter), Let's / What about…?, There are… ↔ … has…, a good singer ↔ sings well.",
+ "instruction": "Hoàn thành câu thứ hai sao cho nghĩa giống câu thứ nhất (chỉ gõ phần còn thiếu).",
+ "shuffle": true,
+ "priority": 1,
+ "sources": [
+  "dang-de-CG"
+ ],
+ "items": [
+  {
+   "id": "th-vc-03-01",
+   "type": "input",
+   "prompt": "Lan is taller than Mai.",
+   "answers": [
+    "shorter than Lan",
+    "not as tall as Lan",
+    "not so tall as Lan"
+   ],
+   "explain": "Đảo ngược so sánh: taller ↔ shorter (hoặc not as tall as).",
+   "lead": "Mai is ___"
+  },
+  {
+   "id": "th-vc-03-02",
+   "type": "input",
+   "prompt": "How about going to the zoo?",
+   "answers": [
+    "go to the zoo"
+   ],
+   "explain": "How about + V-ing = Let's + động từ nguyên mẫu.",
+   "lead": "Let's ___"
+  },
+  {
+   "id": "th-vc-03-03",
+   "type": "input",
+   "prompt": "There are thirty students in my class.",
+   "answers": [
+    "has thirty students",
+    "has 30 students",
+    "has got thirty students",
+    "has got 30 students"
+   ],
+   "explain": "There are… in my class = My class has…",
+   "lead": "My class ___"
+  },
+  {
+   "id": "th-vc-03-04",
+   "type": "input",
+   "prompt": "She is a good singer.",
+   "answers": [
+    "well",
+    "very well"
+   ],
+   "explain": "a good singer = sings well (good → well).",
+   "lead": "She sings ___"
+  },
+  {
+   "id": "th-vc-03-05",
+   "type": "input",
+   "prompt": "He goes to school on foot.",
+   "answers": [
+    "walks to school"
+   ],
+   "explain": "go on foot = walk.",
+   "lead": "He ___"
+  },
+  {
+   "id": "th-vc-03-06",
+   "type": "input",
+   "prompt": "What about playing badminton?",
+   "answers": [
+    "play badminton"
+   ],
+   "explain": "What about + V-ing = Let's + động từ.",
+   "lead": "Let's ___"
+  },
+  {
+   "id": "th-vc-03-07",
+   "type": "input",
+   "prompt": "My house is near the park.",
+   "answers": [
+    "far from the park"
+   ],
+   "explain": "near ↔ not far from.",
+   "lead": "My house isn't ___"
+  },
+  {
+   "id": "th-vc-03-08",
+   "type": "input",
+   "prompt": "I like English best.",
+   "answers": [
+    "is English"
+   ],
+   "explain": "like… best = favourite.",
+   "lead": "My favourite subject ___"
+  },
+  {
+   "id": "th-vc-03-09",
+   "type": "input",
+   "prompt": "Tom is good at swimming.",
+   "answers": [
+    "swim well",
+    "swim very well"
+   ],
+   "explain": "good at swimming = can swim well.",
+   "lead": "Tom can ___"
+  },
+  {
+   "id": "th-vc-03-10",
+   "type": "input",
+   "prompt": "This bag belongs to me.",
+   "answers": [
+    "my bag",
+    "mine"
+   ],
+   "explain": "belong to me = my bag (= mine).",
+   "lead": "This is ___"
+  }
+ ]
+}

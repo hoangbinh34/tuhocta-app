@@ -1,0 +1,562 @@
+{
+ "id": "th-dt-01",
+ "module": "mock-test",
+ "title": "Đề 1 – kiểu Cầu Giấy",
+ "emoji": "🏁",
+ "desc": "Khuôn kiểu THCS Cầu Giấy: ngữ âm, trắc nghiệm, chia động từ, điền từ vào đoạn văn, đọc hiểu, viết lại câu.",
+ "minutes": 45,
+ "scale": 10,
+ "priority": 1,
+ "sources": [
+  "khuon-de-vao-6"
+ ],
+ "sections": [
+  {
+   "title": "I. Ngữ âm",
+   "instruction": "Câu 1–3: phát âm; câu 4–5: trọng âm.",
+   "items": [
+    {
+     "id": "th-dt-01-01",
+     "type": "mcq",
+     "prompt": "Chọn từ có phần gạch chân phát âm khác.",
+     "options": [
+      "book[[s]]",
+      "cup[[s]]",
+      "cat[[s]]",
+      "bag[[s]]"
+     ],
+     "answer": 3,
+     "explain": "bags: /z/. books, cups, cats: /s/."
+    },
+    {
+     "id": "th-dt-01-02",
+     "type": "mcq",
+     "prompt": "Chọn từ có phần gạch chân phát âm khác.",
+     "options": [
+      "c[[a]]ke",
+      "t[[a]]ke",
+      "c[[a]]t",
+      "m[[a]]ke"
+     ],
+     "answer": 2,
+     "explain": "cat: /æ/. cake, take, make: /eɪ/."
+    },
+    {
+     "id": "th-dt-01-03",
+     "type": "mcq",
+     "prompt": "Chọn từ có phần gạch chân phát âm khác.",
+     "options": [
+      "watch[[ed]]",
+      "play[[ed]]",
+      "wash[[ed]]",
+      "look[[ed]]"
+     ],
+     "answer": 1,
+     "explain": "played: /d/. watched, washed, looked: /t/."
+    },
+    {
+     "id": "th-dt-01-04",
+     "type": "mcq",
+     "prompt": "Chọn từ có trọng âm khác.",
+     "options": [
+      "pencil",
+      "rubber",
+      "behind",
+      "teacher"
+     ],
+     "answer": 2,
+     "explain": "behind nhấn âm 2; pencil (âm 1), rubber (âm 1), teacher (âm 1)."
+    },
+    {
+     "id": "th-dt-01-05",
+     "type": "mcq",
+     "prompt": "Chọn từ có trọng âm khác.",
+     "options": [
+      "computer",
+      "holiday",
+      "family",
+      "beautiful"
+     ],
+     "answer": 0,
+     "explain": "computer nhấn âm 2; holiday (âm 1), family (âm 1), beautiful (âm 1)."
+    }
+   ]
+  },
+  {
+   "title": "II. Chọn đáp án đúng",
+   "instruction": "Chọn A, B, C hoặc D để hoàn thành câu.",
+   "items": [
+    {
+     "id": "th-dt-01-06",
+     "type": "mcq",
+     "prompt": "There ___ a lot of books on my desk.",
+     "options": [
+      "is",
+      "are",
+      "am",
+      "be"
+     ],
+     "answer": 1,
+     "explain": "a lot of books là số nhiều: There are."
+    },
+    {
+     "id": "th-dt-01-07",
+     "type": "mcq",
+     "prompt": "My mother ___ to work by car every day.",
+     "options": [
+      "go",
+      "goes",
+      "going",
+      "went"
+     ],
+     "answer": 1,
+     "explain": "\"every day\", My mother = she: goes."
+    },
+    {
+     "id": "th-dt-01-08",
+     "type": "mcq",
+     "prompt": "We ___ to the cinema last Sunday.",
+     "options": [
+      "go",
+      "goes",
+      "went",
+      "going"
+     ],
+     "answer": 2,
+     "explain": "\"last Sunday\": quá khứ, go → went."
+    },
+    {
+     "id": "th-dt-01-09",
+     "type": "mcq",
+     "prompt": "Mount Fansipan is the ___ mountain in Viet Nam.",
+     "options": [
+      "high",
+      "higher",
+      "highest",
+      "most high"
+     ],
+     "answer": 2,
+     "explain": "the + so sánh nhất: the highest."
+    },
+    {
+     "id": "th-dt-01-10",
+     "type": "mcq",
+     "prompt": "I'm hungry. ___ we have lunch now?",
+     "options": [
+      "Shall",
+      "Are",
+      "Is",
+      "Does"
+     ],
+     "answer": 0,
+     "explain": "Rủ cùng làm gì: Shall we…?"
+    },
+    {
+     "id": "th-dt-01-11",
+     "type": "mcq",
+     "prompt": "My birthday is ___ 25th December.",
+     "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+     ],
+     "answer": 1,
+     "explain": "Ngày cụ thể dùng on."
+    },
+    {
+     "id": "th-dt-01-12",
+     "type": "mcq",
+     "prompt": "She is very good ___ drawing.",
+     "options": [
+      "in",
+      "at",
+      "on",
+      "for"
+     ],
+     "answer": 1,
+     "explain": "good at + V-ing."
+    },
+    {
+     "id": "th-dt-01-13",
+     "type": "mcq",
+     "prompt": "___ do you go to the dentist? – Twice a year.",
+     "options": [
+      "How often",
+      "How long",
+      "How many",
+      "What time"
+     ],
+     "answer": 0,
+     "explain": "Trả lời \"Twice a year\" (tần suất): How often."
+    },
+    {
+     "id": "th-dt-01-14",
+     "type": "mcq",
+     "prompt": "Would you like ___ some cake?",
+     "options": [
+      "eat",
+      "to eat",
+      "eating",
+      "eats"
+     ],
+     "answer": 1,
+     "explain": "would like + to V."
+    },
+    {
+     "id": "th-dt-01-15",
+     "type": "mcq",
+     "prompt": "Lan is ___ girl in my class.",
+     "options": [
+      "tall",
+      "taller",
+      "the tallest",
+      "more tall"
+     ],
+     "answer": 2,
+     "explain": "So với cả lớp: the tallest."
+    }
+   ]
+  },
+  {
+   "title": "III. Chia động từ",
+   "instruction": "Gõ dạng đúng của động từ trong ngoặc.",
+   "items": [
+    {
+     "id": "th-dt-01-16",
+     "type": "input",
+     "prompt": "Listen! The birds (sing) ___.",
+     "answers": [
+      "are singing",
+      "'re singing"
+     ],
+     "explain": "\"Listen!\": hiện tại tiếp diễn, the birds số nhiều: are singing."
+    },
+    {
+     "id": "th-dt-01-17",
+     "type": "input",
+     "prompt": "My brother (not like) ___ milk.",
+     "answers": [
+      "doesn't like",
+      "does not like"
+     ],
+     "explain": "Phủ định hiện tại đơn, ngôi 3 số ít: doesn't like."
+    },
+    {
+     "id": "th-dt-01-18",
+     "type": "input",
+     "prompt": "Last summer we (visit) ___ Hue.",
+     "answers": [
+      "visited"
+     ],
+     "explain": "\"Last summer\": visited."
+    },
+    {
+     "id": "th-dt-01-19",
+     "type": "input",
+     "prompt": "I think it (rain) ___ tomorrow.",
+     "answers": [
+      "will rain",
+      "'ll rain",
+      "is going to rain",
+      "'s going to rain"
+     ],
+     "explain": "Dự đoán về ngày mai: will rain."
+    },
+    {
+     "id": "th-dt-01-20",
+     "type": "input",
+     "prompt": "She enjoys (play) ___ badminton.",
+     "answers": [
+      "playing"
+     ],
+     "explain": "enjoy + V-ing: playing."
+    }
+   ]
+  },
+  {
+   "title": "IV. Điền từ vào đoạn văn",
+   "instruction": "Chọn từ đúng cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "th-dt-01-g1",
+     "type": "group",
+     "title": "My neighbourhood",
+     "passage": "I live in a small town near Ha Noi. My neighbourhood is quiet (21) ___ beautiful. There (22) ___ a big park near my house. Every morning, many old people (23) ___ exercise there. There is also a market (24) ___ my house and the post office. I often go there (25) ___ my mother at the weekend. The people here are very (26) ___. They always help each other. In the evening, children play games (27) ___ the street. Last month, a new library (28) ___ in my neighbourhood. I go there (29) ___ Saturdays to read books. I love my neighbourhood very (30) ___.",
+     "items": [
+      {
+       "id": "th-dt-01-21",
+       "type": "mcq",
+       "prompt": "(21)",
+       "options": [
+        "and",
+        "but",
+        "so",
+        "or"
+       ],
+       "answer": 0,
+       "explain": "Hai tính từ cùng ý tốt: quiet and beautiful."
+      },
+      {
+       "id": "th-dt-01-22",
+       "type": "mcq",
+       "prompt": "(22)",
+       "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+       ],
+       "answer": 0,
+       "explain": "a big park số ít: There is."
+      },
+      {
+       "id": "th-dt-01-23",
+       "type": "mcq",
+       "prompt": "(23)",
+       "options": [
+        "do",
+        "does",
+        "doing",
+        "did"
+       ],
+       "answer": 0,
+       "explain": "Every morning, many old people (số nhiều): do exercise."
+      },
+      {
+       "id": "th-dt-01-24",
+       "type": "mcq",
+       "prompt": "(24)",
+       "options": [
+        "between",
+        "next",
+        "from",
+        "opposite of"
+       ],
+       "answer": 0,
+       "explain": "between … and …: ở giữa hai nơi."
+      },
+      {
+       "id": "th-dt-01-25",
+       "type": "mcq",
+       "prompt": "(25)",
+       "options": [
+        "to",
+        "with",
+        "of",
+        "by"
+       ],
+       "answer": 1,
+       "explain": "Đi cùng mẹ: with my mother."
+      },
+      {
+       "id": "th-dt-01-26",
+       "type": "mcq",
+       "prompt": "(26)",
+       "options": [
+        "friendly",
+        "friend",
+        "friendship",
+        "friends"
+       ],
+       "answer": 0,
+       "explain": "Sau very cần tính từ: friendly."
+      },
+      {
+       "id": "th-dt-01-27",
+       "type": "mcq",
+       "prompt": "(27)",
+       "options": [
+        "in",
+        "at",
+        "from",
+        "under"
+       ],
+       "answer": 0,
+       "explain": "Chơi ngoài đường: in the street."
+      },
+      {
+       "id": "th-dt-01-28",
+       "type": "mcq",
+       "prompt": "(28)",
+       "options": [
+        "opens",
+        "opened",
+        "open",
+        "opening"
+       ],
+       "answer": 1,
+       "explain": "\"Last month\": quá khứ đơn, opened."
+      },
+      {
+       "id": "th-dt-01-29",
+       "type": "mcq",
+       "prompt": "(29)",
+       "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+       ],
+       "answer": 1,
+       "explain": "Thứ trong tuần: on Saturdays."
+      },
+      {
+       "id": "th-dt-01-30",
+       "type": "mcq",
+       "prompt": "(30)",
+       "options": [
+        "many",
+        "much",
+        "lots",
+        "more"
+       ],
+       "answer": 1,
+       "explain": "Cụm cố định: very much."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "V. Đọc hiểu",
+   "instruction": "Đọc đoạn văn và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "th-dt-01-g2",
+     "type": "group",
+     "title": "Peter's day",
+     "passage": "Peter is eleven years old. He lives with his parents and his little sister in London. On weekdays, Peter gets up at seven o'clock. He has breakfast and then walks to school with his friend Tom. School starts at half past eight and finishes at three. Peter's favourite subject is art because he loves drawing animals. After school, he plays the guitar or reads comics. At the weekend, his family often goes to the countryside to visit his grandparents, who have a big farm with cows and horses.",
+     "items": [
+      {
+       "id": "th-dt-01-31",
+       "type": "mcq",
+       "prompt": "How does Peter go to school?",
+       "options": [
+        "By bus",
+        "On foot",
+        "By car",
+        "By bike"
+       ],
+       "answer": 1,
+       "explain": "\"walks to school\": đi bộ."
+      },
+      {
+       "id": "th-dt-01-32",
+       "type": "mcq",
+       "prompt": "What time does school finish?",
+       "options": [
+        "At 7.00",
+        "At 8.30",
+        "At 3.00",
+        "At 5.00"
+       ],
+       "answer": 2,
+       "explain": "\"finishes at three\"."
+      },
+      {
+       "id": "th-dt-01-33",
+       "type": "mcq",
+       "prompt": "Why does Peter like art?",
+       "options": [
+        "He loves drawing animals.",
+        "His teacher is kind.",
+        "It is easy.",
+        "His friend Tom likes it."
+       ],
+       "answer": 0,
+       "explain": "\"because he loves drawing animals\"."
+      },
+      {
+       "id": "th-dt-01-34",
+       "type": "mcq",
+       "prompt": "Which is NOT true?",
+       "options": [
+        "Peter has a little sister.",
+        "Peter lives in London.",
+        "Peter's grandparents live in a city.",
+        "Peter can play the guitar."
+       ],
+       "answer": 2,
+       "explain": "Ông bà sống ở nông thôn (countryside), có trang trại; ý C sai."
+      },
+      {
+       "id": "th-dt-01-35",
+       "type": "mcq",
+       "prompt": "What can you find on his grandparents' farm?",
+       "options": [
+        "Cows and horses",
+        "Ducks and chickens",
+        "Sheep and goats",
+        "Pigs and dogs"
+       ],
+       "answer": 0,
+       "explain": "\"a big farm with cows and horses\"."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "VI. Viết lại câu",
+   "instruction": "Hoàn thành câu thứ hai sao cho nghĩa không đổi.",
+   "items": [
+    {
+     "id": "th-dt-01-36",
+     "type": "input",
+     "prompt": "Minh is shorter than Nam.",
+     "answers": [
+      "taller than Minh",
+      "not as short as Minh",
+      "not so short as Minh"
+     ],
+     "explain": "shorter ↔ taller.",
+     "lead": "Nam is ___"
+    },
+    {
+     "id": "th-dt-01-37",
+     "type": "input",
+     "prompt": "What about going swimming?",
+     "answers": [
+      "go swimming"
+     ],
+     "explain": "What about + V-ing = Let's + V.",
+     "lead": "Let's ___"
+    },
+    {
+     "id": "th-dt-01-38",
+     "type": "input",
+     "prompt": "My class has 35 students.",
+     "answers": [
+      "are 35 students in my class",
+      "are thirty-five students in my class",
+      "are thirty five students in my class"
+     ],
+     "explain": "… has … = There are … in …",
+     "lead": "There ___"
+    },
+    {
+     "id": "th-dt-01-39",
+     "type": "input",
+     "prompt": "He is a good footballer.",
+     "answers": [
+      "well",
+      "very well"
+     ],
+     "explain": "a good footballer = plays football well.",
+     "lead": "He plays football ___"
+    },
+    {
+     "id": "th-dt-01-40",
+     "type": "input",
+     "prompt": "Why don't we go to the park?",
+     "answers": [
+      "go to the park"
+     ],
+     "explain": "Why don't we…? = Shall we…?",
+     "lead": "Shall we ___"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "vl-nhiet-cd-02",
+  "title": "Nhiệt: giải thích và đọc số liệu",
+  "items": [
+    {
+      "id": "vl-nhiet-cd-02-01", "type": "mcq", "level": 2,
+      "prompt": "Một chất rắn kết tinh tinh khiết đang nóng chảy ở áp suất không đổi, nhận nhiệt và không trao đổi công đáng kể. Trong giai đoạn vẫn còn cả rắn và lỏng, kết luận nào đúng?",
+      "options": ["Nhiệt độ và nội năng cùng không đổi", "Nhiệt độ tăng, nội năng giảm", "Nhiệt độ không đổi, nội năng tăng", "Nhiệt độ giảm, nội năng không đổi"], "answer": 2,
+      "explain": "Nóng chảy diễn ra ở nhiệt độ xác định. Q > 0 và A ≈ 0 nên ΔU = Q > 0: nhiệt độ không tăng nhưng nội năng tăng."
+    },
+    {
+      "id": "vl-nhiet-cd-02-02", "type": "mcq", "level": 2,
+      "prompt": "Đun riêng hai mẫu A và B có cùng khối lượng bằng hai dây nung có cùng công suất. Bỏ qua nhiệt dung bình và thất thoát, không chuyển thể. Đồ thị nhiệt độ theo thời gian của A có độ dốc bằng một nửa của B. Quan hệ giữa các nhiệt dung riêng là gì?",
+      "options": ["c_{A} = 2c_{B}", "c_{A} = c_{B}/2", "c_{A} = c_{B}", "c_{A} = 4c_{B}"], "answer": 0,
+      "explain": "Độ dốc ΔT/Δτ = P/(mc). Cùng P và m, độ dốc nhỏ một nửa tương ứng c lớn gấp đôi."
+    },
+    {
+      "id": "vl-nhiet-cd-02-03", "type": "mcq", "level": 2,
+      "prompt": "Một bạn nói: 'Nhiệt lượng là lượng năng lượng nhiệt có sẵn trong vật nên vật nào cũng có một nhiệt lượng xác định.' Cách sửa nào đúng?",
+      "options": ["Thay từ nhiệt lượng bằng công suất là đủ", "Nhiệt lượng chỉ có sẵn trong chất khí", "Nhiệt lượng luôn bằng nhiệt độ", "Nhiệt lượng là năng lượng trao đổi bằng truyền nhiệt trong một quá trình; nội năng mới là đại lượng trạng thái của vật"], "answer": 3,
+      "explain": "Q mô tả trao đổi năng lượng do truyền nhiệt, phụ thuộc quá trình. U mô tả trạng thái năng lượng bên trong của vật. Không nói một vật chứa sẵn một nhiệt lượng."
+    },
+    {
+      "id": "vl-nhiet-cd-02-04", "type": "mcq", "level": 2,
+      "prompt": "Ngoại lực thực hiện công 200 J để nén khí; đồng thời khí toả nhiệt 80 J. Dùng ΔU = A + Q. Độ biến thiên nội năng khí bằng bao nhiêu?",
+      "options": ["280 J", "120 J", "−120 J", "−280 J"], "answer": 1,
+      "explain": "Khí nhận công A = +200 J và toả nhiệt Q = −80 J, nên ΔU = 200 − 80 = 120 J."
+    },
+    {
+      "id": "vl-nhiet-cd-02-05", "type": "mcq", "level": 2,
+      "prompt": "Hai mẫu cùng một chất rắn kết tinh, ban đầu đều ở nhiệt độ nóng chảy. Mẫu A có khối lượng bằng một nửa mẫu B. Ở cùng áp suất, nhiệt lượng cần làm tan hoàn toàn A so với B ra sao?",
+      "options": ["Gấp đôi", "Bằng nhau", "Bằng một nửa", "Gấp bốn"], "answer": 2,
+      "explain": "Cùng chất và điều kiện nên cùng λ. Q = mλ tỉ lệ với m: khối lượng bằng một nửa thì nhiệt nóng chảy bằng một nửa."
+    },
+    {
+      "id": "vl-nhiet-cd-02-06", "type": "mcq", "level": 2,
+      "prompt": "Khi cấp công suất P không đổi cho một mẫu, số liệu (thời gian s; nhiệt độ °C) là (0; 20), (30; 23), (60; 26). Bỏ qua thất thoát và nhiệt dung bình; c không đổi, không chuyển thể. Nếu cấp công suất 2P cho cùng mẫu từ 20 °C trong 60 s, độ tăng nhiệt độ là bao nhiêu?",
+      "options": ["12 K", "6 K", "3 K", "285 K"], "answer": 0,
+      "explain": "Ở P, mẫu tăng 26 − 20 = 6 K trong 60 s. Q = Pτ và ΔT = Q/(mc), nên tăng gấp đôi P thì ΔT = 12 K."
+    },
+    {
+      "id": "vl-nhiet-cd-02-07", "type": "tf4", "level": 2,
+      "prompt": "Một dây nung hoạt động ở U = 12 V, I = 2,0 A không đổi trong 200 s, làm 0,20 kg chất lỏng tăng nhiệt độ 6,0 K. Chất lỏng không chuyển thể, c không đổi. Toàn bộ điện năng chỉ làm nóng chất lỏng; bỏ qua nhiệt dung dụng cụ.",
+      "statements": [
+        "a) Công suất dây nung là 24 W.",
+        "b) Chất lỏng nhận nhiệt lượng 4,8 kJ.",
+        "c) Nhiệt dung riêng của chất lỏng là 2400 J/(kg·K).",
+        "d) Nếu dùng 0,40 kg cùng chất lỏng, cùng nhiệt độ đầu và cùng điện năng thì độ tăng nhiệt độ là 3,0 K."
+      ],
+      "answers": [true, true, false, true],
+      "explain": [
+        "Đúng. P = UI = 12 · 2,0 = 24 W.",
+        "Đúng. Q = UIτ = 24 · 200 = 4800 J = 4,8 kJ.",
+        "Sai. c = Q/(mΔT) = 4800/(0,20 · 6,0) = 4000 J/(kg·K).",
+        "Đúng. ΔT = 4800/(0,40 · 4000) = 3,0 K. Cùng Q và c, khối lượng tăng gấp đôi thì độ tăng nhiệt độ giảm một nửa."
+      ]
+    },
+    {
+      "id": "vl-nhiet-cd-02-08", "type": "tf4", "level": 2,
+      "prompt": "Một lượng khí nhận nhiệt lượng 1200 J và thực hiện công 450 J lên pít-tông. Không có trao đổi năng lượng nào khác. Dùng ΔU = A + Q, A là công khí nhận.",
+      "statements": [
+        "a) Q = +1200 J.",
+        "b) A = +450 J.",
+        "c) Nội năng khí tăng 750 J.",
+        "d) Nếu khí vẫn thực hiện công 450 J nhưng Q = 0 thì nội năng khí tăng 450 J."
+      ],
+      "answers": [true, false, true, false],
+      "explain": [
+        "Đúng. Khí nhận nhiệt nên Q = +1200 J.",
+        "Sai. Khí thực hiện công ra ngoài nên công khí nhận A = −450 J.",
+        "Đúng. ΔU = −450 + 1200 = 750 J > 0.",
+        "Sai. Khi Q = 0, ΔU = −450 J: nội năng giảm 450 J."
+      ]
+    },
+    {
+      "id": "vl-nhiet-cd-02-09", "type": "num", "level": 2,
+      "prompt": "Một mẫu chất lỏng khối lượng 0,25 kg nhận nhiệt lượng 6,30 kJ, tăng nhiệt độ 6,0 K và không chuyển thể. Nhiệt dung riêng coi như không đổi. Tính nhiệt dung riêng theo kJ/(kg·K), làm tròn đến một chữ số sau dấu phẩy.",
+      "answer": 4.2, "round": 1, "unit": "kJ/(kg·K)",
+      "explain": "c = Q/(mΔT) = 6,30/(0,25 · 6,0) = 4,2 kJ/(kg·K). Vì trả lời theo kJ/(kg·K), giữ Q theo kJ. Ghi: 4,2."
+    },
+    {
+      "id": "vl-nhiet-cd-02-10", "type": "num", "level": 2,
+      "prompt": "Một lượng khí nhận nhiệt lượng 900 J và thực hiện công 250 J. Dùng ΔU = A + Q. Tính độ biến thiên nội năng của khí theo kJ, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 0.65, "round": 2, "unit": "kJ",
+      "explain": "A = −250 J, Q = +900 J nên ΔU = −250 + 900 = 650 J = 0,65 kJ. Ghi: 0,65."
+    }
+  ]
+}

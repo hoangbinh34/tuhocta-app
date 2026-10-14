@@ -1,0 +1,167 @@
+{
+  "id": "toan-hinh-phang-cd-03",
+  "title": "Hình tròn",
+  "topic": "hinh-phang",
+  "items": [
+    {
+      "type": "mcq",
+      "level": 1,
+      "model": "phan-biet-ban-kinh-duong-kinh",
+      "prompt": "Trong hình tròn tâm O, đoạn AB đi qua O và có hai đầu trên đường tròn. Đoạn AB được gọi là gì?",
+      "options": [
+        "Bán kính",
+        "Đường kính",
+        "Chu vi",
+        "Chiều cao"
+      ],
+      "answer": 1,
+      "explain": "Đoạn thẳng nối hai điểm trên đường tròn và đi qua tâm là đường kính.\nNhiễu: bán kính chỉ nối tâm với một điểm trên đường tròn; chu vi là độ dài đường bao; chiều cao không phải tên đoạn AB.\nĐáp số: Đường kính.",
+      "figure": {
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 210' role='img' aria-label='AB là đường kính của hình tròn tâm O'><circle cx='145' cy='100' r='72' fill='none' stroke='#1d4ed8' stroke-width='2'/><line x1='73' y1='100' x2='217' y2='100' stroke='#1d4ed8' /><circle cx='145' cy='100' r='3' fill='#1d4ed8'/><text x='64' y='95' font-size='14' text-anchor='middle'>A</text><text x='229' y='95' font-size='14' text-anchor='middle'>B</text><text x='145' y='119' font-size='14' text-anchor='middle'>O</text></svg>"
+      },
+      "id": "toan-hinh-phang-cd-03-01"
+    },
+    {
+      "type": "num",
+      "level": 1,
+      "model": "duong-kinh-tu-ban-kinh",
+      "prompt": "Hình tròn có bán kính 4,5 cm như hình. Đường kính dài bao nhiêu xăng-ti-mét?",
+      "answer": 9,
+      "round": 0,
+      "unit": "cm",
+      "explain": "Đường kính: 4,5 × 2 = 9 (cm).\nĐáp số: 9 cm.",
+      "figure": {
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 210' role='img' aria-label='Hình tròn có bán kính 4,5 cm'><circle cx='145' cy='100' r='72' fill='none' stroke='#1d4ed8' stroke-width='2'/><line x1='145' y1='100' x2='217' y2='100' stroke='#1d4ed8' /><text x='181' y='89' font-size='14' text-anchor='middle'>4,5 cm</text></svg>"
+      },
+      "id": "toan-hinh-phang-cd-03-02"
+    },
+    {
+      "type": "mcq",
+      "level": 1,
+      "model": "chu-vi-tron-tu-duong-kinh",
+      "prompt": "Hình tròn có đường kính 10 cm. Lấy 3,14. Chu vi là bao nhiêu xăng-ti-mét?",
+      "options": [
+        "15,7 cm",
+        "314 cm",
+        "31,4 cm",
+        "62,8 cm"
+      ],
+      "answer": 2,
+      "explain": "Chu vi: 10 × 3,14 = 31,4 (cm).\nNhiễu: 15,7 = 10 × 3,14 : 2 chia 2 thừa; 314 = 10 × 31,4 sai dấu phẩy; 62,8 = 10 × 2 × 3,14 coi đường kính là bán kính.\nĐáp số: 31,4 cm.",
+      "figure": {
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 210' role='img' aria-label='Hình tròn có đường kính 10 cm'><circle cx='145' cy='100' r='72' fill='none' stroke='#1d4ed8' stroke-width='2'/><line x1='73' y1='100' x2='217' y2='100' stroke='#1d4ed8' /><text x='145' y='89' font-size='14' text-anchor='middle'>10 cm</text></svg>"
+      },
+      "id": "toan-hinh-phang-cd-03-03"
+    },
+    {
+      "type": "num",
+      "level": 2,
+      "model": "chu-vi-tron-tu-ban-kinh",
+      "prompt": "Hình tròn có bán kính 3 cm. Lấy 3,14. Chu vi bằng bao nhiêu xăng-ti-mét? Ghi số thập phân chính xác.",
+      "answer": 18.84,
+      "round": 2,
+      "unit": "cm",
+      "maxChars": 5,
+      "explain": "Đường kính: 3 × 2 = 6 (cm).\nChu vi: 6 × 3,14 = 18,84 (cm).\nĐáp số: 18,84 cm.",
+      "id": "toan-hinh-phang-cd-03-04"
+    },
+    {
+      "type": "num",
+      "level": 2,
+      "model": "dien-tich-tron-tu-ban-kinh",
+      "prompt": "Hình tròn có bán kính 5 cm như hình. Lấy 3,14. Diện tích là bao nhiêu xăng-ti-mét vuông?",
+      "answer": 78.5,
+      "round": 1,
+      "unit": "cm²",
+      "explain": "Tích bán kính với bán kính: 5 × 5 = 25 (cm²).\nDiện tích: 25 × 3,14 = 78,5 (cm²).\nĐáp số: 78,5 cm².",
+      "figure": {
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 210' role='img' aria-label='Hình tròn có bán kính 5 cm'><circle cx='145' cy='100' r='72' fill='none' stroke='#1d4ed8' stroke-width='2'/><line x1='145' y1='100' x2='217' y2='100' stroke='#1d4ed8' /><text x='181' y='89' font-size='14' text-anchor='middle'>5 cm</text></svg>"
+      },
+      "id": "toan-hinh-phang-cd-03-05"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "model": "ban-kinh-tu-chu-vi",
+      "prompt": "Một hình tròn có chu vi 37,68 cm. Lấy 3,14. Bán kính dài bao nhiêu xăng-ti-mét?",
+      "options": [
+        "12 cm",
+        "6 cm",
+        "3 cm",
+        "18,84 cm"
+      ],
+      "answer": 1,
+      "explain": "Đường kính: 37,68 : 3,14 = 12 (cm).\nBán kính: 12 : 2 = 6 (cm).\nNhiễu: 12 = 37,68 : 3,14 dừng ở đường kính; 3 = 12 : 2 : 2 chia 2 thừa; 18,84 = 37,68 : 2 quên chia 3,14.\nĐáp số: 6 cm.",
+      "id": "toan-hinh-phang-cd-03-06"
+    },
+    {
+      "type": "num",
+      "level": 3,
+      "model": "chu-vi-tron-duong-kinh-hon-hop",
+      "prompt": "Một vòng tròn có đường kính 1 m 40 cm. Lấy 3,14. Chu vi vòng tròn bằng bao nhiêu xăng-ti-mét? Ghi số thập phân chính xác.",
+      "answer": 439.6,
+      "round": 1,
+      "unit": "cm",
+      "maxChars": 5,
+      "explain": "Đổi phần mét: 1 m = 100 cm.\nĐường kính: 100 + 40 = 140 (cm).\nChu vi: 140 × 3,14 = 439,6 (cm).\nĐáp số: 439,6 cm.",
+      "id": "toan-hinh-phang-cd-03-07"
+    },
+    {
+      "type": "group",
+      "level": 3,
+      "title": "Chia bánh tròn",
+      "passage": "Một chiếc bánh tròn bán kính 4 cm được chia đều thành 8 phần có diện tích bằng nhau. Lấy 3,14.",
+      "items": [
+        {
+          "type": "num",
+          "level": 3,
+          "model": "dien-tich-mot-phan-banh-tron",
+          "prompt": "a) Diện tích một phần bánh bằng bao nhiêu xăng-ti-mét vuông?",
+          "answer": 6.28,
+          "round": 2,
+          "unit": "cm²",
+          "explain": "Tích bán kính với bán kính: 4 × 4 = 16 (cm²).\nDiện tích bánh: 16 × 3,14 = 50,24 (cm²).\nDiện tích một phần: 50,24 : 8 = 6,28 (cm²).\nĐáp số: 6,28 cm².",
+          "id": "toan-hinh-phang-cd-03-08a"
+        },
+        {
+          "type": "num",
+          "level": 2,
+          "model": "luong-kem-tu-dien-tich-phan-banh",
+          "prompt": "b) Dùng diện tích ở câu a, tính số gam kem phủ lên 3 phần bánh; mỗi xăng-ti-mét vuông cần 2 g kem.",
+          "answer": 37.68,
+          "round": 2,
+          "unit": "g",
+          "maxChars": 5,
+          "explain": "Dùng diện tích ở câu a, kem cho một phần: 6,28 × 2 = 12,56 (g).\nKem cho ba phần: 12,56 × 3 = 37,68 (g).\nĐáp số: 37,68 g.",
+          "id": "toan-hinh-phang-cd-03-08b"
+        }
+      ],
+      "id": "toan-hinh-phang-cd-03-08"
+    },
+    {
+      "type": "tf4",
+      "level": 2,
+      "model": "so-sanh-hai-tron-theo-duong-kinh",
+      "prompt": "Hình tròn A có đường kính 12 cm, hình tròn B có đường kính 4 cm. Lấy 3,14. Đánh giá các phát biểu.",
+      "statements": [
+        "a) Bán kính hình tròn A là 6 cm.",
+        "b) Chu vi A gấp 3 lần chu vi B.",
+        "c) Diện tích A gấp 3 lần diện tích B.",
+        "d) Đường kính B bằng một phần ba đường kính A."
+      ],
+      "answers": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "explain": [
+        "Bán kính A: 12 : 2 = 6 (cm).\nĐáp số: đúng.",
+        "Tỉ số đường kính: 12 : 4 = 3 (lần).\nChu vi cũng gấp 3 lần vì cùng nhân với 3,14.\nĐáp số: đúng.",
+        "Tỉ số đường kính: 12 : 4 = 3 (lần).\nTỉ số diện tích: 3 × 3 = 9 (lần), không phải 3 lần.\nĐáp số: sai.",
+        "Một phần ba đường kính A: 12 : 3 = 4 (cm).\nĐáp số: đúng."
+      ],
+      "id": "toan-hinh-phang-cd-03-09"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+ {
+  "id": "c3-sx-01",
+  "title": "Sắp xếp hội thoại",
+  "emoji": "💬",
+  "file": "sap-xep/c3-sx-01.json",
+  "count": 5
+ },
+ {
+  "id": "c3-sx-02",
+  "title": "Sắp xếp lá thư",
+  "emoji": "✉️",
+  "file": "sap-xep/c3-sx-02.json",
+  "count": 5
+ },
+ {
+  "id": "c3-sx-03",
+  "title": "Sắp xếp đoạn văn",
+  "emoji": "📄",
+  "file": "sap-xep/c3-sx-03.json",
+  "count": 5
+ }
+]

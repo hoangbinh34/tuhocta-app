@@ -1,0 +1,69 @@
+{
+  "id": "vl-nen-lt-04",
+  "title": "Nền 10–11: Điện trường, hiệu điện thế và tụ điện",
+  "items": [
+    {
+      "id": "vl-nen-lt-04-t1", "type": "card", "title": "Cường độ điện trường, lực điện và hiệu điện thế",
+      "paras": [
+        "Điện tích q đặt trong điện trường có cường độ E chịu lực điện F = qE (E tính bằng V/m hoặc N/C). Với q > 0 lực cùng chiều E, với q < 0 lực ngược chiều E. Trong điện trường đều giữa hai bản phẳng song song cách nhau d, hiệu điện thế U giữa hai bản liên hệ E = U/d.",
+        "Công của lực điện khi điện tích q dịch chuyển giữa hai điểm có hiệu điện thế U là A = qU (= qEd nếu dịch chuyển dọc đường sức một đoạn d); công này không phụ thuộc hình dạng đường đi. Hạt tích điện q ban đầu đứng yên, được tăng tốc qua hiệu điện thế U có động năng ½mv² = |q|U.",
+        "Ví dụ nối sang lớp 12, nhóm Từ trường: hạt được tăng tốc qua hiệu điện thế U rồi vào từ trường; dùng ½mv² = |q|U trước khi áp dụng chuyển động tròn.",
+        "Nguồn: SGK Vật lí 11 (GDPT 2018), chương Điện trường."
+      ]
+    },
+    {
+      "id": "vl-nen-lt-04-t2", "type": "card", "title": "Tụ điện và nối sang Từ trường, quá độ RC (lớp 12)",
+      "paras": [
+        "Điện dung của tụ điện C = Q/U (farad, F; 1 µF = 10^{-6} F), đặc trưng cho khả năng tích điện của tụ và chỉ phụ thuộc cấu tạo của tụ, không phụ thuộc U hay Q. Năng lượng tụ tích trữ: W = ½CU² = ½QU.",
+        "Ví dụ nối sang lớp 12, nhóm Từ trường: hạt mang điện được tăng tốc bởi hiệu điện thế U rồi bay vào từ trường đều; đề cho U để suy ra tốc độ từ ½mv² = |q|U, sau đó tính bán kính quỹ đạo như ở bài chuyển động tròn. Đề thi thử D3 có tụ điện nạp, xả qua điện trở (quá độ RC): nền cần nhớ là C = Q/U và W = ½CU²; bài D3 sẽ cho các công thức riêng của quá trình."
+      ]
+    },
+    {
+      "id": "vl-nen-lt-04-01", "type": "mcq", "level": 1,
+      "prompt": "Đơn vị nào sau đây là đơn vị của cường độ điện trường?",
+      "options": ["V/m", "C/V", "J/s", "N·m"], "answer": 0,
+      "explain": "E = U/d nên đơn vị là V/m (cũng bằng N/C). C/V là farad (điện dung), J/s là oát, N·m tương đương jun."
+    },
+    {
+      "id": "vl-nen-lt-04-02", "type": "mcq", "level": 1,
+      "prompt": "Điện tích âm đặt trong điện trường chịu lực điện có chiều thế nào so với chiều của vectơ cường độ điện trường?",
+      "options": ["Cùng chiều với E", "Ngược chiều với E", "Vuông góc với E", "Không có lực điện"], "answer": 1,
+      "explain": "F = qE với q < 0 nên F ngược chiều E. Cùng chiều là trường hợp q > 0; lực điện không vuông góc E; điện tích đặt trong điện trường luôn chịu lực điện khi E ≠ 0."
+    },
+    {
+      "id": "vl-nen-lt-04-03", "type": "mcq", "level": 2,
+      "prompt": "Hạt mang điện dương, ban đầu đứng yên, được thả trong điện trường đều và chỉ chịu lực điện. Hạt chuyển động thế nào?",
+      "options": ["Tròn đều quanh một điểm", "Thẳng nhanh dần đều, cùng chiều đường sức", "Thẳng đều", "Thẳng nhanh dần đều, ngược chiều đường sức"], "answer": 1,
+      "explain": "Lực qE không đổi, cùng chiều E và hạt đứng yên nên hạt chuyển động thẳng nhanh dần đều theo chiều đường sức. Chuyển động tròn cần lực hướng tâm, chuyển động đều cần hợp lực bằng 0, và ngược chiều đường sức là trường hợp q < 0."
+    },
+    {
+      "id": "vl-nen-lt-04-04", "type": "tf4", "level": 2,
+      "prompt": "Xét các phát biểu về điện trường và tụ điện.",
+      "statements": [
+        "a) Công của lực điện khi điện tích dịch chuyển giữa hai điểm không phụ thuộc hình dạng đường đi.",
+        "b) Điện tích dương dịch chuyển cùng chiều đường sức trong điện trường đều thì lực điện sinh công dương.",
+        "c) Điện dung của một tụ điện tỉ lệ thuận với hiệu điện thế giữa hai bản của nó.",
+        "d) Đơn vị farad (F) bằng vôn trên culông (V/C)."
+      ],
+      "answers": [true, true, false, false],
+      "explain": [
+        "Đúng. Lực điện là lực thế nên công chỉ phụ thuộc vị trí đầu và cuối.",
+        "Đúng. Lực cùng chiều dịch chuyển nên A = qEd > 0.",
+        "Sai. C = Q/U là tỉ số không đổi của một tụ; U tăng thì Q tăng theo, C không đổi.",
+        "Sai. Từ C = Q/U, 1 F = 1 C/V chứ không phải V/C."
+      ]
+    },
+    {
+      "id": "vl-nen-lt-04-05", "type": "num", "level": 2,
+      "prompt": "Hai bản kim loại phẳng song song cách nhau 2,0 cm, hiệu điện thế giữa hai bản là 100 V. Coi điện trường giữa hai bản là đều. Tính cường độ điện trường theo V/m, làm tròn đến số nguyên.",
+      "answer": 5000, "round": 0, "unit": "V/m",
+      "explain": "d = 2,0 cm = 0,020 m. E = U/d = 100 / 0,020 = 5000 V/m. Ghi: 5000."
+    },
+    {
+      "id": "vl-nen-lt-04-06", "type": "num", "level": 2,
+      "prompt": "Tụ điện có điện dung 20 µF được tích điện đến hiệu điện thế 5,0 V. Tính năng lượng tụ tích trữ theo mJ, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 0.25, "round": 2, "unit": "mJ",
+      "explain": "W = ½CU² = ½ · 20·10^{-6} · 5,0² = 2,5·10^{-4} J = 0,25 mJ. Ghi: 0,25."
+    }
+  ]
+}

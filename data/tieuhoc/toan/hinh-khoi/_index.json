@@ -1,0 +1,12 @@
+[
+  { "id": "toan-hinh-khoi-lt-01", "title": "Thể tích hình hộp chữ nhật và lập phương", "emoji": "🧊", "file": "hinh-khoi/toan-hinh-khoi-lt-01.json", "count": 1, "topic": "hinh-khoi" },
+  { "id": "toan-hinh-khoi-lt-02", "title": "Diện tích hình khối", "emoji": "📦", "file": "hinh-khoi/toan-hinh-khoi-lt-02.json", "count": 1, "topic": "hinh-khoi" },
+  { "id": "toan-hinh-khoi-lt-03", "title": "Thể tích và dung tích", "emoji": "🥛", "file": "hinh-khoi/toan-hinh-khoi-lt-03.json", "count": 1, "topic": "hinh-khoi" },
+  { "id": "toan-hinh-khoi-lt-04", "title": "Mực nước trong bể", "emoji": "💧", "file": "hinh-khoi/toan-hinh-khoi-lt-04.json", "count": 1, "topic": "hinh-khoi" },
+  { "id": "toan-hinh-khoi-lt-05", "title": "Bài toán tổng hợp hình khối", "emoji": "🧱", "file": "hinh-khoi/toan-hinh-khoi-lt-05.json", "count": 1, "topic": "hinh-khoi" },
+  { "id": "toan-hinh-khoi-cd-01", "title": "Thể tích hình khối: luyện tập", "emoji": "🧊", "file": "hinh-khoi/toan-hinh-khoi-cd-01.json", "count": 9, "topic": "hinh-khoi" },
+  { "id": "toan-hinh-khoi-cd-02", "title": "Diện tích hình khối: luyện tập", "emoji": "📦", "file": "hinh-khoi/toan-hinh-khoi-cd-02.json", "count": 9, "topic": "hinh-khoi" },
+  { "id": "toan-hinh-khoi-cd-03", "title": "Thể tích và dung tích: luyện tập", "emoji": "🥛", "file": "hinh-khoi/toan-hinh-khoi-cd-03.json", "count": 9, "topic": "hinh-khoi" },
+  { "id": "toan-hinh-khoi-cd-04", "title": "Mực nước trong bể: luyện tập", "emoji": "💧", "file": "hinh-khoi/toan-hinh-khoi-cd-04.json", "count": 9, "topic": "hinh-khoi" },
+  { "id": "toan-hinh-khoi-cd-05", "title": "Bài toán tổng hợp hình khối: luyện tập", "emoji": "🧱", "file": "hinh-khoi/toan-hinh-khoi-cd-05.json", "count": 8, "topic": "hinh-khoi" }
+]

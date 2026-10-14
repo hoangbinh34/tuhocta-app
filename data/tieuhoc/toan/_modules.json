@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "modules": [
+    { "id": "toan-ly-thuyet", "kind": "lt", "dirs": ["so-thap-phan", "do-luong", "ti-so", "hinh-phang", "hinh-khoi", "chuyen-dong", "loi-van"] },
+    {
+      "id": "toan-luyen",
+      "kind": "cd",
+      "dirs": ["so-thap-phan", "do-luong", "ti-so", "hinh-phang", "hinh-khoi", "chuyen-dong", "loi-van"],
+      "topics": [
+        { "id": "so-thap-phan", "emoji": "🔢", "title": "Số thập phân, phép tính, tìm x" },
+        { "id": "do-luong", "emoji": "📏", "title": "Đổi đơn vị, đo lường" },
+        { "id": "ti-so", "emoji": "💯", "title": "Tỉ số, phần trăm" },
+        { "id": "hinh-phang", "emoji": "📐", "title": "Hình phẳng" },
+        { "id": "hinh-khoi", "emoji": "🧊", "title": "Hình khối, thể tích" },
+        { "id": "chuyen-dong", "emoji": "🚗", "title": "Chuyển động đều, năng suất" },
+        { "id": "loi-van", "emoji": "🧩", "title": "Lời văn, quy luật, logic, đếm" }
+      ]
+    },
+    { "id": "toan-de-thi", "dir": "de-thi" }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "id": "vl-de-09",
+  "title": "Đề thi thử Vật lý số 9",
+  "emoji": "🏁",
+  "minutes": 50,
+  "scale": 10,
+  "desc": "Đề tự soạn: 18 câu chọn một phương án, 4 câu đúng/sai, 6 câu trả lời ngắn. Hằng số theo thẻ Hằng số dùng trong đề: R=8,31 J/(mol·K), N_A=6,02×10^{23} mol^{-1}, ln2=0,693. Các thông số vật liệu, điều kiện đo và quan hệ mở rộng được cho trong từng câu; không cần tra thêm hằng số. Không làm tròn trung gian; Phần III chỉ ghi phần số theo đơn vị và cách làm tròn yêu cầu.",
+  "sections": [
+    {
+      "title": "Phần I",
+      "points": 0.25,
+      "items": [
+        {
+          "id": "vl-de-09-i01",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "nhiet",
+          "level": 1,
+          "prompt": "Nước tinh khiết có thể vẫn ở thể lỏng tại nhiệt độ thấp hơn nhiệt độ đông đặc cân bằng, trước khi mầm tinh thể xuất hiện. Trạng thái này được gọi là gì?",
+          "options": [
+            "Trạng thái hơi bão hòa",
+            "Trạng thái lỏng siêu lạnh (chậm đông)",
+            "Trạng thái điểm ba",
+            "Trạng thái rắn quá nhiệt"
+          ],
+          "answer": 1,
+          "explain": "Bước 1: Mẫu vẫn lỏng dù nhiệt độ đã dưới nhiệt độ đông đặc cân bằng. Bước 2: Đó là chất lỏng siêu lạnh, tồn tại ở trạng thái giả bền khi chưa hình thành mầm tinh thể. Hơi bão hòa thuộc pha khí; điểm ba cần ba pha cân bằng; rắn quá nhiệt phải còn ở pha rắn."
+        },
+        {
+          "id": "vl-de-09-i02",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "nhiet",
+          "level": 1,
+          "prompt": "Tính chất nào của quan hệ cân bằng nhiệt là cơ sở để dùng nhiệt kế làm vật trung gian so sánh nhiệt độ hai vật không đặt tiếp xúc trực tiếp với nhau?",
+          "options": [
+            "Mọi vật cân bằng nhiệt đều có cùng khối lượng",
+            "Mọi vật cân bằng nhiệt đều có cùng nhiệt dung riêng",
+            "Nếu A và B đều cân bằng nhiệt với C ở cùng một nhiệt độ không đổi thì A và B cân bằng nhiệt với nhau",
+            "Nhiệt lượng là một hàm trạng thái có sẵn trong mỗi vật"
+          ],
+          "answer": 2,
+          "explain": "Bước 1: Quan hệ cân bằng nhiệt có tính bắc cầu: hai vật cùng cân bằng nhiệt với vật thứ ba ở cùng nhiệt độ thì cân bằng nhiệt với nhau. Bước 2: Nhờ vậy một nhiệt kế được hiệu chuẩn có thể làm trung gian so sánh nhiệt độ. Khối lượng và nhiệt dung riêng không buộc bằng nhau khi cân bằng nhiệt; nhiệt lượng là năng lượng truyền trong một quá trình, không phải hàm trạng thái có sẵn trong vật."
+        },
+        {
+          "id": "vl-de-09-i03",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "nhiet",
+          "level": 1,
+          "prompt": "Trong mô hình bức xạ nhiệt, vật đen lí tưởng được định nghĩa theo đặc điểm hấp thụ nào?",
+          "options": [
+            "Hấp thụ toàn bộ bức xạ điện từ chiếu tới, ở mọi bước sóng",
+            "Phản xạ toàn bộ bức xạ chiếu tới",
+            "Cho toàn bộ bức xạ chiếu xuyên qua",
+            "Chỉ hấp thụ ánh sáng nhìn thấy, không hấp thụ hồng ngoại"
+          ],
+          "answer": 0,
+          "explain": "Bước 1: Tính đen lí tưởng được xác định bằng khả năng hấp thụ, không chỉ bằng màu nhìn thấy. Bước 2: Vật hấp thụ hoàn toàn bức xạ tới ở mọi bước sóng. Phản xạ hoàn toàn và truyền qua hoàn toàn đều không hấp thụ; chỉ hấp thụ vùng nhìn thấy chưa đáp ứng định nghĩa."
+        },
+        {
+          "id": "vl-de-09-i04",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "nhiet",
+          "level": 1,
+          "prompt": "Một nhiệt lượng kế được mô tả bằng 'khối lượng nước tương đương'. Đại lượng này có ý nghĩa gì, trong khoảng nhiệt độ mà các nhiệt dung coi như không đổi?",
+          "options": [
+            "Khối lượng nước tối đa bình chứa được",
+            "Khối lượng nước thực sự đang có trong bình",
+            "Khối lượng bình sau khi đổ đầy nước",
+            "Khối lượng nước có nhiệt dung bằng nhiệt dung của nhiệt lượng kế"
+          ],
+          "answer": 3,
+          "explain": "Bước 1: Nước tương đương thay thế tác dụng thu hoặc tỏa nhiệt của dụng cụ khi cùng biến thiên nhiệt độ. Bước 2: Do đó m_tđ c_nước=C_dụng cụ: cùng độ tăng nhiệt độ thì hai đối tượng nhận cùng nhiệt lượng. Sức chứa, lượng nước thực tế và khối lượng bình đầy không phải đại lượng tương đương về nhiệt dung."
+        },
+        {
+          "id": "vl-de-09-i05",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "nhiet",
+          "level": 1,
+          "prompt": "Trong phép đo nhiệt độ bằng cảm biến tiếp xúc, thuật ngữ 'quán tính nhiệt' của cảm biến mô tả đặc điểm nào?",
+          "options": [
+            "Cảm biến luôn lập tức đạt nhiệt độ mới của vật đo",
+            "Cảm biến cần một khoảng thời gian để nhiệt độ của nó đáp ứng theo sự thay đổi nhiệt độ vật đo",
+            "Cảm biến luôn có sai lệch số không không đổi dù đã chờ ổn định",
+            "Số đọc bị lệch do người quan sát nhìn xiên vào thang chia"
+          ],
+          "answer": 1,
+          "explain": "Bước 1: Cảm biến có nhiệt dung và cần trao đổi năng lượng để thay đổi nhiệt độ nên không đáp ứng tức thời. Bước 2: Sự đáp ứng có độ trễ do quá trình nhiệt ấy là biểu hiện của quán tính nhiệt. Đạt nhiệt độ mới tức thời phủ nhận quán tính; sai lệch số không là lỗi hiệu chuẩn; nhìn xiên là thị sai, không phải thời gian đáp ứng nhiệt."
+        },
+        {
+          "id": "vl-de-09-i06",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "nhiet",
+          "level": 1,
+          "prompt": "Làm lạnh không khí ẩm ở áp suất không đổi; trước khi xuất hiện giọt nước, lượng hơi nước và thành phần khí coi như không đổi. Nhiệt độ mà hơi nước vừa đạt bão hòa và bắt đầu ngưng tụ được gọi là gì?",
+          "options": [
+            "Nhiệt độ tới hạn của nước",
+            "Nhiệt độ sôi của nước",
+            "Nhiệt độ điểm sương",
+            "Nhiệt độ không tuyệt đối"
+          ],
+          "answer": 2,
+          "explain": "Bước 1: Khi làm lạnh, áp suất hơi nước bão hòa giảm đến bằng áp suất riêng phần hơi nước hiện có. Bước 2: Nhiệt độ bắt đầu ngưng tụ ấy là điểm sương. Nhiệt độ tới hạn liên quan giới hạn hóa lỏng bằng nén; nhiệt độ sôi liên quan tạo hơi trong chất lỏng; độ không tuyệt đối là mốc thấp nhất của thang nhiệt động."
+        },
+        {
+          "id": "vl-de-09-i07",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "nhiet",
+          "level": 2,
+          "prompt": "Hai tấm cách nhiệt ghép nối tiếp có nhiệt trở riêng của cả tấm R_A = 0,20 K/W, R_B = 0,30 K/W. Mặt ngoài nóng ở θ_h = 80 °C, mặt ngoài lạnh ở θ_c = 20 °C; công suất dẫn nhiệt ổn định P = 100 W. Bỏ qua thất thoát bên. Chỗ ghép có nhiệt trở tiếp xúc R_t chưa biết. Cho θ_h−θ_c=P(R_A+R_t+R_B). R_t bằng bao nhiêu?",
+          "options": [
+            "0,10 K/W",
+            "0,50 K/W",
+            "0,60 K/W",
+            "1,10 K/W"
+          ],
+          "answer": 0,
+          "explain": "Bước 1: Nhiệt trở toàn bộ là (80−20)/100=0,60 K/W. Bước 2: Trừ phần hai tấm đã biết: R_t=0,60−0,20−0,30=0,10 K/W. Giá trị 0,50 là tổng nhiệt trở hai tấm, chưa phải tiếp xúc; 0,60 là toàn hệ; 1,10 do cộng thay vì trừ phần hai tấm."
+        },
+        {
+          "id": "vl-de-09-i08",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "nhiet",
+          "level": 2,
+          "prompt": "Một động cơ nhiệt làm việc giữa nguồn nóng T_h = 500 K và nguồn lạnh T_c = 300 K. Giới hạn hiệu suất của động cơ thuận nghịch là η_max=1−T_c/T_h. Hiệu suất tối đa theo giới hạn này bằng bao nhiêu?",
+          "options": [
+            "20 %",
+            "60 %",
+            "80 %",
+            "40 %"
+          ],
+          "answer": 3,
+          "explain": "Bước 1: Hai nhiệt độ đã theo kelvin nên lấy đúng tỉ số T_c/T_h=300/500=0,60. Bước 2: η_max=1−0,60=0,40=40 %. Giá trị 60 % là phần phải thải về nguồn lạnh trong giới hạn thuận nghịch; 20 % do chia độ chênh nhiệt độ cho 1000 K; 80 % không thỏa công thức với hai nguồn đã cho."
+        },
+        {
+          "id": "vl-de-09-i09",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "khi",
+          "level": 1,
+          "prompt": "Quãng đường tự do trung bình của các phân tử khí được hiểu là đại lượng nào?",
+          "options": [
+            "Khoảng cách trung bình giữa hai phân tử ở một thời điểm",
+            "Độ dài đường đi trung bình của một phân tử giữa hai va chạm liên tiếp",
+            "Đường kính của một phân tử",
+            "Tổng quãng đường của mọi phân tử trong bình trong một giây"
+          ],
+          "answer": 1,
+          "explain": "Bước 1: 'Tự do' chỉ giai đoạn chuyển động giữa hai lần va chạm kế tiếp của một phân tử. Bước 2: Lấy trung bình độ dài các đoạn đường ấy thu được quãng đường tự do trung bình. Khoảng cách tức thời giữa các hạt và đường kính hạt là các độ dài khác; tổng quãng đường toàn bình còn phụ thuộc số hạt và khoảng thời gian đo."
+        },
+        {
+          "id": "vl-de-09-i10",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "khi",
+          "level": 2,
+          "prompt": "Trong một mô hình thống kê khí, quãng đường tự do trung bình ℓ = 60 nm và tốc độ trung bình v = 400 m/s. Thời gian tự do trung bình τ liên hệ bởi ℓ=vτ. Cho 1 nm=10^{−9} m, 1 ns=10^{−9} s. τ bằng bao nhiêu?",
+          "options": [
+            "0,015 ns",
+            "1,5 ns",
+            "0,15 ns",
+            "150 ns"
+          ],
+          "answer": 2,
+          "explain": "Bước 1: Đổi ℓ=60×10^{−9} m và dùng τ=ℓ/v. Bước 2: τ=60×10^{−9}/400=1,5×10^{−10} s=0,15 ns. Giá trị 0,015 nhỏ hơn đúng 10 lần; 1,5 lớn hơn đúng 10 lần; 150 lớn hơn đúng 1000 lần, đều không thỏa ℓ=vτ."
+        },
+        {
+          "id": "vl-de-09-i11",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "tu",
+          "level": 1,
+          "prompt": "Trên đường từ hóa của một mẫu sắt từ, 'cảm ứng từ dư' chỉ đại lượng nào?",
+          "options": [
+            "Cảm ứng từ còn lại trong mẫu khi từ trường từ hóa ngoài đã đưa về không, sau khi mẫu được từ hóa",
+            "Cường độ từ trường ngược cần để làm cảm ứng từ trong mẫu về không",
+            "Cảm ứng từ lớn nhất trong mọi điều kiện",
+            "Năng lượng mất đi trong một chu kì từ hóa"
+          ],
+          "answer": 0,
+          "explain": "Bước 1: Mẫu sắt từ có thể giữ một phần từ hóa sau khi bỏ trường từ hóa ngoài. Bước 2: Cảm ứng từ ở trạng thái đó là cảm ứng từ dư. Trường ngược khử cảm ứng là trường kháng từ; giá trị lớn nhất liên quan bão hòa; năng lượng mỗi chu kì liên quan diện tích vòng từ trễ, không phải một giá trị cảm ứng từ."
+        },
+        {
+          "id": "vl-de-09-i12",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "tu",
+          "level": 1,
+          "prompt": "Đặt một mẫu vật nghịch từ trong từ trường ngoài. Hướng của phần từ hóa do từ trường ngoài gây ra trong mẫu có đặc điểm nào?",
+          "options": [
+            "Luôn cùng chiều từ trường ngoài",
+            "Luôn vuông góc từ trường ngoài",
+            "Không phụ thuộc hướng từ trường ngoài",
+            "Ngược chiều từ trường ngoài"
+          ],
+          "answer": 3,
+          "explain": "Bước 1: Vật nghịch từ có đáp ứng từ hóa yếu theo chiều chống lại từ trường áp dụng. Bước 2: Vì thế phần từ hóa cảm ứng ngược chiều trường ngoài. Cùng chiều là đặc trưng đáp ứng thuận từ trong mô hình đơn giản; vuông góc và độc lập với hướng trường không mô tả đáp ứng nghịch từ."
+        },
+        {
+          "id": "vl-de-09-i13",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "tu",
+          "level": 2,
+          "prompt": "Một mạch dao động lí tưởng gồm cuộn cảm L = 0,040 H và tụ điện C = 0,0000040 F, dùng làm mạch chọn tín hiệu của máy thu. Cho tần số góc riêng ω_0=1/√(LC). ω_0 bằng bao nhiêu?",
+          "options": [
+            "1250 rad/s",
+            "2500 rad/s",
+            "5000 rad/s",
+            "25000 rad/s"
+          ],
+          "answer": 1,
+          "explain": "Bước 1: Tích LC=0,040×0,0000040=1,6×10^{−7} s², căn bậc hai bằng 0,00040 s. Bước 2: ω_0=1/0,00040=2500 rad/s. Giá trị 1250 do chia thừa 2; 5000 do nhân thừa 2; 25000 do lấy căn LC nhỏ hơn đúng 10 lần. Không đổi sang tần số f vì câu hỏi yêu cầu tần số góc."
+        },
+        {
+          "id": "vl-de-09-i14",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "tu",
+          "level": 2,
+          "prompt": "Một sóng điện từ phân cực thẳng đi qua bộ phân cực lí tưởng. Góc giữa phương điện trường sóng tới và trục truyền của bộ phân cực là α = 60°. Cho cường độ truyền I=I_0 cos²α, cos60°=0,50. Bao nhiêu phần trăm cường độ tới được truyền qua?",
+          "options": [
+            "50 %",
+            "75 %",
+            "25 %",
+            "100 %"
+          ],
+          "answer": 2,
+          "explain": "Bước 1: Hệ số truyền cường độ là cos²60°=(0,50)²=0,25. Bước 2: Đổi thành 25 %. Giá trị 50 % bỏ bình phương; 75 % là phần bị loại bỏ; 100 % chỉ phù hợp khi trục truyền song song phương điện trường tới."
+        },
+        {
+          "id": "vl-de-09-i15",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "hat-nhan",
+          "level": 1,
+          "prompt": "Nguồn chỉ chứa một đồng vị phóng xạ beta trừ. Với một nhánh phân rã xác định và máy phân tích năng lượng đủ tốt, phổ động năng của các electron beta phát ra có đặc điểm nào?",
+          "options": [
+            "Chỉ có một vạch động năng duy nhất cho mọi electron",
+            "Chỉ có hai vạch động năng rời rạc",
+            "Mọi electron đều có động năng bằng không",
+            "Liên tục trong một khoảng, với giới hạn trên đặc trưng của nhánh phân rã"
+          ],
+          "answer": 3,
+          "explain": "Bước 1: Phổ beta của một nhánh phân rã có tính liên tục, khác với các vạch gamma rời rạc. Bước 2: Năng lượng khả dụng được chia theo nhiều cách cho electron, phản neutrino và hạt nhân giật lùi, nên electron nhận nhiều giá trị động năng trong một khoảng có giới hạn trên. Một vạch duy nhất và chỉ hai vạch đều mô tả phổ rời rạc; mọi electron đứng yên cũng không tạo phổ beta quan sát được."
+        },
+        {
+          "id": "vl-de-09-i16",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "hat-nhan",
+          "level": 1,
+          "prompt": "Trong buồng mây chứa hơi quá bão hòa, một hạt alpha đi qua có thể để lại vệt giọt lỏng nhỏ nhìn thấy được. Cơ chế trực tiếp tạo vệt là gì?",
+          "options": [
+            "Hơi ngưng tụ trên các ion do hạt alpha tạo ra dọc đường đi",
+            "Hạt alpha tự phát ánh sáng nhìn thấy liên tục trong chân không",
+            "Hạt alpha làm sôi toàn bộ chất lỏng của buồng",
+            "Hạt alpha biến mọi phân tử hơi thành hạt nhân mới"
+          ],
+          "answer": 0,
+          "explain": "Bước 1: Hạt alpha mang điện gây ion hóa môi trường trên đường đi. Bước 2: Trong hơi quá bão hòa, các ion trở thành tâm ngưng tụ tạo vệt giọt lỏng. Vệt không phải ánh sáng tự phát của alpha trong chân không; môi trường không cần sôi; ion hóa không biến mọi hạt nhân thành nguyên tố khác."
+        },
+        {
+          "id": "vl-de-09-i17",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "hat-nhan",
+          "level": 2,
+          "prompt": "Hai mẫu tinh khiết X, Y có cùng khối lượng. Khối lượng mol M_X = 60 g/mol, M_Y = 120 g/mol; chu kì bán rã T_X = 2,0 giờ, T_Y = 6,0 giờ. Với H=(ln2/T)N và N=mN_A/M, tỉ số độ phóng xạ H_X/H_Y bằng bao nhiêu?",
+          "options": [
+            "3,0",
+            "6,0",
+            "0,50",
+            "1,5"
+          ],
+          "answer": 1,
+          "explain": "Bước 1: Cùng khối lượng cho N_X/N_Y=M_Y/M_X=2; hằng số phóng xạ có tỉ số λ_X/λ_Y=T_Y/T_X=3. Bước 2: H_X/H_Y=2×3=6. Giá trị 3 bỏ chênh lệch số hạt; 0,50 chỉ lấy nghịch đảo tỉ số số hạt; 1,5 lấy nhầm N_X/N_Y=1/2 rồi nhân 3. Các hằng số ln2, N_A triệt tiêu."
+        },
+        {
+          "id": "vl-de-09-i18",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "hat-nhan",
+          "level": 2,
+          "prompt": "Một mô nhận liều hấp thụ alpha D_a = 0,0020 Gy và beta D_b = 0,010 Gy. Trong mô hình của câu, liều tương đương H=w_aD_a+w_bD_b với trọng số w_a = 20, w_b = 1; H tính bằng Sv khi D tính bằng Gy. H bằng bao nhiêu?",
+          "options": [
+            "0,012 Sv",
+            "0,24 Sv",
+            "0,050 Sv",
+            "0,21 Sv"
+          ],
+          "answer": 2,
+          "explain": "Bước 1: Nhân riêng từng liều hấp thụ với trọng số tương ứng: H_a=20×0,0020=0,040 Sv; H_b=1×0,010=0,010 Sv. Bước 2: H=0,040+0,010=0,050 Sv. Giá trị 0,012 bỏ cả hai trọng số; 0,24 gán trọng số 20 cho tổng liều; 0,21 do đổi chỗ trọng số alpha và beta rồi cộng."
+        }
+      ]
+    },
+    {
+      "title": "Phần II",
+      "points": 1,
+      "items": [
+        {
+          "id": "vl-de-09-ii01",
+          "type": "tf4",
+          "points": 1,
+          "topic": "nhiet",
+          "level": 3,
+          "prompt": "Một vật đồng nhiệt có nhiệt dung C = 200 J/K trong buồng chân không có thành lớn ở nhiệt độ T_e = 300 K. Vật chỉ trao đổi nhiệt bằng bức xạ với thành buồng; công suất phát ra K T⁴, công suất hấp thụ K T_e⁴, với K không đổi chưa biết. Dây nung có công suất P = 100 W giữ vật ổn định ở T = 600 K. Bỏ qua nhiệt dung dây, mọi dẫn nhiệt và mọi công cơ học; không chuyển thể. Ở ý d, thành buồng đổi sang T_f = 450 K, dây nung vẫn cấp P, đợi trạng thái ổn định mới.",
+          "statements": [
+            "Hệ số K bằng 1,00×10^{−9} W/K⁴.",
+            "Công suất bức xạ phát ra ban đầu, làm tròn đến hai chữ số sau dấu phẩy, bằng 106,67 W.",
+            "Ngay sau khi tắt dây nung ở trạng thái ban đầu, tốc độ giảm nhiệt độ bằng 0,50 K/s.",
+            "Nhiệt độ ổn định mới của vật ở ý d bằng 650 K."
+          ],
+          "answers": [
+            false,
+            true,
+            true,
+            false
+          ],
+          "explain": [
+            "Sai. Bước 1: Cân bằng năng lượng cho P=K(T⁴−T_e⁴), phải trừ bức xạ hấp thụ. Bước 2: K=100/(600⁴−300⁴)=8,23045267489712×10^{−10} W/K⁴, không phải 1,00×10^{−9}.",
+            "Đúng. Bước 1: Công suất phát là K T⁴, khác công suất mất thuần P. Bước 2: K600⁴=106,666666… W; thành buồng bù lại K300⁴=6,666666… W. Chỉ làm tròn cuối, công suất phát bằng 106,67 W.",
+            "Đúng. Bước 1: Ngay sau tắt, nhiệt độ vật và thành chưa kịp đổi nên công suất mất thuần vẫn là 100 W. Bước 2: C dT/dt=−100, suy ra dT/dt=−100/200=−0,50 K/s, tức tốc độ giảm 0,50 K/s.",
+            "Sai. Bước 1: Cân bằng mới cho T_mới⁴=P/K+T_f⁴, không được giữ nguyên phần hấp thụ cũ. Bước 2: T_mới=(121500000000+450⁴)^{1/4}=634,917821069… K, không bằng 650 K."
+          ]
+        },
+        {
+          "id": "vl-de-09-ii02",
+          "type": "tf4",
+          "points": 1,
+          "topic": "tu",
+          "level": 2,
+          "prompt": "Một cuộn cảm lí tưởng L = 0,40 H mắc nối tiếp điện trở R_c = 30 Ω, cấp bởi điện áp hình sin có giá trị hiệu dụng U = 100 V, tần số góc ω = 100 rad/s. Xét chế độ ổn định. Cho X_L=ωL, tổng trở Z=√(R_c²+X_L²), I=U/Z, hệ số công suất cosφ=R_c/Z, công suất trung bình P=UIcosφ. Bỏ qua mọi hao phí khác.",
+          "statements": [
+            "Tổng trở Z bằng 50 Ω.",
+            "Cường độ hiệu dụng I bằng 2,5 A.",
+            "Hệ số công suất cosφ bằng 0,60.",
+            "Công suất trung bình trên điện trở bằng 200 W."
+          ],
+          "answers": [
+            true,
+            false,
+            true,
+            false
+          ],
+          "explain": [
+            "Đúng. Bước 1: X_L=100×0,40=40 Ω. Bước 2: Z=√(30²+40²)=50 Ω, không cộng đại số 30 và 40.",
+            "Sai. Bước 1: Điện áp và dòng hiệu dụng liên hệ qua tổng trở. Bước 2: I=100/50=2,0 A, không phải 2,5 A.",
+            "Đúng. Bước 1: Phần thuần trở quyết định hệ số công suất trong công thức đã cho. Bước 2: cosφ=30/50=0,60.",
+            "Sai. Bước 1: Không dùng UI cho công suất thực khi dòng và áp lệch pha. Bước 2: P=100×2×0,60=120 W; kiểm lại I²R_c=2²×30=120 W, không phải 200 W."
+          ]
+        },
+        {
+          "id": "vl-de-09-ii03",
+          "type": "tf4",
+          "points": 1,
+          "topic": "tu",
+          "level": 2,
+          "prompt": "Một lõi sắt từ có vòng từ trễ trên đồ thị B−H được mô hình hóa bằng hình chữ nhật, các đỉnh (H,B)=(±H_c,±B_r). Cho H_c = 50 A/m, B_r = 0,80 T. Năng lượng mất trong một chu kì trên một đơn vị thể tích bằng diện tích hình chữ nhật này, đơn vị J/m³. Thể tích lõi V = 0,0020 m³, tần số từ hóa f = 50 Hz; toàn lõi theo cùng vòng từ trễ. Chỉ xét hao phí từ trễ, không xét dòng điện xoáy. Khi đổi f ở ý d, hình dạng vòng và V giữ nguyên.",
+          "statements": [
+            "Năng lượng hao phí mỗi chu kì trên một đơn vị thể tích bằng 80 J/m³.",
+            "Năng lượng hao phí mỗi chu kì của cả lõi bằng 0,32 J.",
+            "Công suất hao phí từ trễ bằng 16 W.",
+            "Nếu đổi tần số sang f_d = 100 Hz thì công suất hao phí từ trễ vẫn bằng 16 W."
+          ],
+          "answers": [
+            false,
+            true,
+            true,
+            false
+          ],
+          "explain": [
+            "Sai. Bước 1: Chiều rộng của hình là 2H_c, chiều cao là 2B_r. Bước 2: Diện tích w=4H_cB_r=4×50×0,80=160 J/m³, không phải 80 J/m³.",
+            "Đúng. Bước 1: w là năng lượng trên mỗi m³, phải nhân thể tích thật của lõi. Bước 2: W_chu kì=wV=160×0,0020=0,32 J.",
+            "Đúng. Bước 1: Một giây có f=50 chu kì từ hóa. Bước 2: P=W_chu kì f=0,32×50=16 W.",
+            "Sai. Bước 1: Vòng giữ nguyên nên năng lượng mất mỗi chu kì vẫn là 0,32 J. Bước 2: P_d=0,32×100=32 W, không còn 16 W; không nhầm hao phí từ trễ với quy luật riêng của dòng điện xoáy."
+          ]
+        },
+        {
+          "id": "vl-de-09-ii04",
+          "type": "tf4",
+          "points": 1,
+          "topic": "hat-nhan",
+          "level": 3,
+          "prompt": "Một photon gamma có năng lượng E_0 chưa biết tán xạ Compton hai lần liên tiếp, mỗi lần trên một electron tự do ban đầu đứng yên. Góc tán xạ lần thứ nhất θ_1 = 90°, lần thứ hai θ_2 = 60° so với hướng photon ngay trước lần đó. Gọi E_1, E_2 là năng lượng photon sau từng lần, E_e là năng lượng nghỉ electron, không cần giá trị số của E_e. Cho 1/E_sau−1/E_trước=(1−cosθ)/E_e, cos90°=0, cos60°=0,50. Năng lượng truyền cho electron ở từng lần là D_1=E_0−E_1, D_2=E_1−E_2; đo được r = D_1/D_2 = 5,0. Không có tương tác khác và hai electron nhận năng lượng riêng biệt.",
+          "statements": [
+            "Tỉ số E_0/E_e bằng 1,0.",
+            "Tỉ số E_1/E_0 bằng 0,40.",
+            "Tỉ số E_2/E_0 bằng 0,40.",
+            "Tổng năng lượng truyền cho hai electron bằng 0,50E_0."
+          ],
+          "answers": [
+            true,
+            false,
+            true,
+            false
+          ],
+          "explain": [
+            "Đúng. Bước 1: Đặt x=E_0/E_e>0. Lần một cho E_1/E_e=x/(1+x); lần hai cho E_2/E_e=x/(1+1,5x). Bước 2: D_1/E_e=x²/(1+x), D_2/E_e=0,5x²/[(1+x)(1+1,5x)], nên r=2+3x. Bước 3: r=5 cho x=1; không cần hằng số khối lượng hay tốc độ ánh sáng.",
+            "Sai. Bước 1: Từ hai phép tán xạ và tỉ số năng lượng đo được đã suy ra x=1. Bước 2: E_1/E_0=1/(1+x)=0,50, không phải 0,40; phải phân biệt sau lần một và sau lần hai.",
+            "Đúng. Bước 1: Hai lần tán xạ cộng độ tăng nghịch đảo năng lượng: 1/E_2−1/E_0=1,5/E_e. Bước 2: E_2/E_0=1/(1+1,5x)=1/2,5=0,40 với x=1.",
+            "Sai. Bước 1: Tổng phần truyền cho hai electron là D_1+D_2=E_0−E_2. Bước 2: Tỉ phần bằng 1−0,40=0,60, không phải 0,50; kiểm riêng D_1/E_0=0,50, D_2/E_0=0,10 và tỉ số đúng bằng 5."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phần III",
+      "points": 0.25,
+      "items": [
+        {
+          "id": "vl-de-09-iii01",
+          "type": "num",
+          "points": 0.25,
+          "topic": "khi",
+          "level": 3,
+          "prompt": "Khí ban đầu chỉ gồm phân tử X₂, có áp suất tuyệt đối p_1 = 100000 Pa, thể tích V_1 = 0,0010 m³, nhiệt độ T_1 = 300 K; pít-tông được chốt giữ ở vị trí đầu. Tháo chốt, đồng thời chiếu sáng làm một phần X₂ phân li thành hai nguyên tử X, không rò khí hoặc phản ứng nào khác. Trạng thái cuối ở T_2 = 360 K dưới pít-tông thẳng đứng không ma sát, khối lượng m = 2,0 kg, tiết diện S = 0,0010 m²; áp suất ngoài p_a = 100000 Pa, gia tốc trọng trường tại nơi đo g = 10 m/s². Pít-tông cuối cao hơn vị trí đầu x = 0,50 m; không chạm chốt, đứng cân bằng. Cả X₂ và X coi như khí lí tưởng; bỏ qua thể tích hạt, áp lực ánh sáng và nở xilanh. Tính phần trăm số phân tử X₂ ban đầu đã phân li, làm tròn đến một chữ số sau dấu phẩy.",
+          "answer": 50,
+          "exact": 50,
+          "round": 1,
+          "tolerance": 0,
+          "unit": "%",
+          "explain": "Bước 1: Cân bằng lực cuối cho p_2=p_a+mg/S=100000+2×10/0,0010=120000 Pa; V_2=V_1+Sx=0,0015 m³. Bước 2: Từ phương trình khí lí tưởng, n_2/n_1=p_2V_2T_1/(p_1V_1T_2)=1,50. Bước 3: Mỗi phân tử phân li thay một hạt bằng hai hạt, nên n_2=n_1(1+α), không phải n_1(1−α). Do đó α=0,50, thỏa 0≤α≤1. Bước 4: Chỉ làm tròn cuối phần trăm, ghi 50,0."
+        },
+        {
+          "id": "vl-de-09-iii02",
+          "type": "num",
+          "points": 0.25,
+          "topic": "khi",
+          "level": 3,
+          "prompt": "Hai bình cứng A, B có V_A = 0,0010 m³, V_B = 0,0020 m³ nối bằng lỗ rất nhỏ, thể tích lỗ không đáng kể. Hệ kín chứa cùng một khí lí tưởng không phản ứng. Ban đầu cả hai bình ở T_0 = 300 K, áp suất tuyệt đối chung p_0 = 75000 Pa. Sau đó các bộ ổn nhiệt giữ bình A ở T_A = 300 K và bình B ở nhiệt độ T_B chưa biết. Lỗ đủ nhỏ so với quãng đường tự do trung bình để, tại cân bằng không có dòng hạt ròng, p_A/√T_A=p_B/√T_B (quan hệ dòng phân tử được cho); mỗi bình riêng vẫn có p_iV_i=n_iRT_i. Đo được p_A = 100000 Pa. Không áp dụng điều kiện p_A=p_B ở chế độ lỗ nhỏ này. Tính T_B theo K, làm tròn đến hàng đơn vị.",
+          "answer": 768,
+          "exact": 768,
+          "round": 0,
+          "tolerance": 0,
+          "unit": "K",
+          "explain": "Bước 1: Bảo toàn số mol cho nR=p_0(V_A+V_B)/T_0=75000×0,0030/300=0,75 J/K. Bước 2: Phần trong A có n_AR=p_AV_A/T_A=1/3 J/K; phần còn lại n_BR=0,75−1/3=5/12 J/K. Bước 3: Dùng p_B=p_A√(T_B/T_A) trong n_BR=p_BV_B/T_B, suy ra √T_B=p_AV_B/[√T_A(n_BR)]. Bước 4: T_B=[100000×0,0020/(√300×5/12)]²=768 K. Nghiệm dương duy nhất; kiểm p_B=160000 Pa. Ghi 768, không giả sử hai bình cùng áp suất."
+        },
+        {
+          "id": "vl-de-09-iii03",
+          "type": "num",
+          "points": 0.25,
+          "topic": "tu",
+          "level": 3,
+          "prompt": "Hai thanh dẫn song song cùng dài ℓ = 0,20 m trượt trên hai ray ngang dọc trục x, tạo một mạch kín duy nhất gồm hai thanh và hai đoạn ray. Từ trường B = 0,50 T đều vuông góc mặt phẳng mạch. Thanh 1 khối lượng m_1 = 0,020 kg ban đầu chạy theo +x với u_1 = 4,0 m/s; thanh 2 khối lượng m_2 = 0,030 kg ban đầu đứng yên u_2 = 0. Thanh 1 ở bên trái và chuyển động về phía thanh 2; khoảng cách đầu đủ lớn để chưa va nhau trong khoảng xét. Ray không ma sát, không có nguồn ngoài, điện trở mạch dương; bỏ qua tự cảm và mọi ngoại lực dọc x. Trong giai đoạn u_1>u_2, lực từ lên thanh 1 hướng −x, lên thanh 2 hướng +x, cùng độ lớn BℓI. Xét thời điểm độ chênh vận tốc giảm còn Δv = 2,0 m/s. Tính độ lớn điện lượng đã chạy qua mạch từ lúc đầu đến thời điểm ấy, theo mC; 1 mC=0,001 C. Làm tròn đến hàng đơn vị.",
+          "answer": 240,
+          "exact": 240,
+          "round": 0,
+          "tolerance": 0,
+          "unit": "mC",
+          "explain": "Bước 1: Hai lực từ đối nhau nên động lượng dọc ray bảo toàn: m_1v_1+m_2v_2=m_1u_1+m_2u_2=0,080 kg·m/s. Bước 2: Ghép v_1−v_2=2,0 m/s cho v_2=0,80 m/s, v_1=2,80 m/s; không dùng vận tốc chung vì hai thanh chưa đồng tốc. Bước 3: Xung lượng từ trên thanh 1 có độ lớn m_1(u_1−v_1)=Bℓ∫I dt=Bℓq, nên q=0,020×(4−2,80)/(0,50×0,20)=0,24 C. Bước 4: Đổi đơn vị và chỉ làm tròn cuối, q=240 mC, ghi 240; điện trở quyết định thời gian chứ không thay điện lượng tại độ chênh vận tốc đã cho."
+        },
+        {
+          "id": "vl-de-09-iii04",
+          "type": "num",
+          "points": 0.25,
+          "topic": "tu",
+          "level": 3,
+          "prompt": "Một trường nền đều cố định nằm trong mặt phẳng xy, có các thành phần B_x>0, B_y>0 chưa biết. Một cuộn bù tạo trường đều dọc x, có thể đảo chiều mà không đổi độ lớn b = 30 mT. Từ kế tại cùng điểm chỉ độ lớn trường tổng: khi cuộn bù hướng +x đo B_+ = 65 mT; khi hướng −x đo B_− = 25 mT. Bỏ qua các trường khác và nhiễu đầu đo; trường nền không đổi giữa hai lượt. Tính thành phần B_y của trường nền theo mT, làm tròn đến một chữ số sau dấu phẩy.",
+          "answer": 25,
+          "exact": 25,
+          "round": 1,
+          "tolerance": 0,
+          "unit": "mT",
+          "explain": "Bước 1: Chồng chất vectơ và bình phương độ lớn cho (B_x+b)²+B_y²=B_+² và (B_x−b)²+B_y²=B_−², tất cả cùng đơn vị mT. Bước 2: Trừ hai phương trình, B_x=(B_+²−B_−²)/(4b)=(65²−25²)/(4×30)=30 mT. Bước 3: B_y=√[65²−(30+30)²]=25 mT; chọn nghiệm dương theo giả thiết. Kiểm lượt đảo: √[(30−30)²+25²]=25 mT. Bước 4: Chỉ làm tròn cuối, ghi 25,0; không lấy trung bình hoặc hiệu trực tiếp hai số chỉ độ lớn."
+        },
+        {
+          "id": "vl-de-09-iii05",
+          "type": "num",
+          "points": 0.25,
+          "topic": "hat-nhan",
+          "level": 3,
+          "prompt": "Nguồn alpha đơn năng có động năng ban đầu K_0 chưa biết. Các hạt đi qua một lớp vật liệu phẳng đồng nhất có bề dày pháp tuyến d chưa biết, rồi được máy đo ghi động năng còn lại. Hai lượt chỉ thay đổi góc tới so với pháp tuyến: lượt một θ_1 = 0° cho K_1 = 4,0 MeV; lượt hai θ_2 = 60° cho K_2 = 3,0 MeV. Cho cos0°=1, cos60°=0,50. Trong vật liệu này, tầm đi còn lại của alpha động năng K là R(K)=aK², với a = 1,0 µm/MeV²; đi quãng s làm tầm đi còn lại giảm đúng s. Quỹ đạo trong lớp coi như thẳng, s=d/cosθ; không tán xạ, không có mất năng lượng ở nơi khác, nguồn không đổi. Tính K_0 theo MeV, làm tròn đến hai chữ số sau dấu phẩy.",
+          "answer": 4.8,
+          "exact": 4.795831523312719,
+          "round": 2,
+          "tolerance": 0,
+          "unit": "MeV",
+          "explain": "Bước 1: Lượt vuông góc cho aK_0²−aK_1²=d; lượt 60° cho aK_0²−aK_2²=2d, vì đường đi trong lớp tăng gấp hai. Bước 2: Trừ hai phương trình để tìm d=a(K_1²−K_2²)=7,0 µm, rồi K_0²=K_1²+d/a=2K_1²−K_2²=23 MeV². Bước 3: Lấy nghiệm năng lượng dương K_0=√23=4,795831523312719… MeV. Kiểm tầm đi đầu 23 µm: sau 7 µm còn 16 µm, sau 14 µm còn 9 µm, đúng hai số đo. Bước 4: Chỉ làm tròn cuối, ghi 4,80; không giả sử độ mất động năng tỉ lệ trực tiếp quãng đường."
+        },
+        {
+          "id": "vl-de-09-iii06",
+          "type": "num",
+          "points": 0.25,
+          "topic": "hat-nhan",
+          "level": 3,
+          "prompt": "Một mô hình minh họa chia liều bức xạ thành n đợt bằng nhau, n là số nguyên dương. Tổng liều hấp thụ ở mô đích cố định D = 60 Gy; mô lành luôn nhận tỉ phần s = 0,50 của liều mô đích ở mỗi đợt. Chỉ số tác dụng sinh học trong mô hình là BED=nd(1+d/q), với d là liều của một đợt tại mô đang xét, q là thông số của mô. Cho q_t = 10 Gy ở mô đích, q_h = 3,0 Gy ở mô lành. Mô đích cần BED_t≥72 Gy, mô lành cần BED_h≤40 Gy. Giả sử giữa các đợt sửa chữa hoàn toàn, bỏ qua mọi thay đổi theo thời gian và tác dụng khác; đây chỉ là mô hình tính toán. Có thể chọn ít nhất bao nhiêu đợt để đồng thời thỏa hai điều kiện? Trả lời số nguyên: xét các bất đẳng thức trước, nếu cận dưới không nguyên thì làm tròn lên; không làm tròn trung gian.",
+          "answer": 30,
+          "exact": 30,
+          "round": 0,
+          "tolerance": 0,
+          "unit": "đợt",
+          "explain": "Bước 1: Liều mỗi đợt tại mô đích là d_t=60/n; tổng liều mô lành là sD=30 Gy, mỗi đợt d_h=30/n. Bước 2: BED_t=60+3600/(10n)=60+360/n≥72 cho n≤30. Bước 3: BED_h=30+900/(3n)=30+300/n≤40 cho n≥30. Bước 4: Kết hợp với n nguyên dương, chỉ n=30 phù hợp nên số đợt ít nhất là 30. Kiểm d_t=2 Gy, d_h=1 Gy cho BED_t=72 Gy và BED_h=40 Gy. Ghi 30; không chỉ xét riêng một mô."
+        }
+      ]
+    }
+  ]
+}

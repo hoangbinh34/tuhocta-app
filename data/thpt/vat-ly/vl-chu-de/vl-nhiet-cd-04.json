@@ -1,0 +1,77 @@
+{
+  "id": "vl-nhiet-cd-04",
+  "title": "Nhiệt: ghi nhớ đại lượng và quy tắc",
+  "items": [
+    {
+      "id": "vl-nhiet-cd-04-01", "type": "mcq", "level": 1,
+      "prompt": "Nội năng của một vật là tổng những dạng năng lượng nào của các phân tử cấu tạo nên vật?",
+      "options": ["Động năng chuyển động nhiệt và thế năng tương tác giữa các phân tử", "Chỉ động năng chuyển động của cả vật", "Chỉ thế năng trọng trường của cả vật", "Công suất và nhiệt độ của vật"], "answer": 0,
+      "explain": "Nội năng gồm động năng chuyển động nhiệt của các phân tử và thế năng tương tác giữa chúng. Chuyển động có hướng của cả vật không phải chuyển động nhiệt."
+    },
+    {
+      "id": "vl-nhiet-cd-04-02", "type": "mcq", "level": 1,
+      "prompt": "Đơn vị SI của nhiệt nóng chảy riêng λ là gì?",
+      "options": ["J", "J/(kg·K)", "J/kg", "W/kg"], "answer": 2,
+      "explain": "Từ Q = mλ suy ra λ = Q/m, nên đơn vị là J/kg. J/(kg·K) là đơn vị nhiệt dung riêng."
+    },
+    {
+      "id": "vl-nhiet-cd-04-03", "type": "mcq", "level": 1,
+      "prompt": "Sự chuyển thể từ khí sang lỏng được gọi là gì?",
+      "options": ["Nóng chảy", "Ngưng tụ", "Thăng hoa", "Đông đặc"], "answer": 1,
+      "explain": "Ngưng tụ là chuyển từ khí sang lỏng; đông đặc là từ lỏng sang rắn, nóng chảy là từ rắn sang lỏng."
+    },
+    {
+      "id": "vl-nhiet-cd-04-04", "type": "mcq", "level": 1,
+      "prompt": "Khi một chất lỏng khối lượng m hoá hơi hoàn toàn ở nhiệt độ sôi, nhiệt hoá hơi riêng là L, biểu thức nhiệt lượng cần cung cấp là gì?",
+      "options": ["Q = m/L", "Q = L/m", "Q = mcΔT", "Q = mL"], "answer": 3,
+      "explain": "Ở giai đoạn sôi, nhiệt lượng làm chuyển thể là Q = mL, không dùng mcΔT cho phần chuyển thể."
+    },
+    {
+      "id": "vl-nhiet-cd-04-05", "type": "mcq", "level": 1,
+      "prompt": "Trong phép đo nhiệt dung riêng bằng dây nung điện, dụng cụ nào dùng để đo khối lượng mẫu?",
+      "options": ["Ampe kế", "Đồng hồ bấm giây", "Cân", "Vôn kế"], "answer": 2,
+      "explain": "Cân đo khối lượng; ampe kế đo cường độ dòng điện, vôn kế đo hiệu điện thế, đồng hồ đo thời gian."
+    },
+    {
+      "id": "vl-nhiet-cd-04-06", "type": "mcq", "level": 1,
+      "prompt": "Hai vật tiếp xúc nhiệt đã đạt cân bằng nhiệt với nhau. Đại lượng nào của hai vật bằng nhau?",
+      "options": ["Nội năng", "Nhiệt độ", "Khối lượng", "Nhiệt dung riêng"], "answer": 1,
+      "explain": "Cân bằng nhiệt đòi hỏi nhiệt độ bằng nhau, không đòi hỏi nội năng, khối lượng hay nhiệt dung riêng bằng nhau."
+    },
+    {
+      "id": "vl-nhiet-cd-04-07", "type": "mcq", "level": 1,
+      "prompt": "Trong công thức Q = mcΔT cho vật tăng nhiệt độ và không chuyển thể, ΔT là đại lượng nào?",
+      "options": ["Nhiệt độ cuối trừ nhiệt độ đầu", "Nhiệt độ cuối cộng nhiệt độ đầu", "Nhiệt độ cuối chia nhiệt độ đầu", "Luôn bằng nhiệt độ cuối tính theo kelvin"], "answer": 0,
+      "explain": "ΔT là độ tăng nhiệt độ T_{cuối} − T_{đầu}; không thay bằng riêng nhiệt độ cuối."
+    },
+    {
+      "id": "vl-nhiet-cd-04-08", "type": "mcq", "level": 1,
+      "prompt": "Chất rắn kết tinh tinh khiết nóng chảy ở áp suất không đổi. Trong thời gian còn đồng thời cả rắn và lỏng, nhiệt độ có đặc điểm nào?",
+      "options": ["Tăng đều", "Giảm đều", "Luôn bằng 0 °C với mọi chất", "Không đổi ở nhiệt độ nóng chảy của chất"], "answer": 3,
+      "explain": "Chất rắn kết tinh tinh khiết nóng chảy ở nhiệt độ xác định khi áp suất không đổi. Giá trị đó phụ thuộc chất, không luôn là 0 °C."
+    },
+    {
+      "id": "vl-nhiet-cd-04-09", "type": "tf4", "level": 1,
+      "prompt": "Xét các phát biểu về đại lượng và đơn vị trong Vật lý nhiệt.",
+      "statements": [
+        "a) Đơn vị SI của nội năng là joule (J).",
+        "b) Đơn vị SI của nhiệt dung riêng là J/kg.",
+        "c) Độ tăng nhiệt độ 1 °C bằng độ tăng nhiệt độ 1 K.",
+        "d) Một vật có sẵn một nhiệt lượng xác định giống như có một nội năng xác định."
+      ],
+      "answers": [true, false, true, false],
+      "explain": [
+        "Đúng. Nội năng là năng lượng, có đơn vị SI là J.",
+        "Sai. Nhiệt dung riêng có đơn vị J/(kg·K); J/kg là đơn vị của λ và L.",
+        "Đúng. Hai thang có cùng độ lớn một khoảng chia; chỉ khác mốc nhiệt độ.",
+        "Sai. Nhiệt lượng mô tả năng lượng trao đổi bằng truyền nhiệt trong một quá trình, không phải năng lượng chứa sẵn trong vật."
+      ]
+    },
+    {
+      "id": "vl-nhiet-cd-04-10", "type": "num", "level": 1,
+      "prompt": "Dùng quy ước T (K) = t (°C) + 273 của đề thi. Đổi 25 °C sang kelvin, làm tròn đến hàng đơn vị.",
+      "answer": 298, "round": 0, "unit": "K",
+      "explain": "T = 25 + 273 = 298 K theo quy ước đề cho. Ghi: 298."
+    }
+  ]
+}

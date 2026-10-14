@@ -1,0 +1,652 @@
+{
+ "id": "c3-de-05",
+ "module": "mock-test",
+ "title": "Đề 5 – cấu trúc đề tốt nghiệp",
+ "emoji": "🏁",
+ "desc": "40 câu, 50 phút. Chủ đề: khoá học kỹ năng mùa hè, mất điện theo lịch, chọn nghề, thành phố thông minh, cây xanh đô thị.",
+ "minutes": 50,
+ "scale": 10,
+ "priority": 1,
+ "sources": [
+  "cau-truc-de-tn-2025"
+ ],
+ "sections": [
+  {
+   "title": "Câu 1–6",
+   "instruction": "Đọc quảng cáo và chọn phương án đúng cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "c3-de-05-g1",
+     "type": "group",
+     "title": "Summer course",
+     "passage": "SUMMER SKILLS CAMP FOR TEENS\nDo you want to become more confident and independent? Join our two-week summer camp in Da Lat! Our programme helps teenagers (1) ___ important life skills such as cooking, first aid and public speaking. Activities take place both indoors and outdoors, (2) ___ there is something for everyone. All our instructors are (3) ___ trained and have years of experience working with young people. Places are limited to 40 participants, so register (4) ___ to avoid disappointment. Students (5) ___ register before 15th May will receive a 10% discount. Give yourself a summer to (6) ___!",
+     "items": [
+      {
+       "id": "c3-de-05-01",
+       "type": "mcq",
+       "prompt": "(1)",
+       "options": [
+        "develop",
+        "development",
+        "developing",
+        "developed"
+       ],
+       "answer": 0,
+       "explain": "help + O + V nguyên mẫu: help teenagers develop."
+      },
+      {
+       "id": "c3-de-05-02",
+       "type": "mcq",
+       "prompt": "(2)",
+       "options": [
+        "so",
+        "but",
+        "or",
+        "because of"
+       ],
+       "answer": 0,
+       "explain": "so: vì vậy (có hoạt động cho mọi người)."
+      },
+      {
+       "id": "c3-de-05-03",
+       "type": "mcq",
+       "prompt": "(3)",
+       "options": [
+        "professionally",
+        "professional",
+        "profession",
+        "professionalism"
+       ],
+       "answer": 0,
+       "explain": "Bổ nghĩa cho phân từ trained cần trạng từ: professionally trained."
+      },
+      {
+       "id": "c3-de-05-04",
+       "type": "mcq",
+       "prompt": "(4)",
+       "options": [
+        "early",
+        "lately",
+        "recently",
+        "lastly"
+       ],
+       "answer": 0,
+       "explain": "register early: đăng ký sớm."
+      },
+      {
+       "id": "c3-de-05-05",
+       "type": "mcq",
+       "prompt": "(5)",
+       "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+       ],
+       "answer": 0,
+       "explain": "Mệnh đề quan hệ chỉ người: Students who register…"
+      },
+      {
+       "id": "c3-de-05-06",
+       "type": "mcq",
+       "prompt": "(6)",
+       "options": [
+        "remember",
+        "remind",
+        "memory",
+        "memorise"
+       ],
+       "answer": 0,
+       "explain": "a summer to remember: một mùa hè đáng nhớ."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 7–12",
+   "instruction": "Đọc thông báo và chọn phương án đúng cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "c3-de-05-g2",
+     "type": "group",
+     "title": "Power cut",
+     "passage": "NOTICE TO RESIDENTS: SCHEDULED POWER CUT\nPlease be informed that electricity will be (7) ___ off in Blocks A and B on Saturday, 14th June, from 8 a.m. to 2 p.m. This is necessary for the electricity company to (8) ___ old cables. During this time, lifts will not be in (9) ___, so residents are advised to use the stairs. Please make sure that your fridge doors stay closed to keep food (10) ___. We apologise for any (11) ___ this may cause. If you have any questions, please contact the management office (12) ___ phone or email.",
+     "items": [
+      {
+       "id": "c3-de-05-07",
+       "type": "mcq",
+       "prompt": "(7)",
+       "options": [
+        "turned",
+        "taken",
+        "put",
+        "given"
+       ],
+       "answer": 0,
+       "explain": "turn off electricity: cắt điện (bị động: be turned off)."
+      },
+      {
+       "id": "c3-de-05-08",
+       "type": "mcq",
+       "prompt": "(8)",
+       "options": [
+        "replace",
+        "replacement",
+        "replacing",
+        "replaced"
+       ],
+       "answer": 0,
+       "explain": "for + O + to V: for the company to replace."
+      },
+      {
+       "id": "c3-de-05-09",
+       "type": "mcq",
+       "prompt": "(9)",
+       "options": [
+        "operation",
+        "operate",
+        "operator",
+        "operational"
+       ],
+       "answer": 0,
+       "explain": "be in operation: đang hoạt động (danh từ)."
+      },
+      {
+       "id": "c3-de-05-10",
+       "type": "mcq",
+       "prompt": "(10)",
+       "options": [
+        "fresh",
+        "freshly",
+        "freshness",
+        "freshen"
+       ],
+       "answer": 0,
+       "explain": "keep + O + tính từ: keep food fresh."
+      },
+      {
+       "id": "c3-de-05-11",
+       "type": "mcq",
+       "prompt": "(11)",
+       "options": [
+        "inconvenience",
+        "inconvenient",
+        "inconveniently",
+        "convenient"
+       ],
+       "answer": 0,
+       "explain": "apologise for any inconvenience (danh từ)."
+      },
+      {
+       "id": "c3-de-05-12",
+       "type": "mcq",
+       "prompt": "(12)",
+       "options": [
+        "by",
+        "on",
+        "with",
+        "in"
+       ],
+       "answer": 0,
+       "explain": "contact somebody by phone or email."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 13–17",
+   "instruction": "Chọn thứ tự đúng để tạo thành hội thoại, lá thư hoặc đoạn văn.",
+   "items": [
+    {
+     "id": "c3-de-05-g3",
+     "type": "group",
+     "title": "Câu 13",
+     "passage": "a. Nam: I'd love to, but I have a maths test tomorrow.\nb. Quynh: We're going to the cinema tonight. Would you like to come?\nc. Quynh: No problem. Maybe next time then. Good luck!",
+     "items": [
+      {
+       "id": "c3-de-05-13",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "b – a – c",
+        "a – b – c",
+        "b – c – a",
+        "c – a – b"
+       ],
+       "answer": 0,
+       "explain": "Mời (b) → từ chối có lý do (a) → đáp lại, chúc may mắn (c)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-05-g4",
+     "type": "group",
+     "title": "Câu 14",
+     "passage": "a. Shop assistant: Of course. What size do you wear?\nb. Customer: Excuse me, can I try this jacket on?\nc. Customer: Medium, I think.\nd. Shop assistant: Here you are. The changing room is over there.\ne. Customer: Thank you very much.",
+     "items": [
+      {
+       "id": "c3-de-05-14",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "b – a – c – d – e",
+        "a – b – c – d – e",
+        "b – c – a – d – e",
+        "b – a – c – e – d"
+       ],
+       "answer": 0,
+       "explain": "Xin thử (b) → hỏi cỡ (a) → trả lời (c) → đưa đồ, chỉ phòng thử (d) → cảm ơn (e)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-05-g5",
+     "type": "group",
+     "title": "Câu 15",
+     "passage": "Dear Aunt Mai,\na. Thank you so much for the birthday present you sent me.\nb. I have already started reading it and I can't put it down!\nc. The book about space exploration is exactly what I wanted.\nd. I hope you can visit us in Ha Noi during the summer holiday.\nLove,\nMinh Khoa",
+     "items": [
+      {
+       "id": "c3-de-05-15",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "a – c – b – d",
+        "c – a – b – d",
+        "b – a – c – d",
+        "a – c – d – b"
+       ],
+       "answer": 0,
+       "explain": "Cảm ơn (a) → nói về món quà (c) → \"it\" đã bắt đầu đọc (b) → lời mời kết thư (d)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-05-g6",
+     "type": "group",
+     "title": "Câu 16",
+     "passage": "a. For instance, sensors on traffic lights can reduce traffic jams by changing signals according to the number of cars.\nb. A \"smart city\" uses technology to improve the lives of the people who live there.\nc. Despite these advantages, some people worry about how their personal data is collected and used.\nd. Similarly, smart bins can tell workers when they are full, saving time and fuel.",
+     "items": [
+      {
+       "id": "c3-de-05-16",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "b – a – d – c",
+        "a – b – d – c",
+        "b – d – a – c",
+        "b – a – c – d"
+       ],
+       "answer": 0,
+       "explain": "Định nghĩa (b) → For instance (a) → Similarly (d) → \"Despite these advantages\" (c)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-05-g7",
+     "type": "group",
+     "title": "Câu 17",
+     "passage": "a. As a result, they are more likely to stay motivated and succeed.\nb. Choosing a career is one of the most important decisions young people make.\nc. Students who choose jobs that match their interests usually enjoy their work more.\nd. Therefore, it is wise to explore different fields before making a final decision.",
+     "items": [
+      {
+       "id": "c3-de-05-17",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "b – c – a – d",
+        "c – b – a – d",
+        "b – a – c – d",
+        "b – c – d – a"
+       ],
+       "answer": 0,
+       "explain": "Chủ đề (b) → ý chính (c) → \"As a result\" (a) → kết luận \"Therefore\" (d)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 18–22",
+   "instruction": "Đọc đoạn văn và chọn phương án phù hợp nhất cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "c3-de-05-g8",
+     "type": "group",
+     "title": "Trees in the city",
+     "passage": "Trees play an important role in making cities pleasant places to live. They provide shade on hot summer days, (18) ___. Studies show that streets with many trees can be several degrees cooler than streets without them. Trees also clean the air by absorbing dust and harmful gases, (19) ___. In addition, green spaces are good for mental health; people (20) ___ tend to feel less stressed. Despite these benefits, many trees are cut down every year (21) ___. Some city governments have therefore launched programmes (22) ___.",
+     "items": [
+      {
+       "id": "c3-de-05-18",
+       "type": "mcq",
+       "prompt": "(18)",
+       "options": [
+        "which helps reduce the use of air conditioners",
+        "that help reduce the use of air conditioners",
+        "helps reduce the use of air conditioners",
+        "which helping reduce air conditioners"
+       ],
+       "answer": 0,
+       "explain": "Mệnh đề quan hệ không xác định thay cho cả mệnh đề trước, động từ số ít: which helps…"
+      },
+      {
+       "id": "c3-de-05-19",
+       "type": "mcq",
+       "prompt": "(19)",
+       "options": [
+        "making the city healthier for its residents",
+        "made the city healthier for its residents",
+        "it makes the city healthier for its residents",
+        "which making the city healthier"
+       ],
+       "answer": 0,
+       "explain": "Rút gọn chủ động chỉ kết quả: …, making the city healthier."
+      },
+      {
+       "id": "c3-de-05-20",
+       "type": "mcq",
+       "prompt": "(20)",
+       "options": [
+        "who live near parks",
+        "which live near parks",
+        "living near parks they",
+        "live near parks"
+       ],
+       "answer": 0,
+       "explain": "Mệnh đề quan hệ chỉ người: people who live near parks."
+      },
+      {
+       "id": "c3-de-05-21",
+       "type": "mcq",
+       "prompt": "(21)",
+       "options": [
+        "to make room for new roads and buildings",
+        "making room for new roads and buildings is",
+        "so that make room for new roads",
+        "in order to room for new roads"
+       ],
+       "answer": 0,
+       "explain": "to + V chỉ mục đích: to make room for…"
+      },
+      {
+       "id": "c3-de-05-22",
+       "type": "mcq",
+       "prompt": "(22)",
+       "options": [
+        "that aim to plant millions of new trees",
+        "aim to plant millions of new trees",
+        "which aiming to plant millions of trees",
+        "that aims planting millions of trees"
+       ],
+       "answer": 0,
+       "explain": "Mệnh đề quan hệ bổ nghĩa cho programmes (số nhiều): that aim to…"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 23–30",
+   "instruction": "Đọc bài và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "c3-de-05-g9",
+     "type": "group",
+     "title": "Choosing a career",
+     "passage": "For many Grade 12 students in Viet Nam, choosing a university major is a stressful experience. Some follow their parents' advice, while others simply choose the subject that their friends have chosen. A growing number, however, are taking a more careful approach by researching different careers before making a decision.\n\nCareer advisers recommend that students start by thinking about three questions: What do I enjoy? What am I good at? And what does the job market need? A student who loves drawing and is good at technology, for example, might consider graphic design or architecture. Online personality tests can also give useful ideas, although advisers warn that the results should not be taken too seriously.\n\nAnother helpful step is talking to people who already work in the field. Many students are surprised to learn what a job is really like. A teenager who dreams of becoming a doctor may not realise how long the training takes, while someone who imagines that programmers sit alone all day may discover that teamwork is an important part of the job. Short internships or volunteer work can also give students a taste of real working life before they commit to a course.",
+     "items": [
+      {
+       "id": "c3-de-05-23",
+       "type": "mcq",
+       "prompt": "What is the passage mainly about?",
+       "options": [
+        "How students can make better career choices",
+        "Why parents should choose their children's jobs",
+        "The best-paid jobs in Viet Nam",
+        "How to pass university entrance exams"
+       ],
+       "answer": 0,
+       "explain": "Bài hướng dẫn cách chọn ngành nghề cẩn thận."
+      },
+      {
+       "id": "c3-de-05-24",
+       "type": "mcq",
+       "prompt": "According to paragraph 1, how do some students choose their major?",
+       "options": [
+        "By choosing the same subject as their friends",
+        "By asking their teachers",
+        "By looking at salaries only",
+        "By taking a test"
+       ],
+       "answer": 0,
+       "explain": "\"others simply choose the subject that their friends have chosen\"."
+      },
+      {
+       "id": "c3-de-05-25",
+       "type": "mcq",
+       "prompt": "The word \"approach\" in paragraph 1 is closest in meaning to ___.",
+       "options": [
+        "way of dealing with something",
+        "arrival",
+        "distance",
+        "agreement"
+       ],
+       "answer": 0,
+       "explain": "approach = cách tiếp cận."
+      },
+      {
+       "id": "c3-de-05-26",
+       "type": "mcq",
+       "prompt": "Which question is NOT one of the three that career advisers recommend?",
+       "options": [
+        "How much money will I earn?",
+        "What do I enjoy?",
+        "What am I good at?",
+        "What does the job market need?"
+       ],
+       "answer": 0,
+       "explain": "Ba câu hỏi: thích gì, giỏi gì, thị trường cần gì; không có câu về lương."
+      },
+      {
+       "id": "c3-de-05-27",
+       "type": "mcq",
+       "prompt": "According to paragraph 2, what do advisers say about online personality tests?",
+       "options": [
+        "Their results should not be taken too seriously.",
+        "They are always accurate.",
+        "They are too expensive.",
+        "Students should avoid them completely."
+       ],
+       "answer": 0,
+       "explain": "\"the results should not be taken too seriously\"."
+      },
+      {
+       "id": "c3-de-05-28",
+       "type": "mcq",
+       "prompt": "The word \"who\" in \"talking to people who already work in the field\" (paragraph 3) refers to ___.",
+       "options": [
+        "people",
+        "students",
+        "jobs",
+        "fields"
+       ],
+       "answer": 0,
+       "explain": "\"talking to people who already work in the field\"."
+      },
+      {
+       "id": "c3-de-05-29",
+       "type": "mcq",
+       "prompt": "What does the example about programmers show?",
+       "options": [
+        "People may have wrong ideas about what a job is like.",
+        "Programmers prefer to work alone.",
+        "Programming is easier than medicine.",
+        "Teamwork is not important in IT."
+       ],
+       "answer": 0,
+       "explain": "Người nghĩ lập trình viên ngồi một mình sẽ thấy làm việc nhóm rất quan trọng: hình dung sai về nghề."
+      },
+      {
+       "id": "c3-de-05-30",
+       "type": "mcq",
+       "prompt": "The phrase \"a taste of\" in paragraph 3 is closest in meaning to ___.",
+       "options": [
+        "a short experience of",
+        "a strong dislike of",
+        "a large amount of",
+        "a good memory of"
+       ],
+       "answer": 0,
+       "explain": "a taste of real working life: trải nghiệm ngắn về công việc thật."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 31–40",
+   "instruction": "Đọc bài và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "c3-de-05-g10",
+     "type": "group",
+     "title": "Smart cities",
+     "passage": "Imagine a city where traffic lights change automatically to keep cars moving, rubbish bins tell collectors when they are full and street lights dim when no one is around. This is the idea behind the \"smart city\" – an urban area that uses sensors, data and the internet to manage services more efficiently.\n\nSeveral cities around the world are already leading the way. In Singapore, thousands of sensors collect information about traffic, air quality and energy use. [I] Barcelona has installed smart parking systems that guide drivers to free spaces, reducing the time they spend driving around. [II] In Viet Nam, cities such as Da Nang and Binh Duong have started smart city projects, including online public services and traffic cameras that detect violations. [III] These projects aim to save time for citizens and money for local governments. [IV]\n\nThe benefits can be significant. Smarter traffic management means shorter journeys and less pollution. Monitoring water pipes can help detect leaks early, saving millions of litres of water. Residents can also report problems, such as broken street lights, through a phone app instead of visiting a government office.\n\nYet critics warn that smart cities also raise serious concerns. Collecting large amounts of data about people's movements could threaten their privacy if the information is not properly protected. Systems that depend heavily on the internet may also be vulnerable to cyber attacks. Moreover, technology alone cannot solve problems such as poverty or a lack of affordable housing. A truly smart city, critics argue, is one that puts people, not technology, at its centre.",
+     "items": [
+      {
+       "id": "c3-de-05-31",
+       "type": "mcq",
+       "prompt": "Which could be the best title for the passage?",
+       "options": [
+        "Smart Cities: Promise and Problems",
+        "How to Build Traffic Lights",
+        "Life in Singapore",
+        "The Dangers of the Internet"
+       ],
+       "answer": 0,
+       "explain": "Bài nói lợi ích và mối lo của thành phố thông minh."
+      },
+      {
+       "id": "c3-de-05-32",
+       "type": "mcq",
+       "prompt": "According to paragraph 1, a smart city uses ___ to manage services.",
+       "options": [
+        "sensors, data and the internet",
+        "more workers",
+        "cheaper materials",
+        "larger roads"
+       ],
+       "answer": 0,
+       "explain": "\"uses sensors, data and the internet to manage services\"."
+      },
+      {
+       "id": "c3-de-05-33",
+       "type": "mcq",
+       "prompt": "The word \"dim\" in paragraph 1 is closest in meaning to ___.",
+       "options": [
+        "become less bright",
+        "break",
+        "turn green",
+        "flash"
+       ],
+       "answer": 0,
+       "explain": "dim = mờ đi, giảm độ sáng."
+      },
+      {
+       "id": "c3-de-05-34",
+       "type": "mcq",
+       "prompt": "Where in paragraph 2 does the following sentence best fit? \"This information is then used to plan bus routes and reduce traffic jams.\"",
+       "options": [
+        "[I]",
+        "[II]",
+        "[III]",
+        "[IV]"
+       ],
+       "answer": 0,
+       "explain": "\"This information\" chỉ thông tin cảm biến ở Singapore vừa nêu, nên đặt ở [I].",
+       "noShuffle": true
+      },
+      {
+       "id": "c3-de-05-35",
+       "type": "mcq",
+       "prompt": "According to paragraph 2, Barcelona's smart parking systems ___.",
+       "options": [
+        "guide drivers to free parking spaces",
+        "charge drivers more money",
+        "ban cars from the city centre",
+        "detect traffic violations"
+       ],
+       "answer": 0,
+       "explain": "\"smart parking systems that guide drivers to free spaces\"."
+      },
+      {
+       "id": "c3-de-05-36",
+       "type": "mcq",
+       "prompt": "Which of the following is NOT mentioned as a benefit of smart cities?",
+       "options": [
+        "Cheaper housing",
+        "Less pollution",
+        "Detecting water leaks early",
+        "Reporting problems through an app"
+       ],
+       "answer": 0,
+       "explain": "Bài còn nói công nghệ không giải quyết được thiếu nhà ở giá rẻ."
+      },
+      {
+       "id": "c3-de-05-37",
+       "type": "mcq",
+       "prompt": "The word \"vulnerable\" in paragraph 4 is closest in meaning to ___.",
+       "options": [
+        "easily harmed",
+        "well protected",
+        "very expensive",
+        "quickly repaired"
+       ],
+       "answer": 0,
+       "explain": "vulnerable to cyber attacks = dễ bị tấn công."
+      },
+      {
+       "id": "c3-de-05-38",
+       "type": "mcq",
+       "prompt": "The word \"their\" in paragraph 4 refers to ___.",
+       "options": [
+        "people's",
+        "critics'",
+        "cities'",
+        "systems'"
+       ],
+       "answer": 0,
+       "explain": "\"data about people's movements could threaten their privacy\": their = của người dân."
+      },
+      {
+       "id": "c3-de-05-39",
+       "type": "mcq",
+       "prompt": "Which of the following best summarises the last sentence?",
+       "options": [
+        "Smart cities should focus on people's needs rather than technology itself.",
+        "Technology is more important than people.",
+        "Smart cities do not need any technology.",
+        "Critics want to stop all smart city projects."
+       ],
+       "answer": 0,
+       "explain": "puts people, not technology, at its centre: lấy con người làm trung tâm."
+      },
+      {
+       "id": "c3-de-05-40",
+       "type": "mcq",
+       "prompt": "It can be inferred from the passage that the writer ___.",
+       "options": [
+        "sees both advantages and risks in smart cities",
+        "thinks smart cities will solve poverty",
+        "is strongly against all technology",
+        "has never visited a city"
+       ],
+       "answer": 0,
+       "explain": "Bài nêu cả lợi ích (đoạn 3) và rủi ro (đoạn 4)."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

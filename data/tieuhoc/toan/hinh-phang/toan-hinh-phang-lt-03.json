@@ -1,0 +1,19 @@
+{
+  "id": "toan-hinh-phang-lt-03",
+  "title": "Hình tròn: bán kính, đường kính và chu vi",
+  "topic": "hinh-phang",
+  "items": [
+    {
+      "id": "toan-hinh-phang-lt-03-t1",
+      "type": "card",
+      "title": "Hình tròn: bán kính, đường kính và chu vi",
+      "paras": [
+        "Bán kính nối tâm với một điểm trên đường tròn. Đường kính nối hai điểm trên đường tròn và đi qua tâm; đường kính bằng bán kính nhân 2.",
+        "Trong bộ câu này lấy 3,14: chu vi bằng đường kính nhân 3,14. Nếu đề cho bán kính, tìm đường kính trước.",
+        "Biết chu vi: chia cho 3,14 để tìm đường kính; chia đường kính cho 2 để tìm bán kính.",
+        "Vật tròn lăn không trượt một vòng thì đi được một đoạn bằng chu vi. Đổi quãng đường sang đúng đơn vị đề hỏi ở bước riêng."
+      ],
+      "source": "SGK Toán 5 Kết nối tri thức, Bài 27: Đường tròn (đặc tả 2.0 mục 1 ghi nguồn bài 27). Tên/số bài SGK riêng về chu vi và diện tích: chưa xác minh; phạm vi CB theo CT môn Toán lớp 5, trang 40–46."
+    }
+  ]
+}

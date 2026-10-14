@@ -1,0 +1,188 @@
+{
+ "id": "c3-dtu-01",
+ "module": "cloze",
+ "title": "Quảng cáo và thông báo (1)",
+ "emoji": "📣",
+ "intro": "Đề tốt nghiệp câu 1–12: điền từ vào quảng cáo, thông báo. Hay kiểm tra: từ loại (danh/động/tính/trạng từ), giới từ đi kèm, cụm từ cố định (collocation), to V / V-ing, liên từ.",
+ "instruction": "Chọn phương án đúng cho mỗi chỗ trống.",
+ "shuffle": true,
+ "shuffleItems": false,
+ "priority": 1,
+ "sources": [
+  "cau-truc-de-tn-2025"
+ ],
+ "items": [
+  {
+   "id": "c3-dtu-01-g1",
+   "type": "group",
+   "title": "Green Living Week",
+   "passage": "JOIN OUR GREEN LIVING WEEK!\nDo you want to live a more (1) ___ lifestyle? Come to our free workshops at Hoa Binh Community Centre from 10th to 16th May. You will learn how to (2) ___ waste at home, grow vegetables on your balcony and make useful things from old (3) ___. Our experts will also show you simple ways (4) ___ energy and water every day. All activities are suitable (5) ___ families with children. Places are limited, so (6) ___ your seat online today!",
+   "items": [
+    {
+     "id": "c3-dtu-01-01",
+     "type": "mcq",
+     "prompt": "(1)",
+     "options": [
+      "sustainable",
+      "sustain",
+      "sustainability",
+      "sustainably"
+     ],
+     "answer": 0,
+     "explain": "Trước danh từ lifestyle cần tính từ: sustainable (bền vững)."
+    },
+    {
+     "id": "c3-dtu-01-02",
+     "type": "mcq",
+     "prompt": "(2)",
+     "options": [
+      "reduce",
+      "raise",
+      "produce",
+      "collect"
+     ],
+     "answer": 0,
+     "explain": "reduce waste: giảm rác thải."
+    },
+    {
+     "id": "c3-dtu-01-03",
+     "type": "mcq",
+     "prompt": "(3)",
+     "options": [
+      "materials",
+      "materially",
+      "materialise",
+      "materialistic"
+     ],
+     "answer": 0,
+     "explain": "Sau tính từ old cần danh từ; \"đồ cũ\" nói chung dùng số nhiều: old materials."
+    },
+    {
+     "id": "c3-dtu-01-04",
+     "type": "mcq",
+     "prompt": "(4)",
+     "options": [
+      "to save",
+      "saving",
+      "save",
+      "saved"
+     ],
+     "answer": 0,
+     "explain": "ways + to V: ways to save."
+    },
+    {
+     "id": "c3-dtu-01-05",
+     "type": "mcq",
+     "prompt": "(5)",
+     "options": [
+      "for",
+      "with",
+      "at",
+      "to"
+     ],
+     "answer": 0,
+     "explain": "suitable for: phù hợp với."
+    },
+    {
+     "id": "c3-dtu-01-06",
+     "type": "mcq",
+     "prompt": "(6)",
+     "options": [
+      "book",
+      "books",
+      "booking",
+      "to book"
+     ],
+     "answer": 0,
+     "explain": "Câu mệnh lệnh: book your seat."
+    }
+   ]
+  },
+  {
+   "id": "c3-dtu-01-g2",
+   "type": "group",
+   "title": "Volunteers wanted",
+   "passage": "VOLUNTEERS WANTED\nLake Side Library is looking for volunteers for (7) ___ new reading programme for young children. If you love books and are good (8) ___ working with kids, this is the perfect opportunity for you. Volunteers will read stories, help children choose books and (9) ___ simple games. No previous experience is (10) ___, as we will provide training. You only need to (11) ___ two hours every Saturday morning. Interested? Send us an email (12) ___ your name and contact details.",
+   "items": [
+    {
+     "id": "c3-dtu-01-07",
+     "type": "mcq",
+     "prompt": "(7)",
+     "options": [
+      "our",
+      "whose",
+      "his",
+      "your"
+     ],
+     "answer": 0,
+     "explain": "Thư viện tự nói về mình (\"we will provide training\"): our."
+    },
+    {
+     "id": "c3-dtu-01-08",
+     "type": "mcq",
+     "prompt": "(8)",
+     "options": [
+      "at",
+      "in",
+      "on",
+      "with"
+     ],
+     "answer": 0,
+     "explain": "be good at + V-ing."
+    },
+    {
+     "id": "c3-dtu-01-09",
+     "type": "mcq",
+     "prompt": "(9)",
+     "options": [
+      "organise",
+      "organising",
+      "organised",
+      "to organising"
+     ],
+     "answer": 0,
+     "explain": "Song song với read, help (động từ nguyên mẫu sau will): organise."
+    },
+    {
+     "id": "c3-dtu-01-10",
+     "type": "mcq",
+     "prompt": "(10)",
+     "options": [
+      "required",
+      "requiring",
+      "require",
+      "requirement"
+     ],
+     "answer": 0,
+     "explain": "Bị động: experience is required (cần có)."
+    },
+    {
+     "id": "c3-dtu-01-11",
+     "type": "mcq",
+     "prompt": "(11)",
+     "options": [
+      "spare",
+      "waste",
+      "lose",
+      "borrow"
+     ],
+     "answer": 0,
+     "explain": "spare (some) time: dành ra thời gian."
+    },
+    {
+     "id": "c3-dtu-01-12",
+     "type": "mcq",
+     "prompt": "(12)",
+     "options": [
+      "with",
+      "for",
+      "about",
+      "by"
+     ],
+     "answer": 0,
+     "explain": "email with your name: email kèm tên."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,652 @@
+{
+ "id": "c3-de-03",
+ "module": "mock-test",
+ "title": "Đề 3 – cấu trúc đề tốt nghiệp",
+ "emoji": "🏁",
+ "desc": "40 câu, 50 phút. Chủ đề: việc làm thêm, hội thảo bảo tàng, bình đẳng giới trong STEM, sông băng tan, robot và việc làm.",
+ "minutes": 50,
+ "scale": 10,
+ "priority": 1,
+ "sources": [
+  "cau-truc-de-tn-2025"
+ ],
+ "sections": [
+  {
+   "title": "Câu 1–6",
+   "instruction": "Đọc quảng cáo và chọn phương án đúng cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "c3-de-03-g1",
+     "type": "group",
+     "title": "Part-time job",
+     "passage": "PART-TIME STAFF WANTED – GREEN LEAF CAFÉ\nAre you a friendly, hard-working student looking for a part-time job? We are looking (1) ___ energetic young people to join our team. No experience is necessary – we will give you full (2) ___. You will serve customers, prepare drinks and keep the café clean. We offer (3) ___ working hours, so you can fit work around your studies. Staff also receive a free drink every shift and a 50% discount (4) ___ all food. If you are interested, please send your CV (5) ___ hr@greenleafcafe.vn. Only candidates (6) ___ are selected will be contacted.",
+     "items": [
+      {
+       "id": "c3-de-03-01",
+       "type": "mcq",
+       "prompt": "(1)",
+       "options": [
+        "for",
+        "after",
+        "at",
+        "up"
+       ],
+       "answer": 0,
+       "explain": "look for: tìm kiếm."
+      },
+      {
+       "id": "c3-de-03-02",
+       "type": "mcq",
+       "prompt": "(2)",
+       "options": [
+        "training",
+        "train",
+        "trained",
+        "trainer"
+       ],
+       "answer": 0,
+       "explain": "give full training: đào tạo đầy đủ (danh từ)."
+      },
+      {
+       "id": "c3-de-03-03",
+       "type": "mcq",
+       "prompt": "(3)",
+       "options": [
+        "flexible",
+        "flexibility",
+        "flexibly",
+        "flex"
+       ],
+       "answer": 0,
+       "explain": "Trước danh từ working hours cần tính từ: flexible."
+      },
+      {
+       "id": "c3-de-03-04",
+       "type": "mcq",
+       "prompt": "(4)",
+       "options": [
+        "on",
+        "in",
+        "at",
+        "with"
+       ],
+       "answer": 0,
+       "explain": "a discount on something: giảm giá cho cái gì."
+      },
+      {
+       "id": "c3-de-03-05",
+       "type": "mcq",
+       "prompt": "(5)",
+       "options": [
+        "to",
+        "for",
+        "at",
+        "with"
+       ],
+       "answer": 0,
+       "explain": "send something to an address."
+      },
+      {
+       "id": "c3-de-03-06",
+       "type": "mcq",
+       "prompt": "(6)",
+       "options": [
+        "who",
+        "which",
+        "whose",
+        "what"
+       ],
+       "answer": 0,
+       "explain": "Mệnh đề quan hệ chỉ người: candidates who are selected."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 7–12",
+   "instruction": "Đọc thông báo và chọn phương án đúng cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "c3-de-03-g2",
+     "type": "group",
+     "title": "Museum workshop",
+     "passage": "WEEKEND WORKSHOP: DISCOVER OLD HANOI\nThe Ha Noi Museum is pleased to (7) ___ a special workshop for students aged 15–18. Participants will explore the history of the city through old maps, photographs and (8) ___ objects. The workshop will be led by an experienced historian (9) ___ has written several books about Ha Noi. At the end of the day, students will work in groups to (10) ___ a short presentation. The workshop is free, but places are limited, so early registration is (11) ___ recommended. Please register at the information desk (12) ___ Friday 5th May.",
+     "items": [
+      {
+       "id": "c3-de-03-07",
+       "type": "mcq",
+       "prompt": "(7)",
+       "options": [
+        "announce",
+        "announcement",
+        "announcing",
+        "announced"
+       ],
+       "answer": 0,
+       "explain": "be pleased + to V: to announce."
+      },
+      {
+       "id": "c3-de-03-08",
+       "type": "mcq",
+       "prompt": "(8)",
+       "options": [
+        "historical",
+        "history",
+        "historian",
+        "historically"
+       ],
+       "answer": 0,
+       "explain": "Trước danh từ objects cần tính từ: historical objects."
+      },
+      {
+       "id": "c3-de-03-09",
+       "type": "mcq",
+       "prompt": "(9)",
+       "options": [
+        "who",
+        "which",
+        "whom",
+        "whose"
+       ],
+       "answer": 0,
+       "explain": "historian (người) làm chủ ngữ: who."
+      },
+      {
+       "id": "c3-de-03-10",
+       "type": "mcq",
+       "prompt": "(10)",
+       "options": [
+        "prepare",
+        "preparing",
+        "prepared",
+        "preparation"
+       ],
+       "answer": 0,
+       "explain": "to + động từ nguyên mẫu: to prepare."
+      },
+      {
+       "id": "c3-de-03-11",
+       "type": "mcq",
+       "prompt": "(11)",
+       "options": [
+        "strongly",
+        "strong",
+        "strength",
+        "stronger"
+       ],
+       "answer": 0,
+       "explain": "Trước động từ phân từ recommended cần trạng từ: strongly recommended."
+      },
+      {
+       "id": "c3-de-03-12",
+       "type": "mcq",
+       "prompt": "(12)",
+       "options": [
+        "by",
+        "until",
+        "since",
+        "during"
+       ],
+       "answer": 0,
+       "explain": "by + thời hạn: trước/không muộn hơn thứ Sáu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 13–17",
+   "instruction": "Chọn thứ tự đúng để tạo thành hội thoại, lá thư hoặc đoạn văn.",
+   "items": [
+    {
+     "id": "c3-de-03-g3",
+     "type": "group",
+     "title": "Câu 13",
+     "passage": "a. Lan: I'm not sure. Maybe the one about wildlife conservation.\nb. Phuong: Which topic are you going to choose for the presentation?\nc. Phuong: Good choice! There's a lot of interesting information about it.",
+     "items": [
+      {
+       "id": "c3-de-03-13",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "b – a – c",
+        "a – b – c",
+        "b – c – a",
+        "c – a – b"
+       ],
+       "answer": 0,
+       "explain": "Hỏi (b) → trả lời (a) → nhận xét (c)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-03-g4",
+     "type": "group",
+     "title": "Câu 14",
+     "passage": "a. Son: What's wrong? You look worried.\nb. Nga: I failed my driving test this morning.\nc. Son: Don't worry. Lots of people fail the first time.\nd. Nga: I know, but I practised so hard.\ne. Son: Then you'll definitely pass next time.",
+     "items": [
+      {
+       "id": "c3-de-03-14",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "a – b – c – d – e",
+        "b – a – c – d – e",
+        "a – c – b – d – e",
+        "a – b – d – c – e"
+       ],
+       "answer": 0,
+       "explain": "Hỏi thăm (a) → kể (b) → an ủi (c) → \"I know, but…\" (d) → động viên (e)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-03-g5",
+     "type": "group",
+     "title": "Câu 15",
+     "passage": "Dear Ms Linh,\na. I am writing to inform you that I will not be able to attend the English club this Friday.\nb. I will ask a classmate to tell me what we cover in the session.\nc. My family is travelling to my grandparents' home for their anniversary.\nd. I apologise for any inconvenience this may cause.\nBest regards,\nDang Gia Bao",
+     "items": [
+      {
+       "id": "c3-de-03-15",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "a – c – b – d",
+        "c – a – b – d",
+        "a – b – c – d",
+        "d – c – b – a"
+       ],
+       "answer": 0,
+       "explain": "Thông báo vắng (a) → lý do (c) → cách bù (b) → xin lỗi kết thư (d)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-03-g6",
+     "type": "group",
+     "title": "Câu 16",
+     "passage": "a. However, many mangrove forests are disappearing because of shrimp farming and pollution.\nb. Mangrove forests protect coastal areas from storms and floods.\nc. They also provide a home for many species of fish, crabs and birds.\nd. Fortunately, local communities are now replanting mangroves along the coast.",
+     "items": [
+      {
+       "id": "c3-de-03-16",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "b – c – a – d",
+        "c – b – a – d",
+        "b – a – c – d",
+        "b – c – d – a"
+       ],
+       "answer": 0,
+       "explain": "Vai trò 1 (b) → vai trò 2 \"also\" (c) → mối đe doạ (a) → giải pháp (d)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-03-g7",
+     "type": "group",
+     "title": "Câu 17",
+     "passage": "a. Others believe it is better to go straight to university.\nb. After finishing secondary school, students have several options.\nc. Some choose vocational training to learn practical skills quickly.\nd. Whatever they choose, it is important to consider their interests and abilities.",
+     "items": [
+      {
+       "id": "c3-de-03-17",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "b – c – a – d",
+        "c – b – a – d",
+        "b – a – c – d",
+        "b – c – d – a"
+       ],
+       "answer": 0,
+       "explain": "Chủ đề (b) → \"Some\" (c) → \"Others\" (a) → lời khuyên (d)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 18–22",
+   "instruction": "Đọc đoạn văn và chọn phương án phù hợp nhất cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "c3-de-03-g8",
+     "type": "group",
+     "title": "Girls in STEM",
+     "passage": "Science, technology, engineering and maths (STEM) offer some of the best-paid jobs of the future. Yet in many countries, women remain under-represented in these fields, (18) ___. One reason is the stereotype (19) ___. These ideas can discourage girls from choosing STEM subjects, even when they are talented. To change this, schools are inviting female scientists and engineers to speak to students, (20) ___. Some universities also offer scholarships (21) ___. Experts believe that a more diverse workforce leads to better ideas, (22) ___.",
+     "items": [
+      {
+       "id": "c3-de-03-18",
+       "type": "mcq",
+       "prompt": "(18)",
+       "options": [
+        "especially in engineering and computer science",
+        "which especially engineering and computer science",
+        "engineering and computer science are especially",
+        "that especially in engineering"
+       ],
+       "answer": 0,
+       "explain": "Cụm bổ sung: especially in engineering and computer science."
+      },
+      {
+       "id": "c3-de-03-19",
+       "type": "mcq",
+       "prompt": "(19)",
+       "options": [
+        "that these subjects are more suitable for boys",
+        "which these subjects more suitable for boys",
+        "these subjects are more suitable for boys",
+        "that these subjects suiting boys more"
+       ],
+       "answer": 0,
+       "explain": "Mệnh đề danh từ giải thích nội dung stereotype: that + mệnh đề đầy đủ."
+      },
+      {
+       "id": "c3-de-03-20",
+       "type": "mcq",
+       "prompt": "(20)",
+       "options": [
+        "hoping to inspire the next generation",
+        "hoped to inspire the next generation",
+        "they hope inspiring the next generation",
+        "which hoping to inspire the next generation"
+       ],
+       "answer": 0,
+       "explain": "Rút gọn chủ động (chủ ngữ schools): …, hoping to inspire…"
+      },
+      {
+       "id": "c3-de-03-21",
+       "type": "mcq",
+       "prompt": "(21)",
+       "options": [
+        "that encourage young women to study technical subjects",
+        "encouraging young women study technical subjects",
+        "which encourages young women studying technical subjects",
+        "young women encouraged to study technical subjects"
+       ],
+       "answer": 0,
+       "explain": "Mệnh đề quan hệ bổ nghĩa cho scholarships (số nhiều): that encourage…"
+      },
+      {
+       "id": "c3-de-03-22",
+       "type": "mcq",
+       "prompt": "(22)",
+       "options": [
+        "which benefits everyone in society",
+        "that benefits everyone in society",
+        "benefiting everyone in society is",
+        "everyone in society benefits it"
+       ],
+       "answer": 0,
+       "explain": "Mệnh đề quan hệ không xác định thay cho cả mệnh đề trước: which benefits…"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 23–30",
+   "instruction": "Đọc bài và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "c3-de-03-g9",
+     "type": "group",
+     "title": "Melting glaciers",
+     "passage": "High in the Himalayas, glaciers – huge rivers of ice – have existed for thousands of years. They store water in winter and release it slowly in summer, feeding great rivers such as the Ganges and the Mekong. More than a billion people depend on these rivers for drinking water, farming and electricity.\n\nToday, these glaciers are melting faster than ever before. A recent study found that Himalayan glaciers lost ice ten times more quickly over the past few decades than during the previous seven centuries. The main cause is global warming, which is driven by greenhouse gases from burning coal, oil and gas.\n\nIn the short term, melting ice can actually increase the amount of water in rivers. In the long term, however, the situation is worrying. As the glaciers shrink, there will be less water during the dry season, threatening crops and hydroelectric power. Melting ice can also create new lakes that may suddenly burst, causing dangerous floods in valleys below.\n\nScientists say that the only way to slow down the melting is to cut greenhouse gas emissions around the world. At the same time, mountain communities need help to adapt, for example by building early warning systems for floods and storing water more efficiently.",
+     "items": [
+      {
+       "id": "c3-de-03-23",
+       "type": "mcq",
+       "prompt": "What is the passage mainly about?",
+       "options": [
+        "The melting of Himalayan glaciers and its effects",
+        "How glaciers were formed",
+        "The history of the Mekong River",
+        "Farming in mountain areas"
+       ],
+       "answer": 0,
+       "explain": "Bài nói sông băng tan nhanh và hệ quả."
+      },
+      {
+       "id": "c3-de-03-24",
+       "type": "mcq",
+       "prompt": "According to paragraph 1, what do glaciers do?",
+       "options": [
+        "They store water in winter and release it in summer.",
+        "They produce electricity.",
+        "They cause earthquakes.",
+        "They stop rivers from flowing."
+       ],
+       "answer": 0,
+       "explain": "\"They store water in winter and release it slowly in summer\"."
+      },
+      {
+       "id": "c3-de-03-25",
+       "type": "mcq",
+       "prompt": "The word \"depend on\" in paragraph 1 is closest in meaning to ___.",
+       "options": [
+        "rely on",
+        "look for",
+        "take care of",
+        "give up"
+       ],
+       "answer": 0,
+       "explain": "depend on = rely on (dựa vào)."
+      },
+      {
+       "id": "c3-de-03-26",
+       "type": "mcq",
+       "prompt": "What is the main cause of the melting, according to the passage?",
+       "options": [
+        "Global warming",
+        "Farming",
+        "Earthquakes",
+        "Tourism"
+       ],
+       "answer": 0,
+       "explain": "\"The main cause is global warming\"."
+      },
+      {
+       "id": "c3-de-03-27",
+       "type": "mcq",
+       "prompt": "The word \"which\" in paragraph 2 refers to ___.",
+       "options": [
+        "global warming",
+        "glaciers",
+        "greenhouse gases",
+        "coal"
+       ],
+       "answer": 0,
+       "explain": "\"global warming, which is driven by greenhouse gases\"."
+      },
+      {
+       "id": "c3-de-03-28",
+       "type": "mcq",
+       "prompt": "Which of the following is NOT mentioned as a long-term danger?",
+       "options": [
+        "More earthquakes in the region",
+        "Less water in the dry season",
+        "Threats to crops and hydroelectric power",
+        "Floods from bursting lakes"
+       ],
+       "answer": 0,
+       "explain": "Bài không nói động đất."
+      },
+      {
+       "id": "c3-de-03-29",
+       "type": "mcq",
+       "prompt": "Which best paraphrases \"In the short term, melting ice can actually increase the amount of water in rivers\"?",
+       "options": [
+        "For a while, rivers may have more water because of the melting ice.",
+        "Rivers will always have more water in the future.",
+        "Melting ice never affects rivers.",
+        "Rivers will dry up immediately."
+       ],
+       "answer": 0,
+       "explain": "Trong ngắn hạn, sông có thể nhiều nước hơn."
+      },
+      {
+       "id": "c3-de-03-30",
+       "type": "mcq",
+       "prompt": "According to the last paragraph, how can mountain communities adapt?",
+       "options": [
+        "By building early warning systems for floods",
+        "By burning more coal",
+        "By moving to the glaciers",
+        "By stopping farming completely"
+       ],
+       "answer": 0,
+       "explain": "\"building early warning systems for floods\"."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 31–40",
+   "instruction": "Đọc bài và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "c3-de-03-g10",
+     "type": "group",
+     "title": "Will robots take our jobs?",
+     "passage": "Robots and artificial intelligence are changing the workplace at an incredible speed. In factories, robotic arms assemble cars and electronics faster and more accurately than humans. In offices, software can now answer customer emails, analyse data and even write simple reports. It is no surprise that many young people worry about whether there will be jobs for them in the future.\n\nHistory, however, offers some comfort. When machines were introduced during the Industrial Revolution, many workers feared they would lose their jobs, and some did. [I] Yet over time, new industries appeared and created millions of new jobs that nobody could have imagined before. [II] Economists believe that something similar will happen with AI. [III] Jobs such as app developer, data analyst and social media manager did not exist thirty years ago. [IV]\n\nThat does not mean the change will be easy. Jobs that involve repetitive tasks, such as data entry or simple assembly work, are most at risk. In contrast, jobs that require creativity, emotional intelligence or complex problem-solving are much harder to automate. Nurses, teachers, designers and engineers, for example, will still be needed, although they may use AI as a helpful tool.\n\nSo how can students prepare? Experts recommend developing skills that machines cannot easily copy, such as critical thinking, communication and teamwork. Learning how to work with technology is equally important. Above all, young people should be ready to keep learning throughout their careers, because the jobs of tomorrow may look very different from those of today.",
+     "items": [
+      {
+       "id": "c3-de-03-31",
+       "type": "mcq",
+       "prompt": "What is the passage mainly about?",
+       "options": [
+        "How robots and AI will change jobs and how to prepare",
+        "How to build a robot",
+        "The history of car factories",
+        "Why young people dislike technology"
+       ],
+       "answer": 0,
+       "explain": "Bài bàn về AI, việc làm và cách chuẩn bị."
+      },
+      {
+       "id": "c3-de-03-32",
+       "type": "mcq",
+       "prompt": "According to paragraph 1, what can software do in offices?",
+       "options": [
+        "Answer emails and analyse data",
+        "Assemble cars",
+        "Replace all managers",
+        "Teach students"
+       ],
+       "answer": 0,
+       "explain": "\"software can now answer customer emails, analyse data…\"."
+      },
+      {
+       "id": "c3-de-03-33",
+       "type": "mcq",
+       "prompt": "The word \"assemble\" in paragraph 1 is closest in meaning to ___.",
+       "options": [
+        "put together",
+        "break",
+        "sell",
+        "design"
+       ],
+       "answer": 0,
+       "explain": "assemble = lắp ráp (put together)."
+      },
+      {
+       "id": "c3-de-03-34",
+       "type": "mcq",
+       "prompt": "Where in paragraph 2 does the following sentence best fit? \"In other words, the machines of that time changed jobs rather than simply destroying them.\"",
+       "options": [
+        "[I]",
+        "[II]",
+        "[III]",
+        "[IV]"
+       ],
+       "answer": 1,
+       "explain": "\"the machines of that time\" chỉ máy móc thời Cách mạng công nghiệp: câu tóm lại ý ngành mới tạo việc làm mới, nên đặt ở [II], ngay sau câu đó và trước khi chuyển sang AI.",
+       "noShuffle": true
+      },
+      {
+       "id": "c3-de-03-35",
+       "type": "mcq",
+       "prompt": "Why does the writer mention jobs such as app developer and data analyst?",
+       "options": [
+        "To show that new technology creates new kinds of jobs",
+        "To show that these jobs are well paid",
+        "To show that these jobs will disappear",
+        "To show that young people dislike them"
+       ],
+       "answer": 0,
+       "explain": "Các nghề này 30 năm trước chưa có: công nghệ tạo nghề mới."
+      },
+      {
+       "id": "c3-de-03-36",
+       "type": "mcq",
+       "prompt": "Which jobs are most at risk, according to paragraph 3?",
+       "options": [
+        "Jobs with repetitive tasks",
+        "Jobs that need creativity",
+        "Teaching jobs",
+        "Nursing jobs"
+       ],
+       "answer": 0,
+       "explain": "\"Jobs that involve repetitive tasks… are most at risk\"."
+      },
+      {
+       "id": "c3-de-03-37",
+       "type": "mcq",
+       "prompt": "The phrase \"In contrast\" in paragraph 3 introduces ___.",
+       "options": [
+        "an opposite idea",
+        "an example",
+        "a reason",
+        "a result"
+       ],
+       "answer": 0,
+       "explain": "In contrast: ngược lại."
+      },
+      {
+       "id": "c3-de-03-38",
+       "type": "mcq",
+       "prompt": "The word \"they\" in paragraph 3 refers to ___.",
+       "options": [
+        "nurses, teachers, designers and engineers",
+        "jobs",
+        "machines",
+        "tasks"
+       ],
+       "answer": 0,
+       "explain": "\"Nurses, teachers… will still be needed, although they may use AI\"."
+      },
+      {
+       "id": "c3-de-03-39",
+       "type": "mcq",
+       "prompt": "Which of the following is NOT recommended by experts?",
+       "options": [
+        "Avoiding technology completely",
+        "Developing critical thinking",
+        "Learning to work with technology",
+        "Continuing to learn throughout one's career"
+       ],
+       "answer": 0,
+       "explain": "Chuyên gia khuyên học cách làm việc với công nghệ, không khuyên tránh hẳn."
+      },
+      {
+       "id": "c3-de-03-40",
+       "type": "mcq",
+       "prompt": "It can be inferred from the passage that the writer is ___ about the future of work.",
+       "options": [
+        "cautiously optimistic",
+        "extremely pessimistic",
+        "completely uninterested",
+        "angry"
+       ],
+       "answer": 0,
+       "explain": "Tin sẽ có việc mới nhưng thừa nhận thay đổi không dễ."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

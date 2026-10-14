@@ -1,0 +1,112 @@
+{
+ "id": "th-vc-07",
+ "module": "sentence",
+ "title": "Viết đoạn văn ngắn (30–50 từ)",
+ "emoji": "📝",
+ "intro": "Bố cục 3 phần: câu mở đầu nêu chủ đề → 2–3 câu kể/tả, có lý do (because) → câu kết nêu cảm nghĩ. Dùng đúng thì, viết hoa đầu câu, có dấu chấm.",
+ "instruction": "Viết đoạn văn bằng tiếng Anh, rồi tự kiểm tra theo danh sách và xem bài mẫu.",
+ "shuffle": false,
+ "shuffleItems": false,
+ "priority": 1,
+ "sources": [
+  "dang-de-NTT"
+ ],
+ "items": [
+  {
+   "id": "th-vc-07-01",
+   "type": "writing",
+   "prompt": "Write about your best friend. (What is his/her name? What does he/she look like? Why do you like him/her?)",
+   "minWords": 30,
+   "maxWords": 50,
+   "checklist": [
+    "Có câu nêu tên người bạn",
+    "Có ít nhất 2 câu tả ngoại hình hoặc tính cách",
+    "Có lý do vì sao mình quý bạn (because…)",
+    "Dùng thì hiện tại đơn (is, has, likes…)",
+    "Viết hoa đầu câu, có dấu chấm cuối câu"
+   ],
+   "sample": "My best friend is Minh. He is tall and he has short black hair. He is very kind and funny. He always helps me with maths. We often play football after school. I like him because he is a good friend.",
+   "explain": "Đối chiếu bài của mình với danh sách kiểm tra và bài mẫu. Bố mẹ có thể đọc bài trên trang Phụ huynh."
+  },
+  {
+   "id": "th-vc-07-02",
+   "type": "writing",
+   "prompt": "Write about your favourite subject and why you like it.",
+   "minWords": 30,
+   "maxWords": 50,
+   "checklist": [
+    "Nêu tên môn học yêu thích",
+    "Có ít nhất 2 lý do (because…, I can…)",
+    "Kể một việc em làm trong giờ học đó",
+    "Dùng thì hiện tại đơn",
+    "Viết hoa đầu câu, có dấu chấm cuối câu"
+   ],
+   "sample": "My favourite subject is English. I like it because I can sing English songs and play games in class. My teacher is very friendly. I want to speak English well because I want to travel around the world.",
+   "explain": "Đối chiếu bài của mình với danh sách kiểm tra và bài mẫu. Bố mẹ có thể đọc bài trên trang Phụ huynh."
+  },
+  {
+   "id": "th-vc-07-03",
+   "type": "writing",
+   "prompt": "Write about what you did last weekend.",
+   "minWords": 30,
+   "maxWords": 50,
+   "checklist": [
+    "Có câu mở đầu \"Last weekend…\"",
+    "Kể ít nhất 3 việc đã làm",
+    "Dùng thì quá khứ đơn (went, played, visited…)",
+    "Có câu nêu cảm nghĩ (It was…)",
+    "Viết hoa đầu câu, có dấu chấm cuối câu"
+   ],
+   "sample": "Last weekend, I visited my grandparents in the countryside. I helped my grandmother water the flowers. In the afternoon, I went fishing with my grandfather. We caught three fish. In the evening, we had dinner together. It was a great weekend.",
+   "explain": "Đối chiếu bài của mình với danh sách kiểm tra và bài mẫu. Bố mẹ có thể đọc bài trên trang Phụ huynh."
+  },
+  {
+   "id": "th-vc-07-04",
+   "type": "writing",
+   "prompt": "In about 30–50 words, write about something good you want to do and why you want to do it.",
+   "minWords": 30,
+   "maxWords": 50,
+   "checklist": [
+    "Nêu rõ việc tốt muốn làm (I want to…)",
+    "Có lý do (because…)",
+    "Nêu cách làm hoặc làm cùng ai",
+    "Dùng want to / would like to + động từ",
+    "Viết hoa đầu câu, có dấu chấm cuối câu"
+   ],
+   "sample": "I want to plant trees in my neighbourhood. Trees give us fresh air and shade in summer. I will ask my friends to help me. We can plant small trees near our school and water them every day. I want to do this because it will make our place greener.",
+   "explain": "Đối chiếu bài của mình với danh sách kiểm tra và bài mẫu. Bố mẹ có thể đọc bài trên trang Phụ huynh."
+  },
+  {
+   "id": "th-vc-07-05",
+   "type": "writing",
+   "prompt": "Write about your dream job.",
+   "minWords": 30,
+   "maxWords": 50,
+   "checklist": [
+    "Nêu nghề mơ ước (I would like to be…)",
+    "Nêu người đó làm gì",
+    "Có lý do (because…)",
+    "Nêu mình cần làm gì để đạt được (I need to / I will…)",
+    "Viết hoa đầu câu, có dấu chấm cuối câu"
+   ],
+   "sample": "I would like to be a doctor in the future. Doctors look after sick people and help them get better. I want to be a doctor because I like helping people. I will study hard, especially science, to make my dream come true.",
+   "explain": "Đối chiếu bài của mình với danh sách kiểm tra và bài mẫu. Bố mẹ có thể đọc bài trên trang Phụ huynh."
+  },
+  {
+   "id": "th-vc-07-06",
+   "type": "writing",
+   "prompt": "Write about your plan for the summer holiday.",
+   "minWords": 30,
+   "maxWords": 50,
+   "checklist": [
+    "Có câu mở đầu \"This summer…\"",
+    "Kể ít nhất 2 việc định làm",
+    "Dùng be going to / will + động từ",
+    "Nói đi đâu, với ai",
+    "Viết hoa đầu câu, có dấu chấm cuối câu"
+   ],
+   "sample": "This summer, I am going to visit Da Nang with my family. We will swim in the sea and visit the Dragon Bridge. I am also going to join an English club. I will read many books too. I think it will be a fun summer.",
+   "explain": "Đối chiếu bài của mình với danh sách kiểm tra và bài mẫu. Bố mẹ có thể đọc bài trên trang Phụ huynh."
+  }
+ ]
+}

@@ -1,0 +1,189 @@
+{
+  "id": "toan-chuyen-dong-cd-01",
+  "title": "Vận tốc và đơn vị vận tốc",
+  "topic": "chuyen-dong",
+  "items": [
+    {
+      "id": "toan-chuyen-dong-cd-01-01",
+      "type": "mcq",
+      "level": 1,
+      "model": "nhan-biet-cong-thuc-van-toc",
+      "prompt": "Muốn tính vận tốc khi đã biết quãng đường và thời gian đi, chọn công thức nào?",
+      "options": [
+        "v = s × t",
+        "v = s : t",
+        "v = t : s",
+        "v = s + t"
+      ],
+      "answer": 1,
+      "explain": "Vận tốc bằng quãng đường chia cho thời gian đi.\nNhiễu: s × t nhầm phép chia thành phép nhân; t : s đảo thứ tự chia; s + t cộng hai đại lượng khác loại.\nĐáp số: v = s : t."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-01-02",
+      "type": "num",
+      "level": 2,
+      "model": "van-toc-doi-phut-sang-gio",
+      "prompt": "Một xe đi đều 27 km trong 45 phút. Vận tốc của xe là bao nhiêu km/giờ?",
+      "answer": 36,
+      "round": 0,
+      "unit": "km/giờ",
+      "explain": "Đổi: 45 phút = 45 : 60 = 0,75 (giờ).\nVận tốc: 27 : 0,75 = 36 (km/giờ).\nĐáp số: 36 km/giờ."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-01-03",
+      "type": "mcq",
+      "level": 1,
+      "model": "nhan-biet-don-vi-van-toc",
+      "prompt": "Khi quãng đường đo bằng mét và thời gian đo bằng phút, đơn vị vận tốc tương ứng là gì?",
+      "options": [
+        "mét",
+        "phút/mét",
+        "mét/phút",
+        "mét × phút"
+      ],
+      "answer": 2,
+      "explain": "Lấy số mét đi được chia cho số phút nên đơn vị là mét/phút.\nNhiễu: mét chỉ đo quãng đường; phút/mét đảo thứ tự hai đơn vị; mét × phút nhầm chia thành nhân.\nĐáp số: mét/phút."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-01-04",
+      "type": "mcq",
+      "level": 1,
+      "model": "doc-y-nghia-van-toc",
+      "prompt": "Một tàu chạy đều với vận tốc 28 km/giờ. Cách hiểu nào đúng?",
+      "options": [
+        "Mỗi giờ tàu đi được 28 km.",
+        "Tàu luôn chỉ đi tổng cộng 28 km.",
+        "Tàu đi 1 km hết 28 giờ.",
+        "Mỗi phút tàu đi được 28 km."
+      ],
+      "answer": 0,
+      "explain": "Vận tốc 28 km/giờ cho biết mỗi giờ tàu đi được 28 km khi chạy đều.\nNhiễu: tổng cộng 28 km nhầm vận tốc với cả hành trình; 1 km hết 28 giờ đảo quãng đường và thời gian; mỗi phút 28 km nhầm giờ thành phút.\nĐáp số: mỗi giờ tàu đi được 28 km."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-01-05",
+      "type": "tf4",
+      "level": 1,
+      "model": "tinh-chat-chuyen-dong-deu",
+      "prompt": "Đánh giá từng phát biểu về chuyển động đều.",
+      "statements": [
+        "a) Trong các khoảng thời gian bằng nhau, vật đi đều đi được các quãng đường bằng nhau.",
+        "b) Một vật đứng yên có vận tốc bằng 0.",
+        "c) Trên cùng một quãng đường, đi với vận tốc lớn hơn thì mất nhiều thời gian hơn.",
+        "d) Vật đi đều càng lâu thì vận tốc càng tăng."
+      ],
+      "answers": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "explain": [
+        "Đúng. Chuyển động đều giữ nguyên vận tốc nên các khoảng thời gian bằng nhau ứng với các quãng đường bằng nhau.\nĐáp số: đúng.",
+        "Đúng. Đứng yên nghĩa là không đi được quãng đường nào trong khoảng thời gian xét.\nĐáp số: đúng.",
+        "Sai. Trên cùng quãng đường, vận tốc lớn hơn thì thời gian ít hơn.\nĐáp số: sai.",
+        "Sai. Vật đi đều giữ vận tốc không đổi trong suốt thời gian đang xét.\nĐáp số: sai."
+      ]
+    },
+    {
+      "id": "toan-chuyen-dong-cd-01-06",
+      "type": "num",
+      "level": 2,
+      "model": "van-toc-tu-tong-hai-doan",
+      "prompt": "Một xe chạy đều qua hai đoạn liên tiếp dài 18 km và 30 km, tổng thời gian đi là 2 giờ. Vận tốc của xe là bao nhiêu km/giờ?",
+      "answer": 24,
+      "round": 0,
+      "unit": "km/giờ",
+      "explain": "Tổng quãng đường: 18 + 30 = 48 (km).\nVận tốc: 48 : 2 = 24 (km/giờ).\nĐáp số: 24 km/giờ."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-01-07",
+      "type": "mcq",
+      "level": 2,
+      "model": "van-toc-tu-hieu-cot-km",
+      "prompt": "Một xe đi đều từ cột ki-lô-mét 24 đến cột ki-lô-mét 84 trên cùng đường, theo chiều số tăng, trong 2 giờ. Vận tốc là bao nhiêu km/giờ?",
+      "options": [
+        "54 km/giờ",
+        "120 km/giờ",
+        "42 km/giờ",
+        "30 km/giờ"
+      ],
+      "answer": 3,
+      "explain": "Quãng đường: 84 − 24 = 60 (km).\nVận tốc: 60 : 2 = 30 (km/giờ).\nNhiễu: 54 = (84 + 24) : 2 cộng hai số cột; 120 = 60 × 2 nhân thay chia; 42 = 84 : 2 bỏ cột xuất phát.\nĐáp số: 30 km/giờ."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-01-08",
+      "type": "group",
+      "level": 1,
+      "model": "doi-don-vi-van-toc-noi-tiep",
+      "title": "Đổi đơn vị vận tốc",
+      "passage": "Một người đi xe đạp đều với vận tốc 9 km/giờ.",
+      "items": [
+        {
+          "id": "toan-chuyen-dong-cd-01-08a",
+          "type": "num",
+          "level": 1,
+          "model": "van-toc-km-gio-sang-m-gio",
+          "prompt": "a) Vận tốc đó bằng bao nhiêu mét/giờ?",
+          "answer": 9000,
+          "round": 0,
+          "unit": "m/giờ",
+          "explain": "Đổi: 9 km/giờ = 9 × 1 000 = 9 000 (m/giờ).\nĐáp số: 9 000 m/giờ."
+        },
+        {
+          "id": "toan-chuyen-dong-cd-01-08b",
+          "type": "num",
+          "level": 1,
+          "model": "van-toc-m-gio-sang-m-phut",
+          "prompt": "b) Dùng vận tốc tính theo mét/giờ ở câu a để tính vận tốc theo mét/phút.",
+          "answer": 150,
+          "round": 0,
+          "unit": "m/phút",
+          "explain": "Một giờ có 60 phút.\nVận tốc theo phút: 9 000 : 60 = 150 (m/phút).\nĐáp số: 150 m/phút."
+        }
+      ]
+    },
+    {
+      "id": "toan-chuyen-dong-cd-01-09",
+      "type": "group",
+      "level": 2,
+      "model": "van-toc-loai-hai-lan-nghi",
+      "title": "Hành trình có hai lần nghỉ",
+      "passage": "Một xe hoàn thành hành trình 180 km trong 6 giờ, gồm hai lần nghỉ dài 1 giờ và 0,5 giờ. Khi chạy, xe giữ vận tốc không đổi.",
+      "items": [
+        {
+          "id": "toan-chuyen-dong-cd-01-09a",
+          "type": "num",
+          "level": 2,
+          "model": "thoi-gian-chay-tru-hai-lan-nghi",
+          "prompt": "a) Xe thực sự chạy trong bao nhiêu giờ?",
+          "answer": 4.5,
+          "round": 1,
+          "unit": "giờ",
+          "explain": "Bỏ lần nghỉ thứ nhất: 6 − 1 = 5 (giờ).\nThời gian chạy: 5 − 0,5 = 4,5 (giờ).\nĐáp số: 4,5 giờ."
+        },
+        {
+          "id": "toan-chuyen-dong-cd-01-09b",
+          "type": "num",
+          "level": 2,
+          "model": "thoi-gian-tuyen-moi-tu-van-toc-da-loai-nghi",
+          "prompt": "b) Dùng thời gian chạy ở câu a để tìm vận tốc khi chạy. Nếu giữ vận tốc đó, xe đi liên tục một tuyến khác dài 72 km hết bao nhiêu giờ?",
+          "answer": 1.8,
+          "round": 1,
+          "unit": "giờ",
+          "explain": "Vận tốc khi chạy: 180 : 4,5 = 40 (km/giờ).\nThời gian đi tuyến mới: 72 : 40 = 1,8 (giờ).\nĐáp số: 1,8 giờ."
+        }
+      ]
+    },
+    {
+      "id": "toan-chuyen-dong-cd-01-10",
+      "type": "num",
+      "level": 2,
+      "model": "van-toc-tu-so-khoang-thoi-gian",
+      "prompt": "Một xe chạy đều 36 km trong 3 khoảng thời gian liên tiếp, mỗi khoảng dài 0,4 giờ. Vận tốc là bao nhiêu km/giờ?",
+      "answer": 30,
+      "round": 0,
+      "unit": "km/giờ",
+      "explain": "Tổng thời gian: 3 × 0,4 = 1,2 (giờ).\nVận tốc: 36 : 1,2 = 30 (km/giờ).\nĐáp số: 30 km/giờ."
+    }
+  ]
+}

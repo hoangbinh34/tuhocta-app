@@ -1,0 +1,19 @@
+{
+  "id": "toan-loi-van-lt-07",
+  "title": "Bán hàng lùi",
+  "topic": "loi-van",
+  "items": [
+    {
+      "id": "toan-loi-van-lt-07-t1",
+      "type": "card",
+      "title": "Bán hàng lùi",
+      "paras": [
+        "Đây là nội dung NC. Đi ngược từ số còn lại cuối cùng, đảo từng thao tác theo đúng thứ tự ngược.",
+        "Bán một nửa rồi bán thêm một số: khi đi lùi, cộng lại số bán thêm trước, sau đó gấp đôi. Bán một phần ba thì còn hai phần ba.",
+        "Phân biệt số bán của lượng ban đầu và số bán của lượng còn ngay trước lần đó. Kiểm lại theo chiều bán; lượng hàng và phần bán phải phù hợp đơn vị đếm."
+      ],
+      "source": "Toán 5, bài SGK: chưa xác minh; dạng NC theo mục 1 nhóm 7 đặc tả T2.0.",
+      "adv": true
+    }
+  ]
+}

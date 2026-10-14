@@ -1,0 +1,90 @@
+[
+  {
+    "id": "toan-hinh-phang-lt-01",
+    "title": "Tam giác: đáy, chiều cao, chu vi và diện tích",
+    "emoji": "📐",
+    "file": "hinh-phang/toan-hinh-phang-lt-01.json",
+    "count": 1,
+    "topic": "hinh-phang"
+  },
+  {
+    "id": "toan-hinh-phang-lt-02",
+    "title": "Hình thang: hai đáy và chiều cao",
+    "emoji": "📐",
+    "file": "hinh-phang/toan-hinh-phang-lt-02.json",
+    "count": 1,
+    "topic": "hinh-phang"
+  },
+  {
+    "id": "toan-hinh-phang-lt-03",
+    "title": "Hình tròn: bán kính, đường kính và chu vi",
+    "emoji": "📐",
+    "file": "hinh-phang/toan-hinh-phang-lt-03.json",
+    "count": 1,
+    "topic": "hinh-phang"
+  },
+  {
+    "id": "toan-hinh-phang-lt-04",
+    "title": "Diện tích hình tròn và so sánh",
+    "emoji": "📐",
+    "file": "hinh-phang/toan-hinh-phang-lt-04.json",
+    "count": 1,
+    "topic": "hinh-phang"
+  },
+  {
+    "id": "toan-hinh-phang-lt-05",
+    "title": "Hình ghép: tổng, hiệu và đường bao",
+    "emoji": "📐",
+    "file": "hinh-phang/toan-hinh-phang-lt-05.json",
+    "count": 1,
+    "topic": "hinh-phang"
+  },
+  {
+    "id": "toan-hinh-phang-lt-06",
+    "title": "Đọc hình và thống nhất đơn vị",
+    "emoji": "📐",
+    "file": "hinh-phang/toan-hinh-phang-lt-06.json",
+    "count": 1,
+    "topic": "hinh-phang"
+  },
+  {
+    "id": "toan-hinh-phang-cd-01",
+    "title": "Tam giác",
+    "emoji": "📐",
+    "file": "hinh-phang/toan-hinh-phang-cd-01.json",
+    "count": 9,
+    "topic": "hinh-phang"
+  },
+  {
+    "id": "toan-hinh-phang-cd-02",
+    "title": "Hình thang",
+    "emoji": "📐",
+    "file": "hinh-phang/toan-hinh-phang-cd-02.json",
+    "count": 9,
+    "topic": "hinh-phang"
+  },
+  {
+    "id": "toan-hinh-phang-cd-03",
+    "title": "Hình tròn",
+    "emoji": "📐",
+    "file": "hinh-phang/toan-hinh-phang-cd-03.json",
+    "count": 9,
+    "topic": "hinh-phang"
+  },
+  {
+    "id": "toan-hinh-phang-cd-04",
+    "title": "Hình ghép",
+    "emoji": "📐",
+    "file": "hinh-phang/toan-hinh-phang-cd-04.json",
+    "count": 9,
+    "topic": "hinh-phang"
+  },
+  {
+    "id": "toan-hinh-phang-cd-05",
+    "title": "Đọc hình và vận dụng số đo",
+    "emoji": "📐",
+    "file": "hinh-phang/toan-hinh-phang-cd-05.json",
+    "count": 8,
+    "topic": "hinh-phang"
+  }
+]

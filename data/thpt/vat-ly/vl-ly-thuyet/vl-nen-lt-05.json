@@ -1,0 +1,69 @@
+{
+  "id": "vl-nen-lt-05",
+  "title": "Nền 10–11: Dòng điện, định luật Ohm và công suất điện",
+  "items": [
+    {
+      "id": "vl-nen-lt-05-t1", "type": "card", "title": "Cường độ dòng điện, định luật Ohm và mắc điện trở",
+      "paras": [
+        "Cường độ dòng điện I = Δq/Δt (ampe, A). Định luật Ohm cho đoạn mạch chỉ có điện trở: I = U/R. Điện trở dây dẫn R = ρl/S.",
+        "Mắc nối tiếp: cường độ dòng điện như nhau, hiệu điện thế cộng lại, R = R₁ + R₂. Mắc song song: hiệu điện thế như nhau, cường độ dòng điện cộng lại, 1/R = 1/R₁ + 1/R₂. Nguồn có suất điện động E, điện trở trong r nối với điện trở ngoài R: I = E/(R + r), hiệu điện thế hai cực U = E − Ir.",
+        "Ví dụ nối sang lớp 12, nhóm Từ trường: suất điện động cảm ứng tạo dòng điện I trong mạch; công suất tỏa nhiệt trên điện trở vẫn tính bằng P = I²R.",
+        "Nguồn: SGK Vật lí 11 (GDPT 2018), chương Dòng điện, mạch điện."
+      ]
+    },
+    {
+      "id": "vl-nen-lt-05-t2", "type": "card", "title": "Điện năng, công suất điện và nối sang Từ trường (lớp 12)",
+      "paras": [
+        "Điện năng tiêu thụ A = UIt; công suất điện P = UI. Với điện trở thuần: P = I²R = U²/R, và nhiệt toả ra Q = I²Rt. Điện năng thương mại tính bằng kWh: 1 kWh = 3,6·10^{6} J.",
+        "Ví dụ nối sang lớp 12, nhóm Từ trường: khung dây kín có điện trở R trong cảm ứng điện từ, suất điện động cảm ứng e đóng vai trò nguồn, cường độ dòng điện I = e/R và công suất toả nhiệt I²R. Khi truyền tải điện với công suất P, hiệu điện thế U: I = P/U, công suất hao phí trên dây P_{hp} = I²R_{dây}; tăng U bằng máy biến áp thì hao phí giảm. Đề lớp 12 cho công thức riêng của dòng xoay chiều; phần nền chỉ là P = UI và P = I²R."
+      ]
+    },
+    {
+      "id": "vl-nen-lt-05-01", "type": "mcq", "level": 1,
+      "prompt": "1 kWh bằng bao nhiêu jun?",
+      "options": ["3,6·10^{3} J", "3,6·10^{6} J", "1,0·10^{3} J", "3,6·10^{9} J"], "answer": 1,
+      "explain": "1 kWh = 1000 W · 3600 s = 3,6·10^{6} J. 3,6·10^{3} J ứng với 1 Wh, 1,0·10^{3} J là 1 kJ, 3,6·10^{9} J lớn gấp 1000 lần giá trị đúng."
+    },
+    {
+      "id": "vl-nen-lt-05-02", "type": "mcq", "level": 1,
+      "prompt": "Hai điện trở mắc nối tiếp. Đại lượng nào bằng nhau ở hai điện trở?",
+      "options": ["Hiệu điện thế", "Cường độ dòng điện", "Công suất toả nhiệt", "Điện trở"], "answer": 1,
+      "explain": "Mạch nối tiếp chỉ có một đường đi nên I như nhau. Hiệu điện thế, công suất toả nhiệt và điện trở nói chung khác nhau khi hai điện trở khác nhau."
+    },
+    {
+      "id": "vl-nen-lt-05-03", "type": "mcq", "level": 2,
+      "prompt": "Đặt vào điện trở R không đổi một hiệu điện thế U rồi tăng lên 2U. Công suất toả nhiệt trên R thay đổi thế nào?",
+      "options": ["Tăng gấp đôi", "Tăng gấp bốn", "Giảm một nửa", "Không đổi"], "answer": 1,
+      "explain": "P = U²/R tỉ lệ với U² nên U gấp đôi thì P gấp bốn. Tăng gấp đôi nhầm sang quan hệ bậc nhất, giảm một nửa và không đổi bỏ qua sự phụ thuộc vào U."
+    },
+    {
+      "id": "vl-nen-lt-05-04", "type": "tf4", "level": 2,
+      "prompt": "Nguồn có suất điện động E = 12 V, điện trở trong r = 1,0 Ω nối với điện trở ngoài R = 5,0 Ω. Xét các phát biểu sau.",
+      "statements": [
+        "a) Cường độ dòng điện trong mạch là 2,0 A.",
+        "b) Hiệu điện thế giữa hai đầu R bằng 12 V.",
+        "c) Công suất toả nhiệt trên R là 20 W.",
+        "d) Hiệu suất của nguồn (công suất trên R chia công suất của nguồn) bằng 100 %."
+      ],
+      "answers": [true, false, true, false],
+      "explain": [
+        "Đúng. I = E/(R + r) = 12/6,0 = 2,0 A.",
+        "Sai. U = IR = 2,0 · 5,0 = 10 V (cũng là E − Ir = 12 − 2,0). Đây nhỏ hơn E vì có sụt áp trên r.",
+        "Đúng. P = I²R = 2,0² · 5,0 = 20 W.",
+        "Sai. Công suất nguồn EI = 24 W, trên R là 20 W nên H = 20/24 ≈ 83 %; còn 4 W toả nhiệt trên r."
+      ]
+    },
+    {
+      "id": "vl-nen-lt-05-05", "type": "num", "level": 2,
+      "prompt": "Ấm điện dùng ở hiệu điện thế 220 V, điện trở dây đun là 48,4 Ω. Tính công suất toả nhiệt của ấm theo W, làm tròn đến số nguyên.",
+      "answer": 1000, "round": 0, "unit": "W",
+      "explain": "P = U²/R = 220² / 48,4 = 48400 / 48,4 = 1000 W. Ghi: 1000."
+    },
+    {
+      "id": "vl-nen-lt-05-06", "type": "num", "level": 3,
+      "prompt": "Truyền tải công suất 100 kW dưới hiệu điện thế 10 kV trên đường dây có điện trở tổng 4,0 Ω. Coi dòng điện không đổi và I = P/U. Tính công suất hao phí trên dây theo W, làm tròn đến số nguyên.",
+      "answer": 400, "round": 0, "unit": "W",
+      "explain": "I = P/U = 100·10^3 / 10·10^3 = 10 A. P_{hp} = I²R = 10² · 4,0 = 400 W. Ghi: 400."
+    }
+  ]
+}

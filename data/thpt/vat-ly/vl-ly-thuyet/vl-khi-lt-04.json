@@ -1,0 +1,58 @@
+{
+  "id": "vl-khi-lt-04",
+  "title": "Áp suất phân tử và động năng theo nhiệt độ",
+  "items": [
+    {
+      "id": "vl-khi-lt-04-t1", "type": "card", "title": "Áp suất nhìn từ chuyển động phân tử",
+      "paras": [
+        "Đặt m_{0} là khối lượng một phân tử, N/V là mật độ số phân tử, ⟨v²⟩ là trung bình bình phương tốc độ. Mô hình động học cho p = (1/3)(N/V)m_{0}⟨v²⟩ = (1/3)ρ⟨v²⟩, trong đó ρ = Nm_{0}/V là khối lượng riêng khí.",
+        "Tốc độ căn quân phương v_{rms} = √⟨v²⟩, khác tốc độ trung bình. Với khí cân bằng, chuyển động hỗn loạn theo mọi hướng nên vận tốc trung bình có thể bằng 0 trong khi ⟨v²⟩ vẫn dương.",
+        "Với cùng mật độ số phân tử, tăng động năng tịnh tiến trung bình làm áp suất tăng. Không suy ra áp suất chỉ phụ thuộc nhiệt độ: mật độ phân tử cũng góp phần quyết định áp suất."
+      ]
+    },
+    {
+      "id": "vl-khi-lt-04-t2", "type": "card", "title": "Nhiệt độ đo động năng tịnh tiến trung bình",
+      "paras": [
+        "Động năng tịnh tiến trung bình của một phân tử: E = (1/2)m_{0}⟨v²⟩ = (3/2)(R/N_{A})T. Hằng số Boltzmann k = R/N_{A}; ở các bài này tính bằng R và N_{A} đã có trong thẻ Hằng số dùng trong đề, không thay bằng giá trị làm tròn khác.",
+        "Hai khí ở cùng nhiệt độ có cùng động năng tịnh tiến trung bình mỗi phân tử, nhưng phân tử nhẹ hơn có tốc độ căn quân phương lớn hơn. Với M theo kg/mol, v_{rms} = √(3RT/M); với cùng khí, v_{rms} tỉ lệ √T.",
+        "E ở đây chỉ là động năng tịnh tiến trung bình, không phải mọi dạng năng lượng của phân tử. Nội năng khí lí tưởng chỉ phụ thuộc nhiệt độ với lượng khí, thành phần xác định; công thức U = (3/2)nRT chỉ dùng cho khí lí tưởng đơn nguyên tử trong mô hình xét chuyển động tịnh tiến."
+      ]
+    },
+    {
+      "id": "vl-khi-lt-04-01", "type": "mcq", "level": 1,
+      "prompt": "Trong p = (1/3)ρ⟨v²⟩, ρ là đại lượng nào?",
+      "options": ["Mật độ số phân tử", "Khối lượng một phân tử", "Khối lượng riêng của khí", "Áp suất khí quyển"], "answer": 2,
+      "explain": "ρ là khối lượng của khí trên một đơn vị thể tích, đơn vị kg/m³. Mật độ số phân tử là N/V."
+    },
+    {
+      "id": "vl-khi-lt-04-02", "type": "mcq", "level": 1,
+      "prompt": "Động năng tịnh tiến trung bình mỗi phân tử khí lí tưởng tỉ lệ thuận với đại lượng nào?",
+      "options": ["Thể tích bình", "Nhiệt độ Celsius", "Khối lượng bình", "Nhiệt độ kelvin"], "answer": 3,
+      "explain": "E = (3/2)(R/N_{A})T với T theo kelvin."
+    },
+    {
+      "id": "vl-khi-lt-04-03", "type": "mcq", "level": 2,
+      "prompt": "Hai mẫu khí heli và nitơ cân bằng ở cùng nhiệt độ. So sánh động năng tịnh tiến trung bình mỗi phân tử của chúng.",
+      "options": ["Bằng nhau", "Heli lớn hơn vì nhẹ hơn", "Nitơ lớn hơn vì nặng hơn", "Tỉ lệ với khối lượng của cả bình"], "answer": 0,
+      "explain": "E chỉ phụ thuộc T, không phụ thuộc loại khí. Tốc độ căn quân phương có thể khác nhau."
+    },
+    {
+      "id": "vl-khi-lt-04-04", "type": "mcq", "level": 2,
+      "prompt": "Với cùng loại khí, nhiệt độ kelvin tăng gấp bốn thì tốc độ căn quân phương thay đổi thế nào?",
+      "options": ["Tăng gấp bốn", "Tăng gấp hai", "Giảm một nửa", "Không đổi"], "answer": 1,
+      "explain": "v_{rms} tỉ lệ √T, nên tỉ số tốc độ là √4 = 2."
+    },
+    {
+      "id": "vl-khi-lt-04-05", "type": "mcq", "level": 2,
+      "prompt": "Khí cân bằng trong bình đứng yên có vận tốc trung bình của phân tử bằng 0. Có suy ra áp suất bằng 0 không?",
+      "options": ["Có, vì mọi phân tử đứng yên", "Có, vì ⟨v²⟩ bằng bình phương vận tốc trung bình", "Không, vì ⟨v²⟩ vẫn dương", "Không, vì chỉ trọng lượng khí tạo áp suất"], "answer": 2,
+      "explain": "Các vectơ vận tốc triệt tiêu khi lấy trung bình, còn bình phương tốc độ không âm và có trung bình dương. Phân tử vẫn va chạm thành bình."
+    },
+    {
+      "id": "vl-khi-lt-04-06", "type": "mcq", "level": 2,
+      "prompt": "Giữ nhiệt độ khí lí tưởng không đổi, tăng mật độ số phân tử N/V gấp đôi. Áp suất thay đổi thế nào?",
+      "options": ["Không đổi", "Giảm một nửa", "Tăng gấp bốn", "Tăng gấp đôi"], "answer": 3,
+      "explain": "p = (N/V)(R/N_{A})T. Ở cùng T, áp suất tỉ lệ với mật độ số phân tử."
+    }
+  ]
+}

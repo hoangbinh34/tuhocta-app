@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "book": "Global Success",
+  "grades": [
+    {
+      "grade": 12,
+      "units": [
+        { "id": "g12-u01", "no": 1, "title": "Life stories we admire", "titleVi": "Những câu chuyện đời đáng ngưỡng mộ", "emoji": "🌟", "file": "words/g12-u01.json" },
+        { "id": "g12-u02", "no": 2, "title": "A multicultural world", "titleVi": "Thế giới đa văn hoá", "emoji": "🌏", "file": "words/g12-u02.json" },
+        { "id": "g12-u03", "no": 3, "title": "Green living", "titleVi": "Sống xanh", "emoji": "🌱", "file": "words/g12-u03.json" },
+        { "id": "g12-u04", "no": 4, "title": "Urbanisation", "titleVi": "Đô thị hoá", "emoji": "🏙️", "file": "words/g12-u04.json" },
+        { "id": "g12-u05", "no": 5, "title": "The world of work", "titleVi": "Thế giới việc làm", "emoji": "💼", "file": "words/g12-u05.json" },
+        { "id": "g12-u06", "no": 6, "title": "Artificial intelligence", "titleVi": "Trí tuệ nhân tạo", "emoji": "🤖", "file": "words/g12-u06.json" },
+        { "id": "g12-u07", "no": 7, "title": "The world of mass media", "titleVi": "Thế giới truyền thông", "emoji": "📺", "file": "words/g12-u07.json" },
+        { "id": "g12-u08", "no": 8, "title": "Wildlife conservation", "titleVi": "Bảo tồn động vật hoang dã", "emoji": "🐘", "file": "words/g12-u08.json" },
+        { "id": "g12-u09", "no": 9, "title": "Career paths", "titleVi": "Con đường sự nghiệp", "emoji": "🧭", "file": "words/g12-u09.json" },
+        { "id": "g12-u10", "no": 10, "title": "Lifelong learning", "titleVi": "Học tập suốt đời", "emoji": "📚", "file": "words/g12-u10.json" }
+      ]
+    },
+    {
+      "grade": 11,
+      "units": [
+        { "id": "g11-u01", "no": 1, "title": "A long and healthy life", "titleVi": "Sống lâu và khoẻ mạnh", "emoji": "🍎", "file": "words/g11-u01.json" },
+        { "id": "g11-u02", "no": 2, "title": "The generation gap", "titleVi": "Khoảng cách thế hệ", "emoji": "👨‍👩‍👧", "file": "words/g11-u02.json" },
+        { "id": "g11-u03", "no": 3, "title": "Cities of the future", "titleVi": "Thành phố tương lai", "emoji": "🌆", "file": "words/g11-u03.json" },
+        { "id": "g11-u04", "no": 4, "title": "ASEAN and Viet Nam", "titleVi": "ASEAN và Việt Nam", "emoji": "🤝", "file": "words/g11-u04.json" },
+        { "id": "g11-u05", "no": 5, "title": "Global warming", "titleVi": "Sự nóng lên toàn cầu", "emoji": "🌡️", "file": "words/g11-u05.json" },
+        { "id": "g11-u06", "no": 6, "title": "Preserving our heritage", "titleVi": "Bảo tồn di sản", "emoji": "🏛️", "file": "words/g11-u06.json" },
+        { "id": "g11-u07", "no": 7, "title": "Education options for school-leavers", "titleVi": "Lựa chọn sau khi tốt nghiệp", "emoji": "🎓", "file": "words/g11-u07.json" },
+        { "id": "g11-u08", "no": 8, "title": "Becoming independent", "titleVi": "Trở nên tự lập", "emoji": "🗝️", "file": "words/g11-u08.json" },
+        { "id": "g11-u09", "no": 9, "title": "Social issues", "titleVi": "Các vấn đề xã hội", "emoji": "⚖️", "file": "words/g11-u09.json" },
+        { "id": "g11-u10", "no": 10, "title": "The ecosystem", "titleVi": "Hệ sinh thái", "emoji": "🌿", "file": "words/g11-u10.json" }
+      ]
+    },
+    {
+      "grade": 10,
+      "units": [
+        { "id": "g10-u01", "no": 1, "title": "Family life", "titleVi": "Cuộc sống gia đình", "emoji": "🏠", "file": "words/g10-u01.json" },
+        { "id": "g10-u02", "no": 2, "title": "Humans and the environment", "titleVi": "Con người và môi trường", "emoji": "🌍", "file": "words/g10-u02.json" },
+        { "id": "g10-u03", "no": 3, "title": "Music", "titleVi": "Âm nhạc", "emoji": "🎵", "file": "words/g10-u03.json" },
+        { "id": "g10-u04", "no": 4, "title": "For a better community", "titleVi": "Vì cộng đồng tốt đẹp hơn", "emoji": "🤲", "file": "words/g10-u04.json" },
+        { "id": "g10-u05", "no": 5, "title": "Inventions", "titleVi": "Phát minh", "emoji": "💡", "file": "words/g10-u05.json" },
+        { "id": "g10-u06", "no": 6, "title": "Gender equality", "titleVi": "Bình đẳng giới", "emoji": "👫", "file": "words/g10-u06.json" },
+        { "id": "g10-u07", "no": 7, "title": "Viet Nam and international organisations", "titleVi": "Việt Nam và các tổ chức quốc tế", "emoji": "🌐", "file": "words/g10-u07.json" },
+        { "id": "g10-u08", "no": 8, "title": "New ways to learn", "titleVi": "Cách học mới", "emoji": "💻", "file": "words/g10-u08.json" },
+        { "id": "g10-u09", "no": 9, "title": "Protecting the environment", "titleVi": "Bảo vệ môi trường", "emoji": "♻️", "file": "words/g10-u09.json" },
+        { "id": "g10-u10", "no": 10, "title": "Ecotourism", "titleVi": "Du lịch sinh thái", "emoji": "🏕️", "file": "words/g10-u10.json" }
+      ]
+    }
+  ]
+}

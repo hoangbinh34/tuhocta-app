@@ -1,0 +1,145 @@
+{
+ "id": "th-np-08",
+ "module": "grammar",
+ "title": "can, should, must và V-ing / to V",
+ "emoji": "🧩",
+ "intro": "can/should/must + động từ nguyên mẫu. like/love/enjoy + V-ing (enjoy reading). want/would like/decide + to V (want to go).",
+ "instruction": "Chọn đáp án đúng.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL-NTT"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-np-08-01",
+   "type": "mcq",
+   "prompt": "My sister can ___ the piano very well.",
+   "options": [
+    "plays",
+    "play",
+    "playing",
+    "to play"
+   ],
+   "answer": 1,
+   "explain": "Sau can dùng động từ nguyên mẫu: play."
+  },
+  {
+   "id": "th-np-08-02",
+   "type": "mcq",
+   "prompt": "You ___ wear a helmet when you ride a motorbike.",
+   "options": [
+    "must",
+    "can",
+    "may",
+    "would"
+   ],
+   "answer": 0,
+   "explain": "Bắt buộc theo luật: must."
+  },
+  {
+   "id": "th-np-08-03",
+   "type": "mcq",
+   "prompt": "You look tired. You ___ go to bed early.",
+   "options": [
+    "should",
+    "shouldn't",
+    "can't",
+    "mustn't"
+   ],
+   "answer": 0,
+   "explain": "Lời khuyên: should."
+  },
+  {
+   "id": "th-np-08-04",
+   "type": "mcq",
+   "prompt": "I enjoy ___ comics in my free time.",
+   "options": [
+    "read",
+    "reading",
+    "to read",
+    "reads"
+   ],
+   "answer": 1,
+   "explain": "enjoy + V-ing: enjoy reading."
+  },
+  {
+   "id": "th-np-08-05",
+   "type": "mcq",
+   "prompt": "She wants ___ a doctor.",
+   "options": [
+    "be",
+    "being",
+    "to be",
+    "is"
+   ],
+   "answer": 2,
+   "explain": "want + to V: want to be."
+  },
+  {
+   "id": "th-np-08-06",
+   "type": "mcq",
+   "prompt": "Would you like ___ to my party?",
+   "options": [
+    "come",
+    "coming",
+    "to come",
+    "came"
+   ],
+   "answer": 2,
+   "explain": "would like + to V: would like to come."
+  },
+  {
+   "id": "th-np-08-07",
+   "type": "mcq",
+   "prompt": "Students ___ run in the corridor. It's dangerous.",
+   "options": [
+    "mustn't",
+    "must",
+    "should",
+    "can"
+   ],
+   "answer": 0,
+   "explain": "Bị cấm vì nguy hiểm: mustn't."
+  },
+  {
+   "id": "th-np-08-08",
+   "type": "mcq",
+   "prompt": "My brother loves ___ football.",
+   "options": [
+    "play",
+    "playing",
+    "plays",
+    "played"
+   ],
+   "answer": 1,
+   "explain": "love + V-ing: love playing."
+  },
+  {
+   "id": "th-np-08-09",
+   "type": "mcq",
+   "prompt": "___ you swim? – Yes, I can.",
+   "options": [
+    "Do",
+    "Can",
+    "Are",
+    "Will"
+   ],
+   "answer": 1,
+   "explain": "Câu trả lời dùng can nên câu hỏi là Can you swim?"
+  },
+  {
+   "id": "th-np-08-10",
+   "type": "mcq",
+   "prompt": "He decided ___ English every day.",
+   "options": [
+    "practise",
+    "practising",
+    "to practise",
+    "practised"
+   ],
+   "answer": 2,
+   "explain": "decide + to V: decided to practise."
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "toan-so-thap-phan-lt-03", "title": "Bốn phép tính với số thập phân", "topic": "so-thap-phan",
+  "items": [{
+    "id": "toan-so-thap-phan-lt-03-t1", "type": "card", "title": "Cộng, trừ, nhân, chia",
+    "paras": [
+      "Cộng hoặc trừ: đặt các chữ số cùng hàng thẳng cột, dấu phẩy thẳng cột. Có thể thêm chữ số 0 tận cùng phần thập phân cho đủ hàng trước khi tính.",
+      "Nhân: nhân như số tự nhiên rồi đặt dấu phẩy ở tích sao cho số chữ số thập phân bằng tổng số chữ số thập phân của hai thừa số. Ví dụ 1,4 × 0,2 = 0,28.",
+      "Chia cho số thập phân: nhân cả số bị chia và số chia với cùng 10 hoặc 100 để số chia thành số tự nhiên, rồi chia. Ví dụ 5,6 : 0,8 = 56 : 8 = 7.",
+      "Nhân với 10, 100, 1 000 thì dịch dấu phẩy sang phải 1, 2, 3 chữ số; chia thì dịch sang trái. Bài chia không hết phải đọc rõ hàng làm tròn mà đề yêu cầu.",
+      "Trong nhóm này, phép nhân/chia CB chỉ dùng số tự nhiên, số dạng a,b hoặc 0,ab; nhân/chia với 10, 100, 1 000 cũng là CB. Phép tính vượt giới hạn được đánh dấu NC ở cấp 3."
+    ],
+    "source": "Toán 5, bài SGK: chưa xác minh số/tên bài; cộng, trừ, nhân, chia thuộc phạm vi CB với giới hạn mục 1 đặc tả 2.0."
+  }]
+}

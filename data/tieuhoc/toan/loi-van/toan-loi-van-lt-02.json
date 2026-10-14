@@ -1,0 +1,18 @@
+{
+  "id": "toan-loi-van-lt-02",
+  "title": "Sơ đồ đoạn thẳng",
+  "topic": "loi-van",
+  "items": [
+    {
+      "id": "toan-loi-van-lt-02-t1",
+      "type": "card",
+      "title": "Sơ đồ đoạn thẳng",
+      "paras": [
+        "Vẽ hoặc mô tả hai đoạn bằng nhau từ cùng một đầu; phần dài hơn được vẽ nối thêm. Ghi rõ đơn vị trên mỗi phần.",
+        "Biết tổng và hiệu: bỏ phần hơn khỏi tổng để có hai phần ngắn; hoặc thêm phần hơn vào tổng để có hai phần dài. Sau đó chia 2.",
+        "Chuyển một đơn vị từ bên nhiều sang bên ít làm chênh lệch giảm hai đơn vị. Đoạn có điểm A–B–C theo thứ tự thì AC gồm AB và BC."
+      ],
+      "source": "Toán 5, bài SGK: chưa xác minh; phạm vi CB theo mục 1 nhóm 7 đặc tả T2.0 (tên/số bài cần xác minh)."
+    }
+  ]
+}

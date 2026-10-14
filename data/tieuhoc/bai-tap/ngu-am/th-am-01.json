@@ -1,0 +1,155 @@
+{
+ "id": "th-am-01",
+ "module": "phonics",
+ "title": "Đuôi -ed",
+ "emoji": "🔚",
+ "intro": "Đuôi -ed đọc /ɪd/ sau t, d; đọc /t/ sau âm vô thanh p, k, s, x, sh, ch, f, gh (đọc /f/ như laugh); còn lại đọc /d/. (Đáp án theo giọng Anh-Anh như sách giáo khoa; nút 🔊 cũng đọc giọng Anh.)",
+ "instruction": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-am-01-01",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "want[[ed]]",
+    "need[[ed]]",
+    "play[[ed]]",
+    "decid[[ed]]"
+   ],
+   "answer": 2,
+   "explain": "played: /d/. wanted, needed, decided: /ɪd/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-01-02",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "watch[[ed]]",
+    "stopp[[ed]]",
+    "cook[[ed]]",
+    "clean[[ed]]"
+   ],
+   "answer": 3,
+   "explain": "cleaned: /d/. watched, stopped, cooked: /t/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-01-03",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "visit[[ed]]",
+    "paint[[ed]]",
+    "listen[[ed]]",
+    "wait[[ed]]"
+   ],
+   "answer": 2,
+   "explain": "listened: /d/. visited, painted, waited: /ɪd/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-01-04",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "help[[ed]]",
+    "laugh[[ed]]",
+    "wash[[ed]]",
+    "open[[ed]]"
+   ],
+   "answer": 3,
+   "explain": "opened: /d/. helped, laughed, washed: /t/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-01-05",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "stay[[ed]]",
+    "enjoy[[ed]]",
+    "invit[[ed]]",
+    "cri[[ed]]"
+   ],
+   "answer": 2,
+   "explain": "invited: /ɪd/. stayed, enjoyed, cried: /d/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-01-06",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "jump[[ed]]",
+    "look[[ed]]",
+    "miss[[ed]]",
+    "rain[[ed]]"
+   ],
+   "answer": 3,
+   "explain": "rained: /d/. jumped, looked, missed: /t/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-01-07",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "start[[ed]]",
+    "end[[ed]]",
+    "work[[ed]]",
+    "land[[ed]]"
+   ],
+   "answer": 2,
+   "explain": "worked: /t/. started, ended, landed: /ɪd/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-01-08",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "call[[ed]]",
+    "studi[[ed]]",
+    "danc[[ed]]",
+    "liv[[ed]]"
+   ],
+   "answer": 2,
+   "explain": "danced: /t/. called, studied, lived: /d/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-01-09",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "finish[[ed]]",
+    "kiss[[ed]]",
+    "hop[[ed]]",
+    "plant[[ed]]"
+   ],
+   "answer": 3,
+   "explain": "planted: /ɪd/. finished, kissed, hoped: /t/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-01-10",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "arriv[[ed]]",
+    "mix[[ed]]",
+    "watch[[ed]]",
+    "fix[[ed]]"
+   ],
+   "answer": 0,
+   "explain": "arrived: /d/. mixed, watched, fixed: /t/.",
+   "skill": "phat-am"
+  }
+ ]
+}

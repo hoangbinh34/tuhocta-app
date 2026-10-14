@@ -1,0 +1,58 @@
+{
+  "id": "vl-khi-lt-02",
+  "title": "Boyle, Charles và đồ thị quá trình khí",
+  "items": [
+    {
+      "id": "vl-khi-lt-02-t1", "type": "card", "title": "Giữ đúng điều kiện của định luật",
+      "paras": [
+        "Với một lượng khí lí tưởng xác định: đẳng nhiệt (T không đổi) có pV = hằng số, tức p_{1}V_{1} = p_{2}V_{2} (định luật Boyle). Nén đẳng nhiệt làm p tăng khi V giảm.",
+        "Đẳng áp (p không đổi) có V/T = hằng số, tức V_{1}/T_{1} = V_{2}/T_{2} (định luật Charles). Nhiệt độ trong tỉ số bắt buộc theo kelvin, không dùng °C.",
+        "Đẳng tích (V không đổi) có p/T = hằng số. Các hệ thức trên đều đòi hỏi lượng khí không đổi; khí bị bơm thêm hoặc rò rỉ phải dùng phương trình pV = nRT với n của từng trạng thái."
+      ]
+    },
+    {
+      "id": "vl-khi-lt-02-t2", "type": "card", "title": "Đọc trục trước khi nhận dạng đồ thị",
+      "paras": [
+        "Trục hoành V, trục tung p: đẳng nhiệt là một nhánh hypebol p = nRT/V; đẳng áp là đường ngang; đẳng tích là đường đứng. Cùng lượng khí, đường đẳng nhiệt có p lớn hơn tại cùng V ứng với T cao hơn.",
+        "Trục hoành T (K), trục tung V: quá trình đẳng áp của lượng khí xác định là đường thẳng có đường kéo dài qua gốc. Trục hoành T (K), trục tung p: đẳng tích cũng là đường thẳng có đường kéo dài qua gốc.",
+        "Trục hoành 1/V, trục tung p: đẳng nhiệt là đường thẳng qua gốc với hệ số góc nRT. Không nhầm đồ thị p–V với p–(1/V); phần kéo dài về 0 K chỉ là suy luận của mô hình, không khẳng định khí thực còn ở thể khí tới 0 K."
+      ]
+    },
+    {
+      "id": "vl-khi-lt-02-01", "type": "mcq", "level": 1,
+      "prompt": "Định luật Boyle áp dụng cho lượng khí xác định trong quá trình nào?",
+      "options": ["Đẳng áp", "Đẳng tích", "Đẳng nhiệt", "Bơm thêm khí ở nhiệt độ không đổi"], "answer": 2,
+      "explain": "Boyle yêu cầu cả nhiệt độ và lượng khí không đổi; khi đó pV không đổi."
+    },
+    {
+      "id": "vl-khi-lt-02-02", "type": "mcq", "level": 1,
+      "prompt": "Trong định luật Charles, V tỉ lệ thuận với đại lượng nào khi p và lượng khí không đổi?",
+      "options": ["Nhiệt độ Celsius", "Nghịch đảo nhiệt độ kelvin", "Áp suất", "Nhiệt độ kelvin"], "answer": 3,
+      "explain": "V/T không đổi với T tính theo kelvin. V không tỉ lệ thuận với số đo t theo °C."
+    },
+    {
+      "id": "vl-khi-lt-02-03", "type": "mcq", "level": 2,
+      "prompt": "Nén đẳng nhiệt một lượng khí từ 6 L xuống 2 L. Áp suất cuối bằng bao nhiêu lần áp suất đầu?",
+      "options": ["3 lần", "1/3 lần", "2 lần", "Không đổi"], "answer": 0,
+      "explain": "p_{2}/p_{1} = V_{1}/V_{2} = 6/2 = 3."
+    },
+    {
+      "id": "vl-khi-lt-02-04", "type": "mcq", "level": 2,
+      "prompt": "Khí kín trong bình cứng tăng nhiệt độ từ 27 °C lên 127 °C. Dùng T = t + 273. Áp suất tăng theo tỉ số nào?",
+      "options": ["127/27", "4/3", "3/4", "100/27"], "answer": 1,
+      "explain": "Đẳng tích: p_{2}/p_{1} = T_{2}/T_{1} = 400/300 = 4/3."
+    },
+    {
+      "id": "vl-khi-lt-02-05", "type": "mcq", "level": 2,
+      "prompt": "Trên đồ thị có trục hoành V, trục tung p, quá trình đẳng áp là đường nào?",
+      "options": ["Đường đứng", "Hypebol", "Đường ngang", "Đường thẳng qua gốc có hệ số góc dương"], "answer": 2,
+      "explain": "Áp suất là tung độ; p không đổi nên đường biểu diễn song song trục V."
+    },
+    {
+      "id": "vl-khi-lt-02-06", "type": "mcq", "level": 2,
+      "prompt": "Cùng một lượng khí, hai đường đẳng nhiệt trên đồ thị p–V có p_{B} > p_{A} tại cùng V. Kết luận nào đúng?",
+      "options": ["T_{B} < T_{A}", "T_{B} = T_{A}", "Không thể so sánh T", "T_{B} > T_{A}"], "answer": 3,
+      "explain": "T = pV/(nR); tại cùng V và n, áp suất lớn hơn tương ứng nhiệt độ cao hơn."
+    }
+  ]
+}

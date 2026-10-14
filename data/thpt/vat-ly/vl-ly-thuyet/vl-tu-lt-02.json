@@ -1,0 +1,58 @@
+{
+  "id": "vl-tu-lt-02",
+  "title": "Lực từ lên dòng điện và phép đo cảm ứng từ",
+  "items": [
+    {
+      "id": "vl-tu-lt-02-t1", "type": "card", "title": "Độ lớn và chiều lực từ",
+      "paras": [
+        "Đoạn dây thẳng dài l có dòng điện I trong từ trường đều chịu lực từ F = BIl sin α; α là góc giữa chiều dòng điện và B. l chỉ là chiều dài phần dây nằm trong vùng từ trường. Dùng B theo T, I theo A, l theo m thì F theo N.",
+        "Lực từ vuông góc với cả dây và B. Quy tắc bàn tay trái: để B xuyên vào lòng bàn tay, chiều từ cổ tay tới các ngón tay theo dòng điện, ngón cái choãi 90° chỉ chiều lực. Đảo riêng chiều dòng điện hoặc B thì lực đảo; đảo cả hai thì lực giữ nguyên.",
+        "Dây vuông góc B: F = BIl là lớn nhất khi B, I, l cố định. Dây song song B: F = 0. Chỉ dùng B = F/(Il) khi đã biết dây vuông góc từ trường. Động cơ điện khai thác tác dụng lực từ để biến điện năng thành cơ năng."
+      ]
+    },
+    {
+      "id": "vl-tu-lt-02-t2", "type": "card", "title": "Cân dòng điện: phân biệt lực lên dây và lên nam châm",
+      "paras": [
+        "Trong thí nghiệm cân dòng điện, nam châm đặt trên cân, đoạn dây được giá riêng giữ cố định, vuông góc B. Lực từ lên nam châm và lên dây ngược chiều nhau theo định luật III Newton. Dây bị đẩy lên thì nam châm bị đẩy xuống, số chỉ cân tăng; dây bị đẩy xuống thì số chỉ cân giảm.",
+        "Nếu lực phản tác dụng lên nam châm theo phương thẳng đứng, độ lớn thay đổi số chỉ cân là Δm, thì F = Δm g và B = Δm g/(Il). Δm phải đổi từ g sang kg. Dây và nam châm không cùng được đặt trên cân trong mô hình này; nếu thay bố trí phải phân tích lại các lực.",
+        "Đo nhiều cặp (I, Δm) khi l không đổi, lấy độ dốc đồ thị F–I để suy ra B = độ dốc/l. Đo số chỉ khi I = 0 làm mốc, tránh nhầm khối lượng cả nam châm với Δm. Giữ dây vuông góc và đúng chiều dài hữu hiệu; ngắt nguồn giữa các lần đo để hạn chế dây nóng."
+      ]
+    },
+    {
+      "id": "vl-tu-lt-02-01", "type": "mcq", "level": 1,
+      "prompt": "Đoạn dây thẳng có chiều dòng điện hợp với B góc α trong từ trường đều. Độ lớn lực từ là biểu thức nào?",
+      "options": ["BIl cos α", "BI/l", "BIl sin α", "Bl/I"], "answer": 2,
+      "explain": "Công thức tổng quát là F = BIl sin α; công thức BIl chỉ ứng với α = 90°."
+    },
+    {
+      "id": "vl-tu-lt-02-02", "type": "mcq", "level": 1,
+      "prompt": "Quy tắc bàn tay trái dùng để xác định đại lượng nào khi biết chiều dòng điện và B?",
+      "options": ["Chiều lực từ lên dòng điện", "Giá trị điện trở", "Độ lớn từ thông", "Tần số dòng điện"], "answer": 0,
+      "explain": "Bàn tay trái cho chiều lực từ; độ lớn phải tính bằng BIl sin α."
+    },
+    {
+      "id": "vl-tu-lt-02-03", "type": "mcq", "level": 2,
+      "prompt": "Dây dẫn có dòng điện từ trái sang phải; B hướng vào mặt giấy. Lực từ lên dây hướng nào?",
+      "options": ["Sang trái", "Vào mặt giấy", "Xuống dưới trên mặt giấy", "Lên trên trên mặt giấy"], "answer": 3,
+      "explain": "Áp dụng bàn tay trái, lực hướng lên trên; lực vuông góc cả dòng điện lẫn B."
+    },
+    {
+      "id": "vl-tu-lt-02-04", "type": "mcq", "level": 2,
+      "prompt": "Giữ nguyên B, I và chiều dài dây trong từ trường. Quay dây từ vuông góc B sang hợp B góc 30°. Lực từ mới bằng bao nhiêu lần lực ban đầu?",
+      "options": ["2 lần", "0,5 lần", "1 lần", "0 lần"], "answer": 1,
+      "explain": "F_{2}/F_{1} = sin 30°/sin 90° = 1/2."
+    },
+    {
+      "id": "vl-tu-lt-02-05", "type": "mcq", "level": 2,
+      "prompt": "Nam châm đặt trên cân, dây được giá riêng giữ cố định. Dòng điện làm dây chịu lực từ hướng lên. Số chỉ cân thay đổi thế nào?",
+      "options": ["Giảm", "Không đổi vì dây cố định", "Tăng", "Luôn về 0"], "answer": 2,
+      "explain": "Nam châm chịu phản lực hướng xuống, làm lực ép lên cân tăng. Dây cố định không có nghĩa lực từ bằng 0."
+    },
+    {
+      "id": "vl-tu-lt-02-06", "type": "mcq", "level": 2,
+      "prompt": "Dây dài 50 cm nhưng chỉ có 8 cm nằm trong vùng từ trường đều, phần còn lại ở vùng B coi như 0. Khi tính F = BIl với dây vuông góc B, dùng l bằng bao nhiêu?",
+      "options": ["0,08 m", "0,50 m", "8 m", "0,42 m"], "answer": 0,
+      "explain": "l là chiều dài hữu hiệu chịu từ trường: 8 cm = 0,08 m."
+    }
+  ]
+}

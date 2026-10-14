@@ -1,0 +1,155 @@
+{
+ "id": "th-am-10",
+ "module": "phonics",
+ "title": "Ôn tập tổng hợp",
+ "emoji": "🏁",
+ "intro": "Bài trộn phát âm và trọng âm như trong đề thi. (Đáp án theo giọng Anh-Anh như sách giáo khoa; nút 🔊 cũng đọc giọng Anh.)",
+ "instruction": "Chọn đáp án đúng.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-am-10-01",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "lov[[ed]]",
+    "hat[[ed]]",
+    "play[[ed]]",
+    "call[[ed]]"
+   ],
+   "answer": 1,
+   "explain": "hated: /ɪd/. loved, played, called: /d/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-10-02",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "hous[[es]]",
+    "garden[[s]]",
+    "box[[es]]",
+    "ros[[es]]"
+   ],
+   "answer": 1,
+   "explain": "gardens: /z/. houses, boxes, roses: /ɪz/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-10-03",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "m[[o]]ve",
+    "l[[o]]ve",
+    "gl[[o]]ve",
+    "ab[[o]]ve"
+   ],
+   "answer": 0,
+   "explain": "move: /uː/. love, glove, above: /ʌ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-10-04",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "[[c]]entre",
+    "[[c]]ircle",
+    "[[c]]inema",
+    "[[c]]amera"
+   ],
+   "answer": 3,
+   "explain": "camera: /k/. centre, circle, cinema: /s/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-10-05",
+   "type": "mcq",
+   "prompt": "Chọn từ có trọng âm (âm được nhấn mạnh) KHÁC các từ còn lại.",
+   "options": [
+    "dinner",
+    "lemon",
+    "mistake",
+    "window"
+   ],
+   "answer": 2,
+   "explain": "mistake (nhấn âm 2) khác. dinner (nhấn âm 1), lemon (nhấn âm 1), window (nhấn âm 1).",
+   "skill": "trong-am"
+  },
+  {
+   "id": "th-am-10-06",
+   "type": "mcq",
+   "prompt": "Chọn từ có trọng âm (âm được nhấn mạnh) KHÁC các từ còn lại.",
+   "options": [
+    "elephant",
+    "pyjamas",
+    "triangle",
+    "chocolate"
+   ],
+   "answer": 1,
+   "explain": "pyjamas (nhấn âm 2) khác. elephant (nhấn âm 1), triangle (nhấn âm 1), chocolate (nhấn âm 1).",
+   "skill": "trong-am"
+  },
+  {
+   "id": "th-am-10-07",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "h[[ea]]r",
+    "n[[ea]]r",
+    "d[[ea]]r",
+    "b[[ea]]r"
+   ],
+   "answer": 3,
+   "explain": "bear: /eə/. hear, near, dear: /ɪə/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-10-08",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "w[[or]]k",
+    "w[[or]]d",
+    "w[[or]]ld",
+    "f[[or]]k"
+   ],
+   "answer": 3,
+   "explain": "fork: /ɔː/. work, word, world: /ɜː/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-10-09",
+   "type": "mcq",
+   "prompt": "Chọn từ có trọng âm (âm được nhấn mạnh) KHÁC các từ còn lại.",
+   "options": [
+    "unhappy",
+    "exercise",
+    "beginner",
+    "important"
+   ],
+   "answer": 1,
+   "explain": "exercise (nhấn âm 1) khác. unhappy (nhấn âm 2), beginner (nhấn âm 2), important (nhấn âm 2).",
+   "skill": "trong-am"
+  },
+  {
+   "id": "th-am-10-10",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "n[[ew]]",
+    "f[[ew]]",
+    "n[[ew]]s",
+    "gr[[ew]]"
+   ],
+   "answer": 3,
+   "explain": "grew: /uː/. new, few, news: /juː/.",
+   "skill": "phat-am"
+  }
+ ]
+}

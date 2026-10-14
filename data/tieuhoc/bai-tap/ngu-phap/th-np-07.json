@@ -1,0 +1,145 @@
+{
+ "id": "th-np-07",
+ "module": "grammar",
+ "title": "Giới từ chỉ thời gian và nơi chốn",
+ "emoji": "📍",
+ "intro": "in + tháng, năm, mùa, buổi (in May, in the morning); on + ngày, thứ (on Monday, on 5th May); at + giờ (at 7 o'clock), at night, at the weekend. Nơi chốn: in (trong), on (trên), under (dưới), next to (bên cạnh), between (ở giữa).",
+ "instruction": "Chọn đáp án đúng.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL-NTT"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-np-07-01",
+   "type": "mcq",
+   "prompt": "My birthday is ___ May.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "by"
+   ],
+   "answer": 0,
+   "explain": "Tháng dùng in: in May."
+  },
+  {
+   "id": "th-np-07-02",
+   "type": "mcq",
+   "prompt": "We have Music ___ Tuesday.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "to"
+   ],
+   "answer": 1,
+   "explain": "Thứ trong tuần dùng on: on Tuesday."
+  },
+  {
+   "id": "th-np-07-03",
+   "type": "mcq",
+   "prompt": "The film starts ___ 8 o'clock.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "by"
+   ],
+   "answer": 2,
+   "explain": "Giờ dùng at: at 8 o'clock."
+  },
+  {
+   "id": "th-np-07-04",
+   "type": "mcq",
+   "prompt": "I often read books ___ the evening.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "by"
+   ],
+   "answer": 0,
+   "explain": "Buổi trong ngày dùng in: in the evening."
+  },
+  {
+   "id": "th-np-07-05",
+   "type": "mcq",
+   "prompt": "The cat is sleeping ___ the table. I can see it between the table legs.",
+   "options": [
+    "on",
+    "under",
+    "at",
+    "to"
+   ],
+   "answer": 1,
+   "explain": "Nhìn thấy mèo giữa các chân bàn, nên mèo ở dưới bàn: under."
+  },
+  {
+   "id": "th-np-07-06",
+   "type": "mcq",
+   "prompt": "My house is ___ the bakery and the bank.",
+   "options": [
+    "next",
+    "between",
+    "under",
+    "on"
+   ],
+   "answer": 1,
+   "explain": "Ở giữa hai nơi: between … and …."
+  },
+  {
+   "id": "th-np-07-07",
+   "type": "mcq",
+   "prompt": "She goes to school ___ bike.",
+   "options": [
+    "on",
+    "by",
+    "in",
+    "with"
+   ],
+   "answer": 1,
+   "explain": "Phương tiện dùng by: by bike."
+  },
+  {
+   "id": "th-np-07-08",
+   "type": "mcq",
+   "prompt": "We go camping ___ summer.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "by"
+   ],
+   "answer": 0,
+   "explain": "Mùa dùng in: in summer."
+  },
+  {
+   "id": "th-np-07-09",
+   "type": "mcq",
+   "prompt": "Open your bag. Your book is ___ it.",
+   "options": [
+    "at",
+    "in",
+    "on",
+    "to"
+   ],
+   "answer": 1,
+   "explain": "Sách nằm bên trong cặp: in."
+  },
+  {
+   "id": "th-np-07-10",
+   "type": "mcq",
+   "prompt": "I don't go out ___ night.",
+   "options": [
+    "in",
+    "on",
+    "at",
+    "by"
+   ],
+   "answer": 2,
+   "explain": "Cụm cố định: at night."
+  }
+ ]
+}

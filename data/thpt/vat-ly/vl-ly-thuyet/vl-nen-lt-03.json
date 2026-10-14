@@ -1,0 +1,69 @@
+{
+  "id": "vl-nen-lt-03",
+  "title": "Nền 10–11: Động lượng và bảo toàn động lượng",
+  "items": [
+    {
+      "id": "vl-nen-lt-03-t1", "type": "card", "title": "Động lượng, xung của lực và bảo toàn động lượng",
+      "paras": [
+        "Động lượng của vật: p = mv là vectơ cùng hướng với vận tốc, đơn vị kg·m/s. Độ biến thiên động lượng bằng xung của lực: FΔt = Δp. Nếu hợp lực không đổi tác dụng trong cùng một khoảng thời gian thì hợp lực có độ lớn lớn hơn làm độ lớn động lượng biến thiên lớn hơn.",
+        "Hệ kín (không có ngoại lực, hoặc ngoại lực cân bằng): tổng vectơ động lượng của hệ được bảo toàn. Với hai vật chỉ tương tác với nhau, p₁ + p₂ không đổi. Động năng liên hệ với động lượng: W_{đ} = p²/(2m).",
+        "Ví dụ nối sang lớp 12, nhóm Hạt nhân: hai sản phẩm của phân rã từ hạt nhân đứng yên có động lượng bằng độ lớn và ngược hướng theo định luật bảo toàn động lượng.",
+        "Nguồn: SGK Vật lí 10 (GDPT 2018), chương Động lượng."
+      ]
+    },
+    {
+      "id": "vl-nen-lt-03-t2", "type": "card", "title": "Va chạm, vật tách ra và nối sang Hạt nhân, Khí (lớp 12)",
+      "paras": [
+        "Va chạm mềm: hai vật dính vào nhau sau va chạm, động lượng bảo toàn nhưng động năng giảm. Va chạm đàn hồi: bảo toàn cả động lượng và động năng. Vật đứng yên tách thành hai phần bay ngược hướng: hai động lượng có độ lớn bằng nhau, m₁v₁ = m₂v₂.",
+        "Ví dụ nối sang lớp 12, nhóm Hạt nhân: hạt nhân đứng yên phóng xạ phát ra hạt α, hạt nhân con và hạt α có động lượng cùng độ lớn, ngược hướng. Vì W_{đ} = p²/(2m) nên hạt nhẹ hơn mang động năng lớn hơn. Nhóm Khí: mỗi lần phân tử va chạm thành bình, xung của lực truyền cho thành bình là Δp = 2mv (va chạm đàn hồi, vuông góc); vô số va chạm tạo nên áp suất khí."
+      ]
+    },
+    {
+      "id": "vl-nen-lt-03-01", "type": "mcq", "level": 1,
+      "prompt": "Đơn vị của động lượng trong hệ SI là gì?",
+      "options": ["kg·m/s", "kg·m/s²", "J", "W"], "answer": 0,
+      "explain": "p = mv nên đơn vị là kg·m/s. kg·m/s² là niutơn (lực), jun là đơn vị công và năng lượng, oát là đơn vị công suất."
+    },
+    {
+      "id": "vl-nen-lt-03-02", "type": "mcq", "level": 1,
+      "prompt": "Hạt nhân đứng yên phóng xạ, phát ra hai hạt bay theo hai hướng ngược nhau. So sánh độ lớn động lượng của hai hạt này.",
+      "options": ["Hạt nhẹ hơn có động lượng lớn hơn", "Hạt nặng hơn có động lượng lớn hơn", "Hai hạt có động lượng cùng độ lớn", "Không thể so sánh nếu không biết khối lượng"], "answer": 2,
+      "explain": "Tổng động lượng ban đầu bằng 0 và được bảo toàn nên p₁ + p₂ = 0, hai động lượng cùng độ lớn, ngược hướng. Ba phương án còn lại đều mâu thuẫn với điều này."
+    },
+    {
+      "id": "vl-nen-lt-03-03", "type": "mcq", "level": 2,
+      "prompt": "Hai hạt đang chuyển động, có cùng độ lớn động lượng p > 0 và khối lượng m₁ < m₂. Hạt nào có động năng lớn hơn?",
+      "options": ["Hạt khối lượng m₁", "Hạt khối lượng m₂", "Hai hạt có động năng bằng nhau", "Không so sánh được"], "answer": 0,
+      "explain": "Vì p > 0, W_{đ} = p²/(2m) tỉ lệ nghịch với m khi hai hạt có cùng p, nên hạt m₁ có động năng lớn hơn. Động năng bằng nhau chỉ xảy ra khi cùng khối lượng; dữ kiện đã đủ để so sánh."
+    },
+    {
+      "id": "vl-nen-lt-03-04", "type": "tf4", "level": 2,
+      "prompt": "Xét các phát biểu về động lượng và va chạm.",
+      "statements": [
+        "a) Trong hệ kín, tổng vectơ động lượng của hệ không đổi.",
+        "b) Trong va chạm mềm của hai vật, động năng của hệ được bảo toàn.",
+        "c) Hai vật chịu các hợp lực không đổi trong cùng khoảng thời gian; hợp lực có độ lớn lớn hơn thì độ lớn biến thiên động lượng lớn hơn.",
+        "d) Động lượng của vật chuyển động tròn đều không đổi."
+      ],
+      "answers": [true, false, true, false],
+      "explain": [
+        "Đúng. Đây là định luật bảo toàn động lượng.",
+        "Sai. Va chạm mềm bảo toàn động lượng nhưng một phần động năng chuyển thành nhiệt, biến dạng.",
+        "Đúng. Với hợp lực không đổi, |Δp| = FΔt; cùng Δt thì F lớn hơn cho |Δp| lớn hơn.",
+        "Sai. Tốc độ không đổi nhưng hướng vận tốc đổi nên vectơ p = mv đổi, độ lớn p thì không đổi."
+      ]
+    },
+    {
+      "id": "vl-nen-lt-03-05", "type": "num", "level": 2,
+      "prompt": "Khối lượng 2000 kg chuyển động 3,0 m/s va chạm mềm vào khối lượng 1500 kg đang đứng yên. Tính tốc độ của hai vật ngay sau va chạm theo m/s, làm tròn đến một chữ số sau dấu phẩy.",
+      "answer": 1.7, "round": 1, "unit": "m/s",
+      "explain": "Bảo toàn động lượng: 2000 · 3,0 = (2000 + 1500)v nên v = 6000/3500 ≈ 1,714 m/s. Làm tròn: 1,7."
+    },
+    {
+      "id": "vl-nen-lt-03-06", "type": "mcq", "level": 2,
+      "prompt": "Quả bóng đập thẳng vào tường, nảy lại với cùng tốc độ theo phương ngược. Độ biến thiên động lượng của bóng có độ lớn thế nào so với động lượng ban đầu?",
+      "options": ["Bằng 0", "Bằng động lượng ban đầu", "Bằng 2 lần động lượng ban đầu", "Bằng một nửa động lượng ban đầu"], "answer": 2,
+      "explain": "Chọn chiều dương theo vận tốc ban đầu: Δp = (−mv) − mv = −2mv, độ lớn 2mv. Bằng 0 hay bằng p chỉ đúng khi quên đổi dấu hoặc coi bóng dừng, còn một nửa không có cơ sở."
+    }
+  ]
+}

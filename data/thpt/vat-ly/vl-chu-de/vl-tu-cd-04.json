@@ -1,0 +1,77 @@
+{
+  "id": "vl-tu-cd-04",
+  "title": "Từ: ghi nhớ phép đo và nguyên lí cảm ứng",
+  "items": [
+    {
+      "id": "vl-tu-cd-04-01", "type": "mcq", "level": 1,
+      "prompt": "Đặt đoạn dây thẳng dài l có dòng điện I vuông góc với từ trường đều. Đo lực từ có độ lớn F. Công thức nào dùng để xác định cảm ứng từ B?",
+      "options": ["B = FIl", "B = FI/l", "B = F/(Il)", "B = Fl/I"], "answer": 2,
+      "explain": "Khi dây vuông góc B, F = BIl, nên B = F/(Il). Đơn vị tesla tương ứng N/(A·m)."
+    },
+    {
+      "id": "vl-tu-cd-04-02", "type": "mcq", "level": 1,
+      "prompt": "Trong công thức từ thông Φ = BS cos α qua một mặt phẳng, α là góc giữa hai hướng nào?",
+      "options": ["B và pháp tuyến đã chọn của mặt phẳng", "B và mặt phẳng", "Dòng điện và mặt phẳng", "Lực từ và dòng điện"], "answer": 0,
+      "explain": "α đo từ pháp tuyến đến B. Nếu đề cho góc β giữa B và mặt phẳng thì độ lớn từ thông là BS sin β."
+    },
+    {
+      "id": "vl-tu-cd-04-03", "type": "mcq", "level": 1,
+      "prompt": "Dòng điện xoay chiều hình sin có chu kì T. Tần số f của dòng điện được xác định bằng công thức nào?",
+      "options": ["f = T", "f = 2πT", "f = T/2π", "f = 1/T"], "answer": 3,
+      "explain": "T là thời gian một dao động; f là số dao động trong một giây nên f = 1/T. T đo bằng s thì f đo bằng Hz."
+    },
+    {
+      "id": "vl-tu-cd-04-04", "type": "mcq", "level": 1,
+      "prompt": "Một vôn kế xoay chiều lí tưởng được dùng đúng chế độ đo điện áp hình sin. Số chỉ của nó biểu thị đại lượng nào?",
+      "options": ["Điện áp tức thời tại lúc đọc", "Điện áp hiệu dụng", "Điện áp cực đại", "Giá trị trung bình đại số của điện áp trong một chu kì"], "answer": 1,
+      "explain": "Vôn kế xoay chiều cho giá trị hiệu dụng. Với điện áp hình sin, U = U_{0}/√2; giá trị trung bình đại số trong một chu kì bằng 0."
+    },
+    {
+      "id": "vl-tu-cd-04-05", "type": "mcq", "level": 1,
+      "prompt": "Theo định nghĩa, dòng điện xoay chiều có cường độ hiệu dụng I gây tác dụng nào trên cùng một điện trở và trong cùng thời gian?",
+      "options": ["Tỏa nhiệt bằng dòng không đổi có cường độ I", "Tỏa nhiệt bằng 0 vì dòng đổi chiều", "Tỏa nhiệt gấp đôi dòng không đổi có cường độ I", "Luôn tỏa nhiệt bằng dòng không đổi có cường độ cực đại của nó"], "answer": 0,
+      "explain": "Giá trị hiệu dụng được định nghĩa qua tác dụng nhiệt tương đương của dòng không đổi. Nhiệt lượng phụ thuộc bình phương cường độ, nên dòng đổi chiều vẫn tỏa nhiệt."
+    },
+    {
+      "id": "vl-tu-cd-04-06", "type": "mcq", "level": 1,
+      "prompt": "Lực từ lên một đoạn dây thẳng mang dòng điện, khi lực khác 0, có phương như thế nào?",
+      "options": ["Song song dây dẫn", "Song song B", "Nằm trong mặt phẳng chứa dây và B", "Vuông góc với cả dây dẫn và B"], "answer": 3,
+      "explain": "Lực từ có phương vuông góc mặt phẳng chứa dòng điện và B. Chiều lực xác định bằng quy tắc bàn tay trái."
+    },
+    {
+      "id": "vl-tu-cd-04-07", "type": "mcq", "level": 1,
+      "prompt": "Một cuộn dây đứng yên có từ thông qua mỗi vòng không đổi theo thời gian. Suất điện động cảm ứng trong cuộn dây bằng bao nhiêu?",
+      "options": ["Luôn bằng tích B và điện trở", "Bằng 0", "Luôn bằng từ thông ban đầu", "Tăng theo số vòng dù từ thông không đổi"], "answer": 1,
+      "explain": "Faraday: e = −NΔΦ/Δt. Không có biến thiên từ thông thì không có suất điện động cảm ứng, dù từ thông có thể khác 0."
+    },
+    {
+      "id": "vl-tu-cd-04-08", "type": "mcq", "level": 1,
+      "prompt": "Trong mô hình máy biến áp, nguyên nhân trực tiếp gây suất điện động cảm ứng ở cuộn thứ cấp là gì?",
+      "options": ["Cuộn thứ cấp có điện trở lớn", "Một từ thông không đổi xuyên qua thứ cấp", "Từ thông qua cuộn thứ cấp biến thiên", "Cuộn thứ cấp bắt buộc phải quay cơ học"], "answer": 2,
+      "explain": "Dòng biến thiên ở sơ cấp tạo từ thông biến thiên qua thứ cấp, gây suất điện động theo Faraday. Hai cuộn không cần quay; đây chỉ là nguyên lí cảm ứng, không dùng công thức máy biến áp."
+    },
+    {
+      "id": "vl-tu-cd-04-09", "type": "tf4", "level": 1,
+      "prompt": "Xét một vòng dây phẳng trong từ trường đều và các điều kiện xuất hiện cảm ứng điện từ. Coi khe hở, nếu có, cách điện hoàn toàn; bỏ qua dòng điện qua khe hở.",
+      "statements": [
+        "a) Khi B song song mặt phẳng vòng dây, độ lớn từ thông qua vòng bằng BS.",
+        "b) Từ thông biến thiên có thể gây suất điện động cảm ứng cả khi vòng dây bị ngắt bởi một khe hở.",
+        "c) Vòng dây bị ngắt bởi khe hở cách điện không có dòng điện dẫn chạy vòng quanh mạch.",
+        "d) Định luật Lenz cho phép lấy điện năng liên tục từ một từ trường không đổi mà không cần cung cấp năng lượng."
+      ],
+      "answers": [false, true, true, false],
+      "explain": [
+        "Sai. B song song mặt phẳng thì vuông góc pháp tuyến: Φ = BS cos 90° = 0.",
+        "Đúng. Suất điện động cảm ứng do từ thông biến thiên; điều kiện mạch kín cần cho dòng điện dẫn chạy quanh vòng, không phải cho sự xuất hiện suất điện động.",
+        "Đúng. Khe hở cách điện làm đường dẫn điện bị gián đoạn, nên không có dòng điện dẫn chạy quanh mạch trong mô hình đề cho.",
+        "Sai. Dòng cảm ứng chống sự biến thiên đã sinh ra nó; điện năng thu được phải do nguồn năng lượng khác cung cấp, phù hợp bảo toàn năng lượng."
+      ]
+    },
+    {
+      "id": "vl-tu-cd-04-10", "type": "num", "level": 1,
+      "prompt": "Từ thông qua một vòng dây là 0,0035 Wb. Đổi sang mWb, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 3.5, "round": 2, "unit": "mWb",
+      "explain": "1 Wb = 1000 mWb nên Φ = 0,0035 · 1000 = 3,50 mWb. Ghi: 3,50."
+    }
+  ]
+}

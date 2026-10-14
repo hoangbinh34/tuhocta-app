@@ -1,0 +1,110 @@
+{
+  "id": "vl-hat-nhan-lt-03",
+  "title": "Phóng xạ, chu kì bán rã và độ phóng xạ",
+  "items": [
+    {
+      "id": "vl-hat-nhan-lt-03-t1",
+      "type": "card",
+      "title": "Định luật phóng xạ",
+      "paras": [
+        "Phóng xạ là sự biến đổi tự phát của hạt nhân không bền kèm bức xạ. Với số lượng hạt rất lớn, N = N_{0}e^{−λt} = N_{0}2^{−t/T}, λ = ln 2/T; T là chu kì bán rã. Không dự đoán được thời điểm một hạt cụ thể phân rã. Trong điều kiện thông thường của bài phổ thông, T không phụ thuộc nhiệt độ, áp suất hay trạng thái hóa học của mẫu.",
+        "N là số hạt nhân mẹ chưa phân rã; khối lượng của phần đồng vị mẹ chưa phân rã m = m_{0}2^{−t/T}. Phần đã phân rã bằng 1 − 2^{−t/T}. Không coi khối lượng toàn bộ mẫu (còn hạt nhân con) cũng giảm theo công thức này. Mẫu kín có thể vẫn giữ các sản phẩm phân rã.",
+        "Sau k chu kì bán rã, phần còn lại là 1/2^{k}. Khi phần còn lại không phải lũy thừa của 1/2, dùng t = T·ln(N_{0}/N)/ln 2. Thống nhất đơn vị t và T; không làm tròn kết quả trung gian."
+      ]
+    },
+    {
+      "id": "vl-hat-nhan-lt-03-t2",
+      "type": "card",
+      "title": "Độ phóng xạ và số đếm đo được",
+      "paras": [
+        "Độ phóng xạ H (cũng thường kí hiệu A) là số phân rã trung bình mỗi giây: H = λN = H_{0}2^{−t/T}. Đơn vị becquerel: 1 Bq = 1 phân rã/s; 1 MBq = 10^{6} Bq. Muốn tính H bằng Bq phải dùng λ theo s^{−1}, tức đổi T sang s trước khi tính.",
+        "Với đồng vị mẹ khối lượng m, khối lượng mol M: N = (m/M)N_{A}; dùng m và M cùng hệ đơn vị. Nếu đề cho m bằng g và M bằng g/mol thì không đổi riêng m sang kg. Chỉ tính lượng đồng vị phóng xạ mẹ, không lấy khối lượng cả vật chứa.",
+        "Máy đo có thể ghi cả bức xạ nền: số đếm thuần = số đếm tổng − số đếm nền trong cùng khoảng thời gian. Với hiệu suất và hình học đo không đổi, tốc độ đếm thuần tỉ lệ H; số đếm tổng không trực tiếp tỉ lệ H nếu nền khác 0. Cần cùng thời gian đo hoặc chia cho thời gian đo trước khi so tỉ số."
+      ]
+    },
+    {
+      "id": "vl-hat-nhan-lt-03-01",
+      "type": "mcq",
+      "level": 1,
+      "prompt": "Chu kì bán rã T là khoảng thời gian để đại lượng nào giảm một nửa theo định luật phóng xạ?",
+      "options": [
+        "Số proton trong mỗi hạt nhân mẹ",
+        "Năng lượng của mỗi photon",
+        "Số hạt nhân mẹ chưa phân rã của một mẫu lớn",
+        "Khối lượng mọi chất trong phòng"
+      ],
+      "answer": 2,
+      "explain": "T đặc trưng cho sự giảm số hạt nhân mẹ trên một tập hợp lớn, không phải cho số proton trong từng hạt nhân."
+    },
+    {
+      "id": "vl-hat-nhan-lt-03-02",
+      "type": "mcq",
+      "level": 1,
+      "prompt": "Một becquerel (Bq) tương ứng với đại lượng nào?",
+      "options": [
+        "Một phân rã mỗi giây",
+        "Một joule mỗi giây",
+        "Một hạt nhân trong một mol",
+        "Một electronvolt"
+      ],
+      "answer": 0,
+      "explain": "Bq đo độ phóng xạ, không phải năng lượng hay công suất."
+    },
+    {
+      "id": "vl-hat-nhan-lt-03-03",
+      "type": "mcq",
+      "level": 2,
+      "prompt": "Sau 3 chu kì bán rã, bao nhiêu phần số hạt nhân mẹ ban đầu còn chưa phân rã?",
+      "options": [
+        "1/3",
+        "3/4",
+        "1/6",
+        "1/8"
+      ],
+      "answer": 3,
+      "explain": "N/N_{0} = 2^{−3} = 1/8; phần đã phân rã là 7/8."
+    },
+    {
+      "id": "vl-hat-nhan-lt-03-04",
+      "type": "mcq",
+      "level": 2,
+      "prompt": "Trong một mẫu kín, đồng vị mẹ phân rã thành hạt nhân con bền và các sản phẩm được giữ lại. Đại lượng nào tuân theo m = m_{0}2^{−t/T}?",
+      "options": [
+        "Khối lượng cả bình chứa mẫu",
+        "Khối lượng đồng vị mẹ chưa phân rã",
+        "Tổng khối lượng hạt nhân mẹ và con một cách chính xác",
+        "Khối lượng mọi nguyên tố trong mẫu đều như nhau"
+      ],
+      "answer": 1,
+      "explain": "Công thức m giảm theo bán rã chỉ áp cho lượng đồng vị mẹ; hạt nhân con tích lũy trong mẫu."
+    },
+    {
+      "id": "vl-hat-nhan-lt-03-05",
+      "type": "mcq",
+      "level": 2,
+      "prompt": "Cùng khoảng đo, máy ghi 150 xung từ mẫu và nền; nền riêng là 30 xung. Số đếm thuần do mẫu là bao nhiêu?",
+      "options": [
+        "180 xung",
+        "150 xung",
+        "120 xung",
+        "5 xung"
+      ],
+      "answer": 2,
+      "explain": "Trừ nền trong cùng khoảng thời gian: 150 − 30 = 120 xung."
+    },
+    {
+      "id": "vl-hat-nhan-lt-03-06",
+      "type": "mcq",
+      "level": 2,
+      "prompt": "Muốn dùng H = (ln 2/T)N để tính H bằng Bq, phải dùng T theo đơn vị nào?",
+      "options": [
+        "Giây",
+        "Ngày bất kể các đại lượng khác",
+        "Năm bất kể các đại lượng khác",
+        "Không cần đơn vị"
+      ],
+      "answer": 0,
+      "explain": "Bq là s^{−1}, nên λ phải theo s^{−1} và T phải đổi sang giây."
+    }
+  ]
+}

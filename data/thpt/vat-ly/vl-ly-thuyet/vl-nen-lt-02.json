@@ -1,0 +1,69 @@
+{
+  "id": "vl-nen-lt-02",
+  "title": "Nền 10–11: Công, năng lượng, công suất và hiệu suất",
+  "items": [
+    {
+      "id": "vl-nen-lt-02-t1", "type": "card", "title": "Công và các dạng năng lượng cơ học",
+      "paras": [
+        "Công của lực không đổi: A = Fs cos α, trong đó α là góc giữa lực và độ dịch chuyển, đơn vị jun (J). Công dương khi α < 90°, âm khi α > 90°, bằng 0 khi lực vuông góc với độ dịch chuyển (ví dụ lực hướng tâm, lực từ lên hạt mang điện).",
+        "Động năng W_{đ} = ½mv². Thế năng trọng trường W_{t} = mgh với g là gia tốc rơi tự do (đề sẽ cho giá trị). Công của hợp lực bằng độ biến thiên động năng: A = ΔW_{đ}. Nếu chỉ có lực thế (như trọng lực) sinh công thì cơ năng W = W_{đ} + W_{t} được bảo toàn.",
+        "Ví dụ nối sang lớp 12, nhóm Nhiệt: năng lượng điện Pt của ấm chuyển thành nhiệt Q của nước; hiệu suất vẫn là năng lượng có ích chia năng lượng toàn phần.",
+        "Nguồn: SGK Vật lí 10 (GDPT 2018), chương Năng lượng, công, công suất."
+      ]
+    },
+    {
+      "id": "vl-nen-lt-02-t2", "type": "card", "title": "Công suất, hiệu suất và nối sang Nhiệt, Hạt nhân (lớp 12)",
+      "paras": [
+        "Công suất P = A/t (W = J/s); với lực không đổi kéo vật chuyển động đều theo phương lực, P = Fv. Điện năng ghi theo kWh: 1 kWh = 3,6·10^{6} J. Hiệu suất H = A_{ích}/A_{toàn phần} (hoặc tính theo công suất), luôn không vượt quá 1 (100 %).",
+        "Ví dụ nối sang lớp 12, nhóm Nhiệt: ấm điện công suất P chạy trong thời gian t cung cấp năng lượng Pt; nước nhận nhiệt Q = mcΔt, vậy H = Q/(Pt). Nhóm Hạt nhân: năng lượng giải phóng trong phản ứng chỉ một phần đổi thành điện năng, hiệu suất nhà máy tính như trên. Hai nhóm này đều dùng nguyên tắc năng lượng ích trên năng lượng toàn phần."
+      ]
+    },
+    {
+      "id": "vl-nen-lt-02-01", "type": "mcq", "level": 1,
+      "prompt": "Đơn vị nào sau đây là đơn vị của công suất?",
+      "options": ["Jun (J)", "Oát (W)", "Niutơn (N)", "kg·m/s"], "answer": 1,
+      "explain": "Công suất đo bằng oát, 1 W = 1 J/s. Jun là đơn vị công, niutơn là đơn vị lực, kg·m/s là đơn vị động lượng."
+    },
+    {
+      "id": "vl-nen-lt-02-02", "type": "mcq", "level": 1,
+      "prompt": "Lực F vuông góc với độ dịch chuyển của điểm đặt. Công của lực F bằng bao nhiêu?",
+      "options": ["Fs", "−Fs", "0", "Fs/2"], "answer": 2,
+      "explain": "A = Fs cos 90° = 0. Fs ứng với lực cùng hướng dịch chuyển, −Fs ứng với lực ngược hướng, còn Fs/2 ứng với 60°, không phải góc 90° của đề."
+    },
+    {
+      "id": "vl-nen-lt-02-03", "type": "mcq", "level": 2,
+      "prompt": "Phát biểu nào về hiệu suất H = A_{ích}/A_{toàn phần} của một máy là đúng?",
+      "options": ["H có thể lớn hơn 1 nếu máy thiết kế tốt", "H không có đơn vị và không vượt quá 1", "H có đơn vị là oát", "H bằng tích của công có ích và công toàn phần"], "answer": 1,
+      "explain": "H là tỉ số hai năng lượng cùng loại nên không có đơn vị, và năng lượng có ích không thể vượt năng lượng toàn phần. Các phương án còn lại sai về giá trị, đơn vị hoặc công thức."
+    },
+    {
+      "id": "vl-nen-lt-02-04", "type": "tf4", "level": 2,
+      "prompt": "Một vật khối lượng m chuyển động với tốc độ v. Xét các phát biểu sau.",
+      "statements": [
+        "a) Động năng của vật là W_{đ} = ½mv².",
+        "b) Tốc độ tăng gấp đôi thì động năng tăng gấp đôi.",
+        "c) Hợp lực sinh công dương lên vật thì động năng của vật tăng.",
+        "d) Động năng có thể nhận giá trị âm khi vật chuyển động ngược chiều dương của trục."
+      ],
+      "answers": [true, false, true, false],
+      "explain": [
+        "Đúng. Đây là công thức động năng.",
+        "Sai. W_{đ} tỉ lệ với v² nên tốc độ gấp đôi thì động năng gấp bốn.",
+        "Đúng. A = ΔW_{đ} > 0 nên động năng tăng.",
+        "Sai. W_{đ} = ½mv² ≥ 0 với mọi chiều chuyển động vì v² không âm."
+      ]
+    },
+    {
+      "id": "vl-nen-lt-02-05", "type": "num", "level": 2,
+      "prompt": "Ấm điện công suất 1200 W chạy trong 5,0 phút (300 s); nước nhận được nhiệt lượng 270 kJ. Tính hiệu suất của ấm theo %, làm tròn đến số nguyên.",
+      "answer": 75, "round": 0, "unit": "%",
+      "explain": "Năng lượng toàn phần: A = Pt = 1200 · 300 = 3,6·10^5 J. H = 2,7·10^5 / 3,6·10^5 = 0,75 = 75 %. Ghi: 75."
+    },
+    {
+      "id": "vl-nen-lt-02-06", "type": "num", "level": 3,
+      "prompt": "Động cơ nâng đều một tải 100 kg lên cao 12 m trong 8,0 s. Lấy g = 10 m/s² (dữ kiện của đề). Tính công suất có ích của động cơ theo W, làm tròn đến số nguyên.",
+      "answer": 1500, "round": 0, "unit": "W",
+      "explain": "Nâng đều nên lực nâng bằng trọng lượng: A = mgh = 100 · 10 · 12 = 1,2·10^4 J. P = A/t = 12000 / 8,0 = 1500 W. Ghi: 1500."
+    }
+  ]
+}

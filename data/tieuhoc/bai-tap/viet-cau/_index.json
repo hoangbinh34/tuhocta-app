@@ -1,0 +1,51 @@
+[
+ {
+  "id": "th-vc-01",
+  "title": "Sắp xếp từ thành câu (1)",
+  "emoji": "🔀",
+  "file": "viet-cau/th-vc-01.json",
+  "count": 10
+ },
+ {
+  "id": "th-vc-02",
+  "title": "Sắp xếp từ thành câu (2)",
+  "emoji": "🔀",
+  "file": "viet-cau/th-vc-02.json",
+  "count": 10
+ },
+ {
+  "id": "th-vc-03",
+  "title": "Viết lại câu cùng nghĩa (1)",
+  "emoji": "🔁",
+  "file": "viet-cau/th-vc-03.json",
+  "count": 10
+ },
+ {
+  "id": "th-vc-04",
+  "title": "Viết lại câu cùng nghĩa (2)",
+  "emoji": "🔁",
+  "file": "viet-cau/th-vc-04.json",
+  "count": 10
+ },
+ {
+  "id": "th-vc-05",
+  "title": "Tìm và sửa lỗi sai (1)",
+  "emoji": "🔍",
+  "file": "viet-cau/th-vc-05.json",
+  "count": 10
+ },
+ {
+  "id": "th-vc-06",
+  "title": "Tìm và sửa lỗi sai (2)",
+  "emoji": "🔍",
+  "file": "viet-cau/th-vc-06.json",
+  "count": 10
+ },
+ {
+  "id": "th-vc-07",
+  "title": "Viết đoạn văn ngắn (30–50 từ)",
+  "emoji": "📝",
+  "file": "viet-cau/th-vc-07.json",
+  "count": 6
+ }
+]

@@ -1,0 +1,94 @@
+{
+  "id": "vl-tu-cd-06",
+  "title": "Từ: vận dụng số liệu thí nghiệm và năng lượng",
+  "items": [
+    {
+      "id": "vl-tu-cd-06-01", "type": "mcq", "level": 3,
+      "prompt": "Đoạn dây thẳng nằm ngang dài 20 cm, khối lượng 8,0 g có thể trượt thẳng đứng không ma sát trên giá dẫn hướng. B đều nằm ngang, hợp dây góc 30°, độ lớn 0,40 T. Giá không gây lực theo phương thẳng đứng. Chọn chiều dòng điện để lực từ hướng lên; g = 10 m/s². Cường độ dòng điện nào giữ dây cân bằng?",
+      "options": ["1,0 A", "4,0 A", "2,0 A", "0,20 A"], "answer": 2,
+      "explain": "Dây và B cùng nằm ngang nên lực từ thẳng đứng. Cân bằng đòi hỏi BIl sin 30° = mg. I = 0,0080 · 10/(0,40 · 0,20 · 0,5) = 2,0 A. Phải kết hợp cân bằng lực, góc và đổi đơn vị."
+    },
+    {
+      "id": "vl-tu-cd-06-02", "type": "mcq", "level": 3,
+      "prompt": "Cuộn kín gồm 100 vòng giống nhau, điện trở tổng không đổi 2,0 Ω. Mặt cuộn luôn vuông góc B đều không đổi 0,40 T. Một cơ cấu làm diện tích mỗi vòng tăng đều từ 20 cm² lên 50 cm² trong 0,30 s. Bỏ qua tự cảm. Nhiệt lượng tỏa ra trên cuộn trong thời gian đó bằng bao nhiêu?",
+      "options": ["24 mJ", "48 mJ", "12 mJ", "240 mJ"], "answer": 0,
+      "explain": "ΔΦ = BΔS = 0,40 · (50 − 20)·10^{-4} = 0,0012 Wb mỗi vòng. |e| = 100 · 0,0012/0,30 = 0,40 V. Q = e²Δt/R = 0,40² · 0,30/2,0 = 0,024 J = 24 mJ. B không đổi nhưng diện tích đổi vẫn gây cảm ứng."
+    },
+    {
+      "id": "vl-tu-cd-06-03", "type": "mcq", "level": 3,
+      "prompt": "Thanh dẫn trượt trên ray trong từ trường đều, luôn vuông góc ray và B. Cho |e| = Blv, lực từ cản chuyển động F = BIl và I = |e|/R. Khi trượt đều với v = 2,0 m/s, suất điện động là 0,30 V và lực kéo là 0,050 N. Lực ma sát cản luôn bằng 0,020 N; điện trở tổng R không đổi, bỏ qua tự cảm. Khi tăng tốc độ đều lên 4,0 m/s, công suất lực kéo cần thiết bằng bao nhiêu?",
+      "options": ["0,20 W", "0,24 W", "0,40 W", "0,32 W"], "answer": 3,
+      "explain": "Ở 2,0 m/s, lực từ = 0,050 − 0,020 = 0,030 N; công suất điện = 0,030 · 2,0 = 0,060 W. Suy ra R = 0,30²/0,060 = 1,5 Ω. Ở 4,0 m/s, e = 0,60 V nên công suất điện = 0,60²/1,5 = 0,24 W. Cộng công suất ma sát 0,020 · 4,0 = 0,080 W được 0,32 W. Không nhân đôi toàn bộ công suất cũ vì phần cảm ứng tăng theo v²."
+    },
+    {
+      "id": "vl-tu-cd-06-04", "type": "mcq", "level": 3,
+      "prompt": "Proton có m = 1,67·10^{-27} kg, q = 1,60·10^{-19} C đi thẳng đều qua vùng chọn tốc độ có điện trường E = 3,0·10^{3} V/m và từ trường B = 0,010 T. Hai lực ngược chiều, vận tốc vuông góc E và B; cho F điện = qE, F từ = qvB. Sau đó proton vào vùng chỉ có cùng B, vẫn vuông góc vận tốc. Cho qvB = mv²/r. Bỏ qua trọng lực và tương đối tính. Bán kính quỹ đạo gần giá trị nào nhất?",
+      "options": ["3,1 cm", "31 cm", "3,1 m", "0,31 cm"], "answer": 1,
+      "explain": "Đi thẳng đều trong vùng chọn tốc độ: qE = qvB nên v = E/B = 3,0·10^{5} m/s. Trong vùng chỉ có B, r = mv/(qB) = 0,313125 m ≈ 31 cm. Cần tìm tốc độ từ cân bằng lực điện và lực từ trước khi dùng lực hướng tâm."
+    },
+    {
+      "id": "vl-tu-cd-06-05", "type": "num", "level": 3,
+      "prompt": "Trong thí nghiệm cân dòng điện, nam châm nằm trên cân; dây dẫn thẳng nằm ngang, được giá riêng giữ cố định, có chiều dài hữu hiệu 10 cm và vuông góc với B nằm ngang. Số chỉ cân so với mốc chưa có dòng tăng 1,4 g khi I = 1,0 A và tăng 5,0 g khi I = 4,0 A, cùng chiều dòng điện. Có một sai lệch cộng không đổi vào các số đo độ tăng này. Dùng độ dốc của số chỉ cân theo I để loại sai lệch. Lấy g = 10 m/s². Tính B theo T, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 0.12, "round": 2, "unit": "T",
+      "explain": "Lực từ thẳng đứng; số chỉ cân tăng theo I do phản lực lên nam châm hướng xuống. Lấy hiệu hai số đo để triệt sai lệch cộng: Δm = (5,0 − 1,4)·10^{-3} = 0,0036 kg; ΔI = 3,0 A. B = gΔm/(lΔI) = 10 · 0,0036/(0,10 · 3,0) = 0,12 T. Sai lệch cộng tương ứng 0,2 g, nên dùng từng số đo riêng sẽ sai. Ghi: 0,12."
+    },
+    {
+      "id": "vl-tu-cd-06-06", "type": "num", "level": 3,
+      "prompt": "Cuộn dây 80 vòng giống nhau, diện tích mỗi vòng 30 cm², mặt cuộn vuông góc B đều có hướng cố định. B tăng đều từ 0,10 lên 0,50 T. Điện trở cuộn 1,0 Ω, nối với điện trở ngoài 3,0 Ω; bỏ qua tự cảm. Từ Faraday và Ohm có I = N S |ΔB|/(R tổng · Δt). Tính điện lượng đi qua một tiết diện dây trong toàn khoảng B biến thiên theo mC, làm tròn đến hàng đơn vị.",
+      "answer": 24, "round": 0, "unit": "mC",
+      "explain": "Điện lượng q = IΔt = NS|ΔB|/R tổng; thời gian triệt tiêu. q = 80 · 30·10^{-4} · (0,50 − 0,10)/(1,0 + 3,0) = 0,024 C = 24 mC. Ghi: 24. Phải dùng tổng điện trở và độ biến thiên B, không dùng B cuối."
+    },
+    {
+      "id": "vl-tu-cd-06-07", "type": "tf4", "level": 3,
+      "prompt": "Cuộn kín thuần trở 200 vòng giống nhau, diện tích mỗi vòng 15 cm², điện trở tổng 4,0 Ω, đặt trên mặt giấy. B đều vuông góc mặt giấy, hướng vào giấy và giảm đều từ 0,30 T xuống 0,10 T trong 0,50 s. Bỏ qua tự cảm.",
+      "statements": [
+        "a) Độ lớn biến thiên từ thông qua mỗi vòng trong khoảng này là 0,30 mWb.",
+        "b) Cường độ dòng cảm ứng có độ lớn 0,12 A.",
+        "c) Nhìn vào mặt giấy, dòng cảm ứng chạy theo chiều kim đồng hồ.",
+        "d) Nhiệt lượng tỏa ra trên cuộn trong 0,50 s bằng 3,6 mJ."
+      ],
+      "answers": [true, false, true, false],
+      "explain": [
+        "Đúng. |ΔΦ| = 15·10^{-4} · (0,30 − 0,10) = 0,00030 Wb = 0,30 mWb.",
+        "Sai. |e| = 200 · 0,00030/0,50 = 0,12 V; I = 0,12/4,0 = 0,030 A. 0,12 là số đo suất điện động, không phải dòng điện.",
+        "Đúng. Từ thông vào giấy giảm nên dòng cảm ứng tạo B vào giấy để chống giảm; nắm tay phải cho chiều kim đồng hồ.",
+        "Sai. Q = I²RΔt = 0,030² · 4,0 · 0,50 = 0,0018 J = 1,8 mJ."
+      ]
+    },
+    {
+      "id": "vl-tu-cd-06-08", "type": "tf4", "level": 3,
+      "prompt": "Bộ đun có điện trở thuần không đổi 50 Ω, được cấp điện áp u = 200√2 cos(100πt) V, t tính bằng s. Đun 0,50 kg nước trong 120 s; 75 % điện năng làm nóng nước, c = 4000 J/(kg·K). Nước ban đầu 20 °C, không chuyển thể.",
+      "statements": [
+        "a) Cường độ cực đại qua bộ đun bằng 4,0 A.",
+        "b) Công suất điện trung bình của bộ đun bằng 800 W.",
+        "c) Điện năng bộ đun tiêu thụ trong 120 s là 96 kJ.",
+        "d) Nhiệt độ nước tăng 48 K."
+      ],
+      "answers": [false, true, true, false],
+      "explain": [
+        "Sai. U hiệu dụng = 200 V nên I hiệu dụng = 200/50 = 4,0 A; cực đại I_{0} = 4√2 A.",
+        "Đúng. P = U²/R = 200²/50 = 800 W; không dùng điện áp cực đại trong công thức công suất trung bình.",
+        "Đúng. 120 s gồm số nguyên chu kì nên A = PΔt = 800 · 120 = 96000 J = 96 kJ.",
+        "Sai. Nước nhận Q = 0,75 · 96000 = 72000 J; ΔT = Q/(mc) = 72000/(0,50 · 4000) = 36 K. 48 K là kết quả bỏ qua hao phí; nhiệt độ cuối là 56 °C."
+      ]
+    },
+    {
+      "id": "vl-tu-cd-06-09", "type": "num", "level": 3,
+      "prompt": "Electron ban đầu đứng yên, được tăng tốc qua hiệu điện thế có độ lớn U = 200 V rồi bay vào B đều có độ lớn 2,0 mT, vận tốc vuông góc B. Cho m = 9,1·10^{-31} kg, |q| = 1,6·10^{-19} C; |q|U = mv²/2, lực từ |q|vB = mv²/r. Bỏ qua trọng lực, tổn hao và tương đối tính. Tính bán kính quỹ đạo theo mm, làm tròn đến một chữ số sau dấu phẩy.",
+      "answer": 23.8, "round": 1, "exact": 23.84848003542364, "unit": "mm",
+      "explain": "Từ năng lượng v = √(2|q|U/m). Thế vào r = mv/(|q|B) được r = √(2m|q|U)/(|q|B). Với B = 0,0020 T: r = 0,023848480035… m = 23,848480035… mm ≈ 23,8 mm. Ghi: 23,8; chỉ làm tròn kết quả cuối."
+    },
+    {
+      "id": "vl-tu-cd-06-10", "type": "num", "level": 3,
+      "prompt": "Cuộn kín thuần trở 100 vòng, điện trở tổng 2,0 Ω. Từ thông qua mỗi vòng tăng tuyến tính từ 0,10 lên 0,70 mWb trong 0,20 s, giữ nguyên trong 0,10 s, rồi giảm tuyến tính về 0,10 mWb trong 0,40 s. Bỏ qua tự cảm. Tính tổng nhiệt lượng tỏa ra trong cả ba giai đoạn theo mJ, làm tròn đến một chữ số sau dấu phẩy.",
+      "answer": 13.5, "round": 1, "unit": "mJ",
+      "explain": "Đoạn tăng: |e_{1}| = 100 · 0,60·10^{-3}/0,20 = 0,30 V; Q_{1} = 0,30² · 0,20/2,0 = 0,0090 J. Đoạn giữ nguyên có e = 0. Đoạn giảm: |e_{3}| = 100 · 0,60·10^{-3}/0,40 = 0,15 V; Q_{3} = 0,15² · 0,40/2,0 = 0,0045 J. Tổng Q = 0,0135 J = 13,5 mJ. Ghi: 13,5. Từ thông đầu và cuối bằng nhau không có nghĩa nhiệt lượng bằng 0."
+    },
+    {
+      "id": "vl-tu-cd-06-11", "type": "num", "level": 3,
+      "prompt": "Cuộn kín 100 vòng giống nhau, diện tích mỗi vòng 20 cm², điện trở cuộn 1,0 Ω nối với điện trở ngoài 2,0 Ω. Mặt cuộn luôn vuông góc B đều. B có hướng không đổi, giảm đều từ 0,80 xuống 0,20 T trong 0,40 s. Bỏ qua tự cảm. Tính nhiệt lượng tỏa ra trên TOÀN MẠCH trong khoảng này theo mJ, làm tròn đến một chữ số sau dấu phẩy.",
+      "answer": 12, "round": 1, "unit": "mJ",
+      "explain": "|e| = NS|ΔB|/Δt = 100 · 20·10^{-4} · (0,80 − 0,20)/0,40 = 0,30 V. R tổng = 1,0 + 2,0 = 3,0 Ω. Q toàn mạch = e²Δt/R tổng = 0,30² · 0,40/3,0 = 0,012 J = 12,0 mJ. Ghi: 12,0. Nếu chỉ tính nhiệt ở điện trở ngoài thì được 8,0 mJ, khác đại lượng đề hỏi."
+    }
+  ]
+}

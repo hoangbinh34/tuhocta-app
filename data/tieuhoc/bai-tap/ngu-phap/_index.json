@@ -1,0 +1,93 @@
+[
+ {
+  "id": "th-np-01",
+  "title": "Thì hiện tại đơn",
+  "emoji": "🔁",
+  "file": "ngu-phap/th-np-01.json",
+  "count": 12
+ },
+ {
+  "id": "th-np-02",
+  "title": "Thì hiện tại tiếp diễn",
+  "emoji": "⏳",
+  "file": "ngu-phap/th-np-02.json",
+  "count": 10
+ },
+ {
+  "id": "th-np-03",
+  "title": "Thì quá khứ đơn",
+  "emoji": "⏮️",
+  "file": "ngu-phap/th-np-03.json",
+  "count": 12
+ },
+ {
+  "id": "th-np-04",
+  "title": "Tương lai: will / be going to",
+  "emoji": "🔮",
+  "file": "ngu-phap/th-np-04.json",
+  "count": 10
+ },
+ {
+  "id": "th-np-05",
+  "title": "So sánh hơn và so sánh nhất",
+  "emoji": "📏",
+  "file": "ngu-phap/th-np-05.json",
+  "count": 10
+ },
+ {
+  "id": "th-np-06",
+  "title": "Mạo từ và lượng từ",
+  "emoji": "🔢",
+  "file": "ngu-phap/th-np-06.json",
+  "count": 10
+ },
+ {
+  "id": "th-np-07",
+  "title": "Giới từ chỉ thời gian và nơi chốn",
+  "emoji": "📍",
+  "file": "ngu-phap/th-np-07.json",
+  "count": 10
+ },
+ {
+  "id": "th-np-08",
+  "title": "can, should, must và V-ing / to V",
+  "emoji": "🧩",
+  "file": "ngu-phap/th-np-08.json",
+  "count": 10
+ },
+ {
+  "id": "th-np-09",
+  "title": "Câu hỏi Wh- và đại từ",
+  "emoji": "❓",
+  "file": "ngu-phap/th-np-09.json",
+  "count": 10
+ },
+ {
+  "id": "th-np-10",
+  "title": "Liên từ và tính từ -ed / -ing",
+  "emoji": "🔗",
+  "file": "ngu-phap/th-np-10.json",
+  "count": 10
+ },
+ {
+  "id": "th-np-11",
+  "title": "Giao tiếp: chọn câu đáp",
+  "emoji": "💬",
+  "file": "ngu-phap/th-np-11.json",
+  "count": 10
+ },
+ {
+  "id": "th-np-12",
+  "title": "Chia động từ (tự gõ)",
+  "emoji": "⌨️",
+  "file": "ngu-phap/th-np-12.json",
+  "count": 12
+ },
+ {
+  "id": "th-np-13",
+  "title": "Chia động từ 2 (tự gõ)",
+  "emoji": "⌨️",
+  "file": "ngu-phap/th-np-13.json",
+  "count": 12
+ }
+]

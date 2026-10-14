@@ -1,0 +1,16 @@
+{
+  "id": "toan-do-luong-lt-01",
+  "title": "Độ dài và khối lượng",
+  "topic": "do-luong",
+  "items": [
+    {
+      "id": "toan-do-luong-lt-01-t1", "type": "card", "title": "Độ dài và khối lượng",
+      "paras": [
+        "Đổi đơn vị độ dài theo mỗi bậc liền nhau: 1 m = 10 dm = 100 cm = 1 000 mm; 1 km = 1 000 m.",
+        "Đổi đơn vị khối lượng theo mỗi bậc liền nhau: 1 tấn = 1 000 kg, 1 kg = 1 000 g. Khi cộng hoặc trừ, hãy đổi các số đo về cùng một đơn vị trước.",
+        "Số đo hỗn hợp như 2 m 35 cm nghĩa là 2 m và thêm 35 cm. Có thể đổi toàn bộ về cm, hoặc đổi phần nhỏ về m rồi cộng."
+      ],
+      "source": "Toán 5, bài SGK: chưa xác minh; dạng độ dài và khối lượng thuộc phạm vi CB của đặc tả 2.0."
+    }
+  ]
+}

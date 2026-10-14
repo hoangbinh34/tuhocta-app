@@ -1,0 +1,432 @@
+{
+ "id": "th-dt-03",
+ "module": "mock-test",
+ "title": "Đề 3 – kiểu Nguyễn Tất Thành",
+ "emoji": "🏁",
+ "desc": "Khuôn kiểu THCS&THPT Nguyễn Tất Thành: 13 câu trắc nghiệm mức KET, hội thoại, quảng cáo, tin nhắn, đoạn văn, điền 1 từ, tìm lỗi, viết đoạn.",
+ "minutes": 30,
+ "scale": 10,
+ "priority": 1,
+ "sources": [
+  "khuon-de-vao-6"
+ ],
+ "sections": [
+  {
+   "title": "Câu 1–13. Chọn đáp án đúng",
+   "instruction": "Chọn từ hoặc cụm từ đúng để hoàn thành câu.",
+   "items": [
+    {
+     "id": "th-dt-03-01",
+     "type": "mcq",
+     "prompt": "Oxford is one of ___ oldest universities in the world.",
+     "options": [
+      "a",
+      "an",
+      "the",
+      "some"
+     ],
+     "answer": 2,
+     "explain": "Trước so sánh nhất dùng the."
+    },
+    {
+     "id": "th-dt-03-02",
+     "type": "mcq",
+     "prompt": "My sister is afraid ___ spiders.",
+     "options": [
+      "of",
+      "at",
+      "with",
+      "about"
+     ],
+     "answer": 0,
+     "explain": "afraid of: sợ."
+    },
+    {
+     "id": "th-dt-03-03",
+     "type": "mcq",
+     "prompt": "I have ___ friends in my new class, so I'm not lonely.",
+     "options": [
+      "a few",
+      "a little",
+      "much",
+      "any"
+     ],
+     "answer": 0,
+     "explain": "friends đếm được, nghĩa tích cực (có vài): a few."
+    },
+    {
+     "id": "th-dt-03-04",
+     "type": "mcq",
+     "prompt": "He was tired, ___ he went to bed early.",
+     "options": [
+      "because",
+      "so",
+      "but",
+      "or"
+     ],
+     "answer": 1,
+     "explain": "Kết quả: so."
+    },
+    {
+     "id": "th-dt-03-05",
+     "type": "mcq",
+     "prompt": "Can you turn ___ the light? It's too dark.",
+     "options": [
+      "on",
+      "in",
+      "off",
+      "at"
+     ],
+     "answer": 0,
+     "explain": "Bật đèn: turn on."
+    },
+    {
+     "id": "th-dt-03-06",
+     "type": "mcq",
+     "prompt": "The film was so ___ that we laughed a lot.",
+     "options": [
+      "boring",
+      "funny",
+      "sad",
+      "scary"
+     ],
+     "answer": 1,
+     "explain": "Cười nhiều nên phim hài: funny."
+    },
+    {
+     "id": "th-dt-03-07",
+     "type": "mcq",
+     "prompt": "Nam is the ___ runner in our school.",
+     "options": [
+      "fast",
+      "faster",
+      "fastest",
+      "most fast"
+     ],
+     "answer": 2,
+     "explain": "the + fastest."
+    },
+    {
+     "id": "th-dt-03-08",
+     "type": "mcq",
+     "prompt": "Everybody ___ happy at the party last night.",
+     "options": [
+      "was",
+      "were",
+      "are",
+      "is"
+     ],
+     "answer": 0,
+     "explain": "Everybody đi với động từ số ít; \"last night\": was."
+    },
+    {
+     "id": "th-dt-03-09",
+     "type": "mcq",
+     "prompt": "Please be quiet. The baby ___.",
+     "options": [
+      "sleeps",
+      "is sleeping",
+      "slept",
+      "sleep"
+     ],
+     "answer": 1,
+     "explain": "Việc đang xảy ra: is sleeping."
+    },
+    {
+     "id": "th-dt-03-10",
+     "type": "mcq",
+     "prompt": "There isn't ___ water in the bottle.",
+     "options": [
+      "some",
+      "any",
+      "many",
+      "a"
+     ],
+     "answer": 1,
+     "explain": "Phủ định với danh từ không đếm được: any."
+    },
+    {
+     "id": "th-dt-03-11",
+     "type": "mcq",
+     "prompt": "My parents let me ___ TV after I finish my homework.",
+     "options": [
+      "watch",
+      "to watch",
+      "watching",
+      "watched"
+     ],
+     "answer": 0,
+     "explain": "let + tân ngữ + động từ nguyên mẫu."
+    },
+    {
+     "id": "th-dt-03-12",
+     "type": "mcq",
+     "prompt": "A person who writes books is called an ___.",
+     "options": [
+      "author",
+      "actor",
+      "artist",
+      "athlete"
+     ],
+     "answer": 0,
+     "explain": "author: tác giả."
+    },
+    {
+     "id": "th-dt-03-13",
+     "type": "mcq",
+     "prompt": "I'm looking forward ___ you soon.",
+     "options": [
+      "to see",
+      "to seeing",
+      "seeing",
+      "see"
+     ],
+     "answer": 1,
+     "explain": "look forward to + V-ing."
+    }
+   ]
+  },
+  {
+   "title": "Câu 14–15. Hội thoại",
+   "instruction": "Chọn câu đáp lại phù hợp nhất.",
+   "items": [
+    {
+     "id": "th-dt-03-14",
+     "type": "mcq",
+     "prompt": "Tom: \"Can you help me carry this box?\" – Mai: \"___\"",
+     "options": [
+      "Sure, no problem.",
+      "Yes, I can't.",
+      "You're welcome.",
+      "Never mind."
+     ],
+     "answer": 0,
+     "explain": "Đồng ý giúp: Sure, no problem."
+    },
+    {
+     "id": "th-dt-03-15",
+     "type": "mcq",
+     "prompt": "Linh: \"I'm sorry, I broke your pencil.\" – Nam: \"___\"",
+     "options": [
+      "Don't worry about it.",
+      "Thank you.",
+      "Congratulations!",
+      "Yes, please."
+     ],
+     "answer": 0,
+     "explain": "Đáp lời xin lỗi: Don't worry about it."
+    }
+   ]
+  },
+  {
+   "title": "Câu 16–17. Đọc quảng cáo",
+   "instruction": "Đọc quảng cáo và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "th-dt-03-g1",
+     "type": "group",
+     "title": "Kids' cooking class",
+     "passage": "KIDS' COOKING CLASS\nLearn to make pizza, cakes and fruit salad!\nEvery Saturday, 9 a.m. – 11 a.m.\nPrice: 150,000 dong a lesson (food included)\nWear an apron. Don't bring knives – we have them for you.",
+     "items": [
+      {
+       "id": "th-dt-03-16",
+       "type": "mcq",
+       "prompt": "What do students NOT need to bring?",
+       "options": [
+        "An apron",
+        "Knives",
+        "Money for the lesson"
+       ],
+       "answer": 1,
+       "explain": "\"Don't bring knives – we have them for you\"."
+      },
+      {
+       "id": "th-dt-03-17",
+       "type": "mcq",
+       "prompt": "Which is TRUE about the class?",
+       "options": [
+        "It is on Sunday.",
+        "Students learn to make pizza.",
+        "It lasts three hours.",
+        "Food costs extra money."
+       ],
+       "answer": 1,
+       "explain": "\"Learn to make pizza…\"; lớp học 2 tiếng, thứ Bảy, giá đã gồm đồ ăn."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 18. Đọc tin nhắn",
+   "instruction": "Đọc tin nhắn và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "th-dt-03-g2",
+     "type": "group",
+     "title": "Message",
+     "passage": "Hi Sam,\nThe football match is cancelled because of the rain. Let's watch a film at my house instead. Bring some popcorn!\nBen",
+     "items": [
+      {
+       "id": "th-dt-03-18",
+       "type": "mcq",
+       "prompt": "Why does Ben write to Sam?",
+       "options": [
+        "To change their plan",
+        "To ask him to play football in the rain",
+        "To invite him to the cinema",
+        "To sell him some popcorn"
+       ],
+       "answer": 0,
+       "explain": "Trận bóng bị huỷ, Ben đề nghị xem phim ở nhà: đổi kế hoạch."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 19–21. Đọc đoạn văn",
+   "instruction": "Đọc đoạn văn và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "th-dt-03-g3",
+     "type": "group",
+     "title": "Hoi An",
+     "passage": "Hoi An is an old town in the middle of Viet Nam. It is famous for its yellow houses, old bridges and colourful lanterns. Every month, on the night of the full moon, people turn off the electric lights and light lanterns instead. Visitors can also take a boat trip on the Hoai River, make their own lanterns or try local food like cao lau. Because of its beautiful old buildings, Hoi An became a UNESCO World Heritage Site in 1999.",
+     "items": [
+      {
+       "id": "th-dt-03-19",
+       "type": "mcq",
+       "prompt": "What is the text mainly about?",
+       "options": [
+        "The old town of Hoi An",
+        "Lanterns in Viet Nam",
+        "The Hoai River",
+        "A kind of noodles"
+       ],
+       "answer": 0,
+       "explain": "Cả đoạn giới thiệu phố cổ Hội An."
+      },
+      {
+       "id": "th-dt-03-20",
+       "type": "mcq",
+       "prompt": "Which activity is NOT mentioned in the text?",
+       "options": [
+        "Taking a boat trip",
+        "Making lanterns",
+        "Trying local food",
+        "Climbing a mountain"
+       ],
+       "answer": 3,
+       "explain": "Bài không nhắc đến leo núi."
+      },
+      {
+       "id": "th-dt-03-21",
+       "type": "mcq",
+       "prompt": "The word \"famous\" is closest in meaning to ___.",
+       "options": [
+        "well-known",
+        "beautiful",
+        "old",
+        "small"
+       ],
+       "answer": 0,
+       "explain": "famous = well-known (nổi tiếng)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 22–24. Điền một từ",
+   "instruction": "Điền MỘT từ lấy từ bài đọc vào chỗ trống.",
+   "items": [
+    {
+     "id": "th-dt-03-g4",
+     "type": "group",
+     "title": "Camping by the lake",
+     "passage": "Mai's family went camping by the lake last weekend. Her father put up the tent, and Mai collected wood for the fire. In the evening, they cooked sausages and told stories. At night, it was very cold, so Mai wore two jumpers. She felt tired but happy when they came home.",
+     "items": [
+      {
+       "id": "th-dt-03-22",
+       "type": "input",
+       "prompt": "Mai's father put up the ___.",
+       "answers": [
+        "tent"
+       ],
+       "explain": "\"Her father put up the tent\"."
+      },
+      {
+       "id": "th-dt-03-23",
+       "type": "input",
+       "prompt": "In the evening, they cooked ___.",
+       "answers": [
+        "sausages"
+       ],
+       "explain": "\"they cooked sausages\"."
+      },
+      {
+       "id": "th-dt-03-24",
+       "type": "input",
+       "prompt": "Mai felt tired but ___ when they came home.",
+       "answers": [
+        "happy"
+       ],
+       "explain": "\"She felt tired but happy\"."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 25. Tìm và sửa lỗi",
+   "instruction": "Tìm một từ sai rồi viết lại từ đúng (từ đúng có cách đọc giống từ sai).",
+   "items": [
+    {
+     "id": "th-dt-03-25",
+     "type": "error",
+     "prompt": "Tìm một từ sai và sửa lại",
+     "tokens": [
+      "My",
+      "mother",
+      "bought",
+      "a",
+      "big",
+      "piece",
+      "of",
+      "meet",
+      "for",
+      "dinner."
+     ],
+     "wrong": 7,
+     "answers": [
+      "meat"
+     ],
+     "explain": "meet (gặp) đọc giống meat (thịt); mua cho bữa tối là meat."
+    }
+   ]
+  },
+  {
+   "title": "Câu 26. Viết đoạn văn",
+   "instruction": "Viết đoạn văn 30–50 từ.",
+   "items": [
+    {
+     "id": "th-dt-03-26",
+     "type": "writing",
+     "prompt": "In about 30–50 words, write about your favourite place in your town and why you like it.",
+     "minWords": 30,
+     "maxWords": 50,
+     "checklist": [
+      "Viết đúng chủ đề đề bài yêu cầu",
+      "Có ít nhất 2 ý hoặc lý do (because…)",
+      "Dùng đúng thì",
+      "Khoảng 30–50 từ",
+      "Viết hoa đầu câu, có dấu chấm"
+     ],
+     "sample": "My favourite place in my town is the park near my house. It has big trees, a small lake and many flowers. I go there with my friends after school. We play badminton and feed the fish. I like it because it is green and quiet.",
+     "explain": "Câu viết không tính vào điểm tự động. Đối chiếu với danh sách kiểm tra và bài mẫu."
+    }
+   ]
+  }
+ ]
+}

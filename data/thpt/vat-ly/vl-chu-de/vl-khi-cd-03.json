@@ -1,0 +1,94 @@
+{
+  "id": "vl-khi-cd-03",
+  "title": "Khí: vận dụng pít-tông, lốp xe và bảo toàn lượng khí",
+  "items": [
+    {
+      "id": "vl-khi-cd-03-01", "type": "mcq", "level": 3,
+      "prompt": "Xi-lanh nằm ngang chứa khí lí tưởng kín, pít-tông không ma sát có S = 0,010 m² gắn với lò xo k = 1000 N/m. Ban đầu lò xo chưa biến dạng, khí có V_{1} = 1,00 L, T_{1} = 300 K, p_{1} = p_{ngoài} = 100 kPa. Nung chậm để pít-tông dịch ra ngoài 5,0 cm và nén lò xo; lực lò xo hướng vào trong, F = kx. Nhiệt độ cuối gần giá trị nào nhất?",
+      "options": ["300 K", "450 K", "315 K", "473 K"], "answer": 3,
+      "explain": "ΔV = Sx = 0,010 · 0,050 = 0,00050 m³ nên V_{2} = 1,50 L. Cân bằng: p_{2} = p_{ngoài} + kx/S = 105 kPa. Lượng khí kín cho T_{2} = 300 · (105 · 1,50)/(100 · 1,00) = 472,5 K, gần 473 K nhất."
+    },
+    {
+      "id": "vl-khi-cd-03-02", "type": "mcq", "level": 3,
+      "prompt": "Một mẫu khí lí tưởng ban đầu có p_{1} = 100 kPa, V_{1} = 4,0 L, T_{1} = 300 K. Sau khi vừa nén vừa để khí thoát ra, trạng thái cuối là p_{2} = 128 kPa, V_{2} = 2,0 L, T_{2} = 320 K. Các áp suất là tuyệt đối, không có khí đi vào và không phản ứng. Bao nhiêu phần trăm số mol ban đầu đã thoát ra?",
+      "options": ["40 %", "20 %", "50 %", "60 %"], "answer": 0,
+      "explain": "n_{2}/n_{1} = p_{2}V_{2}T_{1}/(p_{1}V_{1}T_{2}) = 128 · 2 · 300/(100 · 4 · 320) = 0,60. Phần đã thoát là 1 − 0,60 = 0,40 = 40 %. Áp suất tăng không có nghĩa số mol tăng."
+    },
+    {
+      "id": "vl-khi-cd-03-03", "type": "mcq", "level": 3,
+      "prompt": "Hai bình chứa khí lí tưởng: heli ở 300 K, M_{He} = 4,0 g/mol và nitơ ở 600 K, M_{N₂} = 28 g/mol. Cho v_{rms} = √(3RT/M). Tỉ số v_{He}/v_{N₂} gần giá trị nào nhất?",
+      "options": ["0,53", "1,87", "3,50", "2,65"], "answer": 1,
+      "explain": "Tỉ số là √[(T_{He}/M_{He})/(T_{N₂}/M_{N₂})] = √[(300/4)/(600/28)] = √3,5 = 1,8708… . Khi lấy tỉ số có thể dùng cùng đơn vị g/mol cho hai M; nếu tính tốc độ riêng phải đổi M sang kg/mol."
+    },
+    {
+      "id": "vl-khi-cd-03-04", "type": "mcq", "level": 3,
+      "prompt": "Khí kín dưới pít-tông có tải không đổi được nung chậm từ T_{1} = 300 K, V_{1} = 2,0 L. Pít-tông tự do tới khi V = 3,0 L thì chạm chốt. Tiếp tục nung tới 600 K; áp suất cuối bằng bao nhiêu lần áp suất đầu?",
+      "options": ["1 lần", "2 lần", "4/3 lần", "3/2 lần"], "answer": 2,
+      "explain": "Trước chốt khí đẳng áp: T_{chốt} = 300 · 3/2 = 450 K. Sau chốt khí đẳng tích: p_{cuối}/p_{đầu} = 600/450 = 4/3. Không dùng đẳng áp cho cả quá trình."
+    },
+    {
+      "id": "vl-khi-cd-03-05", "type": "num", "level": 3,
+      "prompt": "Xi-lanh thẳng đứng chứa 0,100 mol khí lí tưởng dưới pít-tông khối lượng tổng cộng 20,0 kg, diện tích S = 0,0100 m². Pít-tông cân bằng, không ma sát, chưa chạm chốt. Áp suất khí quyển 100 kPa, g = 10,0 m/s², nhiệt độ khí 300 K; R = 8,31 J/(mol·K). Tính thể tích khí theo L, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 2.08, "round": 2, "exact": 2.0775, "unit": "L",
+      "explain": "Cân bằng lực: p = p_{ngoài} + mg/S = 100 000 + 20,0 · 10,0/0,0100 = 120 000 Pa. V = nRT/p = 0,100 · 8,31 · 300/120 000 = 0,0020775 m³ = 2,0775 L ≈ 2,08 L. Ghi: 2,08."
+    },
+    {
+      "id": "vl-khi-cd-03-06", "type": "num", "level": 3,
+      "prompt": "Bình cứng 10,0 L ban đầu chứa không khí ở áp suất tuyệt đối 1,00 bar. Bơm lí tưởng mỗi nhát hút 0,500 L khí ở áp suất tuyệt đối 1,00 bar rồi đưa toàn bộ vào bình, không có thể tích chết hay rò rỉ. Khí hút và khí trong bình sau mỗi nhát đều cân bằng ở cùng nhiệt độ không đổi. Cần tối thiểu bao nhiêu nhát đầy đủ để áp suất bình đạt ít nhất 3,00 bar? Ghi số nguyên, làm tròn đến hàng đơn vị; nếu tính ra không nguyên phải lấy số nguyên lớn hơn liền kề.",
+      "answer": 40, "round": 0, "unit": "nhát",
+      "explain": "Số mol cần thêm Δn = (p_{2} − p_{1})V/(RT); mỗi nhát thêm p_{ngoài}V_{hút}/(RT). Số nhát = (3,00 − 1,00) · 10,0/(1,00 · 0,500) = 40, đúng số nguyên nên cần 40 nhát. Ghi: 40."
+    },
+    {
+      "id": "vl-khi-cd-03-07", "type": "tf4", "level": 3,
+      "prompt": "Khí lí tưởng kín dưới pít-tông thẳng đứng có tổng khối lượng pít-tông và tải 20 kg, S = 0,010 m². Pít-tông không ma sát, chưa chạm chốt; áp suất khí quyển 100 kPa, g = 10 m/s². Ban đầu khí có V_{1} = 2,0 L, T_{1} = 300 K; nung chậm tới 450 K. Cho công khí thực hiện khi đẳng áp W = p(V_{2} − V_{1}); bỏ qua thay đổi động năng vĩ mô.",
+      "statements": [
+        "a) Áp suất tuyệt đối của khí trong quá trình là 120 kPa.",
+        "b) Thể tích khí cuối quá trình là 4,0 L.",
+        "c) Số mol khí giảm vì pít-tông đi lên.",
+        "d) Công khí thực hiện trong quá trình là 120 J."
+      ],
+      "answers": [true, false, false, true],
+      "explain": [
+        "Đúng. p = p_{ngoài} + mg/S = 100 000 + 20 · 10/0,010 = 120 000 Pa = 120 kPa.",
+        "Sai. Tải không đổi nên khí đẳng áp: V_{2} = 2,0 · 450/300 = 3,0 L, không phải 4,0 L.",
+        "Sai. Khí kín nên số mol không đổi; thể tích tăng vì nhiệt độ tăng.",
+        "Đúng. Đổi ΔV = (3,0 − 2,0)·10^{-3} m³. W = 120 000 · 0,0010 = 120 J; công khí nhận theo quy ước nhóm Nhiệt là −120 J."
+      ]
+    },
+    {
+      "id": "vl-khi-cd-03-08", "type": "tf4", "level": 3,
+      "prompt": "Lốp xe có thể tích coi như không đổi, khí lí tưởng bên trong ban đầu ở 300 K. Đồng hồ đo áp suất dư chỉ 240 kPa; áp suất khí quyển luôn 100 kPa. Trước hết khí nóng lên 330 K mà không rò rỉ. Sau đó xả bớt đúng 10 % số mol khí trong lốp, giữ nhiệt độ khí 330 K và thể tích như cũ.",
+      "statements": [
+        "a) Áp suất tuyệt đối ban đầu là 340 kPa.",
+        "b) Khi vừa nóng lên 330 K, đồng hồ chỉ 264 kPa.",
+        "c) Trước khi xả khí, động năng tịnh tiến trung bình mỗi phân tử tăng 10 % so với ban đầu.",
+        "d) Sau khi xả khí, đồng hồ chỉ 246,6 kPa."
+      ],
+      "answers": [true, false, true, false],
+      "explain": [
+        "Đúng. p_{1} = 240 + 100 = 340 kPa; đây mới là áp suất dùng trong phương trình trạng thái.",
+        "Sai. p_{2} = 340 · 330/300 = 374 kPa; áp suất dư là 374 − 100 = 274 kPa. 264 kPa là do lấy tỉ số bằng áp suất dư.",
+        "Đúng. E_{2}/E_{1} = 330/300 = 1,10 nên động năng tịnh tiến trung bình tăng 10 %.",
+        "Sai. Sau xả còn 90 % số mol ở cùng V và T: p_{3} = 0,90 · 374 = 336,6 kPa. Đồng hồ chỉ 336,6 − 100 = 236,6 kPa, không phải 246,6 kPa."
+      ]
+    },
+    {
+      "id": "vl-khi-cd-03-09", "type": "num", "level": 3,
+      "prompt": "Xi-lanh thẳng đứng chứa khí lí tưởng kín dưới pít-tông không ma sát, S = 0,010 m². Ban đầu tổng khối lượng pít-tông và tải là 20 kg, khí cân bằng ở 27 °C, thể tích 6,00 L. Thêm tải để tổng khối lượng thành 40 kg, đồng thời nung khí; trạng thái cuối cân bằng ở 87 °C, pít-tông chưa chạm chốt. Áp suất khí quyển luôn 100 kPa, g = 10 m/s²; dùng T = t + 273. Tính thể tích cuối theo L, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 6.17, "round": 2, "exact": 6.171428571428572, "unit": "L",
+      "explain": "Cân bằng lực cho p_{1} = 100 000 + 20 · 10/0,010 = 120 000 Pa, p_{2} = 100 000 + 40 · 10/0,010 = 140 000 Pa. T_{1} = 300 K, T_{2} = 360 K. Khí kín: V_{2} = p_{1}V_{1}T_{2}/(p_{2}T_{1}) = 120 · 6,00 · 360/(140 · 300) = 6,171428571… L ≈ 6,17 L. Ghi: 6,17. Áp suất và nhiệt độ đều thay đổi nên quá trình không đẳng áp hay đẳng nhiệt."
+    },
+    {
+      "id": "vl-khi-cd-03-10", "type": "num", "level": 3,
+      "prompt": "Hai bình cứng chứa cùng loại khí lí tưởng, bình A có 3,0 L ở áp suất tuyệt đối 2,0 bar, bình B có 6,0 L ở áp suất tuyệt đối 1,0 bar. Ban đầu hai bình cùng ở 300 K. Mở van nối, thể tích ống không đáng kể, không rò rỉ; sau cân bằng cả hai bình lại ở 300 K. Tính áp suất tuyệt đối chung theo bar, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 1.33, "round": 2, "exact": 1.3333333333333333, "unit": "bar",
+      "explain": "Bảo toàn số mol ở cùng T: p(V_{A} + V_{B}) = p_{A}V_{A} + p_{B}V_{B}. p = (2,0 · 3,0 + 1,0 · 6,0)/(3,0 + 6,0) = 4/3 bar = 1,333333… bar ≈ 1,33 bar. Ghi: 1,33; không lấy trung bình cộng hai áp suất vì thể tích khác nhau."
+    },
+    {
+      "id": "vl-khi-cd-03-11", "type": "num", "level": 3,
+      "prompt": "Bình cứng chứa khí lí tưởng ban đầu ở 400 K và áp suất tuyệt đối 300 kPa. Van bị hở làm một phần khí thoát ra, không có khí đi vào và không phản ứng. Khi đóng van, khí còn lại cân bằng ở 300 K, áp suất tuyệt đối 200 kPa. Tính phần trăm số mol ban đầu đã thoát ra, làm tròn đến hàng đơn vị.",
+      "answer": 11, "round": 0, "exact": 11.111111111111116, "unit": "%",
+      "explain": "V không đổi: n_{2}/n_{1} = p_{2}T_{1}/(p_{1}T_{2}) = 200 · 400/(300 · 300) = 8/9. Phần thoát ra là (1 − 8/9) · 100 % = 11,111111… % ≈ 11 %. Ghi: 11. Không coi toàn bộ giảm áp suất là do mất khí vì nhiệt độ cũng giảm."
+    }
+  ]
+}

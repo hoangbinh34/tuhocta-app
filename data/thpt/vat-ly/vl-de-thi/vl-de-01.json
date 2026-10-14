@@ -1,0 +1,238 @@
+{
+  "id": "vl-de-01",
+  "title": "Đề thi thử Vật lý số 1",
+  "emoji": "🏁",
+  "minutes": 50,
+  "scale": 10,
+  "desc": "Đề tự soạn theo cấu trúc tốt nghiệp từ 2025: 18 câu chọn một đáp án, 4 câu đúng/sai và 6 câu trả lời ngắn. Hằng số theo thẻ Hằng số dùng trong đề: R = 8,31 J/(mol·K); ln 2 = 0,693; T (K) = t (°C) + 273. Không làm tròn bước trung gian; chỉ ghi phần số ở Phần III.",
+  "sections": [
+    {
+      "title": "Phần I",
+      "points": 0.25,
+      "items": [
+        {
+          "id": "vl-de-01-i01", "type": "mcq", "topic": "nhiet", "level": 1,
+          "prompt": "Theo mô hình phân tử của vật chất, khi khoảng cách giữa hai phân tử rất lớn so với kích thước phân tử, lực tương tác giữa chúng có đặc điểm nào?",
+          "options": ["Luôn tăng khi khoảng cách tăng", "Rất nhỏ, có thể coi như không đáng kể", "Luôn là lực đẩy rất mạnh", "Không phụ thuộc khoảng cách"],
+          "answer": 1,
+          "explain": "Bước 1: Lực tương tác phân tử chỉ đáng kể khi các phân tử ở gần nhau. Bước 2: Khi khoảng cách rất lớn so với kích thước phân tử, lực tương tác rất nhỏ và có thể bỏ qua trong mô hình phân tử."
+        },
+        {
+          "id": "vl-de-01-i02", "type": "mcq", "topic": "nhiet", "level": 1,
+          "prompt": "Hai khăn ướt giống nhau được phơi ở cùng nhiệt độ, cùng mức thông gió và cùng diện tích tiếp xúc với không khí. Khăn nào thường khô nhanh hơn?",
+          "options": ["Khăn ở nơi không khí có độ ẩm cao hơn", "Hai khăn luôn khô cùng lúc, bất kể độ ẩm", "Khăn ở nơi không khí có độ ẩm thấp hơn", "Khăn ở nơi hơi nước đã bão hoà"],
+          "answer": 2,
+          "explain": "Bước 1: Tốc độ bay hơi phụ thuộc độ ẩm của không khí bên cạnh nhiệt độ, thông gió và diện tích mặt thoáng. Bước 2: Khi các yếu tố khác như nhau, không khí có độ ẩm thấp hơn thuận lợi cho nước bay hơi, nên khăn khô nhanh hơn."
+        },
+        {
+          "id": "vl-de-01-i03", "type": "mcq", "topic": "nhiet", "level": 1,
+          "prompt": "Một nhiệt kế chất lỏng có bầu chứa cồn nối với ống mao quản. Khi nhiệt độ tăng trong phạm vi đo, cột cồn dâng lên. Nhiệt kế này hoạt động chủ yếu dựa trên tính chất nào?",
+          "options": ["Cồn đông đặc khi được làm nóng", "Khối lượng cồn tăng theo nhiệt độ", "Nhiệt dung riêng của cồn luôn bằng không", "Cồn nở vì nhiệt"],
+          "answer": 3,
+          "explain": "Bước 1: Trong phạm vi đo của nhiệt kế, cồn nở ra khi nhiệt độ tăng, làm thể tích cồn tăng. Bước 2: Phần thể tích tăng thêm làm cột cồn trong ống mao quản dâng lên; thang chia cho phép đọc nhiệt độ. Khối lượng cồn không tăng."
+        },
+        {
+          "id": "vl-de-01-i04", "type": "mcq", "topic": "nhiet", "level": 1,
+          "prompt": "Trong cách chia thang Celsius dùng ở trường phổ thông, ở áp suất tiêu chuẩn, mốc nước đá tinh khiết đang tan và mốc nước tinh khiết đang sôi lần lượt được ghi là",
+          "options": ["0 °C và 100 °C", "0 °C và 273 °C", "100 °C và 0 °C", "273 °C và 373 °C"],
+          "answer": 0,
+          "explain": "Bước 1: Hai mốc quen thuộc của thang Celsius ở áp suất tiêu chuẩn là nước đá tinh khiết đang tan và nước tinh khiết đang sôi. Bước 2: Các mốc này lần lượt là 0 °C và 100 °C; 273 và 373 là các giá trị kelvin gần đúng tương ứng, không phải số chỉ Celsius."
+        },
+        {
+          "id": "vl-de-01-i05", "type": "mcq", "topic": "nhiet", "level": 2,
+          "prompt": "Một lượng khí thực hiện một chu trình rồi trở về đúng trạng thái ban đầu. Trong chu trình, khí nhận nhiệt 300 J ở một giai đoạn và toả nhiệt 420 J ở các giai đoạn còn lại; chỉ trao đổi năng lượng bằng nhiệt và công. Với ΔU = Q + A, A là công khí nhận, kết luận nào đúng cho cả chu trình?",
+          "options": ["Khí thực hiện công 120 J lên môi trường", "Khí nhận công 720 J từ môi trường", "Khí nhận công 120 J từ môi trường", "Khí không trao đổi công vì trạng thái cuối trùng trạng thái đầu"],
+          "answer": 2,
+          "explain": "Bước 1: Nội năng là hàm trạng thái nên sau một chu trình ΔU = 0, dù khí vẫn có thể trao đổi nhiệt và công. Bước 2: Nhiệt lượng đại số Q = 300 − 420 = −120 J. Bước 3: A = ΔU − Q = +120 J; khí nhận công 120 J từ môi trường."
+        },
+        {
+          "id": "vl-de-01-i06", "type": "mcq", "topic": "nhiet", "level": 1,
+          "prompt": "Đun nước tinh khiết trong nồi hở trên núi cao, nơi áp suất khí quyển thấp hơn áp suất tiêu chuẩn. So với 100 °C ở áp suất tiêu chuẩn, nhiệt độ sôi của nước thường",
+          "options": ["cao hơn", "thấp hơn", "luôn bằng 100 °C", "luôn bằng 0 °C"],
+          "answer": 1,
+          "explain": "Bước 1: Nhiệt độ sôi của một chất lỏng phụ thuộc áp suất bên ngoài. Bước 2: Khi áp suất bên ngoài giảm, nhiệt độ sôi giảm; vì vậy nước trong nồi hở trên núi cao thường sôi dưới 100 °C."
+        },
+        {
+          "id": "vl-de-01-i07", "type": "mcq", "topic": "nhiet", "level": 2,
+          "prompt": "Đo nhiệt dung riêng c của mẫu khối lượng m, không chuyển thể và có c không đổi: dây đốt cung cấp điện năng E, làm mẫu và bình cùng tăng nhiệt độ ΔT > 0. Bình có nhiệt dung C_{bình} > 0; phép đo phụ xác định nhiệt lượng Q_{mất} > 0 toả ra môi trường. Bỏ qua nhiệt dung dây đốt và mọi trao đổi năng lượng khác. Biểu thức nào hiệu chỉnh đúng cả phần bình lẫn phần thất thoát?",
+          "options": ["c = (E + C_{bình}ΔT + Q_{mất})/(mΔT)", "c = (E − C_{bình}ΔT + Q_{mất})/(mΔT)", "c = (E − Q_{mất})/(mΔT)", "c = (E − C_{bình}ΔT − Q_{mất})/(mΔT)"],
+          "answer": 3,
+          "explain": "Bước 1: Bảo toàn năng lượng cho phép đo: E = mcΔT + C_{bình}ΔT + Q_{mất}. Bước 2: Nhiệt lượng thực sự làm nóng mẫu là E − C_{bình}ΔT − Q_{mất}. Bước 3: Chia cho mΔT được c = (E − C_{bình}ΔT − Q_{mất})/(mΔT); phải trừ cả hai phần năng lượng không làm nóng mẫu."
+        },
+        {
+          "id": "vl-de-01-i08", "type": "mcq", "topic": "nhiet", "level": 2,
+          "prompt": "Một miếng kim loại và một miếng gỗ đã để lâu trong cùng phòng nên có cùng nhiệt độ, thấp hơn nhiệt độ da tay. Khi chạm lần lượt bằng hai ngón tay có cùng nhiệt độ ban đầu, kim loại cho cảm giác lạnh hơn. Giải thích nào phù hợp?",
+          "options": ["Kim loại dẫn nhiệt từ tay ra nhanh hơn gỗ nên tay mất nhiệt nhanh hơn", "Kim loại nhất thiết có nhiệt độ thấp hơn gỗ", "Nhiệt tự truyền từ kim loại lạnh sang tay nóng nhanh hơn", "Gỗ không thể trao đổi nhiệt với tay"],
+          "answer": 0,
+          "explain": "Bước 1: Cả hai miếng đều lạnh hơn tay nên nhiệt truyền từ tay sang vật khi tiếp xúc. Bước 2: Kim loại dẫn nhiệt tốt hơn gỗ, đưa nhiệt ra khỏi vùng tiếp xúc nhanh hơn và làm da tay mất nhiệt nhanh hơn. Bước 3: Cảm giác lạnh hơn phản ánh tốc độ mất nhiệt, không chứng minh hai miếng có nhiệt độ ban đầu khác nhau."
+        },
+        {
+          "id": "vl-de-01-i09", "type": "mcq", "topic": "khi", "level": 1,
+          "prompt": "Quan sát chuyển động Brown của các hạt bụi rất nhỏ lơ lửng trong không khí qua kính hiển vi. Những đối tượng chuyển động hỗn loạn được nhìn thấy trực tiếp là",
+          "options": ["từng phân tử nitơ riêng lẻ", "các hạt bụi bị phân tử không khí va chạm", "các electron trong hạt bụi", "các đường sức từ của không khí"],
+          "answer": 1,
+          "explain": "Bước 1: Các phân tử không khí chuyển động nhiệt và va chạm không cân bằng tức thời lên hạt bụi nhỏ. Bước 2: Kính hiển vi cho thấy chuyển động hỗn loạn của hạt bụi, là đối tượng lớn hơn nhiều so với phân tử; không nhìn thấy trực tiếp từng phân tử không khí."
+        },
+        {
+          "id": "vl-de-01-i10", "type": "mcq", "topic": "khi", "level": 2,
+          "prompt": "Khảo sát một lượng khí lí tưởng kín trong bình cứng, nhiệt kế đo đúng T theo kelvin. Cảm biến áp suất có sai lệch cộng không đổi; kết quả khớp p_{đo} = aT + b với a > 0, b > 0. Để kiểm tra tỉ số áp suất tuyệt đối thực trên T có không đổi, phải xử lí số đo thế nào?",
+          "options": ["Dùng p = p_{đo} + b", "Dùng T mới bằng T + 273", "Dùng p = p_{đo} − b", "Giữ p = p_{đo} vì mọi đường thẳng đều biểu thị p/T không đổi"],
+          "answer": 2,
+          "explain": "Bước 1: Với khí kín trong bình cứng, p = (nR/V)T nên đồ thị áp suất tuyệt đối thực theo T kelvin đi qua gốc. Bước 2: Hệ số chặn b của p_{đo} = aT + b là sai lệch cộng của cảm biến. Bước 3: Trừ b được p = aT, khi đó p/T = a không đổi; T đã theo kelvin nên không cộng 273."
+        },
+        {
+          "id": "vl-de-01-i11", "type": "mcq", "topic": "tu", "level": 1,
+          "prompt": "Đặt một kim nam châm thử nhỏ tại điểm có cảm ứng từ khác không, cho kim quay tự do và đạt cân bằng theo từ trường. Hướng của vectơ cảm ứng từ tại điểm đó được quy ước như thế nào?",
+          "options": ["Dọc trục kim, từ cực Bắc đến cực Nam của kim", "Vuông góc trục kim và hướng lên trên", "Vuông góc trục kim và hướng xuống dưới", "Dọc trục kim, từ cực Nam đến cực Bắc của kim"],
+          "answer": 3,
+          "explain": "Bước 1: Kim nam châm thử cân bằng theo từ trường cho biết phương của vectơ cảm ứng từ tại điểm đặt kim. Bước 2: Theo quy ước, chiều cảm ứng từ dọc trục kim đi từ cực Nam đến cực Bắc của chính kim thử."
+        },
+        {
+          "id": "vl-de-01-i12", "type": "mcq", "topic": "tu", "level": 1,
+          "prompt": "Suất điện động cảm ứng xuất hiện trong một cuộn dây khi từ thông qua cuộn biến thiên. Đơn vị SI của suất điện động cảm ứng là gì?",
+          "options": ["Volt (V)", "Weber (Wb)", "Tesla (T)", "Ampere (A)"],
+          "answer": 0,
+          "explain": "Bước 1: Suất điện động cảm ứng là một suất điện động, có đơn vị SI là volt (V). Bước 2: Weber đo từ thông, tesla đo cảm ứng từ và ampere đo cường độ dòng điện; ba đơn vị này không đo suất điện động."
+        },
+        {
+          "id": "vl-de-01-i13", "type": "mcq", "topic": "tu", "level": 1,
+          "prompt": "Xét đường sức từ của một nam châm thẳng, kể cả phần đường sức bên trong nam châm. Đặc điểm nào đúng?",
+          "options": ["Đường sức bắt đầu tại cực Bắc và kết thúc hẳn tại cực Nam", "Đường sức là những đường khép kín", "Mọi đường sức đều là các đường thẳng song song", "Các đường sức giao nhau tại hai cực"],
+          "answer": 1,
+          "explain": "Bước 1: Bên ngoài nam châm, đường sức đi từ cực Bắc đến cực Nam; bên trong, chúng tiếp tục từ cực Nam về cực Bắc. Bước 2: Vì vậy toàn bộ đường sức là đường khép kín, không có điểm đầu hoặc điểm cuối tại các cực."
+        },
+        {
+          "id": "vl-de-01-i14", "type": "mcq", "topic": "tu", "level": 2,
+          "prompt": "Một sóng điện từ đơn sắc truyền từ chân không vào thủy tinh trong suốt đứng yên. Tốc độ truyền sóng trong thủy tinh nhỏ hơn trong chân không. So với ở chân không, tần số và bước sóng trong thủy tinh thay đổi như thế nào?",
+          "options": ["Tần số giảm, bước sóng không đổi", "Tần số tăng, bước sóng tăng", "Tần số không đổi, bước sóng giảm", "Tần số không đổi, bước sóng tăng"],
+          "answer": 2,
+          "explain": "Bước 1: Khi sóng truyền qua mặt phân cách giữa hai môi trường đứng yên, tần số do nguồn quyết định và không đổi. Bước 2: Bước sóng λ = v/f; tốc độ v giảm trong khi f không đổi nên bước sóng giảm."
+        },
+        {
+          "id": "vl-de-01-i15", "type": "mcq", "topic": "hat-nhan", "level": 1,
+          "prompt": "Tương tác nào chủ yếu liên kết các proton và neutron với nhau trong hạt nhân nguyên tử?",
+          "options": ["Lực hấp dẫn giữa các nucleon", "Lực điện hút giữa hai proton", "Lực ma sát giữa các nucleon", "Lực hạt nhân, là biểu hiện của tương tác mạnh"],
+          "answer": 3,
+          "explain": "Bước 1: Các proton cùng dấu điện tích nên đẩy nhau bằng lực điện; lực hấp dẫn ở thang hạt nhân quá yếu để giải thích liên kết. Bước 2: Lực hạt nhân, biểu hiện của tương tác mạnh ở khoảng cách rất ngắn, chủ yếu giữ các nucleon trong hạt nhân."
+        },
+        {
+          "id": "vl-de-01-i16", "type": "mcq", "topic": "hat-nhan", "level": 1,
+          "prompt": "Một hạt nhân không bền tự biến đổi thành hạt nhân khác và phát ra bức xạ, không cần tác động kích thích từ bên ngoài. Hiện tượng tự phát này được gọi là gì?",
+          "options": ["Phóng xạ", "Ion hoá nguyên tử do va chạm", "Nóng chảy", "Phản xạ ánh sáng"],
+          "answer": 0,
+          "explain": "Bước 1: Phóng xạ là quá trình biến đổi tự phát của hạt nhân không bền, kèm phát bức xạ. Bước 2: Tình huống mô tả đúng quá trình ấy; ion hoá do va chạm liên quan đến electron nguyên tử, còn nóng chảy và phản xạ ánh sáng không phải biến đổi tự phát của hạt nhân."
+        },
+        {
+          "id": "vl-de-01-i17", "type": "mcq", "topic": "hat-nhan", "level": 2,
+          "prompt": "Khi các nucleon tự do kết hợp thành một hạt nhân, hạt nhân tạo thành có khối lượng nghỉ nhỏ hơn tổng khối lượng nghỉ của các nucleon ban đầu một lượng Δm > 0. Một bạn cho rằng phần khối lượng này đã biến mất nên vi phạm bảo toàn năng lượng. Cách sửa nào đúng?",
+          "options": ["Năng lượng không được bảo toàn trong quá trình tạo hạt nhân", "Độ giảm năng lượng nghỉ Δmc^{2} chuyển thành năng lượng được giải phóng; tổng năng lượng vẫn bảo toàn", "Khối lượng nghỉ của hạt nhân phải bằng tổng khối lượng nucleon tự do", "Độ hụt khối chỉ do làm tròn số đo, không liên quan năng lượng"],
+          "answer": 1,
+          "explain": "Bước 1: Khối lượng nghỉ của hạt nhân liên kết nhỏ hơn tổng khối lượng nghỉ của các nucleon tự do; độ chênh này là độ hụt khối. Bước 2: Năng lượng nghỉ giảm Δmc^{2}, chuyển thành năng lượng giải phóng khi hình thành hạt nhân, chẳng hạn năng lượng bức xạ và động năng. Bước 3: Bảo toàn áp dụng cho tổng năng lượng, gồm cả năng lượng nghỉ và các dạng năng lượng được giải phóng, nên không có vi phạm."
+        },
+        {
+          "id": "vl-de-01-i18", "type": "mcq", "topic": "hat-nhan", "level": 2,
+          "prompt": "Ba chùm bức xạ gồm alpha, beta trừ và gamma, ban đầu cùng phương, đi vào từ trường đều vuông góc phương truyền. Chùm 1 không bị lệch; chùm 2 và 3 lệch về hai phía đối nhau, trong đó chùm 2 mang điện âm. Bỏ qua mọi tương tác khác. Chùm 1, 2, 3 lần lượt là",
+          "options": ["alpha, gamma, beta trừ", "beta trừ, alpha, gamma", "gamma, beta trừ, alpha", "gamma, alpha, beta trừ"],
+          "answer": 2,
+          "explain": "Bước 1: Gamma không mang điện nên không lệch trong từ trường; chùm 1 là gamma. Bước 2: Beta trừ gồm electron mang điện âm nên chùm 2 là beta trừ. Bước 3: Alpha mang điện dương, lệch về phía đối diện với beta trừ khi cùng phương truyền ban đầu; chùm 3 là alpha."
+        }
+      ]
+    },
+    {
+      "title": "Phần II",
+      "points": 1,
+      "items": [
+        {
+          "id": "vl-de-01-ii01", "type": "tf4", "topic": "nhiet", "level": 3,
+          "prompt": "Một mẫu 0,100 kg gồm nước đá và nước lỏng cùng ở 0 °C, chưa biết khối lượng từng phần. Đổ mẫu vào 0,200 kg nước ở 50,0 °C trong bình cách nhiệt có nhiệt dung không đáng kể. Khi cân bằng, toàn bộ là nước lỏng ở 10,0 °C. Không bay hơi, không trao đổi công. Lấy nhiệt dung riêng của nước c = 4200 J/(kg·K), nhiệt nóng chảy riêng của đá λ = 3,34×10^{5} J/kg; c không đổi.",
+          "statements": ["Phần nước nóng ban đầu toả nhiệt lượng 33,6 kJ.", "Có thể coi cả 0,100 kg mẫu ban đầu là nước đá khi lập phương trình cân bằng nhiệt.", "Khối lượng nước đá ban đầu xấp xỉ 88,0 g, làm tròn đến một chữ số sau dấu phẩy.", "Sau cân bằng, muốn đưa toàn bộ nước từ 10,0 °C lên 20,0 °C mà không thất thoát thì cần cấp thêm 12,6 kJ."],
+          "answers": [true, false, true, true],
+          "explain": [
+            "Đúng. Bước 1: Nước nóng giảm từ 50,0 °C xuống 10,0 °C. Bước 2: Q_{toả} = 0,200×4200×40 = 33600 J = 33,6 kJ.",
+            "Sai. Bước 1: Chỉ phần nước đá ban đầu nhận nhiệt nóng chảy; toàn bộ 0,100 kg mẫu sau đó tăng từ 0 °C lên 10,0 °C. Bước 2: Gọi m_{đá} là khối lượng đá, cân bằng nhiệt là 33600 = m_{đá}λ + 0,100×4200×10. Bước 3: Suy ra m_{đá} < 0,100 kg; không thể gán nhiệt nóng chảy cho cả phần nước lỏng có sẵn.",
+            "Đúng. Bước 1: Nhiệt làm nóng toàn bộ mẫu sau khi đá tan là 0,100×4200×10 = 4200 J. Bước 2: m_{đá} = (33600 − 4200)/334000 = 0,088023952… kg = 88,023952… g. Bước 3: Làm tròn cuối đến một chữ số sau dấu phẩy được 88,0 g; phần nước lỏng ban đầu khoảng 12,0 g.",
+            "Đúng. Bước 1: Sau cân bằng có 0,100 + 0,200 = 0,300 kg nước, không còn đá. Bước 2: Q = 0,300×4200×(20 − 10) = 12600 J = 12,6 kJ."
+          ]
+        },
+        {
+          "id": "vl-de-01-ii02", "type": "tf4", "topic": "tu", "level": 2,
+          "prompt": "Khung dây hình chữ nhật nằm trên mặt giấy, cạnh ngang dài 0,20 m, cạnh đứng dài 0,10 m. Dòng điện không đổi 2,0 A chạy theo chiều kim đồng hồ khi nhìn vào giấy, nên ở cạnh trên dòng đi sang phải. Ban đầu toàn khung nằm trong từ trường đều B = 0,50 T hướng ra khỏi giấy. Bỏ qua từ trường khác và lực ở dây nối nguồn. Chỉ xét hợp lực từ lên khung; nguồn luôn giữ dòng điện 2,0 A.",
+          "statements": ["Lực từ lên cạnh trên có độ lớn 0,20 N và hướng xuống dưới trên mặt giấy.", "Lực từ lên cạnh bên phải hướng sang phải trên mặt giấy.", "Hợp lực từ lên toàn khung ban đầu bằng không.", "Nếu thu vùng từ trường để chỉ nửa dưới khung nằm trong B như cũ, với cạnh dưới nằm trọn trong vùng từ trường, hợp lực từ lên khung hướng lên và có độ lớn 0,20 N."],
+          "answers": [true, false, true, true],
+          "explain": [
+            "Đúng. Bước 1: Cạnh trên có dòng sang phải, B ra khỏi giấy; quy tắc bàn tay trái cho lực xuống dưới. Bước 2: F = BIℓ = 0,50×2,0×0,20 = 0,20 N.",
+            "Sai. Bước 1: Dòng điện ở cạnh phải hướng xuống dưới, B ra khỏi giấy. Bước 2: Quy tắc bàn tay trái cho lực sang trái, hướng vào phía trong khung, không phải sang phải.",
+            "Đúng. Bước 1: Hai cạnh ngang chịu lực 0,20 N đối nhau; hai cạnh đứng chịu lực 0,10 N đối nhau. Bước 2: Cộng các vectơ lực được hợp lực bằng không khi toàn khung nằm trong B đều.",
+            "Đúng. Bước 1: Cạnh trên ở ngoài nên lực bằng không, cạnh dưới còn lực 0,20 N hướng lên. Bước 2: Hai nửa cạnh đứng trong B có cùng chiều dài 0,050 m, chịu lực ngang 0,050 N đối nhau nên triệt tiêu. Bước 3: Hợp lực còn lại hướng lên, độ lớn 0,20 N."
+          ]
+        },
+        {
+          "id": "vl-de-01-ii03", "type": "tf4", "topic": "tu", "level": 2,
+          "prompt": "Cuộn dây kín thuần trở có 100 vòng giống nhau, quay đều trong từ trường đều. Từ thông đại số qua mỗi vòng theo pháp tuyến gắn với vòng là Φ(t) = Φ_{0} cos(2πt/T), với Φ_{0} = 0,40 mWb và T = 0,20 s. Chọn chiều dương quanh vòng phù hợp pháp tuyến đó; suất điện động cảm ứng trung bình đại số là e_{tb} = −N[Φ(t_{2}) − Φ(t_{1})]/(t_{2} − t_{1}). Bỏ qua tự cảm.",
+          "statements": ["Suất điện động cảm ứng trung bình đại số trong một chu kì bằng không.", "Trong khoảng từ t = 0 đến t = T/2, suất điện động cảm ứng trung bình đại số bằng +0,40 V.", "Vì từ thông ở t = 0 và t = T bằng nhau, trong cả chu kì không có dòng điện cảm ứng.", "Nếu tốc độ quay tăng gấp đôi, Φ_{0} không đổi, suất điện động cảm ứng trung bình đại số trong nửa chu kì đầu của chuyển động mới bằng +1,6 V."],
+          "answers": [true, false, false, true],
+          "explain": [
+            "Đúng. Bước 1: Sau một chu kì, Φ(T) = Φ(0) = Φ_{0}. Bước 2: e_{tb} = −100[Φ(T) − Φ(0)]/T = 0; đây là trung bình đại số, không phải giá trị hiệu dụng.",
+            "Sai. Bước 1: Φ(0) = +0,00040 Wb, Φ(T/2) = −0,00040 Wb nên ΔΦ = −0,00080 Wb. Bước 2: e_{tb} = −100×(−0,00080)/0,10 = +0,80 V, không phải +0,40 V.",
+            "Sai. Bước 1: Từ thông bằng nhau ở hai đầu khoảng không có nghĩa là từ thông không đổi ở các thời điểm bên trong. Bước 2: Từ thông biến thiên tuần hoàn gây suất điện động và dòng điện xoay chiều trong cuộn kín; các phần đại số trái dấu triệt tiêu khi lấy trung bình cả chu kì.",
+            "Đúng. Bước 1: Tốc độ quay gấp đôi làm chu kì mới T' = 0,10 s; nửa chu kì mới kéo dài 0,050 s. Bước 2: Độ biến thiên từ thông vẫn là −0,00080 Wb. Bước 3: e_{tb}' = −100×(−0,00080)/0,050 = +1,6 V."
+          ]
+        },
+        {
+          "id": "vl-de-01-ii04", "type": "tf4", "topic": "hat-nhan", "level": 3,
+          "prompt": "Một mẫu kín ban đầu có 4,8×10^{12} hạt nhân mẹ X và không có hạt nhân con Y. Mỗi X phân rã tạo đúng một Y bền; không có phản ứng khác, không thất thoát X hoặc Y. Chu kì bán rã của X là 6,0 giờ. Tại thời điểm khảo sát, số hạt nhân Y gấp 7 lần số hạt nhân X còn lại. Dùng ln 2 = 0,693.",
+          "statements": ["Thời gian từ lúc ban đầu đến khi khảo sát là 12 giờ.", "Số hạt nhân X còn lại là 6,0×10^{11}.", "Độ phóng xạ của X tại thời điểm khảo sát bằng 19,25 MBq.", "Đã có 87,5% số hạt nhân X ban đầu phân rã."],
+          "answers": [false, true, true, true],
+          "explain": [
+            "Sai. Bước 1: Mỗi X tạo một Y, nên N_{0} = N_{X} + N_{Y} = 8N_{X}. Bước 2: N_{X}/N_{0} = 1/8 = 2^{-3}, tương ứng 3 chu kì bán rã. Bước 3: t = 3×6 = 18 giờ, không phải 12 giờ.",
+            "Đúng. Bước 1: Mẫu kín và Y bền, ban đầu không có Y nên N_{0} = N_{X} + N_{Y}. Bước 2: Với N_{Y} = 7N_{X}, N_{X} = 4,8×10^{12}/8 = 6,0×10^{11}.",
+            "Đúng. Bước 1: T = 6×3600 = 21600 s; λ = 0,693/21600 s^{-1}. Bước 2: N_{X} = N_{0}/8 = 6,0×10^{11}; H = λN_{X} = 1,925×10^{7} Bq = 19,25 MBq. Độ phóng xạ là số phân rã trong một giây, không phải năng lượng hay công suất.",
+            "Đúng. Bước 1: N_{X} = N_{0}/8 nên số hạt nhân mẹ đã phân rã là 7N_{0}/8. Bước 2: Phần trăm phân rã là (7/8)×100% = 87,5%."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phần III",
+      "points": 0.25,
+      "items": [
+        {
+          "id": "vl-de-01-iii01", "type": "num", "topic": "khi", "level": 3,
+          "prompt": "Bình cứng thể tích 3,00 lít ban đầu chứa khí lí tưởng ở 300 K, áp suất tuyệt đối 1,00×10^{5} Pa. Bơm thêm đúng 0,200 mol cùng loại khí; không có khí thoát ra. Sau bơm, nhiệt độ khí trong bình là 330 K. Áp suất tuyệt đối cuối cùng bằng x×10^{5} Pa. Tìm x, làm tròn đến hai chữ số sau dấu phẩy. Dùng R = 8,31 J/(mol·K).",
+          "answer": 2.93, "unit": "×10^{5} Pa", "round": 2, "tolerance": 0,
+          "explain": "Bước 1: V = 0,00300 m^{3}; số mol ban đầu n_{1} = p_{1}V/(RT_{1}) = 100000×0,003/(8,31×300), giữ nguyên giá trị chưa làm tròn. Bước 2: n_{2} = n_{1} + 0,200; p_{2} = n_{2}R×330/0,003 = 292820 Pa. Bước 3: x = p_{2}/10^{5} = 2,9282. Chỉ làm tròn kết quả cuối đến hai chữ số sau dấu phẩy: 2,93."
+        },
+        {
+          "id": "vl-de-01-iii02", "type": "num", "topic": "khi", "level": 3,
+          "prompt": "Bình cứng hình trụ nằm ngang có tổng thể tích trong 6,00 lít, tiết diện 100 cm^{2}. Một pít-tông cách nhiệt kín khít, không ma sát, chia bình thành hai ngăn A và B; bỏ qua thể tích pít-tông. Ban đầu mỗi ngăn chứa cùng số mol khí lí tưởng ở 300 K, có thể tích 3,00 lít và áp suất bằng nhau. Không có khí qua pít-tông. Nung chậm khí A tới 600 K, đồng thời bộ ổn nhiệt giữ khí B ở 300 K; pít-tông chưa chạm đầu bình. Ở cân bằng cuối, pít-tông dịch về phía B bao nhiêu cm so với ban đầu? Làm tròn đến một chữ số sau dấu phẩy.",
+          "answer": 10.0, "unit": "cm", "round": 1, "tolerance": 0,
+          "explain": "Bước 1: Pít-tông cân bằng không ma sát nên áp suất cuối hai ngăn bằng nhau. Hai ngăn giữ nguyên cùng số mol, nên V_{A}/V_{B} = T_{A}/T_{B} = 600/300 = 2. Bước 2: V_{A} + V_{B} = 6,00 lít, suy ra V_{A} = 4,00 lít và V_{B} = 2,00 lít. Bước 3: A tăng thể tích 1,00 lít = 1000 cm^{3}; độ dịch x = ΔV/S = 1000/100 = 10 cm về phía B. Bước 4: Làm tròn đến một chữ số sau dấu phẩy: 10,0."
+        },
+        {
+          "id": "vl-de-01-iii03", "type": "num", "topic": "tu", "level": 3,
+          "prompt": "Vòng dây chữ nhật một vòng có cạnh ℓ = 8,0 cm song song hai biên thẳng của một dải từ trường, cạnh a = 12,0 cm vuông góc biên. Dải rộng d > a, bên trong B = 0,25 T đều vuông góc mặt vòng, bên ngoài B = 0. Kéo vòng với tốc độ không đổi v, vuông góc biên, từ ngoài đi xuyên qua dải rồi ra ngoài. Điện trở vòng 0,40 Ω, bỏ qua tự cảm. Máy đo ghi hai xung dòng điện ngược dấu, giữa hai xung có khoảng dòng bằng không. Độ lớn dòng trong mỗi xung là 0,050 A; từ lúc xung đầu bắt đầu đến lúc xung thứ hai kết thúc là 0,47 s. Cho |e| = Bℓv khi vòng đang cắt một biên. Bề rộng d bằng bao nhiêu cm? Làm tròn đến một chữ số sau dấu phẩy.",
+          "answer": 35.0, "unit": "cm", "round": 1, "tolerance": 0,
+          "explain": "Bước 1: Trong mỗi xung, |e| = IR = 0,050×0,40 = 0,020 V. Suy ra v = IR/(Bℓ) = 0,020/(0,25×0,080) = 1,0 m/s. Bước 2: Xung đầu bắt đầu khi cạnh trước chạm biên vào; xung thứ hai kết thúc khi cạnh sau qua biên ra. Trong khoảng này cạnh trước đi quãng đường d + a. Bước 3: d = vΔt − a = 1,0×0,47 − 0,12 = 0,35 m = 35 cm; d > 12 cm nên có khoảng cả vòng nằm trong dải, phù hợp dòng bằng không giữa hai xung. Bước 4: Làm tròn cuối đến một chữ số sau dấu phẩy: 35,0."
+        },
+        {
+          "id": "vl-de-01-iii04", "type": "num", "topic": "tu", "level": 3,
+          "prompt": "Máy biến áp lí tưởng có cuộn sơ cấp 200 vòng, được đặt điện áp xoay chiều hiệu dụng 100 V. Cuộn thứ cấp cấp công suất điện không đổi 400 W vào một đường dây và tải thuần trở; điện trở tổng hai dây dẫn là 8,0 Ω. Công suất 400 W gồm cả hao phí trên dây và công suất tải nhận. Điều chỉnh tải để giữ công suất thứ cấp 400 W khi thay số vòng thứ cấp. Cho U_{2}/U_{1} = N_{2}/N_{1}, P_{2} = U_{2}I_{2}, công suất hao phí P_{hp} = I_{2}^{2}R; các U, I là giá trị hiệu dụng. Muốn hao phí trên dây không quá 8,0 W, cuộn thứ cấp cần ít nhất bao nhiêu vòng? Ghi số nguyên, làm tròn đến hàng đơn vị; nếu ngưỡng tính được không nguyên thì lấy số nguyên lớn hơn liền kề.",
+          "answer": 800, "unit": "vòng", "round": 0, "tolerance": 0,
+          "explain": "Bước 1: I_{2}^{2}×8,0 ≤ 8,0 nên I_{2} ≤ 1,0 A. Bước 2: P_{2} = 400 W không đổi, U_{2} = P_{2}/I_{2} ≥ 400 V. Bước 3: N_{2} = N_{1}U_{2}/U_{1} ≥ 200×400/100 = 800 vòng. Bước 4: Ngưỡng đã nguyên, số vòng nhỏ nhất là 800; khi đó I_{2} = 1,0 A, hao phí đúng 8,0 W và tải nhận 392 W."
+        },
+        {
+          "id": "vl-de-01-iii05", "type": "num", "topic": "hat-nhan", "level": 3,
+          "prompt": "Pin hạt nhân dùng duy nhất một đồng vị có chu kì bán rã 10,0 ngày. Mỗi phân rã cung cấp 5,0×10^{-13} J; hạt nhân con bền. Hiệu suất chuyển năng lượng phân rã thành điện không đổi bằng 8,0%; toàn bộ năng lượng phân rã được thu trước chuyển đổi. Ban đầu công suất điện là 0,120 W. Trong 30,0 ngày đầu, pin cung cấp tổng điện năng bao nhiêu Wh? Lấy 1 ngày = 86400 s, 1 Wh = 3600 J; ln 2 = 0,693. Làm tròn đến một chữ số sau dấu phẩy.",
+          "answer": 36.4, "unit": "Wh", "round": 1, "tolerance": 0,
+          "explain": "Bước 1: λ = 0,693/(10×86400) s^{-1}; sau 30 ngày còn N_{0}/8, số phân rã là 7N_{0}/8. Bước 2: Gọi ε là năng lượng một phân rã, η là hiệu suất: P_{0} = ηελN_{0}, còn điện năng W = ηεN_{0}×7/8. Khử ηεN_{0}: W = (P_{0}/λ)×7/8. Bước 3: W = 0,120×10×86400×(7/8)/0,693 = 130909,0909… J; đổi sang Wh được 36,363636… Wh. Bước 4: Chỉ làm tròn cuối đến một chữ số sau dấu phẩy: 36,4. Không coi công suất pin không đổi suốt 30 ngày."
+        },
+        {
+          "id": "vl-de-01-iii06", "type": "num", "topic": "hat-nhan", "level": 3,
+          "prompt": "Một mẫu kín chứa hai đồng vị phóng xạ X và Y, có chu kì bán rã lần lượt 4,0 giờ và 8,0 giờ. Chúng phân rã độc lập, hạt nhân con đều bền; không thêm hoặc tách chất. Tổng độ phóng xạ của hai đồng vị mẹ lúc t = 0 là 900 MBq, lúc t = 8,0 giờ là 250 MBq. Các số đo đã hiệu chỉnh phông và hiệu suất. Tại t = 4,0 giờ, độ phóng xạ của X chiếm bao nhiêu phần trăm tổng độ phóng xạ của hai đồng vị mẹ? Dùng trực tiếp lũy thừa cơ số 2 trên máy tính, không làm tròn trung gian; làm tròn kết quả cuối đến một chữ số sau dấu phẩy.",
+          "answer": 85.0, "unit": "%", "round": 1, "tolerance": 0,
+          "explain": "Bước 1: Gọi x, y là độ phóng xạ ban đầu của X, Y theo MBq. Có x + y = 900 và x/4 + y/2 = 250, vì sau 8 giờ X qua hai chu kì, Y qua một chu kì. Bước 2: Giải hệ được x = 800, y = 100 MBq. Bước 3: Sau 4 giờ, H_{X} = 400 MBq, H_{Y} = 100×2^{-1/2} MBq. Tỉ lệ cần tìm là 100×400/(400 + 100/√2) = 84,9778895…%. Bước 4: Chỉ làm tròn kết quả cuối đến một chữ số sau dấu phẩy: 85,0. Không dùng chung một chu kì bán rã cho tổng hai đồng vị."
+        }
+      ]
+    }
+  ]
+}

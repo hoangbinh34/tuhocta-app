@@ -1,0 +1,77 @@
+{
+  "id": "toan-loi-van-cd-04",
+  "title": "Quy luật đã cho",
+  "topic": "loi-van",
+  "items": [
+    {
+      "type": "num",
+      "level": 3,
+      "model": "quy-luat-luan-phien-cong-nhan",
+      "prompt": "Bắt đầu bằng 3. Thực hiện lần lượt bốn thao tác: cộng 2, nhân 3, cộng 2, nhân 3. Chỉ ghi số sau thao tác cuối.",
+      "answer": 51,
+      "explain": "Sau thao tác đầu: 3 + 2 = 5.\nSau thao tác thứ hai: 5 × 3 = 15.\nSau thao tác thứ ba: 15 + 2 = 17.\nSau thao tác cuối: 17 × 3 = 51.\nĐáp số: 51.",
+      "unit": "",
+      "round": 0,
+      "id": "toan-loi-van-cd-04-01",
+      "adv": true
+    },
+    {
+      "type": "mcq",
+      "level": 3,
+      "model": "chu-ky-bon-mau-tim-vi-tri",
+      "prompt": "Một dải ô bắt đầu tại ô số 1, lặp đúng chu kỳ: đỏ, xanh, vàng, tím. Ô số 17 có màu nào?",
+      "answer": 0,
+      "explain": "Mỗi chu kỳ có 4 ô, nên bốn chu kỳ trọn vẹn chiếm: 4 × 4 = 16 (ô).\nÔ 17 nằm ngay sau 16 ô đã xét, nên vị trí trong chu kỳ tiếp là: 17 − 16 = 1.\nVị trí 1 có màu đỏ.\nNhiễu: xanh lệch sang vị trí 2; vàng lệch sang vị trí 3; tím coi ô 17 là ô cuối chu kỳ trước.\nĐáp số: Đỏ.",
+      "options": [
+        "Đỏ",
+        "Xanh",
+        "Vàng",
+        "Tím"
+      ],
+      "id": "toan-loi-van-cd-04-02",
+      "adv": true
+    },
+    {
+      "type": "mcq",
+      "level": 3,
+      "model": "quy-luat-tich-thu-tu-ke-tiep",
+      "prompt": "Dãy được định nghĩa: số hạng ở mỗi vị trí bằng số thứ tự vị trí đó nhân với số thứ tự kế tiếp. Vị trí đầu được đánh số 1. Số hạng ở vị trí 9 là bao nhiêu?",
+      "answer": 1,
+      "explain": "Số thứ tự kế tiếp: 9 + 1 = 10.\nTheo quy luật, lấy số thứ tự vị trí nhân với số thứ tự kế tiếp: 9 × 10 = 90.\nNhiễu: 81 = 9 × 9 quên số kế tiếp; 18 = 9 × 2, nhân với 2 thay vì với số kế tiếp 10; 72 = 9 × 8 lấy số liền trước.\nĐáp số: 90.",
+      "options": [
+        "81",
+        "90",
+        "18",
+        "72"
+      ],
+      "id": "toan-loi-van-cd-04-03",
+      "adv": true
+    },
+    {
+      "type": "tf4",
+      "level": 3,
+      "model": "gap-doi-so-lop-khong-dem-nep",
+      "prompt": "Một tờ giấy ban đầu có 1 lớp. Mỗi lần gấp đôi, toàn bộ chồng giấy được chập đôi nên số lớp gấp đôi. Không cắt giấy, không đếm nếp gấp. Đánh giá các phát biểu.",
+      "statements": [
+        "a) Sau một lần gấp có 2 lớp.",
+        "b) Sau hai lần gấp có 4 lớp.",
+        "c) Sau ba lần gấp có 6 lớp.",
+        "d) Số lớp tăng thêm do lần gấp thứ ba là 4."
+      ],
+      "answers": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "explain": [
+        "Đúng. Sau lần đầu: 1 × 2 = 2 (lớp).\nĐáp số: Đúng.",
+        "Đúng. Sau lần đầu: 1 × 2 = 2 (lớp).\nSau lần hai: 2 × 2 = 4 (lớp).\nĐáp số: Đúng.",
+        "Sai. Sau lần đầu: 1 × 2 = 2 (lớp).\nSau lần hai: 2 × 2 = 4 (lớp).\nSau lần ba: 4 × 2 = 8 (lớp), không phải 6 lớp.\nĐáp số: Sai.",
+        "Đúng. Sau lần đầu: 1 × 2 = 2 (lớp).\nSau lần hai: 2 × 2 = 4 (lớp).\nSau lần ba: 4 × 2 = 8 (lớp).\nSố lớp tăng: 8 − 4 = 4 (lớp).\nĐáp số: Đúng."
+      ],
+      "id": "toan-loi-van-cd-04-04",
+      "adv": true
+    }
+  ]
+}

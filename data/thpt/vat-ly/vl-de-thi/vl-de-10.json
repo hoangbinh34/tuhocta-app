@@ -1,0 +1,504 @@
+{
+  "id": "vl-de-10",
+  "title": "Đề thi thử Vật lý số 10",
+  "emoji": "🏁",
+  "minutes": 50,
+  "scale": 10,
+  "desc": "Đề tự soạn: 18 câu chọn một phương án, 4 câu đúng/sai, 6 câu trả lời ngắn. Hằng số theo thẻ Hằng số dùng trong đề: ln2=0,693. Những quan hệ mở rộng, thông số vật liệu và số liệu hiệu chuẩn cần thiết được cho trong từng câu. Không làm tròn trung gian; Phần III chỉ ghi phần số theo đơn vị và cách làm tròn yêu cầu.",
+  "sections": [
+    {
+      "title": "Phần I",
+      "points": 0.25,
+      "items": [
+        {
+          "id": "vl-de-10-i01",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "nhiet",
+          "level": 1,
+          "prompt": "Trong mô hình nhiệt động lực học, một nguồn nhiệt lí tưởng (bể nhiệt) có đặc điểm nào khi trao đổi một lượng nhiệt hữu hạn với hệ nhỏ đang khảo sát?",
+          "options": [
+            "Luôn có nhiệt độ bằng 0 K",
+            "Nhiệt độ của nguồn được coi như không đổi",
+            "Không bao giờ trao đổi được nhiệt",
+            "Nhiệt độ luôn bằng nhiệt độ của hệ nhỏ"
+          ],
+          "answer": 1,
+          "explain": "Bước 1: Nguồn nhiệt lí tưởng có khả năng thu hoặc tỏa nhiệt hữu hạn mà nhiệt độ được coi như không đổi. Bước 2: Vì vậy nguồn có thể duy trì điều kiện nhiệt cho hệ nhỏ. Nguồn không bắt buộc ở 0 K; cấm trao đổi nhiệt trái với vai trò nguồn; hệ nhỏ có thể đang khác nhiệt độ nguồn khi trao đổi nhiệt."
+        },
+        {
+          "id": "vl-de-10-i02",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "nhiet",
+          "level": 1,
+          "prompt": "Trong cách phân loại hệ nhiệt động lực học, 'hệ kín' được xác định bằng điều kiện nào ở ranh giới hệ?",
+          "options": [
+            "Không trao đổi vật chất với ngoài, nhưng có thể trao đổi năng lượng",
+            "Không trao đổi cả vật chất lẫn năng lượng",
+            "Luôn có thể trao đổi vật chất nhưng không trao đổi năng lượng",
+            "Nhiệt độ luôn bằng nhiệt độ môi trường"
+          ],
+          "answer": 0,
+          "explain": "Bước 1: Tiêu chí của hệ kín là không có vật chất đi qua ranh giới. Bước 2: Nhiệt và công vẫn có thể đi qua ranh giới ấy. Không trao đổi cả năng lượng là điều kiện mạnh hơn của hệ cô lập; cho vật chất đi qua không phải hệ kín; kín không bắt buộc cân bằng nhiệt với ngoài."
+        },
+        {
+          "id": "vl-de-10-i03",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "nhiet",
+          "level": 1,
+          "prompt": "Một cốc thủy tinh dày có thể nứt khi bị làm nóng rất nhanh một mặt. Cơ chế trực tiếp của hiện tượng sốc nhiệt này là gì?",
+          "options": [
+            "Toàn bộ cốc lập tức đạt cùng nhiệt độ",
+            "Khối lượng cốc tăng đột ngột",
+            "Nhiệt dung riêng của cốc bắt buộc bằng không",
+            "Các vùng nở không đều gây ứng suất cơ học lớn"
+          ],
+          "answer": 3,
+          "explain": "Bước 1: Làm nóng nhanh tạo chênh lệch nhiệt độ giữa các vùng của cốc. Bước 2: Các vùng bị ràng buộc nhưng muốn nở khác nhau nên xuất hiện ứng suất có thể gây nứt. Cùng nhiệt độ tức thời loại mất nguyên nhân chênh nở; không có vật chất thêm để tăng khối lượng; sốc nhiệt không đòi nhiệt dung riêng bằng không."
+        },
+        {
+          "id": "vl-de-10-i04",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "nhiet",
+          "level": 1,
+          "prompt": "Một bộ điều nhiệt bật nung khi nhiệt độ xuống dưới 19 °C và tắt nung khi vượt 21 °C. Trong khoảng 19–21 °C, trạng thái bật hay tắt phụ thuộc trạng thái trước đó. Đặc điểm này được gọi là gì?",
+          "options": [
+            "Cân bằng pha tại điểm ba",
+            "Sự bay hơi",
+            "Độ trễ của bộ điều nhiệt",
+            "Độ không tuyệt đối"
+          ],
+          "answer": 2,
+          "explain": "Bước 1: Bộ điều nhiệt có hai ngưỡng chuyển khác nhau tùy chiều biến thiên nhiệt độ. Bước 2: Sự phụ thuộc trạng thái trước đó trong khoảng giữa hai ngưỡng là độ trễ, giúp tránh bật tắt liên tục. Điểm ba cần ba pha cùng cân bằng; bay hơi là chuyển lỏng thành hơi; 0 K không phải khoảng hai ngưỡng điều khiển."
+        },
+        {
+          "id": "vl-de-10-i05",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "nhiet",
+          "level": 1,
+          "prompt": "Một ẩm kế gồm nhiệt kế bầu khô và nhiệt kế bầu ướt có thông gió. Dùng hai số chỉ cùng bảng hiệu chuẩn của ẩm kế, người ta xác định đại lượng nào đặc trưng cho độ ẩm không khí?",
+          "options": [
+            "Độ ẩm tương đối của không khí",
+            "Nhiệt nóng chảy riêng của nước đá",
+            "Khối lượng mol của mọi khí trong phòng",
+            "Độ phóng xạ của hơi nước"
+          ],
+          "answer": 0,
+          "explain": "Bước 1: Chênh lệch số chỉ bầu khô và bầu ướt phụ thuộc mức độ bay hơi trong không khí tại nhiệt độ đang đo. Bước 2: Bảng hiệu chuẩn dùng hai số chỉ để xác định độ ẩm tương đối. Phép đo này không cung cấp nhiệt nóng chảy của đá, khối lượng mol của mọi khí hay số phân rã hạt nhân trong hơi nước."
+        },
+        {
+          "id": "vl-de-10-i06",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "nhiet",
+          "level": 1,
+          "prompt": "Một vách dẫn nhiệt ở trạng thái dừng có mặt nóng và mặt lạnh được giữ ở hai nhiệt độ khác nhau. 'Trạng thái dừng' ở đây có nghĩa gì?",
+          "options": [
+            "Nhiệt độ mọi điểm trên vách bằng nhau",
+            "Nhiệt độ tại mỗi điểm không đổi theo thời gian, dù vẫn có dòng nhiệt",
+            "Công suất truyền nhiệt qua vách bắt buộc bằng không",
+            "Vách không còn chứa năng lượng"
+          ],
+          "answer": 1,
+          "explain": "Bước 1: Trạng thái dừng nói về sự không đổi theo thời gian tại từng vị trí. Bước 2: Vách vẫn có thể mang dòng nhiệt ổn định từ mặt nóng sang mặt lạnh. Hai mặt khác nhiệt độ nên không phải mọi điểm bằng nhau; dòng nhiệt không bắt buộc bằng không; không đổi nội năng không có nghĩa nội năng bằng không."
+        },
+        {
+          "id": "vl-de-10-i07",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "nhiet",
+          "level": 2,
+          "prompt": "Trong một mô hình khuếch tán nhiệt qua tấm đồng nhất, thời gian đặc trưng τ=d²/a, với d là bề dày và a là hệ số khuếch tán nhiệt. Hai tấm cùng vật liệu có d_B/d_A = 3,0. Tỉ số τ_B/τ_A bằng bao nhiêu?",
+          "options": [
+            "3",
+            "1/3",
+            "6",
+            "9"
+          ],
+          "answer": 3,
+          "explain": "Bước 1: Cùng vật liệu nên a như nhau. Bước 2: τ_B/τ_A=(d_B/d_A)²=3²=9. Giá trị 3 bỏ bình phương; 1/3 vừa đảo vừa bỏ bình phương; 6 nhân hai thay vì bình phương. Đây là thời gian đáp ứng nhiệt, không phải công suất dẫn nhiệt ổn định."
+        },
+        {
+          "id": "vl-de-10-i08",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "nhiet",
+          "level": 2,
+          "prompt": "Hai vật rất dày có nhiệt độ ban đầu θ_A = 80 °C, θ_B = 20 °C được ép tiếp xúc. Trong mô hình bán vô hạn, nhiệt độ tiếp xúc ngay sau khi áp sát là θ_s=(e_Aθ_A+e_Bθ_B)/(e_A+e_B), trong đó e là thông số đáp ứng nhiệt của vật liệu. Cho e_A/e_B = 2,0; bỏ qua nhiệt trở tiếp xúc. θ_s bằng bao nhiêu?",
+          "options": [
+            "50 °C",
+            "40 °C",
+            "60 °C",
+            "80 °C"
+          ],
+          "answer": 2,
+          "explain": "Bước 1: Chia tử và mẫu cho e_B, có θ_s=(2×80+20)/(2+1). Bước 2: θ_s=60 °C. 50 °C lấy trung bình không trọng số; 40 °C đảo trọng số hai vật; 80 °C bỏ tác động vật lạnh. Đây là nhiệt độ bề mặt tiếp xúc ban đầu, không phải nhiệt độ cân bằng của hai vật hữu hạn."
+        },
+        {
+          "id": "vl-de-10-i09",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "khi",
+          "level": 1,
+          "prompt": "Trong mô hình chuyển động phân tử, một bậc tự do cơ học độc lập là gì?",
+          "options": [
+            "Một lần phân tử va vào thành bình",
+            "Một mol phân tử khí",
+            "Một tọa độ độc lập cần để xác định cấu hình cơ học của hệ",
+            "Một đơn vị đo nhiệt độ"
+          ],
+          "answer": 2,
+          "explain": "Bước 1: Bậc tự do đếm những tọa độ cơ học có thể thay đổi độc lập khi xác định cấu hình. Bước 2: Chẳng hạn vị trí một chất điểm tự do cần ba tọa độ không gian. Số va chạm là số sự kiện; mol đo lượng chất; đơn vị nhiệt độ không đếm tọa độ độc lập."
+        },
+        {
+          "id": "vl-de-10-i10",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "khi",
+          "level": 2,
+          "prompt": "Để đánh giá độ lệch khỏi khí lí tưởng, người ta dùng hệ số Z=pV/(nRT), với p là áp suất tuyệt đối. Một mẫu khí thực có pV = 2493 J và nRT = 2770 J tại trạng thái đang đo. Z bằng bao nhiêu?",
+          "options": [
+            "0,90",
+            "1,11",
+            "1,00",
+            "0,10"
+          ],
+          "answer": 0,
+          "explain": "Bước 1: Thế hai tích đã cho vào định nghĩa Z. Bước 2: Z=2493/2770=0,90. 1,11 là nghịch đảo gần đúng; 1,00 tự áp điều kiện khí lí tưởng cho khí thực; 0,10 là độ lệch 1−Z, không phải Z."
+        },
+        {
+          "id": "vl-de-10-i11",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "tu",
+          "level": 1,
+          "prompt": "Khi nung một chất sắt từ vượt nhiệt độ Curie của nó, trong điều kiện không có từ trường ngoài, tính chất từ nào mất đi?",
+          "options": [
+            "Điện tích của các electron",
+            "Mọi chuyển động nhiệt của nguyên tử",
+            "Khối lượng của mẫu",
+            "Sự từ hóa tự phát của chất sắt từ"
+          ],
+          "answer": 3,
+          "explain": "Bước 1: Trên nhiệt độ Curie, trật tự sắt từ bị phá vỡ bởi chuyển động nhiệt. Bước 2: Mẫu mất từ hóa tự phát và chuyển sang trạng thái thuận từ. Điện tích electron và khối lượng không mất đi; chuyển động nhiệt vẫn tồn tại và mạnh hơn khi tăng nhiệt độ."
+        },
+        {
+          "id": "vl-de-10-i12",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "tu",
+          "level": 1,
+          "prompt": "Một vỏ chắn từ bằng vật liệu có độ từ thẩm cao bao quanh thiết bị nhạy với từ trường tĩnh yếu. Cơ chế chắn chủ yếu của vỏ trong phạm vi chưa bão hòa là gì?",
+          "options": [
+            "Tạo ra các đơn cực từ hút hết đường sức",
+            "Tạo đường dẫn có từ trở nhỏ để phần lớn từ thông đi qua vỏ, giảm trường trong khoang",
+            "Ngăn mọi sóng ánh sáng nên tự động xóa từ trường tĩnh",
+            "Làm mọi dòng điện ngoài vỏ bằng không"
+          ],
+          "answer": 1,
+          "explain": "Bước 1: Vật liệu từ thẩm cao dẫn từ thông thuận lợi hơn khoang bên trong. Bước 2: Vỏ bố trí phù hợp chuyển phần lớn từ thông qua vật liệu và giảm trường tại thiết bị. Không có cơ chế đơn cực từ; chặn ánh sáng không xóa trường tĩnh; vỏ không làm các dòng điện ngoài biến mất."
+        },
+        {
+          "id": "vl-de-10-i13",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "tu",
+          "level": 2,
+          "prompt": "Trong mô hình hiệu ứng bề mặt của một dây dẫn, độ sâu thâm nhập δ tỉ lệ 1/√f khi vật liệu không đổi. Nếu f_2/f_1 = 9,0 thì δ_2/δ_1 bằng bao nhiêu?",
+          "options": [
+            "3",
+            "1/9",
+            "1/3",
+            "9"
+          ],
+          "answer": 2,
+          "explain": "Bước 1: Giữ vật liệu không đổi, δ_2/δ_1=√(f_1/f_2). Bước 2: Tỉ số bằng 1/√9=1/3. 3 đảo tỉ số; 1/9 bỏ căn; 9 vừa đảo vừa bỏ căn."
+        },
+        {
+          "id": "vl-de-10-i14",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "tu",
+          "level": 2,
+          "prompt": "Tại một nơi, vectơ từ trường Trái Đất có độ lớn B = 50 µT, nằm trong mặt phẳng thẳng đứng theo kinh tuyến từ và hướng chếch xuống một góc i = 30° so với mặt phẳng ngang. Cho sin30°=0,50. Độ lớn thành phần thẳng đứng B_v bằng bao nhiêu?",
+          "options": [
+            "25 µT",
+            "50 µT",
+            "100 µT",
+            "0 µT"
+          ],
+          "answer": 0,
+          "explain": "Bước 1: Góc cho với mặt phẳng ngang nên thành phần thẳng đứng có độ lớn B_v=B sin i. Bước 2: B_v=50×0,50=25 µT. 50 lấy toàn vectơ làm thành phần; 100 chia sai cho sin i; 0 bỏ độ nghiêng khác không. Góc này là từ khuynh, không phải từ thiên."
+        },
+        {
+          "id": "vl-de-10-i15",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "hat-nhan",
+          "level": 1,
+          "prompt": "Trong đầu dò nhấp nháy dùng để ghi bức xạ hạt nhân, tinh thể nhấp nháy có chức năng trực tiếp nào?",
+          "options": [
+            "Biến mọi hạt nhân thành đồng vị bền",
+            "Làm nguồn hết phóng xạ",
+            "Chuyển một phần năng lượng bức xạ lắng đọng thành các chớp sáng",
+            "Chỉ tạo giọt nước từ hơi bão hòa"
+          ],
+          "answer": 2,
+          "explain": "Bước 1: Bức xạ lắng đọng năng lượng trong chất nhấp nháy, kích thích các trạng thái của vật liệu. Bước 2: Khi khử kích thích, vật liệu phát chớp sáng để bộ đọc ghi nhận. Tinh thể không ổn định hóa mọi hạt nhân hay tắt nguồn; tạo giọt nước là cơ chế đầu dò khác."
+        },
+        {
+          "id": "vl-de-10-i16",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "hat-nhan",
+          "level": 1,
+          "prompt": "Liều kế nhiệt phát quang lưu thông tin chiếu xạ trong các trạng thái bị bẫy của vật liệu. Khi đọc liều kế, thao tác nào giải phóng tín hiệu ánh sáng dùng để suy ra liều đã tích lũy?",
+          "options": [
+            "Làm lạnh đến 0 K và không đo gì",
+            "Nung vật liệu theo chế độ đọc đã hiệu chuẩn",
+            "Chỉ cân khối lượng vỏ liều kế",
+            "Đổi tên đồng vị trên nhãn nguồn"
+          ],
+          "answer": 1,
+          "explain": "Bước 1: Năng lượng bức xạ tạo các trạng thái mang điện bị bẫy trong vật liệu. Bước 2: Nung có kiểm soát giải phóng chúng, tạo tín hiệu phát quang liên hệ với liều qua hiệu chuẩn. Làm lạnh mà không đọc không giải phóng tín hiệu nhiệt phát quang; khối lượng vỏ và tên trên nhãn không đo thông tin năng lượng đã lưu."
+        },
+        {
+          "id": "vl-de-10-i17",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "hat-nhan",
+          "level": 2,
+          "prompt": "Một lá bia mỏng có mật độ hạt nhân theo diện tích n_s = 2,0×10^{22} m^{-2}, tiết diện hấp thụ neutron của mỗi hạt nhân σ = 1,5×10^{−24} m². Trong mô hình bia mỏng, xác suất một neutron tới bị hấp thụ là p=n_sσ; bỏ qua tán xạ, che khuất và bội tương tác. Theo xấp xỉ đã cho, bao nhiêu phần trăm số neutron tới bị hấp thụ?",
+          "options": [
+            "3 %",
+            "0,03 %",
+            "30 %",
+            "97 %"
+          ],
+          "answer": 0,
+          "explain": "Bước 1: Xác suất hấp thụ p=n_sσ=2,0×10^{22}×1,5×10^{−24}=0,030. Bước 2: Đổi ra phần trăm được 3 %. 0,03 % quên nhân 100; 30 % sai một bậc mười; 97 % là phần không bị hấp thụ trong xấp xỉ này. Tiết diện hấp thụ là thông số tương tác được cho, không phải diện tích hình học của lá bia."
+        },
+        {
+          "id": "vl-de-10-i18",
+          "type": "mcq",
+          "points": 0.25,
+          "topic": "hat-nhan",
+          "level": 2,
+          "prompt": "Máy đo phổ gamma có đỉnh tại E = 600 keV, bề rộng toàn phần ở nửa chiều cao ΔE = 30 keV. Độ phân giải năng lượng tương đối được định nghĩa là r=ΔE/E. Giá trị r tính theo phần trăm bằng bao nhiêu?",
+          "options": [
+            "20 %",
+            "95 %",
+            "0,05 %",
+            "5 %"
+          ],
+          "answer": 3,
+          "explain": "Bước 1: r=30/600=0,05. Bước 2: Nhân 100 để đổi sang phần trăm được 5 %. 20 lấy E/ΔE; 95 % lấy 1−r; 0,05 % bỏ phép đổi phần trăm. Bề rộng đỉnh khác với sai số của từng photon riêng lẻ."
+        }
+      ]
+    },
+    {
+      "title": "Phần II",
+      "points": 1,
+      "items": [
+        {
+          "id": "vl-de-10-ii01",
+          "type": "tf4",
+          "points": 1,
+          "topic": "nhiet",
+          "level": 3,
+          "prompt": "Một mẻ dung dịch có khối lượng m_0 = 0,500 kg, tỉ phần khối lượng chất tan w_0 = 0,100, ban đầu θ_0 = 20 °C. Dây nung truyền toàn bộ công suất P = 500 W vào mẻ trong t = 600 s. Mô hình cho nhiệt dung riêng dung dịch c = 4000 J/(kg·K) không đổi trước khi sôi, nhiệt độ sôi cố định θ_b = 100 °C và nhiệt hóa hơi của dung môi L = 2000000 J/kg. Trước khi sôi không bay hơi; sau khi sôi, toàn bộ nhiệt chỉ làm bay hơi dung môi ở θ_b. Chất tan không bay hơi, không kết tủa; bỏ qua nhiệt dung bình, bắn giọt và mọi thất thoát. Các xấp xỉ nhiệt độ sôi và L cố định được dùng suốt lượt đo.",
+          "statements": [
+            "Tỉ số khối lượng dung môi trên khối lượng chất tan ở lúc đầu bằng 9,00.",
+            "Tỉ phần khối lượng chất tan cuối lượt gốc bằng 10,0 %.",
+            "Nếu ở lượt mới từ cùng trạng thái đầu, muốn tỉ phần chất tan w_t = 0,125 sau t_t = 600 s và chỉ thay P, thì công suất cần bằng 600 W.",
+            "Sau lượt gốc, chỉ thêm dung môi nguyên chất, không làm mất dung dịch; khối lượng cần thêm để khôi phục tỉ phần w_0 bằng 0,050 kg."
+          ],
+          "answers": [
+            true,
+            false,
+            true,
+            false
+          ],
+          "explain": [
+            "Đúng. Bước 1: Khối lượng chất tan m_s=w_0m_0=0,050 kg; dung môi ban đầu m_v=(1−w_0)m_0=0,450 kg. Bước 2: Tỉ số m_v/m_s=0,450/0,050=9,00.",
+            "Sai. Bước 1: Nhiệt đến sôi Q_s=m_0c(θ_b−θ_0)=160000 J; năng lượng vào E=Pt=300000 J, nên dung môi bay hơi (E−Q_s)/L=0,070 kg. Bước 2: Mẻ còn m_f=0,430 kg, chất tan vẫn 0,050 kg, nên w_f=100×0,050/0,430=11,6279069767… %, không phải 10,0 %.",
+            "Đúng. Bước 1: Ở nồng độ mục tiêu, khối lượng mẻ phải là m_t=m_s/w_t=0,050/0,125=0,400 kg, cần bay hơi 0,100 kg dung môi. Bước 2: Năng lượng cần Q_s+(m_0−m_t)L=160000+200000=360000 J. Bước 3: Công suất cần P_t=360000/600=600 W.",
+            "Sai. Bước 1: Muốn trở lại w_0 với chất tan vẫn 0,050 kg thì khối lượng mẻ sau pha loãng phải là m_s/w_0=0,500 kg. Bước 2: Dung môi cần thêm 0,500−0,430=0,070 kg, không phải 0,050 kg."
+          ]
+        },
+        {
+          "id": "vl-de-10-ii02",
+          "type": "tf4",
+          "points": 1,
+          "topic": "tu",
+          "level": 2,
+          "prompt": "Một nam châm điện được mô hình bằng mạch từ nối tiếp gồm lõi có từ trở ℜ_c = 100000 A/Wb và khe có từ trở ℜ_g=kg, với k = 5000000000 A/(Wb·m) là hệ số hiệu chuẩn, g là bề rộng khe. Cuộn có N = 400 vòng, dòng I = 0,50 A; lượt gốc g = 0,0010 m, tiết diện khe S = 0,00020 m². Cho từ thông Φ=NI/(ℜ_c+kg) và cảm ứng từ khe B=Φ/S. Bỏ qua từ thông tản, bão hòa và từ trễ; các thông số không đổi trừ thay đổi được nêu ở ý d. Các số có chữ 'xấp xỉ' làm tròn đến ba chữ số sau dấu phẩy.",
+          "statements": [
+            "Tổng từ trở ở lượt gốc bằng 5100000 A/Wb.",
+            "Từ thông ở lượt gốc bằng 0,000200 Wb.",
+            "Cảm ứng từ khe ở lượt gốc xấp xỉ bằng 0,196 T.",
+            "Nếu tăng riêng g thành 0,0020 m thì cảm ứng từ khe xấp xỉ bằng 0,099 T."
+          ],
+          "answers": [
+            true,
+            false,
+            true,
+            true
+          ],
+          "explain": [
+            "Đúng. Bước 1: ℜ_g=kg=5000000 A/Wb. Bước 2: ℜ=ℜ_c+ℜ_g=5100000 A/Wb.",
+            "Sai. Bước 1: Sức từ động NI=400×0,50=200 A. Bước 2: Φ=200/5100000=0,0000392156862745… Wb, không phải 0,000200 Wb.",
+            "Đúng. Bước 1: B=Φ/S=(200/5100000)/0,00020. Bước 2: B=0,196078431372… T, làm tròn ba chữ số sau dấu phẩy được 0,196 T.",
+            "Đúng. Bước 1: Từ trở mới là 100000+5000000000×0,0020=10100000 A/Wb. Bước 2: B'=200/(10100000×0,00020)=0,0990099009901… T, làm tròn được 0,099 T."
+          ]
+        },
+        {
+          "id": "vl-de-10-ii03",
+          "type": "tf4",
+          "points": 1,
+          "topic": "tu",
+          "level": 2,
+          "prompt": "Một chùm sóng điện từ chiếu vuông góc vào tấm phẳng không truyền qua. Tỉ phần công suất bị phản xạ là r, phần còn lại bị hấp thụ; phản xạ đúng ngược hướng tới. Lực bức xạ đã hiệu chuẩn theo F=F_0(P/P_0)(1+r), với P là công suất tới, P_0 = 12 W, F_0 = 40 nN là lực ở công suất P_0 khi hấp thụ hoàn toàn. Lượt gốc có P = 12 W, r = 0,60. Mỗi ý b–d là một lượt riêng thay đổi từ lượt gốc. Chỉ xét lực bức xạ, bỏ qua mọi lực khác.",
+          "statements": [
+            "Lực ở lượt gốc bằng 64 nN.",
+            "Nếu chỉ thay r bằng 1,00 thì lực bằng 120 nN.",
+            "Nếu chỉ thay r bằng 0 thì lực bằng 40 nN.",
+            "Nếu đồng thời thay P bằng 24 W và r bằng 0,20 thì lực bằng 96 nN."
+          ],
+          "answers": [
+            true,
+            false,
+            true,
+            true
+          ],
+          "explain": [
+            "Đúng. Bước 1: P/P_0=1 ở lượt gốc. Bước 2: F=40×1×(1+0,60)=64 nN.",
+            "Sai. Bước 1: Phản xạ hoàn toàn cho hệ số 1+r=2. Bước 2: F=40×2=80 nN, không phải 120 nN. Photon phản xạ đảo động lượng, không tạo hệ số 3.",
+            "Đúng. Bước 1: Hấp thụ hoàn toàn có r=0. Bước 2: Giữ P=P_0 cho F=40 nN.",
+            "Đúng. Bước 1: Công suất mới gấp đôi P_0 và hệ số phản xạ là 1,20. Bước 2: F=40×2×1,20=96 nN."
+          ]
+        },
+        {
+          "id": "vl-de-10-ii04",
+          "type": "tf4",
+          "points": 1,
+          "topic": "hat-nhan",
+          "level": 3,
+          "prompt": "Chiếu một bia để liên tục tạo đồng vị phóng xạ X với tốc độ S hạt nhân/s không đổi chưa biết; lúc bắt đầu bia chưa có X. X có chu kì bán rã T chưa biết, hạt nhân con bền. Trong mô hình không tiêu hao bia, không mất X bằng cơ chế khác, độ phóng xạ lúc đang chiếu là H(t)=S[1−2^{−t/T}]. Hai lượt chiếu độc lập dùng hai bia giống nhau: lượt ngắn τ = 4,0 giờ cho H_1 = 6000000 Bq ở cuối lượt; lượt dài 2τ cho H_2 = 9000000 Bq ở cuối lượt. Sau ngừng chiếu không tạo thêm X. Dùng H=(ln2/T)N, ln2=0,693, 1 giờ=3600 s.",
+          "statements": [
+            "Chu kì bán rã T bằng 4,0 giờ.",
+            "Tốc độ tạo X khi đang chiếu bằng 9000000 hạt nhân/s.",
+            "Số hạt nhân X ở cuối lượt ngắn bằng 1,20×10^{11}.",
+            "Sau khi kết thúc lượt dài rồi để nguội thêm 4,0 giờ, độ phóng xạ của X bằng 4500000 Bq."
+          ],
+          "answers": [
+            true,
+            false,
+            false,
+            true
+          ],
+          "explain": [
+            "Đúng. Bước 1: Đặt x=2^{−τ/T}; H_2/H_1=(1−x²)/(1−x)=1+x=1,50. Bước 2: x=0,50 nên τ/T=1, tức T=4,0 giờ.",
+            "Sai. Bước 1: H_1=S(1−0,50). Bước 2: S=6000000/0,50=12000000 hạt nhân/s. H_2 chưa phải độ phóng xạ bão hòa S.",
+            "Sai. Bước 1: Đổi T=14400 s, λ=0,693/14400 s^{-1}. Bước 2: N=H_1/λ=124675324675,32469… hạt nhân, không phải 1,20×10^{11}.",
+            "Đúng. Bước 1: Lượt dài dừng ở H_2=9000000 Bq, sau đó chỉ còn phân rã. Bước 2: Thời gian nguội 4,0 giờ bằng T nên H=H_2/2=4500000 Bq."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phần III",
+      "points": 0.25,
+      "items": [
+        {
+          "id": "vl-de-10-iii01",
+          "type": "num",
+          "points": 0.25,
+          "topic": "khi",
+          "level": 3,
+          "prompt": "Một túi khí mềm kín, vỏ và dây nối không có khối lượng đáng kể, được buộc với vật đặc có khối lượng m = 0,500 kg và thể tích bỏ qua. Bỏ qua khối lượng khí trong túi so với vật đặc. Ở mặt nước, túi chứa khí lí tưởng có thể tích V_0 = 0,0030 m³, áp suất tuyệt đối p_0 = 100000 Pa. Hạ hệ thật chậm trong nước có khối lượng riêng ρ = 1000 kg/m³, gia tốc trọng trường g = 10 m/s². Khí luôn đẳng nhiệt, không thoát hay hòa tan; áp suất trong túi bằng áp suất nước p=p_0+ρgh tại độ sâu h của tâm túi, bỏ qua độ chênh áp theo chiều cao túi. Lực đẩy Archimedes lên túi là ρgV; bỏ qua lực đẩy lên vật đặc. Tại độ sâu hệ lơ lửng không cần lực giữ, h bằng bao nhiêu m? Làm tròn đến một chữ số sau dấu phẩy.",
+          "answer": 50,
+          "exact": 50,
+          "round": 1,
+          "tolerance": 0,
+          "unit": "m",
+          "explain": "Bước 1: Bỏ qua khối lượng khí, vỏ và dây nên trọng lượng hệ là mg. Cân bằng lực tại trạng thái lơ lửng: ρgV=mg, nên V=m/ρ=0,000500 m³. Bước 2: Khí đẳng nhiệt kín có pV=p_0V_0, suy ra p=100000×0,0030/0,000500=600000 Pa. Bước 3: h=(p−p_0)/(ρg)=500000/10000=50 m. Bước 4: Chỉ làm tròn cuối đến một chữ số sau dấu phẩy: 50,0. Đây là trạng thái lơ lửng tức thời; không giả thiết cân bằng bền khi thả lệch độ sâu."
+        },
+        {
+          "id": "vl-de-10-iii02",
+          "type": "num",
+          "points": 0.25,
+          "topic": "khi",
+          "level": 3,
+          "prompt": "Một xilanh kín chứa khí khô lí tưởng và hơi nước. Ban đầu ở T_1 = 293 K, áp suất toàn phần p_1 = 100000 Pa, áp suất riêng phần hơi nước p_v1 = 2340 Pa, đúng bằng áp suất hơi nước bão hòa ở T_1; chưa có nước lỏng đáng kể. Nén đồng thời nung đến T_2 = 313 K, khi đó áp suất hơi nước bão hòa p_s2 = 7380 Pa và đúng f = 0,50 số phân tử hơi nước ban đầu đã ngưng tụ thành lỏng. Khí khô không ngưng tụ, không hòa tan; các khí lí tưởng, không rò; thể tích nước ngưng bỏ qua. Hệ cuối cân bằng pha; áp suất toàn phần bằng tổng áp suất riêng phần. Tính áp suất toàn phần cuối theo bar, với 1 bar=100000 Pa. Làm tròn đến hai chữ số sau dấu phẩy.",
+          "answer": 6.23,
+          "exact": 6.233892307692307,
+          "round": 2,
+          "tolerance": 0,
+          "unit": "bar",
+          "explain": "Bước 1: Khí khô ban đầu có p_d1=p_1−p_v1=97660 Pa. Hơi nước cuối còn (1−f) lần số mol ban đầu và bão hòa: p_s2V_2/T_2=(1−f)p_v1V_1/T_1. Bước 2: V_2/V_1=(1−f)(p_v1/p_s2)(T_2/T_1)=0,16935819528843754… . Bước 3: Bảo toàn khí khô cho p_d2=p_d1(V_1/V_2)(T_2/T_1)=616009,2307692308… Pa; cộng hơi bão hòa được p_2=623389,2307692308… Pa. Bước 4: Đổi bar được 6,233892307692307…; làm tròn cuối hai chữ số sau dấu phẩy: 6,23. Lượng nước đã ngưng dương nên điều kiện bão hòa cuối phù hợp."
+        },
+        {
+          "id": "vl-de-10-iii03",
+          "type": "num",
+          "points": 0.25,
+          "topic": "tu",
+          "level": 3,
+          "prompt": "Một mạch LC lí tưởng có C = 0,0010 F, L = 0,010 H; tụ được nạp đến U_0 = 100 V rồi ngắt nguồn, nối mạch dao động. Dòng mạch đi qua thanh ngang dài ℓ = 0,20 m nằm trong từ trường đều B = 0,50 T vuông góc thanh. Thanh cùng tải có khối lượng tổng m = 0,500 kg, được một sợi dây thẳng đứng giữ tại vị trí coi như cố định; g = 10 m/s². Ở nửa chu kì dòng dương, lực từ BℓI hướng xuống, ngược lại hướng lên. Cho bảo toàn năng lượng CU_0²/2=LI²/2 khi dòng cực đại; ứng suất kéo dây σ=T_d/S_d với T_d là lực căng, S_d là tiết diện dây. Bỏ qua điện trở, tự cảm ngoài L, biến dạng và chuyển động của thanh, nhiệt, lực khác. Dây phải chịu được ứng suất không quá σ_lim = 2000000 Pa. Tiết diện nhỏ nhất cần chọn theo mô hình bằng bao nhiêu mm²? Cho 1 mm²=0,000001 m²; làm tròn đáp số tính toán đến hai chữ số sau dấu phẩy, không hiểu số đã làm tròn là quy cách chọn dây thực tế.",
+          "answer": 4.08,
+          "exact": 4.08113883008419,
+          "round": 2,
+          "tolerance": 0,
+          "unit": "mm²",
+          "explain": "Bước 1: Năng lượng mạch cho I_max=U_0√(C/L)=31,6227766016838… A. Bước 2: Lực từ cực đại hướng xuống F_max=BℓI_max=3,16227766016838… N, nên lực căng lớn nhất T_max=mg+F_max=8,16227766016838… N. Lực căng nhỏ nhất mg−F_max vẫn dương nên dây không chùng trong mô hình. Bước 3: S_min=T_max/σ_lim=0,00000408113883008419… m²=4,08113883008419… mm². Bước 4: Làm tròn đáp số cuối hai chữ số sau dấu phẩy: 4,08."
+        },
+        {
+          "id": "vl-de-10-iii04",
+          "type": "num",
+          "points": 0.25,
+          "topic": "tu",
+          "level": 3,
+          "prompt": "Một chùm nguyên tử trung hòa có mômen từ μ dương, được giữ cùng hướng với từ trường, bay dọc trục x với v = 200 m/s. Trong một nam châm dài ℓ = 0,20 m theo x, gradient G=∂B/∂y không đổi tạo lực ngang F_y=μG; không có lực dọc x. Tỉ số khối lượng trên mômen từ của nguyên tử là a = m/μ = 0,0050 kg/(A·m²). Sau nam châm là đoạn bay tự do dài D = 0,40 m tới màn; từ trường ngoài nam châm bằng không. Chùm vào ở y=0, vận tốc ngang ban đầu bằng không; độ lệch trên màn đo được y_s = 0,000730 m. Bỏ qua trọng lực, va chạm, bề rộng chùm, vùng biên và biến đổi hướng mômen từ; chuyển động ngang không tương đối tính. Tính G theo T/m, làm tròn đến hai chữ số sau dấu phẩy.",
+          "answer": 1.46,
+          "exact": 1.46,
+          "round": 2,
+          "tolerance": 0,
+          "unit": "T/m",
+          "explain": "Bước 1: Trong nam châm, gia tốc ngang a_y=F_y/m=G/a, thời gian t_m=ℓ/v=0,0010 s; độ lệch y_m=a_yt_m²/2 và vận tốc ra v_y=a_yt_m. Bước 2: Đoạn tự do kéo dài t_d=D/v=0,0020 s, tạo thêm y_d=v_yt_d. Do đó y_s=(G/a)ℓ(D+ℓ/2)/v². Bước 3: G=y_s a v²/[ℓ(D+ℓ/2)]=0,000730×0,0050×200²/[0,20×0,50]=1,46 T/m. Bước 4: Giữ hai chữ số sau dấu phẩy: 1,46. Không bỏ độ lệch tích lũy ngay trong nam châm."
+        },
+        {
+          "id": "vl-de-10-iii05",
+          "type": "num",
+          "points": 0.25,
+          "topic": "hat-nhan",
+          "level": 3,
+          "prompt": "Một khoáng vật ban đầu có hai đồng vị mẹ P_1, P_2 nhưng không có các hạt nhân con tương ứng D_1, D_2. Hai mẹ phân rã độc lập thành con bền với chu kì T_1, T_2 = 2T_1. Hệ kín từ lúc hình thành đến ngay trước đo ở tuổi t. Đúng trước đo, một quá trình hóa học rất nhanh chỉ lấy đi cùng một tỉ phần của mỗi loại con, để lại tỉ phần f như nhau; các hạt mẹ không bị lấy đi và thời gian xử lí bỏ qua. Đo được r_1 = N_D1/N_P1 = 3,00 và r_2 = N_D2/N_P2 = 0,750 sau xử lí. Từ bảo toàn số hạt trước xử lí, có thể dùng r_i=f(2^{t/T_i}−1). Không có con từ nguồn khác, không có phản ứng phụ. Bao nhiêu phần trăm số hạt nhân con của mỗi loại đã được GIỮ LẠI? Làm tròn đến một chữ số sau dấu phẩy.",
+          "answer": 37.5,
+          "exact": 37.5,
+          "round": 1,
+          "tolerance": 0,
+          "unit": "%",
+          "explain": "Bước 1: Đặt x=2^{t/T_2}>1; do T_2=2T_1 nên 2^{t/T_1}=x². Hai số đo cho r_1=f(x²−1), r_2=f(x−1). Bước 2: Chia hai phương trình: r_1/r_2=x+1, suy ra x=3,00/0,750−1=3. Bước 3: f=r_2/(x−1)=0,750/2=0,375, thỏa 0<f<1. Bước 4: Phần trăm giữ lại là 100f=37,5 %, làm tròn cuối một chữ số sau dấu phẩy: 37,5. Không nhầm với phần bị lấy đi 62,5 %."
+        },
+        {
+          "id": "vl-de-10-iii06",
+          "type": "num",
+          "points": 0.25,
+          "topic": "hat-nhan",
+          "level": 3,
+          "prompt": "Một nguồn gamma phát hai vạch năng lượng E và 2E với cùng tốc độ phát photon, ổn định trong thí nghiệm. Một tấm chắn bề dày d có tỉ phần truyền qua là 2^{−2d/h} cho vạch E và 2^{−d/h} cho vạch 2E, với h = 2,00 mm. Đầu thu phía sau tấm hấp thụ toàn bộ năng lượng của mỗi photon tới, hiệu suất hình học như nhau cho hai vạch và không đổi khi thêm tấm. Bỏ qua photon tán xạ, bức xạ thứ cấp, phông và năng lượng truyền theo đường khác. Muốn công suất năng lượng lắng đọng ở đầu thu còn đúng q = 0,50 so với khi bỏ tấm thì cần d bằng bao nhiêu mm? Làm tròn đến hai chữ số sau dấu phẩy.",
+          "answer": 1.57,
+          "exact": 1.566090480249402,
+          "round": 2,
+          "tolerance": 0,
+          "unit": "mm",
+          "explain": "Bước 1: Đặt x=2^{−d/h}, 0<x≤1. Vạch E truyền x², vạch 2E truyền x; cùng số photon phát nên công suất trước chắn tỉ lệ E+2E=3E. Bước 2: Điều kiện công suất là (x²+2x)/3=q=0,50, tức x²+2x−1,50=0. Bước 3: Nghiệm vật lí x=−1+√2,50=0,58113883008419…; nghiệm âm bị loại. Suy ra d=−h log₂x=1,566090480249402… mm. Bước 4: Chỉ làm tròn cuối hai chữ số sau dấu phẩy: 1,57. Không thay công suất năng lượng bằng số photon vì hai vạch mang năng lượng khác nhau."
+        }
+      ]
+    }
+  ]
+}

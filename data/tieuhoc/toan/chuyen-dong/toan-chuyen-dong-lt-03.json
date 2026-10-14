@@ -1,0 +1,18 @@
+{
+  "id": "toan-chuyen-dong-lt-03",
+  "title": "Giờ–phút và các chặng",
+  "topic": "chuyen-dong",
+  "items": [
+    {
+      "id": "toan-chuyen-dong-lt-03-t1",
+      "type": "card",
+      "title": "Giờ–phút và các chặng",
+      "paras": [
+        "1 giờ = 60 phút. Đổi phút ra giờ bằng cách chia cho 60. Chẳng hạn: 30 phút = 0,5 giờ; 1 giờ 30 phút = 1 + 0,5 = 1,5 giờ. Phần đổi và phần cộng là hai bước, khi giải phải viết thành hai dòng.",
+        "Có thể đổi vận tốc từ km/giờ sang km/phút bằng cách chia cho 60 rồi nhân với thời gian tính bằng phút. Không viết 1 giờ 30 phút thành 1,30 giờ.",
+        "Một hành trình nhiều chặng: tính quãng đường hoặc thời gian từng chặng, rồi cộng. Thời gian đã gồm nghỉ và thời gian thực sự chuyển động là hai đại lượng khác nhau. Các ví dụ ở chủ đề này đều trong cùng ngày."
+      ],
+      "source": "SGK Toán 5, các bài “Bảng đơn vị đo thời gian”, “Thời gian”; phạm vi CB chuyển động đều một vật theo đặc tả 2.0, mục 1."
+    }
+  ]
+}

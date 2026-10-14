@@ -1,0 +1,19 @@
+{
+  "id": "toan-hinh-phang-lt-06",
+  "title": "Đọc hình và thống nhất đơn vị",
+  "topic": "hinh-phang",
+  "items": [
+    {
+      "id": "toan-hinh-phang-lt-06-t1",
+      "type": "card",
+      "title": "Đọc hình và thống nhất đơn vị",
+      "paras": [
+        "Đọc chữ ghi cạnh và dấu vuông góc để xác định đúng đáy, chiều cao, bán kính hay đường kính. Không đo chiều dài trên màn hình để thay số đo đã cho.",
+        "Trước khi cộng độ dài hoặc dùng công thức diện tích, đổi các số đo về cùng đơn vị. Mỗi lần đổi và mỗi phép tính viết một dòng riêng.",
+        "Trên lưới ô vuông, đếm số ô dọc đáy và chiều cao, nhân với độ dài cạnh ô để tìm số đo thật rồi mới tính diện tích.",
+        "Kiểm tra đơn vị câu hỏi: chu vi là cm, m…; diện tích là cm², m²… Trả lời số thập phân chính xác khi phép tính chia hết; chỉ làm tròn nếu đề yêu cầu."
+      ],
+      "source": "SGK Toán 5, bài SGK: chưa xác minh (tên/số bài luyện tập). Đọc số đo phục vụ các hình CB và đổi đơn vị đã có nguồn chương trình tại đặc tả 2.0 mục 1."
+    }
+  ]
+}

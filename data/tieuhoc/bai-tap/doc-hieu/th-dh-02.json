@@ -1,0 +1,130 @@
+{
+ "id": "th-dh-02",
+ "module": "reading",
+ "title": "Quảng cáo và tờ rơi",
+ "emoji": "📰",
+ "intro": "Tìm thông tin về giá, giờ mở cửa, độ tuổi, ưu đãi (off = giảm giá, free = miễn phí).",
+ "instruction": "Đọc quảng cáo và chọn đáp án đúng.",
+ "shuffle": true,
+ "priority": 1,
+ "sources": [
+  "dang-de-NTT"
+ ],
+ "items": [
+  {
+   "id": "th-dh-02-g1",
+   "type": "group",
+   "title": "Advertisement 1",
+   "passage": "SUMMER ENGLISH CLUB for children aged 8–12\n• Games, songs and drama every afternoon\n• Monday to Thursday, 2 p.m. – 4 p.m.\n• Price: 500,000 dong a month\n• Bring a friend and get 10% off!\nCall 0912 345 678 to join.",
+   "items": [
+    {
+     "id": "th-dh-02-01",
+     "type": "mcq",
+     "prompt": "Who can join the club?",
+     "options": [
+      "A 5-year-old",
+      "A 7-year-old",
+      "An 11-year-old",
+      "A 14-year-old"
+     ],
+     "answer": 2,
+     "explain": "Câu lạc bộ dành cho trẻ 8–12 tuổi; chỉ bạn 11 tuổi phù hợp."
+    },
+    {
+     "id": "th-dh-02-02",
+     "type": "mcq",
+     "prompt": "How can you pay less?",
+     "options": [
+      "Come on Friday",
+      "Bring a friend",
+      "Phone the club",
+      "Join in the morning"
+     ],
+     "answer": 1,
+     "explain": "\"Bring a friend and get 10% off\": rủ bạn sẽ được giảm 10%."
+    },
+    {
+     "id": "th-dh-02-03",
+     "type": "mcq",
+     "prompt": "Which is TRUE about the club?",
+     "options": [
+      "It is open every day.",
+      "It starts at 4 p.m.",
+      "Students play games there.",
+      "It is free."
+     ],
+     "answer": 2,
+     "explain": "Có \"Games, songs and drama\"; các ý còn lại sai."
+    }
+   ]
+  },
+  {
+   "id": "th-dh-02-g2",
+   "type": "group",
+   "title": "Advertisement 2",
+   "passage": "BIG SALE at HAPPY BOOKSHOP!\nAll comic books: 20% off\nBuy 2 storybooks, get 1 free\nOpen 8 a.m. – 9 p.m. every day this week",
+   "items": [
+    {
+     "id": "th-dh-02-04",
+     "type": "mcq",
+     "prompt": "What can you get for free?",
+     "options": [
+      "A comic book",
+      "A storybook",
+      "A pen",
+      "A bag"
+     ],
+     "answer": 1,
+     "explain": "\"Buy 2 storybooks, get 1 free\": mua 2 truyện được tặng 1 truyện."
+    },
+    {
+     "id": "th-dh-02-05",
+     "type": "mcq",
+     "prompt": "When does the shop close?",
+     "options": [
+      "At 8 a.m.",
+      "At 12 p.m.",
+      "At 8 p.m.",
+      "At 9 p.m."
+     ],
+     "answer": 3,
+     "explain": "Cửa hàng mở 8 a.m. – 9 p.m., nên đóng cửa lúc 9 giờ tối."
+    }
+   ]
+  },
+  {
+   "id": "th-dh-02-g3",
+   "type": "group",
+   "title": "Advertisement 3",
+   "passage": "LOST CAT!\nName: Mimi. She is small and white with a black tail.\nShe was last seen near Green Park on Sunday evening.\nIf you find her, please call Nam: 0987 654 321.",
+   "items": [
+    {
+     "id": "th-dh-02-06",
+     "type": "mcq",
+     "prompt": "What does Mimi look like?",
+     "options": [
+      "Big and black",
+      "Small and white",
+      "Big and white",
+      "Small and black"
+     ],
+     "answer": 1,
+     "explain": "\"She is small and white with a black tail\"."
+    },
+    {
+     "id": "th-dh-02-07",
+     "type": "mcq",
+     "prompt": "Why did Nam write this notice?",
+     "options": [
+      "To sell his cat",
+      "To find his cat",
+      "To buy a new cat",
+      "To invite friends to the park"
+     ],
+     "answer": 1,
+     "explain": "Đây là thông báo mất mèo; Nam muốn tìm lại mèo."
+    }
+   ]
+  }
+ ]
+}

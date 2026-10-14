@@ -1,0 +1,19 @@
+{
+  "id": "toan-hinh-phang-lt-04",
+  "title": "Diện tích hình tròn và so sánh",
+  "topic": "hinh-phang",
+  "items": [
+    {
+      "id": "toan-hinh-phang-lt-04-t1",
+      "type": "card",
+      "title": "Diện tích hình tròn và so sánh",
+      "paras": [
+        "Lấy 3,14: diện tích hình tròn bằng bán kính nhân bán kính rồi nhân 3,14. Tách thành hai dòng phép tính; diện tích dùng đơn vị vuông.",
+        "Nếu biết đường kính thì chia 2 để có bán kính trước khi tính diện tích. Không lấy đường kính thay bán kính.",
+        "Khi bán kính gấp một số lần, chu vi gấp bấy nhiêu lần; diện tích gấp số lần đó nhân với chính nó. Chẳng hạn bán kính gấp 2 thì diện tích gấp 4.",
+        "Chia hình tròn thành các phần bằng diện tích: tính diện tích cả hình rồi chia số phần; không chia bán kính cho số phần."
+      ],
+      "source": "SGK Toán 5 Kết nối tri thức, Bài 27: Đường tròn (đặc tả 2.0 mục 1 ghi nguồn bài 27). Tên/số bài SGK riêng về chu vi và diện tích: chưa xác minh; phạm vi CB theo CT môn Toán lớp 5, trang 40–46."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "toan-chuyen-dong-lt-02",
+  "title": "Quãng đường và thời gian",
+  "topic": "chuyen-dong",
+  "items": [
+    {
+      "id": "toan-chuyen-dong-lt-02-t1",
+      "type": "card",
+      "title": "Quãng đường và thời gian",
+      "paras": [
+        "Chuyển động đều: quãng đường s = v × t; thời gian t = s : v. Đổi các số đo về đơn vị phù hợp trước khi dùng công thức.",
+        "Cùng thời gian, vận tốc lớn hơn thì đi xa hơn. Trên cùng một quãng đường, vận tốc lớn hơn thì mất ít thời gian hơn. Lượt đi và về trên cùng đường, cùng vận tốc có thời gian bằng nhau.",
+        "Nếu tính tổng thời gian từ xuất phát đến nơi, cộng cả thời gian nghỉ. Nếu tìm thời gian chạy, loại thời gian nghỉ. Đọc kỹ xem đề hỏi một lượt hay cả đi và về."
+      ],
+      "source": "SGK Toán 5, các bài “Quãng đường”, “Thời gian”; phạm vi CB: CT môn Toán GDPT 2018, lớp 5, trang in 44."
+    }
+  ]
+}

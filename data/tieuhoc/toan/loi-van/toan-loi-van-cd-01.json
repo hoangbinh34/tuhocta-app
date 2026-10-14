@@ -1,0 +1,151 @@
+{
+  "id": "toan-loi-van-cd-01",
+  "title": "Rút về đơn vị",
+  "topic": "loi-van",
+  "items": [
+    {
+      "type": "mcq",
+      "level": 1,
+      "model": "chon-buoc-rut-ve-mot-hop",
+      "prompt": "6 hộp bút giống nhau có tổng cộng 48 chiếc bút. Muốn rút về một hộp, cần làm phép tính nào?",
+      "answer": 0,
+      "explain": "Rút về một hộp là chia tổng số bút cho số hộp.\nNhiễu: 48 × 6 nhân thay vì chia; 48 + 6 cộng số hộp vào số bút; 48 − 6 trừ số hộp khỏi số bút.\nĐáp số: 48 : 6.",
+      "options": [
+        "48 : 6",
+        "48 × 6",
+        "48 + 6",
+        "48 − 6"
+      ],
+      "id": "toan-loi-van-cd-01-01"
+    },
+    {
+      "type": "num",
+      "level": 1,
+      "model": "don-gia-tu-goi-dong-gia",
+      "prompt": "5 quyển vở cùng giá có giá tất cả 45 nghìn đồng. Một quyển vở giá bao nhiêu nghìn đồng?",
+      "answer": 9,
+      "explain": "Giá một quyển: 45 : 5 = 9 (nghìn đồng).\nĐáp số: 9 nghìn đồng.",
+      "unit": "nghìn đồng",
+      "round": 0,
+      "id": "toan-loi-van-cd-01-02"
+    },
+    {
+      "type": "mcq",
+      "level": 1,
+      "model": "don-hang-tim-so-tui-con-thieu",
+      "prompt": "Một đơn hàng cần 12 túi bi đã đóng đầy. Cửa hàng đã chuẩn bị được 5 túi đúng yêu cầu. Còn phải chuẩn bị thêm bao nhiêu túi để vừa đủ đơn hàng?",
+      "answer": 1,
+      "explain": "Số túi còn thiếu: 12 − 5 = 7 (túi).\nNhiễu: 17 = 12 + 5 cộng số đã có vào số cần; 12 quên trừ số đã có; 5 chỉ là số đã chuẩn bị.\nĐáp số: 7 túi.",
+      "options": [
+        "17 túi",
+        "7 túi",
+        "12 túi",
+        "5 túi"
+      ],
+      "id": "toan-loi-van-cd-01-03"
+    },
+    {
+      "type": "num",
+      "level": 2,
+      "model": "so-doan-thieu-de-du-don-hang",
+      "prompt": "Có 28 m dây, cắt thành các đoạn dài đúng 4 m, không hao hụt. Đơn hàng cần 10 đoạn như thế. Cần thêm bao nhiêu đoạn mới đủ đơn hàng?",
+      "answer": 3,
+      "explain": "Số đoạn cắt được: 28 : 4 = 7 (đoạn).\nSố đoạn còn thiếu: 10 − 7 = 3 (đoạn).\nĐáp số: 3 đoạn.",
+      "unit": "đoạn",
+      "round": 0,
+      "id": "toan-loi-van-cd-01-04"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "model": "rut-luong-moi-thung-tim-so-thung",
+      "prompt": "3 thùng chứa tổng cộng 24 kg gạo, mỗi thùng chứa lượng gạo bằng nhau. Muốn đóng hết 72 kg gạo vào các thùng đầy, mỗi thùng chứa đúng lượng như thùng mẫu, cần bao nhiêu thùng?",
+      "answer": 2,
+      "explain": "Mỗi thùng chứa: 24 : 3 = 8 (kg).\nSố thùng cần: 72 : 8 = 9 (thùng).\nNhiễu: 24 lấy luôn tổng số ki-lô-gam của lô mẫu làm số thùng cần; 216 = 72 × 3 nhân lượng gạo với số thùng mẫu thay vì chia cho lượng gạo mỗi thùng; 48 = 72 − 24 lấy lượng gạo hơn lô mẫu làm số thùng cần.\nĐáp số: 9 thùng.",
+      "options": [
+        "24 thùng",
+        "216 thùng",
+        "9 thùng",
+        "48 thùng"
+      ],
+      "id": "toan-loi-van-cd-01-05"
+    },
+    {
+      "type": "num",
+      "level": 2,
+      "model": "gom-hai-lo-roi-dong-deu",
+      "prompt": "Có 35 chiếc bánh ở khay đỏ và 25 chiếc ở khay xanh. Gộp cả hai khay, chia hết vào các hộp, mỗi hộp đúng 6 chiếc. Có bao nhiêu hộp?",
+      "answer": 10,
+      "explain": "Tổng số bánh: 35 + 25 = 60 (chiếc).\nSố hộp: 60 : 6 = 10 (hộp).\nĐáp số: 10 hộp.",
+      "unit": "hộp",
+      "round": 0,
+      "id": "toan-loi-van-cd-01-06"
+    },
+    {
+      "type": "num",
+      "level": 2,
+      "model": "bot-phan-rieng-roi-chia-deu",
+      "prompt": "Một cuộn có 70 m dây. Cắt riêng 10 m để buộc đồ; phần còn lại chia thành 5 đoạn bằng nhau, không hao hụt. Mỗi đoạn dài bao nhiêu mét?",
+      "answer": 12,
+      "explain": "Dây còn lại: 70 − 10 = 60 (m).\nMỗi đoạn dài: 60 : 5 = 12 (m).\nĐáp số: 12 m.",
+      "unit": "m",
+      "round": 0,
+      "id": "toan-loi-van-cd-01-07"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "model": "don-vi-roi-bot-tren-moi-suat",
+      "prompt": "32 chiếc bánh chia đều cho 4 bạn. Mỗi bạn ăn 3 chiếc từ phần của mình. Mỗi bạn còn bao nhiêu chiếc?",
+      "answer": 3,
+      "explain": "Mỗi bạn nhận: 32 : 4 = 8 (chiếc).\nMỗi bạn còn: 8 − 3 = 5 (chiếc).\nNhiễu: 8 chưa trừ đã ăn; 29 = 32 − 3 chỉ trừ trên tổng; 11 = 8 + 3 cộng thay vì trừ.\nĐáp số: 5 chiếc.",
+      "options": [
+        "8 chiếc",
+        "29 chiếc",
+        "11 chiếc",
+        "5 chiếc"
+      ],
+      "id": "toan-loi-van-cd-01-08"
+    },
+    {
+      "type": "mcq",
+      "level": 1,
+      "model": "nhan-biet-gia-thiet-dong-deu",
+      "prompt": "Để từ số bút trong 4 hộp suy ra số bút trong 1 hộp bằng phép chia cho 4, cần giả thiết nào?",
+      "answer": 0,
+      "explain": "Phải có số bút bằng nhau trong mỗi hộp mới chia đều được.\nNhiễu: cùng màu, cùng nhãn hoặc cách xếp không bảo đảm số bút bằng nhau.\nĐáp số: Các hộp có số bút bằng nhau.",
+      "options": [
+        "Các hộp có số bút bằng nhau",
+        "Các hộp cùng màu",
+        "Các hộp cùng tên nhãn",
+        "Các hộp xếp thành một hàng"
+      ],
+      "id": "toan-loi-van-cd-01-09"
+    },
+    {
+      "type": "tf4",
+      "level": 2,
+      "model": "kiem-tra-goi-hang-du-thieu",
+      "prompt": "Một cửa hàng đóng mỗi gói đúng 8 nhãn vở. Đánh giá các phát biểu; chỉ tính gói đầy, nhãn dư để riêng.",
+      "statements": [
+        "a) 26 nhãn vở đóng được 3 gói đầy và dư 2 nhãn.",
+        "b) Có 5 gói đầy thì có 40 nhãn vở.",
+        "c) 26 nhãn vở cần thêm 6 nhãn để có vừa đủ 4 gói đầy.",
+        "d) 26 nhãn vở cần bớt 1 nhãn để có vừa đủ 3 gói đầy."
+      ],
+      "answers": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "explain": [
+        "Đúng. Ba gói cần: 8 × 3 = 24 (nhãn).\nSố nhãn dư: 26 − 24 = 2 (nhãn).\nĐáp số: Đúng.",
+        "Đúng. Số nhãn: 8 × 5 = 40 (nhãn).\nĐáp số: Đúng.",
+        "Đúng. Bốn gói cần: 8 × 4 = 32 (nhãn).\nCần thêm: 32 − 26 = 6 (nhãn).\nĐáp số: Đúng.",
+        "Sai. Ba gói cần: 8 × 3 = 24 (nhãn).\nCần bớt: 26 − 24 = 2 (nhãn), không phải 1 nhãn.\nĐáp số: Sai."
+      ],
+      "id": "toan-loi-van-cd-01-10"
+    }
+  ]
+}

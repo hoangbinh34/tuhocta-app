@@ -1,0 +1,12 @@
+[
+  {"id": "g5-u14-001", "word": "exercise", "pos": "n, v", "ipa": "/ˈeksəsaɪz/", "pic": "🤸", "vi": "tập thể dục", "defEn": "physical activity to stay healthy", "example": "I do morning ______ every day.", "level": 2, "priority": 1, "sources": ["sgk-g5-u14"]},
+  {"id": "g5-u14-002", "word": "yoga", "pos": "n", "ipa": "/ˈjəʊɡə/", "pic": "🧘", "vi": "môn yoga", "defEn": "exercise with slow movements and breathing", "example": "My mum does ______ three times a week.", "level": 1, "priority": 1, "sources": ["sgk-g5-u14"]},
+  {"id": "g5-u14-003", "word": "fresh juice", "pos": "n", "ipa": "/ˌfreʃ ˈdʒuːs/", "pic": "🍊", "vi": "nước ép tươi", "defEn": "a drink made from fruit that was just squeezed", "example": "I drink ______ for breakfast.", "level": 2, "priority": 1, "sources": ["sgk-g5-u14"]},
+  {"id": "g5-u14-004", "word": "healthy", "pos": "adj", "ipa": "/ˈhelθi/", "pic": "💪", "vi": "tốt cho sức khoẻ, khoẻ mạnh", "defEn": "good for your body", "example": "Eating fruit is ______.", "level": 2, "priority": 1, "sources": ["sgk-g5-u14"]},
+  {"id": "g5-u14-005", "word": "vegetables", "pos": "n", "ipa": "/ˈvedʒtəblz/", "pic": "🥦", "vi": "rau củ", "defEn": "plants that you eat, like carrots and cabbages", "example": "You should eat ______ every day.", "level": 2, "priority": 1, "sources": ["sgk-g5-u14"]},
+  {"id": "g5-u14-006", "word": "every day", "pos": "adv", "ipa": "/ˌevri ˈdeɪ/", "pic": "📆", "vi": "mỗi ngày", "defEn": "on all days", "example": "I brush my teeth ______.", "level": 1, "priority": 1, "sources": ["sgk-g5-u14"]},
+  {"id": "g5-u14-007", "word": "once", "pos": "adv", "ipa": "/wʌns/", "pic": "1️⃣", "vi": "một lần", "defEn": "one time", "example": "I go swimming ______ a week.", "level": 2, "priority": 1, "sources": ["sgk-g5-u14"]},
+  {"id": "g5-u14-008", "word": "twice", "pos": "adv", "ipa": "/twaɪs/", "pic": "2️⃣", "vi": "hai lần", "defEn": "two times", "example": "We have English ______ a week.", "level": 2, "priority": 1, "sources": ["sgk-g5-u14"]},
+  {"id": "g5-u14-009", "word": "sports", "pos": "n", "ipa": "/spɔːts/", "pic": "⚽", "vi": "các môn thể thao", "defEn": "games like football and swimming", "example": "Boys and girls play ______ after school.", "level": 1, "priority": 1, "sources": ["sgk-g5-u14"]},
+  {"id": "g5-u14-010", "word": "fast food", "pos": "n", "ipa": "/ˌfɑːst ˈfuːd/", "pic": "🍟", "vi": "đồ ăn nhanh", "defEn": "food like chips and burgers that is cooked quickly", "example": "Don't eat too much ______.", "level": 2, "priority": 2, "sources": ["chu-de-on-thi"]}
+]

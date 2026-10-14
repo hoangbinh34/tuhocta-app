@@ -1,0 +1,566 @@
+{
+ "id": "th-dt-02",
+ "module": "mock-test",
+ "title": "Đề 2 – kiểu Cầu Giấy",
+ "emoji": "🏁",
+ "desc": "Khuôn kiểu THCS Cầu Giấy (đề thứ hai, nội dung khác đề 1).",
+ "minutes": 45,
+ "scale": 10,
+ "priority": 1,
+ "sources": [
+  "khuon-de-vao-6"
+ ],
+ "sections": [
+  {
+   "title": "I. Ngữ âm",
+   "instruction": "Câu 1–3: phát âm; câu 4–5: trọng âm.",
+   "items": [
+    {
+     "id": "th-dt-02-01",
+     "type": "mcq",
+     "prompt": "Chọn từ có phần gạch chân phát âm khác.",
+     "options": [
+      "h[[a]]t",
+      "c[[a]]p",
+      "f[[a]]n",
+      "c[[a]]ll"
+     ],
+     "answer": 3,
+     "explain": "call: /ɔː/. hat, cap, fan: /æ/."
+    },
+    {
+     "id": "th-dt-02-02",
+     "type": "mcq",
+     "prompt": "Chọn từ có phần gạch chân phát âm khác.",
+     "options": [
+      "visit[[ed]]",
+      "want[[ed]]",
+      "need[[ed]]",
+      "watch[[ed]]"
+     ],
+     "answer": 3,
+     "explain": "watched: /t/. visited, wanted, needed: /ɪd/."
+    },
+    {
+     "id": "th-dt-02-03",
+     "type": "mcq",
+     "prompt": "Chọn từ có phần gạch chân phát âm khác.",
+     "options": [
+      "[[th]]in",
+      "[[th]]ree",
+      "[[th]]at",
+      "[[th]]ank"
+     ],
+     "answer": 2,
+     "explain": "that: /ð/. thin, three, thank: /θ/."
+    },
+    {
+     "id": "th-dt-02-04",
+     "type": "mcq",
+     "prompt": "Chọn từ có trọng âm khác.",
+     "options": [
+      "museum",
+      "hospital",
+      "library",
+      "cinema"
+     ],
+     "answer": 0,
+     "explain": "museum nhấn âm 2; hospital (âm 1), library (âm 1), cinema (âm 1)."
+    },
+    {
+     "id": "th-dt-02-05",
+     "type": "mcq",
+     "prompt": "Chọn từ có trọng âm khác.",
+     "options": [
+      "begin",
+      "enjoy",
+      "happy",
+      "decide"
+     ],
+     "answer": 2,
+     "explain": "happy nhấn âm 1; begin (âm 2), enjoy (âm 2), decide (âm 2)."
+    }
+   ]
+  },
+  {
+   "title": "II. Chọn đáp án đúng",
+   "instruction": "Chọn A, B, C hoặc D để hoàn thành câu.",
+   "items": [
+    {
+     "id": "th-dt-02-06",
+     "type": "mcq",
+     "prompt": "Look! The boys ___ football.",
+     "options": [
+      "play",
+      "are playing",
+      "plays",
+      "played"
+     ],
+     "answer": 1,
+     "explain": "\"Look!\": hiện tại tiếp diễn, the boys: are playing."
+    },
+    {
+     "id": "th-dt-02-07",
+     "type": "mcq",
+     "prompt": "___ there any milk in the bottle?",
+     "options": [
+      "Is",
+      "Are",
+      "Do",
+      "Does"
+     ],
+     "answer": 0,
+     "explain": "milk không đếm được: Is there any…?"
+    },
+    {
+     "id": "th-dt-02-08",
+     "type": "mcq",
+     "prompt": "This book is ___ than that one.",
+     "options": [
+      "interesting",
+      "more interesting",
+      "most interesting",
+      "interestinger"
+     ],
+     "answer": 1,
+     "explain": "Tính từ dài: more interesting than."
+    },
+    {
+     "id": "th-dt-02-09",
+     "type": "mcq",
+     "prompt": "I usually have dinner ___ 7 p.m.",
+     "options": [
+      "in",
+      "on",
+      "at",
+      "for"
+     ],
+     "answer": 2,
+     "explain": "Giờ cụ thể: at 7 p.m."
+    },
+    {
+     "id": "th-dt-02-10",
+     "type": "mcq",
+     "prompt": "My father can ___ three languages.",
+     "options": [
+      "speak",
+      "speaks",
+      "speaking",
+      "to speak"
+     ],
+     "answer": 0,
+     "explain": "can + động từ nguyên mẫu."
+    },
+    {
+     "id": "th-dt-02-11",
+     "type": "mcq",
+     "prompt": "How ___ apples do you want?",
+     "options": [
+      "much",
+      "many",
+      "long",
+      "often"
+     ],
+     "answer": 1,
+     "explain": "apples đếm được: How many."
+    },
+    {
+     "id": "th-dt-02-12",
+     "type": "mcq",
+     "prompt": "We didn't go out ___ it was raining.",
+     "options": [
+      "so",
+      "but",
+      "because",
+      "and"
+     ],
+     "answer": 2,
+     "explain": "Nguyên nhân: because."
+    },
+    {
+     "id": "th-dt-02-13",
+     "type": "mcq",
+     "prompt": "You ___ eat too many sweets. They are bad for your teeth.",
+     "options": [
+      "should",
+      "shouldn't",
+      "must",
+      "can"
+     ],
+     "answer": 1,
+     "explain": "Khuyên không nên: shouldn't."
+    },
+    {
+     "id": "th-dt-02-14",
+     "type": "mcq",
+     "prompt": "What's the weather ___ in Da Lat?",
+     "options": [
+      "like",
+      "as",
+      "about",
+      "for"
+     ],
+     "answer": 0,
+     "explain": "Hỏi thời tiết: What's the weather like?"
+    },
+    {
+     "id": "th-dt-02-15",
+     "type": "mcq",
+     "prompt": "She ___ her homework yesterday evening.",
+     "options": [
+      "does",
+      "did",
+      "do",
+      "doing"
+     ],
+     "answer": 1,
+     "explain": "\"yesterday evening\": did."
+    }
+   ]
+  },
+  {
+   "title": "III. Chia động từ",
+   "instruction": "Gõ dạng đúng của động từ trong ngoặc.",
+   "items": [
+    {
+     "id": "th-dt-02-16",
+     "type": "input",
+     "prompt": "My friends (play) ___ chess at the moment.",
+     "answers": [
+      "are playing",
+      "'re playing"
+     ],
+     "explain": "\"at the moment\": are playing."
+    },
+    {
+     "id": "th-dt-02-17",
+     "type": "input",
+     "prompt": "Where (you / go) ___ last summer?",
+     "answers": [
+      "did you go"
+     ],
+     "explain": "Câu hỏi quá khứ: did you go."
+    },
+    {
+     "id": "th-dt-02-18",
+     "type": "input",
+     "prompt": "Mai (have) ___ long black hair.",
+     "answers": [
+      "has",
+      "has got"
+     ],
+     "explain": "Mai = she: has (hoặc has got)."
+    },
+    {
+     "id": "th-dt-02-19",
+     "type": "input",
+     "prompt": "We (not watch) ___ TV last night.",
+     "answers": [
+      "didn't watch",
+      "did not watch"
+     ],
+     "explain": "Phủ định quá khứ: didn't watch."
+    },
+    {
+     "id": "th-dt-02-20",
+     "type": "input",
+     "prompt": "Next week, my class (have) ___ a picnic.",
+     "answers": [
+      "will have",
+      "'ll have",
+      "is going to have",
+      "'s going to have"
+     ],
+     "explain": "\"Next week\": tương lai, will have / is going to have."
+    }
+   ]
+  },
+  {
+   "title": "IV. Điền từ vào đoạn văn",
+   "instruction": "Chọn từ đúng cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "th-dt-02-g1",
+     "type": "group",
+     "title": "A letter from Mai",
+     "passage": "Dear Lucy,\nThank you (21) ___ your letter. I'm very happy to hear from you. Now I'm (22) ___ Ha Long Bay with my family. We arrived here (23) ___ Monday. The weather is sunny and (24) ___, so we swim in the sea every day. Yesterday, we (25) ___ a boat trip around the bay. We saw many beautiful islands and caves. The seafood here is very (26) ___. Tomorrow we are going (27) ___ Tuan Chau Island. I'll (28) ___ you some photos when I get home. What (29) ___ you going to do this summer? Please write to me (30) ___.\nLove, Mai",
+     "items": [
+      {
+       "id": "th-dt-02-21",
+       "type": "mcq",
+       "prompt": "(21)",
+       "options": [
+        "for",
+        "to",
+        "with",
+        "about"
+       ],
+       "answer": 0,
+       "explain": "Thank you for + danh từ."
+      },
+      {
+       "id": "th-dt-02-22",
+       "type": "mcq",
+       "prompt": "(22)",
+       "options": [
+        "in",
+        "of",
+        "on",
+        "to"
+       ],
+       "answer": 0,
+       "explain": "Ở một vùng/địa danh lớn: in Ha Long Bay."
+      },
+      {
+       "id": "th-dt-02-23",
+       "type": "mcq",
+       "prompt": "(23)",
+       "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+       ],
+       "answer": 1,
+       "explain": "Thứ trong tuần: on Monday."
+      },
+      {
+       "id": "th-dt-02-24",
+       "type": "mcq",
+       "prompt": "(24)",
+       "options": [
+        "hot",
+        "cold",
+        "snowy",
+        "cloudy"
+       ],
+       "answer": 0,
+       "explain": "Trời nắng và được tắm biển mỗi ngày: sunny and hot."
+      },
+      {
+       "id": "th-dt-02-25",
+       "type": "mcq",
+       "prompt": "(25)",
+       "options": [
+        "take",
+        "took",
+        "taken",
+        "taking"
+       ],
+       "answer": 1,
+       "explain": "\"Yesterday\": took."
+      },
+      {
+       "id": "th-dt-02-26",
+       "type": "mcq",
+       "prompt": "(26)",
+       "options": [
+        "delicious",
+        "beautiful",
+        "sad",
+        "boring"
+       ],
+       "answer": 0,
+       "explain": "Món ăn ngon: delicious."
+      },
+      {
+       "id": "th-dt-02-27",
+       "type": "mcq",
+       "prompt": "(27)",
+       "options": [
+        "to visit",
+        "visit",
+        "visiting",
+        "visited"
+       ],
+       "answer": 0,
+       "explain": "be going + to V: going to visit."
+      },
+      {
+       "id": "th-dt-02-28",
+       "type": "mcq",
+       "prompt": "(28)",
+       "options": [
+        "send",
+        "sending",
+        "sent",
+        "sends"
+       ],
+       "answer": 0,
+       "explain": "I'll + động từ nguyên mẫu: send."
+      },
+      {
+       "id": "th-dt-02-29",
+       "type": "mcq",
+       "prompt": "(29)",
+       "options": [
+        "do",
+        "did",
+        "will",
+        "are"
+       ],
+       "answer": 3,
+       "explain": "be going to: What are you going to do?"
+      },
+      {
+       "id": "th-dt-02-30",
+       "type": "mcq",
+       "prompt": "(30)",
+       "options": [
+        "soon",
+        "late",
+        "early",
+        "ago"
+       ],
+       "answer": 0,
+       "explain": "Lời kết thư: write to me soon."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "V. Đọc hiểu",
+   "instruction": "Đọc đoạn văn và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "th-dt-02-g2",
+     "type": "group",
+     "title": "Snowy the rabbit",
+     "passage": "Kim has a pet rabbit called Snowy. Snowy is white and has long ears. Kim got him for her ninth birthday from her aunt. Every morning before school, Kim gives Snowy some fresh carrots and clean water. Snowy lives in a big cage in the garden, but at the weekend Kim lets him run on the grass. Snowy is very quiet, and he does not like loud noises. When Kim's little brother plays the drum, Snowy hides under a box.",
+     "items": [
+      {
+       "id": "th-dt-02-31",
+       "type": "mcq",
+       "prompt": "What colour is Snowy?",
+       "options": [
+        "Black",
+        "Brown",
+        "White",
+        "Grey"
+       ],
+       "answer": 2,
+       "explain": "\"Snowy is white\"."
+      },
+      {
+       "id": "th-dt-02-32",
+       "type": "mcq",
+       "prompt": "Who gave Snowy to Kim?",
+       "options": [
+        "Her aunt",
+        "Her mother",
+        "Her brother",
+        "Her friend"
+       ],
+       "answer": 0,
+       "explain": "\"from her aunt\"."
+      },
+      {
+       "id": "th-dt-02-33",
+       "type": "mcq",
+       "prompt": "When does Kim feed Snowy?",
+       "options": [
+        "In the morning before school",
+        "After school",
+        "At night",
+        "At lunchtime"
+       ],
+       "answer": 0,
+       "explain": "\"Every morning before school\"."
+      },
+      {
+       "id": "th-dt-02-34",
+       "type": "mcq",
+       "prompt": "Where does Snowy usually live?",
+       "options": [
+        "In a cage in the garden",
+        "In Kim's bedroom",
+        "In the kitchen",
+        "Under a box"
+       ],
+       "answer": 0,
+       "explain": "\"lives in a big cage in the garden\"."
+      },
+      {
+       "id": "th-dt-02-35",
+       "type": "mcq",
+       "prompt": "Why does Snowy hide under a box?",
+       "options": [
+        "He hears loud noises.",
+        "He is hungry.",
+        "It is cold.",
+        "He wants to sleep."
+       ],
+       "answer": 0,
+       "explain": "Khi em trai chơi trống (tiếng ồn), Snowy trốn."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "VI. Viết lại câu",
+   "instruction": "Hoàn thành câu thứ hai sao cho nghĩa không đổi.",
+   "items": [
+    {
+     "id": "th-dt-02-36",
+     "type": "input",
+     "prompt": "Ha Noi is bigger than Hai Phong.",
+     "answers": [
+      "smaller than Ha Noi",
+      "not as big as Ha Noi",
+      "not so big as Ha Noi"
+     ],
+     "explain": "bigger ↔ smaller.",
+     "lead": "Hai Phong is ___"
+    },
+    {
+     "id": "th-dt-02-37",
+     "type": "input",
+     "prompt": "Shall we play badminton?",
+     "answers": [
+      "playing badminton"
+     ],
+     "explain": "Shall we + V = How about + V-ing.",
+     "lead": "How about ___"
+    },
+    {
+     "id": "th-dt-02-38",
+     "type": "input",
+     "prompt": "There are four rooms in my flat.",
+     "answers": [
+      "has four rooms",
+      "has 4 rooms",
+      "has got four rooms",
+      "has got 4 rooms"
+     ],
+     "explain": "There are … in … = … has …",
+     "lead": "My flat ___"
+    },
+    {
+     "id": "th-dt-02-39",
+     "type": "input",
+     "prompt": "She sings beautifully.",
+     "answers": [
+      "beautiful singer"
+     ],
+     "explain": "sings beautifully = a beautiful singer.",
+     "lead": "She is a ___"
+    },
+    {
+     "id": "th-dt-02-40",
+     "type": "input",
+     "prompt": "My favourite food is pizza.",
+     "answers": [
+      "pizza best",
+      "pizza most",
+      "pizza the best",
+      "pizza the most"
+     ],
+     "explain": "favourite = like … best.",
+     "lead": "I like ___"
+    }
+   ]
+  }
+ ]
+}

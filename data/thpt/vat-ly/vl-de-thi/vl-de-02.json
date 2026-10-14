@@ -1,0 +1,366 @@
+{
+  "id": "vl-de-02",
+  "title": "Đề thi thử Vật lý số 2",
+  "emoji": "🏁",
+  "minutes": 50,
+  "scale": 10,
+  "desc": "Đề tự soạn theo cấu trúc tốt nghiệp từ 2025: 18 câu chọn một đáp án, 4 câu đúng/sai và 6 câu trả lời ngắn. Dùng các hằng số trong thẻ Hằng số dùng trong đề: π = 3,14; R = 8,31 J/(mol·K); N_A = 6,02·10^{23} mol^{-1}; ln 2 = 0,693; T (K) = t (°C) + 273. Không làm tròn ở bước trung gian; Phần III chỉ ghi phần số.",
+  "sections": [
+    {
+      "title": "Phần I",
+      "points": 0.25,
+      "items": [
+        {
+          "id": "vl-de-02-i01",
+          "type": "mcq",
+          "topic": "nhiet",
+          "level": 1,
+          "prompt": "Một dải lưỡng kim gồm đồng và invar được ghép chặt, thẳng ở nhiệt độ ban đầu. Khi nung nóng đều, đồng nở dài nhiều hơn invar. Dải cong về phía nào?",
+          "options": ["Phía invar", "Phía đồng", "Không cong", "Tách rời hai kim loại"],
+          "answer": 0,
+          "explain": "Bước 1: Khi nung nóng, lớp đồng muốn dài hơn lớp invar. Bước 2: Vì hai lớp ghép chặt nên dải phải cong; lớp nở ít hơn nằm ở phía trong của cung cong. Bước 3: Invar nở ít hơn nên dải cong về phía invar."
+        },
+        {
+          "id": "vl-de-02-i02",
+          "type": "mcq",
+          "topic": "nhiet",
+          "level": 1,
+          "prompt": "Lớp mạ sáng bóng trên mặt trong của bình giữ nhiệt góp phần hạn chế sự truyền nhiệt chủ yếu bằng cách nào?",
+          "options": ["Phản xạ tốt bức xạ nhiệt", "Tăng mạnh sự dẫn nhiệt qua thành bình", "Tạo đối lưu mạnh trong khoảng chân không", "Làm nước bên trong có nhiệt dung riêng bằng không"],
+          "answer": 0,
+          "explain": "Bước 1: Bức xạ nhiệt truyền được cả qua khoảng gần chân không, nơi dẫn nhiệt và đối lưu đã bị giảm. Bước 2: Mặt sáng bóng phản xạ tốt bức xạ nhiệt và hấp thụ kém. Bước 3: Vì vậy nó chủ yếu hạn chế trao đổi nhiệt bằng bức xạ."
+        },
+        {
+          "id": "vl-de-02-i03",
+          "type": "mcq",
+          "topic": "nhiet",
+          "level": 1,
+          "prompt": "Các khe hở nhỏ được chừa giữa những đoạn ray thép dài chủ yếu để giải quyết hiện tượng nào khi thời tiết nóng lên?",
+          "options": ["Ray bị giảm khối lượng", "Ray nở dài có thể gây uốn cong nếu bị chặn", "Ray tự nóng chảy", "Lực hấp dẫn lên ray tăng"],
+          "answer": 1,
+          "explain": "Bước 1: Thép nở dài khi nhiệt độ tăng. Bước 2: Nếu không có chỗ giãn, sự nở dài bị cản trở tạo lực nén lớn. Bước 3: Ray có thể bị uốn cong, nên cần chừa khe hở."
+        },
+        {
+          "id": "vl-de-02-i04",
+          "type": "mcq",
+          "topic": "nhiet",
+          "level": 1,
+          "prompt": "Một tấm kim loại có một lỗ tròn. Nung nóng đều cả tấm, chưa làm vật biến dạng dẻo. Đường kính lỗ tròn thay đổi thế nào?",
+          "options": ["Giảm vì kim loại nở lấp vào lỗ", "Không đổi vì lỗ không phải kim loại", "Tăng theo sự nở dài của tấm", "Lỗ biến thành elip"],
+          "answer": 2,
+          "explain": "Bước 1: Khi nung đều, mọi kích thước dài của tấm kim loại đều nở theo cùng tỉ lệ. Bước 2: Có thể hình dung lỗ được lấp bằng một miếng kim loại cùng chất rồi nung: miếng đó nở ra. Bước 3: Vì vậy đường kính lỗ tăng, vẫn có dạng tròn."
+        },
+        {
+          "id": "vl-de-02-i05",
+          "type": "mcq",
+          "topic": "nhiet",
+          "level": 1,
+          "prompt": "Quần áo ướt khô dần khi phơi, nước lỏng trên vải chuyển trực tiếp thành hơi. Sự chuyển thể này gọi là gì?",
+          "options": ["Nóng chảy", "Đông đặc", "Bay hơi", "Ngưng tụ"],
+          "answer": 2,
+          "explain": "Bước 1: Nước trên vải ban đầu ở thể lỏng, sau đó đi vào không khí ở thể hơi. Bước 2: Chuyển thể lỏng sang hơi xảy ra ở bề mặt và có thể dưới nhiệt độ sôi gọi là bay hơi."
+        },
+        {
+          "id": "vl-de-02-i06",
+          "type": "mcq",
+          "topic": "nhiet",
+          "level": 1,
+          "prompt": "Một tấm cách nhiệt phẳng có cùng diện tích hai mặt. Giữ nguyên vật liệu và chênh lệch nhiệt độ giữa hai mặt, tăng gấp đôi bề dày tấm thì công suất truyền nhiệt ổn định qua tấm thay đổi thế nào?",
+          "options": ["Tăng gấp đôi", "Giảm một nửa", "Không đổi", "Tăng gấp bốn"],
+          "answer": 1,
+          "explain": "Bước 1: Với dẫn nhiệt ổn định qua tấm phẳng, công suất truyền nhiệt tỉ lệ nghịch với bề dày. Bước 2: Các đại lượng khác giữ nguyên. Bước 3: Bề dày tăng gấp đôi nên công suất truyền nhiệt giảm còn một nửa."
+        },
+        {
+          "id": "vl-de-02-i07",
+          "type": "mcq",
+          "topic": "nhiet",
+          "level": 2,
+          "prompt": "Một lượng khí lí tưởng kín được đun nóng trong bình cứng. Bỏ qua sự nở vì nhiệt của bình. Đại lượng nào chắc chắn bằng không trong quá trình này?",
+          "options": ["Nhiệt lượng khí nhận", "Độ biến thiên nội năng của khí", "Công khí nhận", "Độ biến thiên áp suất"],
+          "answer": 2,
+          "explain": "Bước 1: Bình cứng nên thể tích khí không đổi, pít-tông hay thành bình không dịch chuyển. Bước 2: Công do biến đổi thể tích bằng không, nên theo quy ước A là công khí nhận cũng bằng không. Bước 3: Khí vẫn nhận nhiệt, nội năng và áp suất có thể tăng."
+        },
+        {
+          "id": "vl-de-02-i08",
+          "type": "mcq",
+          "topic": "nhiet",
+          "level": 2,
+          "prompt": "Một động cơ nhiệt trong mỗi chu trình nhận 500 J từ nguồn nóng và toả 350 J cho nguồn lạnh. Hiệu suất của động cơ là bao nhiêu?",
+          "options": ["30 %", "70 %", "150 J", "350 J"],
+          "answer": 0,
+          "explain": "Bước 1: Công có ích trong một chu trình là A = Q_{nhận} − Q_{toả} = 500 − 350 = 150 J. Bước 2: Hiệu suất H = A/Q_{nhận} = 150/500. Bước 3: Suy ra H = 0,30 = 30 %."
+        },
+        {
+          "id": "vl-de-02-i09",
+          "type": "mcq",
+          "topic": "khi",
+          "level": 1,
+          "prompt": "Một hỗn hợp khí lí tưởng gồm hai khí X và Y trong cùng một bình ở nhiệt độ T. Áp suất riêng phần của X được hiểu đúng là áp suất nào?",
+          "options": ["Áp suất của cả hỗn hợp trừ áp suất khí quyển", "Áp suất X sẽ gây ra nếu một mình X chiếm toàn bộ thể tích bình ở T", "Áp suất của X khi Y đã ngưng tụ chắc chắn", "Một nửa áp suất hỗn hợp, không phụ thuộc lượng X"],
+          "answer": 1,
+          "explain": "Bước 1: Trong mô hình hỗn hợp khí lí tưởng, mỗi thành phần góp một áp suất riêng phần. Bước 2: Áp suất riêng phần của X bằng áp suất mà riêng số mol X đó gây ra nếu chỉ X chiếm toàn bộ thể tích ở cùng nhiệt độ. Bước 3: Nó phụ thuộc lượng X, không mặc nhiên bằng một nửa áp suất hỗn hợp."
+        },
+        {
+          "id": "vl-de-02-i10",
+          "type": "mcq",
+          "topic": "khi",
+          "level": 2,
+          "prompt": "Một lượng khí lí tưởng kín được làm lạnh trong bình cứng, không rò rỉ. Vì sao áp suất khí giảm?",
+          "options": ["Khối lượng mỗi phân tử giảm", "Phân tử chuyển động chậm hơn nên va chạm thành bình ít mạnh hơn", "Thể tích bình tăng để chứa khí", "Số mol khí tự giảm một nửa"],
+          "answer": 1,
+          "explain": "Bước 1: Bình cứng và kín nên thể tích và số mol khí không đổi. Bước 2: Khi nhiệt độ giảm, động năng tịnh tiến trung bình của phân tử giảm. Bước 3: Phân tử va chạm thành bình kém mạnh hơn nên áp suất giảm."
+        },
+        {
+          "id": "vl-de-02-i11",
+          "type": "mcq",
+          "topic": "tu",
+          "level": 1,
+          "prompt": "Một hạt mang điện bay vào từ trường đều với vận tốc có cả thành phần song song và thành phần vuông góc với vectơ cảm ứng từ. Bỏ qua lực khác. Quỹ đạo của hạt có dạng nào?",
+          "options": ["Đường thẳng song song với B", "Đường tròn trong mặt phẳng vuông góc B", "Đường xoắn ốc quanh đường sức từ", "Parabol trong mặt phẳng chứa B"],
+          "answer": 2,
+          "explain": "Bước 1: Thành phần vận tốc vuông góc B chịu lực từ làm hạt chuyển động tròn. Bước 2: Thành phần song song B không chịu lực từ nên giữ nguyên. Bước 3: Chồng hai chuyển động này tạo quỹ đạo xoắn ốc quanh phương B."
+        },
+        {
+          "id": "vl-de-02-i12",
+          "type": "mcq",
+          "topic": "tu",
+          "level": 1,
+          "prompt": "Một máy phát điện xoay chiều có một cặp cực và rôto quay đều 25 vòng trong một giây. Tần số của suất điện động xoay chiều tạo ra là bao nhiêu?",
+          "options": ["12,5 Hz", "25 Hz", "50 Hz", "75 Hz"],
+          "answer": 1,
+          "explain": "Bước 1: Với một cặp cực, mỗi vòng quay tạo một chu kì suất điện động. Bước 2: Rôto quay 25 vòng trong một giây. Bước 3: Tần số bằng số chu kì trong một giây, f = 25 Hz."
+        },
+        {
+          "id": "vl-de-02-i13",
+          "type": "mcq",
+          "topic": "tu",
+          "level": 2,
+          "prompt": "Khi một đĩa nhôm quay trong vùng từ trường không đều, xuất hiện dòng điện xoáy trong đĩa và đĩa bị hãm. Năng lượng cơ học bị giảm chủ yếu chuyển thành dạng nào?",
+          "options": ["Nhiệt năng của đĩa", "Khối lượng nghỉ của đĩa", "Năng lượng liên kết hạt nhân", "Thế năng hấp dẫn"],
+          "answer": 0,
+          "explain": "Bước 1: Dòng điện xoáy chạy trong đĩa nhôm có điện trở. Bước 2: Theo hiệu ứng Joule, dòng điện tỏa nhiệt trong đĩa. Bước 3: Lực từ chống lại chuyển động làm cơ năng giảm và chuyển chủ yếu thành nhiệt năng."
+        },
+        {
+          "id": "vl-de-02-i14",
+          "type": "mcq",
+          "topic": "tu",
+          "level": 2,
+          "prompt": "Máy biến áp lí tưởng có điện áp hiệu dụng ở cuộn sơ cấp lớn gấp 5 lần ở cuộn thứ cấp. Nếu cuộn thứ cấp cấp dòng điện hiệu dụng 2,0 A cho tải, cường độ hiệu dụng ở cuộn sơ cấp là bao nhiêu?",
+          "options": ["0,40 A", "2,0 A", "5,0 A", "10 A"],
+          "answer": 0,
+          "explain": "Bước 1: Máy biến áp lí tưởng bảo toàn công suất: U_1I_1 = U_2I_2. Bước 2: U_1 = 5U_2. Bước 3: I_1 = U_2I_2/U_1 = 2,0/5 = 0,40 A."
+        },
+        {
+          "id": "vl-de-02-i15",
+          "type": "mcq",
+          "topic": "hat-nhan",
+          "level": 1,
+          "prompt": "Trong lò phản ứng phân hạch dùng uranium-235, vai trò chủ yếu của chất làm chậm neutron là gì?",
+          "options": ["Làm neutron chuyển động chậm hơn để dễ gây phân hạch tiếp", "Tạo thêm proton cho hạt nhân uranium", "Biến toàn bộ neutron thành tia gamma", "Ngăn mọi phản ứng hạt nhân xảy ra"],
+          "answer": 0,
+          "explain": "Bước 1: Neutron sinh ra trong phân hạch thường có năng lượng lớn. Bước 2: Chất làm chậm làm giảm tốc neutron qua va chạm mà không hấp thụ hết chúng. Bước 3: Neutron chậm dễ gây phân hạch U-235 hơn, giúp duy trì phản ứng dây chuyền có kiểm soát."
+        },
+        {
+          "id": "vl-de-02-i16",
+          "type": "mcq",
+          "topic": "hat-nhan",
+          "level": 1,
+          "prompt": "Trong thí nghiệm khảo sát bức xạ, vì sao phải đo phông bức xạ khi chưa đặt nguồn cần khảo sát?",
+          "options": ["Để thay nguồn bằng phông trong mọi phép đo", "Để trừ ảnh hưởng bức xạ nền khỏi số đếm tổng", "Để làm chu kì bán rã của nguồn dài hơn", "Để thay đổi điện tích hạt nhân nguồn"],
+          "answer": 1,
+          "explain": "Bước 1: Máy đếm vẫn có thể ghi bức xạ môi trường và nhiễu nền khi không có nguồn khảo sát. Bước 2: Số đếm khi đặt nguồn gồm tín hiệu nguồn và phông. Bước 3: Đo phông riêng cho phép trừ phần nền, thu được số đếm do nguồn."
+        },
+        {
+          "id": "vl-de-02-i17",
+          "type": "mcq",
+          "topic": "hat-nhan",
+          "level": 2,
+          "prompt": "Trên đồ thị năng lượng liên kết riêng theo số khối, các hạt nhân trung bình quanh sắt có giá trị lớn. Kết luận nào giải thích đúng việc cả nhiệt hạch hạt nhân nhẹ lẫn phân hạch hạt nhân rất nặng đều có thể tỏa năng lượng?",
+          "options": ["Cả hai quá trình đều làm năng lượng liên kết riêng của sản phẩm giảm", "Cả hai quá trình đều đưa các hạt nhân về vùng có năng lượng liên kết riêng lớn hơn", "Mọi phản ứng hạt nhân đều thu năng lượng", "Khối lượng được tạo ra từ chân không trong cả hai quá trình"],
+          "answer": 1,
+          "explain": "Bước 1: Hạt nhân có năng lượng liên kết riêng lớn hơn thường bền vững hơn. Bước 2: Nhiệt hạch của hạt nhân nhẹ và phân hạch của hạt nhân rất nặng đều tạo sản phẩm gần vùng trung bình hơn. Bước 3: Năng lượng liên kết riêng tăng tương ứng với tổng khối lượng nghỉ giảm và năng lượng được giải phóng."
+        },
+        {
+          "id": "vl-de-02-i18",
+          "type": "mcq",
+          "topic": "hat-nhan",
+          "level": 2,
+          "prompt": "Một nguồn beta trừ đặt trong từ trường đều làm chùm electron lệch sang trái. Nếu thay nguồn bằng nguồn beta cộng, giữ nguyên hướng bay ban đầu và từ trường, chùm hạt sẽ lệch thế nào?",
+          "options": ["Cũng sang trái", "Sang phải", "Không lệch", "Chỉ đổi tốc độ, không đổi hướng"],
+          "answer": 1,
+          "explain": "Bước 1: Hạt beta trừ là electron mang điện âm, beta cộng là positron mang điện dương. Bước 2: Lực từ F = qv × B đổi chiều khi điện tích đổi dấu, còn v và B giữ nguyên. Bước 3: Chùm beta cộng lệch về phía đối diện, tức sang phải."
+        }
+      ]
+    },
+    {
+      "title": "Phần II",
+      "points": 1,
+      "items": [
+        {
+          "id": "vl-de-02-ii01",
+          "type": "tf4",
+          "topic": "nhiet",
+          "level": 3,
+          "prompt": "Một vách phẳng diện tích S = 1,00 m² gồm hai lớp A và B ghép nối tiếp, tiếp xúc nhiệt tốt. Mặt nóng 100 °C, mặt lạnh 20 °C. Lớp A có d_A = 0,10 m, λ_A = 0,50 W/(m·K); lớp B có d_B = 0,20 m, λ_B = 1,00 W/(m·K). Ở trạng thái ổn định, công suất nhiệt qua mỗi lớp bằng nhau; nhiệt trở mỗi lớp là R = d/(λS).",
+          "statements": [
+            "Nhiệt trở tương đương của hai lớp là 0,40 K/W.",
+            "Công suất nhiệt truyền ổn định qua vách là 200 W.",
+            "Nhiệt độ ở mặt tiếp xúc giữa hai lớp là 60 °C.",
+            "Độ giảm nhiệt độ qua lớp A lớn hơn qua lớp B."
+          ],
+          "answers": [true, true, true, false],
+          "explain": [
+            "Đúng. Bước 1: R_A = 0,10/(0,50×1,00) = 0,20 K/W và R_B = 0,20/(1,00×1,00) = 0,20 K/W. Bước 2: Hai lớp nối tiếp nên R = R_A + R_B = 0,40 K/W.",
+            "Đúng. Bước 1: Chênh nhiệt độ toàn vách là 100 − 20 = 80 K. Bước 2: Dùng P = ΔT/R = 80/0,40 = 200 W.",
+            "Đúng. Bước 1: Độ giảm nhiệt độ qua A là ΔT_A = PR_A = 200×0,20 = 40 K. Bước 2: Từ mặt nóng 100 °C, nhiệt độ mặt tiếp xúc là 100 − 40 = 60 °C.",
+            "Sai. Bước 1: R_A = R_B = 0,20 K/W. Bước 2: Cùng công suất nhiệt đi qua nên ΔT_A = PR_A và ΔT_B = PR_B bằng nhau, đều 40 K."
+          ]
+        },
+        {
+          "id": "vl-de-02-ii02",
+          "type": "tf4",
+          "topic": "tu",
+          "level": 2,
+          "prompt": "Một khung dây phẳng 50 vòng, diện tích mỗi vòng 0,020 m², có dòng điện không đổi I = 0,50 A. Khung đặt trong từ trường đều B = 0,40 T; pháp tuyến khung hợp với B góc 60°. Bỏ qua trọng lực và các lực khác. Mômen từ có độ lớn μ = NIS, mômen lực từ có độ lớn M = μB sin α.",
+          "statements": [
+            "Độ lớn mômen từ của khung là 0,50 A·m².",
+            "Độ lớn mômen lực từ lên khung xấp xỉ 0,173 N·m.",
+            "Nếu quay khung để pháp tuyến song song B thì mômen lực từ có độ lớn cực đại.",
+            "Đảo chiều dòng điện làm chiều của mômen từ đổi ngược."
+          ],
+          "answers": [true, true, false, true],
+          "explain": [
+            "Đúng. Bước 1: μ = NIS. Bước 2: μ = 50×0,50×0,020 = 0,50 A·m².",
+            "Đúng. Bước 1: M = μB sin60°. Bước 2: M = 0,50×0,40×sin60° = 0,173205… N·m. Bước 3: Làm tròn phù hợp được 0,173 N·m.",
+            "Sai. Bước 1: Khi pháp tuyến song song B thì α = 0°. Bước 2: M = μB sin0° = 0. Bước 3: Mômen cực đại khi α = 90°, không phải khi song song.",
+            "Đúng. Bước 1: Chiều mômen từ được xác định bởi quy tắc nắm tay phải theo chiều dòng điện. Bước 2: Đảo chiều dòng điện đảo chiều mômen từ."
+          ]
+        },
+        {
+          "id": "vl-de-02-ii03",
+          "type": "tf4",
+          "topic": "tu",
+          "level": 2,
+          "prompt": "Đặt điện áp xoay chiều u = 100√2 cos(100πt) V vào điện trở thuần R = 50 Ω. Dùng U = U_0/√2, I = U/R và P = UI, trong đó U, I là các giá trị hiệu dụng.",
+          "statements": [
+            "Điện áp hiệu dụng trên điện trở là 100 V.",
+            "Cường độ dòng điện hiệu dụng là 2,0 A.",
+            "Công suất tỏa nhiệt trung bình trên điện trở là 10 W.",
+            "Trong 30 s, điện trở tỏa nhiệt lượng 6,0 kJ."
+          ],
+          "answers": [true, true, false, true],
+          "explain": [
+            "Đúng. Bước 1: Biên độ điện áp là U_0 = 100√2 V. Bước 2: U = U_0/√2 = 100 V.",
+            "Đúng. Bước 1: Điện trở thuần có I = U/R. Bước 2: I = 100/50 = 2,0 A.",
+            "Sai. Bước 1: P = UI = 100×2,0. Bước 2: P = 200 W, không phải 10 W.",
+            "Đúng. Bước 1: Q = Pτ. Bước 2: Q = 200×30 = 6000 J = 6,0 kJ."
+          ]
+        },
+        {
+          "id": "vl-de-02-ii04",
+          "type": "tf4",
+          "topic": "hat-nhan",
+          "level": 3,
+          "prompt": "Máy đếm ghi 5000 xung trong một phút khi đặt nguồn gamma, đã gồm phông 200 xung/phút. Ba tấm chắn giống nhau được đặt nối tiếp; mỗi tấm chỉ cho 60 % số photon gamma tới nó truyền qua. Hiệu suất máy đếm không đổi và phông không đổi.",
+          "statements": [
+            "Tốc độ đếm thuần do nguồn khi chưa che là 4800 xung/phút.",
+            "Sau ba tấm, tốc độ đếm thuần do nguồn là 1036,8 xung/phút.",
+            "Sau ba tấm, tốc độ đếm tổng của máy là 1036,8 xung/phút.",
+            "Đặt thêm một tấm thứ tư thì tốc độ đếm thuần do nguồn nhỏ hơn 1000 xung/phút."
+          ],
+          "answers": [true, true, false, true],
+          "explain": [
+            "Đúng. Bước 1: Số đếm tổng gồm tín hiệu nguồn và phông. Bước 2: Tốc độ đếm thuần là 5000 − 200 = 4800 xung/phút.",
+            "Đúng. Bước 1: Ba tấm cho hệ số truyền 0,60^3 = 0,216. Bước 2: Tốc độ thuần là 4800×0,216 = 1036,8 xung/phút.",
+            "Sai. Bước 1: 1036,8 xung/phút là phần do nguồn sau che. Bước 2: Máy vẫn ghi thêm phông 200 xung/phút. Bước 3: Tốc độ tổng là 1236,8 xung/phút.",
+            "Đúng. Bước 1: Sau tấm thứ tư, tốc độ thuần là 1036,8×0,60 = 622,08 xung/phút. Bước 2: Giá trị này nhỏ hơn 1000 xung/phút."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phần III",
+      "points": 0.25,
+      "items": [
+        {
+          "id": "vl-de-02-iii01",
+          "type": "num",
+          "topic": "khi",
+          "level": 3,
+          "prompt": "Hai bình cứng cách nhiệt chứa cùng một khí lí tưởng. Bình A: V_A = 2,00 L, p_A = 200 kPa, T_A = 300 K. Bình B: V_B = 3,00 L, p_B = 100 kPa, T_B = 450 K. Mở van nối hai bình, đợi cân bằng; bỏ qua nhiệt dung bình và sự thay đổi nội năng theo áp suất. Nhiệt độ cân bằng bằng bao nhiêu K? Làm tròn đến hàng đơn vị. Dùng R = 8,31 J/(mol·K).",
+          "answer": 350,
+          "exact": 350,
+          "round": 0,
+          "tolerance": 0,
+          "unit": "K",
+          "explain": "Bước 1: Từ pV = nRT, n_A = 200000×0,002/(8,31×300) và n_B = 100000×0,003/(8,31×450), nên n_A = 2n_B. Bước 2: Hệ cách nhiệt, cùng một khí lí tưởng nên bảo toàn tổng nội năng: (n_A+n_B)T = n_AT_A+n_BT_B. Bước 3: T = (2×300+450)/3 = 350 K. Bước 4: Làm tròn đến hàng đơn vị: ghi 350."
+        },
+        {
+          "id": "vl-de-02-iii02",
+          "type": "num",
+          "topic": "khi",
+          "level": 3,
+          "prompt": "Một bình cứng thể tích 1,00 L chứa khí lí tưởng ở áp suất tuyệt đối 1,66×10^{5} Pa và nhiệt độ 300 K. Số phân tử khí trong bình có dạng x×10^{22}. Tính x, làm tròn đến hai chữ số sau dấu phẩy. Dùng R = 8,31 J/(mol·K), N_A = 6,02×10^{23} mol^{-1}.",
+          "answer": 4.01,
+          "exact": 4.008503810669875,
+          "round": 2,
+          "tolerance": 0,
+          "unit": "(×10^{22} phân tử)",
+          "explain": "Bước 1: Đổi V = 1,00 L = 0,00100 m³. Bước 2: Số mol n = pV/(RT) = 166000×0,001/(8,31×300) = 0,066586… mol. Bước 3: N = nN_A = 0,066586…×6,02×10^{23} = 4,0085…×10^{22}. Bước 4: Làm tròn kết quả cuối đến hai chữ số sau dấu phẩy: ghi 4,01."
+        },
+        {
+          "id": "vl-de-02-iii03",
+          "type": "num",
+          "topic": "tu",
+          "level": 3,
+          "prompt": "Máy biến áp lí tưởng có điện áp hiệu dụng cuộn sơ cấp 200 V và cuộn thứ cấp 50 V. Cuộn thứ cấp nối với điện trở thuần R = 10,0 Ω; bỏ qua hao phí. Cường độ dòng điện hiệu dụng ở cuộn sơ cấp bằng bao nhiêu A? Làm tròn đến hai chữ số sau dấu phẩy.",
+          "answer": 1.25,
+          "exact": 1.25,
+          "round": 2,
+          "tolerance": 0,
+          "unit": "A",
+          "explain": "Bước 1: Công suất tải ở thứ cấp là P_2 = U_2²/R = 50²/10,0 = 250 W. Bước 2: Máy biến áp lí tưởng có P_1 = P_2. Bước 3: I_1 = P_1/U_1 = 250/200 = 1,25 A. Bước 4: Làm tròn đến hai chữ số sau dấu phẩy: ghi 1,25."
+        },
+        {
+          "id": "vl-de-02-iii04",
+          "type": "num",
+          "topic": "tu",
+          "level": 3,
+          "prompt": "Một proton xuất phát từ nghỉ, được tăng tốc qua hiệu điện thế 500 V rồi bay vuông góc vào từ trường đều. Quỹ đạo quan sát được có bán kính 1,00 cm. Bỏ qua hiệu ứng tương đối tính. Cho q = 1,60×10^{-19} C, m = 1,67×10^{-27} kg; dùng qU = mv²/2 và qvB = mv²/r. Cảm ứng từ B bằng bao nhiêu T? Làm tròn đến hai chữ số sau dấu phẩy.",
+          "answer": 0.32,
+          "exact": 0.3230711995830022,
+          "round": 2,
+          "tolerance": 0,
+          "unit": "T",
+          "explain": "Bước 1: Từ qU = mv²/2, v = √(2qU/m) = √(2×1,60×10^{-19}×500/(1,67×10^{-27})) = 3,09529…×10^{5} m/s. Bước 2: Từ qvB = mv²/r, B = mv/(qr) = 1,67×10^{-27}×3,09529…×10^{5}/(1,60×10^{-19}×0,0100) = 0,323071… T. Bước 3: Làm tròn đến hai chữ số sau dấu phẩy: ghi 0,32."
+        },
+        {
+          "id": "vl-de-02-iii05",
+          "type": "num",
+          "topic": "hat-nhan",
+          "level": 3,
+          "prompt": "Một nguồn phóng xạ có độ phóng xạ ban đầu 2,40×10^{6} Bq, chu kì bán rã 2,0 giờ. Sau 6,0 giờ, máy đếm ghi được 0,10 % số phân rã do nguồn; phông gây 50 xung/s. Đo trong 20,0 s, coi độ phóng xạ không đổi trong thời gian đo. Tổng số xung có dạng x×10^{3}. Tính x, làm tròn đến hai chữ số sau dấu phẩy.",
+          "answer": 7,
+          "exact": 7,
+          "round": 2,
+          "tolerance": 0,
+          "unit": "(×10^{3} xung)",
+          "explain": "Bước 1: 6,0 giờ bằng ba chu kì bán rã, nên độ phóng xạ nguồn là H = 2,40×10^{6}×2^{-3} = 3,00×10^{5} Bq. Bước 2: Theo giả thiết, độ phóng xạ không đổi trong 20,0 s; máy ghi do nguồn 0,10 %×3,00×10^{5} = 300 xung/s, cộng phông được 350 xung/s. Bước 3: Trong 20,0 s có N = 350×20,0 = 7000 = 7,00×10^{3} xung. Bước 4: Làm tròn đến hai chữ số sau dấu phẩy: ghi 7,00."
+        },
+        {
+          "id": "vl-de-02-iii06",
+          "type": "num",
+          "topic": "hat-nhan",
+          "level": 3,
+          "prompt": "Một bình kín ban đầu có 1,204×10^{20} hạt nhân X phóng xạ alpha, chu kì bán rã 5,0 ngày; hạt nhân con bền. Các hạt alpha dừng trong bình và trở thành hạt nhân helium-4. Sau 15,0 ngày, khối lượng helium-4 tạo thành bằng bao nhiêu microgam? Lấy M(He-4) = 4,00 g/mol, N_A = 6,02×10^{23} mol^{-1}. Làm tròn đến hàng đơn vị.",
+          "answer": 700,
+          "exact": 700,
+          "round": 0,
+          "tolerance": 0,
+          "unit": "µg",
+          "explain": "Bước 1: 15,0 ngày bằng ba chu kì bán rã, nên phần đã phân rã là 1 − 2^{-3} = 7/8. Bước 2: Số hạt helium tạo thành bằng số phân rã: N_{He} = (7/8)×1,204×10^{20} = 1,0535×10^{20}. Bước 3: m = N_{He}M/N_A = 1,0535×10^{20}×4,00/(6,02×10^{23}) g = 7,00×10^{-4} g = 700 µg. Bước 4: Làm tròn đến hàng đơn vị: ghi 700."
+        }
+      ]
+    }
+  ]
+}

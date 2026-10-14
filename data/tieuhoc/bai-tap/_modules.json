@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "modules": [
+    {
+      "id": "phonics",
+      "dir": "ngu-am"
+    },
+    {
+      "id": "grammar",
+      "dir": "ngu-phap"
+    },
+    {
+      "id": "reading",
+      "dir": "doc-hieu"
+    },
+    {
+      "id": "sentence",
+      "dir": "viet-cau"
+    },
+    {
+      "id": "mock-test",
+      "dir": "de-thi-thu"
+    }
+  ]
+}

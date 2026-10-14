@@ -1,0 +1,16 @@
+{
+  "id": "toan-do-luong-lt-05",
+  "title": "Tiền Việt Nam",
+  "topic": "do-luong",
+  "items": [
+    {
+      "id": "toan-do-luong-lt-05-t1", "type": "card", "title": "Tính tiền mua bán",
+      "paras": [
+        "1 nghìn đồng = 1 000 đồng. Nên chọn một đơn vị thống nhất, chẳng hạn nghìn đồng, rồi mới cộng, trừ hoặc nhân.",
+        "Tiền phải trả bằng giá một món nhân số món. Tiền thừa bằng số tiền đưa trừ tiền phải trả.",
+        "Khi một mặt hàng được giảm giá, trước hết tính số tiền giảm; sau đó lấy giá ban đầu trừ số tiền giảm."
+      ],
+      "source": "Toán 5, bài SGK: chưa xác minh; tiền Việt Nam thuộc phạm vi CB của đặc tả 2.0."
+    }
+  ]
+}

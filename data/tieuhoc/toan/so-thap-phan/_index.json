@@ -1,0 +1,14 @@
+[
+  { "id": "toan-so-thap-phan-lt-01", "title": "Đọc, viết và so sánh số thập phân", "emoji": "🔢", "file": "so-thap-phan/toan-so-thap-phan-lt-01.json", "count": 1, "topic": "so-thap-phan" },
+  { "id": "toan-so-thap-phan-lt-02", "title": "Làm tròn số thập phân", "emoji": "🎯", "file": "so-thap-phan/toan-so-thap-phan-lt-02.json", "count": 1, "topic": "so-thap-phan" },
+  { "id": "toan-so-thap-phan-lt-03", "title": "Bốn phép tính với số thập phân", "emoji": "➗", "file": "so-thap-phan/toan-so-thap-phan-lt-03.json", "count": 1, "topic": "so-thap-phan" },
+  { "id": "toan-so-thap-phan-lt-04", "title": "Thứ tự thực hiện biểu thức", "emoji": "🧮", "file": "so-thap-phan/toan-so-thap-phan-lt-04.json", "count": 1, "topic": "so-thap-phan" },
+  { "id": "toan-so-thap-phan-lt-05", "title": "Tìm số cần tìm", "emoji": "🔎", "file": "so-thap-phan/toan-so-thap-phan-lt-05.json", "count": 1, "topic": "so-thap-phan" },
+  { "id": "toan-so-thap-phan-lt-06", "title": "Tính nhanh — nâng cao", "emoji": "⚡", "file": "so-thap-phan/toan-so-thap-phan-lt-06.json", "count": 1, "topic": "so-thap-phan" },
+  { "id": "toan-so-thap-phan-cd-01", "title": "Đọc, viết và so sánh", "emoji": "🔢", "file": "so-thap-phan/toan-so-thap-phan-cd-01.json", "count": 7, "topic": "so-thap-phan" },
+  { "id": "toan-so-thap-phan-cd-02", "title": "Làm tròn", "emoji": "🎯", "file": "so-thap-phan/toan-so-thap-phan-cd-02.json", "count": 7, "topic": "so-thap-phan" },
+  { "id": "toan-so-thap-phan-cd-03", "title": "Cộng, trừ, nhân, chia", "emoji": "➗", "file": "so-thap-phan/toan-so-thap-phan-cd-03.json", "count": 8, "topic": "so-thap-phan" },
+  { "id": "toan-so-thap-phan-cd-04", "title": "Biểu thức", "emoji": "🧮", "file": "so-thap-phan/toan-so-thap-phan-cd-04.json", "count": 8, "topic": "so-thap-phan" },
+  { "id": "toan-so-thap-phan-cd-05", "title": "Số cần tìm", "emoji": "🔎", "file": "so-thap-phan/toan-so-thap-phan-cd-05.json", "count": 7, "topic": "so-thap-phan" },
+  { "id": "toan-so-thap-phan-cd-06", "title": "Tính nhanh — nâng cao", "emoji": "⚡", "file": "so-thap-phan/toan-so-thap-phan-cd-06.json", "count": 7, "topic": "so-thap-phan" }
+]

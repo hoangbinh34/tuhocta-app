@@ -1,0 +1,205 @@
+{
+ "id": "th-vc-01",
+ "module": "sentence",
+ "title": "Sắp xếp từ thành câu (1)",
+ "emoji": "🔀",
+ "intro": "Tìm chủ ngữ và động từ trước (I like…, She is…), rồi thêm tân ngữ, nơi chốn, thời gian. Câu hỏi bắt đầu bằng từ hỏi hoặc trợ động từ (Do, Does, Is…).",
+ "instruction": "Bấm các từ theo đúng thứ tự để tạo thành câu đúng.",
+ "shuffle": true,
+ "priority": 1,
+ "sources": [
+  "dang-de-vao-6"
+ ],
+ "items": [
+  {
+   "id": "th-vc-01-01",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "My",
+    "father",
+    "is",
+    "a",
+    "doctor"
+   ],
+   "end": ".",
+   "explain": "Chủ ngữ My father + is + a doctor."
+  },
+  {
+   "id": "th-vc-01-02",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "She",
+    "goes",
+    "to",
+    "school",
+    "by",
+    "bus"
+   ],
+   "end": ".",
+   "explain": "She + goes (thêm -es) + to school + by bus."
+  },
+  {
+   "id": "th-vc-01-03",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "I",
+    "usually",
+    "get",
+    "up",
+    "at",
+    "six",
+    "o'clock"
+   ],
+   "end": ".",
+   "explain": "Trạng từ tần suất usually đứng trước động từ thường (đặt usually đầu câu cũng đúng).",
+   "alts": [
+    [
+     "usually",
+     "I",
+     "get",
+     "up",
+     "at",
+     "six",
+     "o'clock"
+    ]
+   ]
+  },
+  {
+   "id": "th-vc-01-04",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "There",
+    "are",
+    "four",
+    "people",
+    "in",
+    "my",
+    "family"
+   ],
+   "end": ".",
+   "explain": "There are + số lượng + danh từ + in my family (đặt in my family đầu câu cũng đúng).",
+   "alts": [
+    [
+     "in",
+     "my",
+     "family",
+     "There",
+     "are",
+     "four",
+     "people"
+    ]
+   ]
+  },
+  {
+   "id": "th-vc-01-05",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "What",
+    "do",
+    "you",
+    "do",
+    "in",
+    "your",
+    "free",
+    "time"
+   ],
+   "end": "?",
+   "explain": "Câu hỏi: What + do + you + do + …?"
+  },
+  {
+   "id": "th-vc-01-06",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "My",
+    "brother",
+    "likes",
+    "playing",
+    "football",
+    "very",
+    "much"
+   ],
+   "end": ".",
+   "explain": "likes + V-ing; very much đứng cuối câu."
+  },
+  {
+   "id": "th-vc-01-07",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "We",
+    "visited",
+    "our",
+    "grandparents",
+    "last",
+    "weekend"
+   ],
+   "end": ".",
+   "explain": "Thời gian (last weekend) thường đứng cuối câu (đặt đầu câu cũng đúng).",
+   "alts": [
+    [
+     "last",
+     "weekend",
+     "We",
+     "visited",
+     "our",
+     "grandparents"
+    ]
+   ]
+  },
+  {
+   "id": "th-vc-01-08",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "Can",
+    "you",
+    "help",
+    "me",
+    "with",
+    "my",
+    "homework"
+   ],
+   "end": "?",
+   "explain": "Câu hỏi với can: Can + you + help + me + with…?"
+  },
+  {
+   "id": "th-vc-01-09",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "The",
+    "cat",
+    "is",
+    "sleeping",
+    "under",
+    "the",
+    "table"
+   ],
+   "end": ".",
+   "explain": "is + V-ing + nơi chốn."
+  },
+  {
+   "id": "th-vc-01-10",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "How",
+    "many",
+    "students",
+    "are",
+    "there",
+    "in",
+    "your",
+    "class"
+   ],
+   "end": "?",
+   "explain": "How many + danh từ + are there + in…?"
+  }
+ ]
+}

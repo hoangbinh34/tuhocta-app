@@ -1,0 +1,16 @@
+{
+  "id": "toan-do-luong-lt-03",
+  "title": "Thể tích và lít",
+  "topic": "do-luong",
+  "items": [
+    {
+      "id": "toan-do-luong-lt-03-t1", "type": "card", "title": "Thể tích và dung tích",
+      "paras": [
+        "Thể tích hình hộp chữ nhật bằng chiều dài nhân chiều rộng nhân chiều cao. Thể tích hình lập phương bằng cạnh nhân cạnh nhân cạnh.",
+        "1 dm³ = 1 lít; 1 m³ = 1 000 dm³; 1 lít = 1 000 ml. Cần đổi về cùng đơn vị trước khi cộng hoặc trừ dung tích.",
+        "Đề hỏi thể tích dùng đơn vị khối như cm³, dm³, m³; đề hỏi lượng chất lỏng thường dùng ml hoặc lít."
+      ],
+      "source": "SGK Toán 5 KNTT Chủ đề 8 Thể tích."
+    }
+  ]
+}

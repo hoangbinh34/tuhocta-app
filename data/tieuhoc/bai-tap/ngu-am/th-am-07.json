@@ -1,0 +1,127 @@
+{
+ "id": "th-am-07",
+ "module": "phonics",
+ "title": "Âm câm (chữ không đọc)",
+ "emoji": "🤫",
+ "intro": "Một số chữ viết ra nhưng không đọc: k trong kn- (know), l trong -alk/-alf (walk, half), w trong wr- (write), h đầu một số từ (hour) và trong wh- (what, when; trừ who, whose, whole đọc /h/), b sau m (climb), t trong -sten/-stle (listen), gh trong -igh/-augh (night). (Đáp án theo giọng Anh-Anh như sách giáo khoa; nút 🔊 cũng đọc giọng Anh.)",
+ "instruction": "Chọn từ có chữ gạch chân ĐƯỢC ĐỌC (ba từ còn lại chữ đó câm, không đọc).",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-am-07-01",
+   "type": "mcq",
+   "prompt": "Chọn từ có chữ gạch chân ĐƯỢC ĐỌC (ba từ còn lại chữ đó câm, không đọc).",
+   "options": [
+    "[[k]]now",
+    "[[k]]nife",
+    "[[k]]nee",
+    "[[k]]ite"
+   ],
+   "answer": 3,
+   "explain": "kite: chữ gạch chân đọc /k/. know, knife, knee: chữ gạch chân câm (không đọc).",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-07-02",
+   "type": "mcq",
+   "prompt": "Chọn từ có chữ gạch chân ĐƯỢC ĐỌC (ba từ còn lại chữ đó câm, không đọc).",
+   "options": [
+    "ta[[l]]k",
+    "wa[[l]]k",
+    "ha[[l]]f",
+    "he[[l]]p"
+   ],
+   "answer": 3,
+   "explain": "help: chữ gạch chân đọc /l/. talk, walk, half: chữ gạch chân câm (không đọc).",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-07-03",
+   "type": "mcq",
+   "prompt": "Chọn từ có chữ gạch chân ĐƯỢC ĐỌC (ba từ còn lại chữ đó câm, không đọc).",
+   "options": [
+    "[[w]]rite",
+    "[[w]]rong",
+    "[[w]]rist",
+    "[[w]]ork"
+   ],
+   "answer": 3,
+   "explain": "work: chữ gạch chân đọc /w/. write, wrong, wrist: chữ gạch chân câm (không đọc).",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-07-04",
+   "type": "mcq",
+   "prompt": "Chọn từ có chữ gạch chân ĐƯỢC ĐỌC (ba từ còn lại chữ đó câm, không đọc).",
+   "options": [
+    "[[h]]our",
+    "[[h]]onest",
+    "[[h]]onour",
+    "[[h]]ouse"
+   ],
+   "answer": 3,
+   "explain": "house: chữ gạch chân đọc /h/. hour, honest, honour: chữ gạch chân câm (không đọc).",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-07-05",
+   "type": "mcq",
+   "prompt": "Chọn từ có chữ gạch chân ĐƯỢC ĐỌC (ba từ còn lại chữ đó câm, không đọc).",
+   "options": [
+    "clim[[b]]",
+    "com[[b]]",
+    "lam[[b]]",
+    "[[b]]ook"
+   ],
+   "answer": 3,
+   "explain": "book: chữ gạch chân đọc /b/. climb, comb, lamb: chữ gạch chân câm (không đọc).",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-07-06",
+   "type": "mcq",
+   "prompt": "Chọn từ có chữ gạch chân ĐƯỢC ĐỌC (ba từ còn lại chữ đó câm, không đọc).",
+   "options": [
+    "lis[[t]]en",
+    "cas[[t]]le",
+    "whis[[t]]le",
+    "[[t]]able"
+   ],
+   "answer": 3,
+   "explain": "table: chữ gạch chân đọc /t/. listen, castle, whistle: chữ gạch chân câm (không đọc).",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-07-07",
+   "type": "mcq",
+   "prompt": "Chọn từ có chữ gạch chân ĐƯỢC ĐỌC (ba từ còn lại chữ đó câm, không đọc).",
+   "options": [
+    "dau[[gh]]ter",
+    "ni[[gh]]t",
+    "hi[[gh]]",
+    "lau[[gh]]"
+   ],
+   "answer": 3,
+   "explain": "laugh: chữ gạch chân đọc /f/. daughter, night, high: chữ gạch chân câm (không đọc).",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-07-08",
+   "type": "mcq",
+   "prompt": "Chọn từ có chữ gạch chân ĐƯỢC ĐỌC (ba từ còn lại chữ đó câm, không đọc).",
+   "options": [
+    "w[[h]]at",
+    "w[[h]]en",
+    "w[[h]]ere",
+    "[[h]]at"
+   ],
+   "answer": 3,
+   "explain": "hat: chữ gạch chân đọc /h/. what, when, where: chữ gạch chân câm (không đọc).",
+   "skill": "phat-am"
+  }
+ ]
+}

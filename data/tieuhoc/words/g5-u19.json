@@ -1,0 +1,10 @@
+[
+  {"id": "g5-u19-001", "word": "beautiful", "pos": "adj", "ipa": "/ˈbjuːtɪfl/", "pic": "😍", "vi": "đẹp", "defEn": "very nice to look at", "example": "Ha Long Bay is very ______.", "level": 2, "priority": 1, "sources": ["sgk-g5-u19"]},
+  {"id": "g5-u19-002", "word": "exciting", "pos": "adj", "ipa": "/ɪkˈsaɪtɪŋ/", "pic": "🤩", "vi": "thú vị, hào hứng", "defEn": "making you feel happy and interested", "example": "The trip to the theme park was ______!", "level": 2, "priority": 1, "sources": ["sgk-g5-u19"]},
+  {"id": "g5-u19-003", "word": "fantastic", "pos": "adj", "ipa": "/fænˈtæstɪk/", "pic": "🌟", "vi": "tuyệt vời", "defEn": "very good", "example": "The fireworks show was ______!", "level": 2, "priority": 1, "sources": ["sgk-g5-u19"]},
+  {"id": "g5-u19-004", "word": "peaceful", "pos": "adj", "ipa": "/ˈpiːsfl/", "pic": "🕊️", "vi": "yên bình", "defEn": "quiet and calm", "example": "My grandparents' village is very ______.", "level": 2, "priority": 1, "sources": ["sgk-g5-u19"]},
+  {"id": "g5-u19-005", "word": "twenty-nine", "pos": "number", "ipa": "/ˌtwenti ˈnaɪn/", "pic": "2️⃣9️⃣", "vi": "hai mươi chín (29)", "defEn": "the number 29", "example": "There are ______ students in the class.", "level": 2, "priority": 1, "sources": ["sgk-g5-u19"]},
+  {"id": "g5-u19-006", "word": "one hundred", "pos": "number", "ipa": "/wʌn ˈhʌndrəd/", "pic": "💯", "vi": "một trăm", "defEn": "the number 100", "example": "The tower is ______ metres high.", "level": 2, "priority": 1, "sources": ["sgk-g5-u19"]},
+  {"id": "g5-u19-007", "word": "famous", "pos": "adj", "ipa": "/ˈfeɪməs/", "pic": "🏆", "vi": "nổi tiếng", "defEn": "known by many people", "example": "Hoan Kiem Lake is a ______ place in Ha Noi.", "level": 2, "priority": 2, "sources": ["chu-de-on-thi"]},
+  {"id": "g5-u19-008", "word": "place", "pos": "n", "ipa": "/pleɪs/", "pic": "📍", "vi": "địa điểm", "defEn": "a particular area or building", "example": "What ______ would you like to visit?", "level": 1, "priority": 2, "sources": ["chu-de-on-thi"]}
+]

@@ -1,0 +1,241 @@
+{
+  "id": "toan-loi-van-cd-02",
+  "title": "Sơ đồ đoạn thẳng",
+  "topic": "loi-van",
+  "items": [
+    {
+      "type": "mcq",
+      "level": 1,
+      "model": "chon-so-do-them-mot-doan",
+      "prompt": "Lan có nhiều hơn Mai 7 nhãn vở. Dấu [đoạn chung] chỉ hai đoạn bằng nhau. Sơ đồ chữ nào thể hiện đúng?",
+      "answer": 0,
+      "explain": "Lan có đoạn bằng Mai và thêm đoạn 7 nhãn.\nNhiễu: sơ đồ thứ hai đảo người nhiều hơn; thứ ba coi hai bạn bằng nhau; thứ tư hiểu hơn 7 thành gấp đôi.\nĐáp số: Mai: [đoạn chung]; Lan: [đoạn chung][7 nhãn].",
+      "options": [
+        "Mai: [đoạn chung]; Lan: [đoạn chung][7 nhãn]",
+        "Lan: [đoạn chung]; Mai: [đoạn chung][7 nhãn]",
+        "Mai: [7 nhãn]; Lan: [7 nhãn]",
+        "Mai: [đoạn chung]; Lan: [đoạn chung][đoạn chung]"
+      ],
+      "id": "toan-loi-van-cd-02-01"
+    },
+    {
+      "type": "num",
+      "level": 1,
+      "model": "phan-con-lai-tren-doan-co-moc",
+      "prompt": "A, B, C nằm thẳng hàng theo thứ tự A–B–C. Đoạn AC dài 31 cm, AB dài 12 cm. Đoạn BC dài bao nhiêu xăng-ti-mét?",
+      "answer": 19,
+      "explain": "Đoạn BC: 31 − 12 = 19 (cm).\nĐáp số: 19 cm.",
+      "unit": "cm",
+      "round": 0,
+      "id": "toan-loi-van-cd-02-02"
+    },
+    {
+      "type": "mcq",
+      "level": 1,
+      "model": "chuyen-deu-tu-chenh-lech-da-biet",
+      "prompt": "Hà có nhiều hơn An 16 viên bi. Hà chuyển một số bi cho An để hai bạn bằng nhau. Hà phải chuyển bao nhiêu viên?",
+      "answer": 1,
+      "explain": "Chuyển một viên làm chênh lệch giảm hai viên.\nSố viên chuyển: 16 : 2 = 8 (viên).\nNhiễu: 16 chuyển cả phần hơn; 32 = 16 × 2 nhân thay vì chia; 0 bỏ qua chênh lệch.\nĐáp số: 8 viên.",
+      "options": [
+        "16 viên",
+        "8 viên",
+        "32 viên",
+        "0 viên"
+      ],
+      "id": "toan-loi-van-cd-02-03"
+    },
+    {
+      "type": "num",
+      "level": 1,
+      "model": "ghep-hai-doan-bang-nhau",
+      "prompt": "Hai đoạn dây đỏ và xanh đều dài 18 m. Nối hai đoạn đầu sát nhau, không chồng lên nhau và không hao hụt. Dây sau nối dài bao nhiêu mét?",
+      "answer": 36,
+      "explain": "Độ dài sau nối: 18 × 2 = 36 (m).\nĐáp số: 36 m.",
+      "unit": "m",
+      "round": 0,
+      "id": "toan-loi-van-cd-02-04"
+    },
+    {
+      "type": "num",
+      "level": 2,
+      "model": "tong-hieu-tim-phan-ngan",
+      "prompt": "Hai dải giấy có tổng độ dài 54 cm; dải dài hơn dải ngắn 10 cm. Dải ngắn dài bao nhiêu xăng-ti-mét?",
+      "answer": 22,
+      "explain": "Bỏ phần hơn, hai phần ngắn có tổng: 54 − 10 = 44 (cm).\nDải ngắn dài: 44 : 2 = 22 (cm).\nĐáp số: 22 cm.",
+      "unit": "cm",
+      "round": 0,
+      "id": "toan-loi-van-cd-02-05"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "model": "tong-hieu-tim-phan-dai",
+      "prompt": "Hai đội trồng tổng cộng 68 cây. Đội Một trồng nhiều hơn đội Hai 12 cây. Đội Một trồng bao nhiêu cây?",
+      "answer": 2,
+      "explain": "Thêm phần chênh vào tổng, được hai phần bằng đội Một: 68 + 12 = 80 (cây).\nĐội Một trồng: 80 : 2 = 40 (cây).\nNhiễu: 28 = (68 − 12) : 2 là đội Hai; 34 = 68 : 2 bỏ phần chênh; 80 chưa chia 2.\nĐáp số: 40 cây.",
+      "options": [
+        "28 cây",
+        "34 cây",
+        "40 cây",
+        "80 cây"
+      ],
+      "id": "toan-loi-van-cd-02-06"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "model": "nua-doan-roi-them-doan-khac",
+      "prompt": "Dải giấy đỏ dài 42 cm. Dải xanh dài bằng một nửa dải đỏ. Dải vàng dài hơn dải xanh 6 cm. Dải vàng dài bao nhiêu xăng-ti-mét?",
+      "answer": 3,
+      "explain": "Dải xanh dài: 42 : 2 = 21 (cm).\nDải vàng dài: 21 + 6 = 27 (cm).\nNhiễu: 21 chỉ là dải xanh; 15 = 21 − 6 trừ nhầm phần hơn; 24 = (42 + 6) : 2 thêm trước khi lấy nửa.\nĐáp số: 27 cm.",
+      "options": [
+        "21 cm",
+        "15 cm",
+        "24 cm",
+        "27 cm"
+      ],
+      "id": "toan-loi-van-cd-02-07"
+    },
+    {
+      "type": "num",
+      "level": 2,
+      "model": "hai-tong-chung-suy-ra-phan-thieu",
+      "prompt": "Tổng số nhãn của An và Bình là 47. Tổng số nhãn của An và Chi là 38. Bình có 20 nhãn. Chi có bao nhiêu nhãn?",
+      "answer": 11,
+      "explain": "Hai tổng đều có số nhãn của An, nên tổng thứ nhất hơn tổng thứ hai đúng bằng phần Bình hơn Chi.\nBình nhiều hơn Chi: 47 − 38 = 9 (nhãn).\nChi có: 20 − 9 = 11 (nhãn).\nĐáp số: 11 nhãn.",
+      "unit": "nhãn",
+      "round": 0,
+      "id": "toan-loi-van-cd-02-08"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "model": "chenh-lech-sau-chuyen-mot-chieu",
+      "prompt": "Trước khi chuyển, hộp đỏ có nhiều hơn hộp xanh 30 viên bi. Chuyển đúng 8 viên từ hộp đỏ sang hộp xanh. Sau chuyển, hộp đỏ còn nhiều hơn hộp xanh bao nhiêu viên?",
+      "answer": 0,
+      "explain": "Mỗi viên chuyển đi làm chênh lệch giảm 2 viên.\nChênh lệch giảm: 8 × 2 = 16 (viên).\nChênh lệch mới: 30 − 16 = 14 (viên).\nNhiễu: 22 = 30 − 8 chỉ trừ một phía; 38 = 30 + 8 cộng sai; 46 = 30 + 16 tăng thay vì giảm.\nĐáp số: 14 viên.",
+      "options": [
+        "14 viên",
+        "22 viên",
+        "38 viên",
+        "46 viên"
+      ],
+      "id": "toan-loi-van-cd-02-09"
+    },
+    {
+      "type": "num",
+      "level": 2,
+      "model": "tong-thay-doi-khi-ca-hai-them-deu",
+      "prompt": "Hai bạn có tổng cộng 46 nhãn vở. Mỗi bạn được tặng thêm 7 nhãn. Tổng số nhãn của hai bạn sau đó là bao nhiêu?",
+      "answer": 60,
+      "explain": "Số nhãn được tặng thêm: 7 × 2 = 14 (nhãn).\nTổng mới: 46 + 14 = 60 (nhãn).\nĐáp số: 60 nhãn.",
+      "unit": "nhãn",
+      "round": 0,
+      "id": "toan-loi-van-cd-02-10"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "model": "tim-phan-them-ngoai-ba-doan",
+      "prompt": "Đoạn dây xanh dài 9 m. Đoạn đỏ dài 31 m, gồm 3 phần bằng đoạn xanh và một phần nối thêm, không chồng lên nhau. Phần nối thêm dài bao nhiêu mét?",
+      "answer": 1,
+      "explain": "Ba phần bằng đoạn xanh dài: 9 × 3 = 27 (m).\nPhần nối thêm dài: 31 − 27 = 4 (m).\nNhiễu: 27 chỉ là ba phần bằng đoạn xanh; 22 = 31 − 9 chỉ bỏ một phần xanh; 58 = 31 + 27 cộng thay vì trừ.\nĐáp số: 4 m.",
+      "options": [
+        "27 m",
+        "4 m",
+        "22 m",
+        "58 m"
+      ],
+      "id": "toan-loi-van-cd-02-11"
+    },
+    {
+      "type": "tf4",
+      "level": 2,
+      "model": "kiem-tra-so-do-bo-phan-giao-nhau",
+      "prompt": "A, B, C, D nằm thẳng hàng theo thứ tự A–B–C–D; AB = 4 cm, BC = 7 cm, CD = 5 cm. Đánh giá các phát biểu.",
+      "statements": [
+        "a) AC dài 11 cm.",
+        "b) BD dài 12 cm.",
+        "c) AD dài 15 cm.",
+        "d) BD dài hơn AC 2 cm."
+      ],
+      "answers": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "explain": [
+        "Đúng. AC: 4 + 7 = 11 (cm).\nĐáp số: Đúng.",
+        "Đúng. BD: 7 + 5 = 12 (cm).\nĐáp số: Đúng.",
+        "Sai. AC: 4 + 7 = 11 (cm).\nAD: 11 + 5 = 16 (cm), không phải 15 cm.\nĐáp số: Sai.",
+        "Sai. Bỏ đoạn BC chung, phần chênh là CD so với AB.\nChênh lệch: 5 − 4 = 1 (cm), không phải 2 cm.\nĐáp số: Sai."
+      ],
+      "id": "toan-loi-van-cd-02-12"
+    },
+    {
+      "type": "group",
+      "level": 2,
+      "model": "chenh-lech-roi-chia-them",
+      "title": "Chia phần chênh lệch",
+      "passage": "Kho A có 42 kg gạo, kho B có 17 kg gạo.",
+      "items": [
+        {
+          "type": "num",
+          "level": 1,
+          "model": "chenh-hai-kho-da-biet",
+          "prompt": "Kho A có nhiều hơn kho B bao nhiêu ki-lô-gam?",
+          "answer": 25,
+          "explain": "Phần chênh lệch: 42 − 17 = 25 (kg).\nĐáp số: 25 kg.",
+          "unit": "kg",
+          "round": 0,
+          "id": "toan-loi-van-cd-02-13a"
+        },
+        {
+          "type": "num",
+          "level": 2,
+          "model": "chia-phan-chenh-roi-them-moi-tui",
+          "prompt": "Lấy riêng lượng gạo bằng phần chênh lệch ở câu a, chia đều vào 5 túi. Sau đó thêm vào mỗi túi 2 kg gạo từ nguồn khác. Mỗi túi có bao nhiêu ki-lô-gam?",
+          "answer": 7,
+          "explain": "Mỗi túi nhận từ phần chênh lệch câu a: 25 : 5 = 5 (kg).\nMỗi túi sau thêm: 5 + 2 = 7 (kg).\nĐáp số: 7 kg.",
+          "unit": "kg",
+          "round": 0,
+          "id": "toan-loi-van-cd-02-13b"
+        }
+      ],
+      "id": "toan-loi-van-cd-02-13"
+    },
+    {
+      "type": "group",
+      "level": 2,
+      "model": "chia-doan-roi-chon-hai-phan",
+      "title": "Chia một dải giấy",
+      "passage": "Một dải giấy dài 36 cm được chia thành 4 phần bằng nhau, không hao hụt.",
+      "items": [
+        {
+          "type": "num",
+          "level": 1,
+          "model": "mot-phan-tu-chia-doan-deu",
+          "prompt": "Mỗi phần dài bao nhiêu xăng-ti-mét?",
+          "answer": 9,
+          "explain": "Mỗi phần dài: 36 : 4 = 9 (cm).\nĐáp số: 9 cm.",
+          "unit": "cm",
+          "round": 0,
+          "id": "toan-loi-van-cd-02-14a"
+        },
+        {
+          "type": "num",
+          "level": 2,
+          "model": "hai-phan-roi-cat-bot",
+          "prompt": "Lấy 2 phần có độ dài tìm ở câu a, nối sát nhau không chồng lên nhau, rồi cắt bỏ 5 cm. Đoạn còn lại dài bao nhiêu xăng-ti-mét?",
+          "answer": 13,
+          "explain": "Độ dài hai phần theo câu a: 9 × 2 = 18 (cm).\nĐoạn còn lại: 18 − 5 = 13 (cm).\nĐáp số: 13 cm.",
+          "unit": "cm",
+          "round": 0,
+          "id": "toan-loi-van-cd-02-14b"
+        }
+      ],
+      "id": "toan-loi-van-cd-02-14"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "toan-loi-van-cd-06",
+  "title": "Đếm không trùng",
+  "topic": "loi-van",
+  "items": [
+    {
+      "type": "mcq",
+      "level": 3,
+      "model": "tich-hai-lua-chon-doc-lap-dem-bo",
+      "prompt": "Có 2 áo khác nhau ký hiệu A, B và 3 quần khác nhau ký hiệu X, Y, Z. Một bộ gồm đúng một áo và một quần. Có bao nhiêu bộ khác nhau? Đổi thứ tự kể áo, quần không tạo bộ mới.",
+      "answer": 0,
+      "explain": "Mọi bộ: AX, AY, AZ, BX, BY, BZ.\nMỗi áo ghép được với 3 quần, có 2 áo nên số bộ là: 2 × 3 = 6 (bộ).\nNhiễu: 5 = 2 + 3 cộng lựa chọn; 3 chỉ đếm quần; 12 = 6 × 2 đếm lặp mỗi bộ hai lần.\nĐáp số: 6 bộ.",
+      "options": [
+        "6 bộ",
+        "5 bộ",
+        "3 bộ",
+        "12 bộ"
+      ],
+      "id": "toan-loi-van-cd-06-01",
+      "adv": true
+    },
+    {
+      "type": "num",
+      "level": 3,
+      "model": "chon-hai-trong-bon-khong-thu-tu",
+      "prompt": "An, Bình, Chi, Dũng là bốn bạn trong nhóm. Chọn đúng hai bạn làm một cặp trực nhật. Hai bạn trong cặp khác nhau, không xét ai được gọi tên trước. Có bao nhiêu cặp?",
+      "answer": 6,
+      "explain": "Mọi cặp: An–Bình, An–Chi, An–Dũng, Bình–Chi, Bình–Dũng, Chi–Dũng.\nĐếm được 6 cặp; cặp đảo tên không tính thêm.\nĐáp số: 6 cặp.",
+      "unit": "cặp",
+      "round": 0,
+      "id": "toan-loi-van-cd-06-02",
+      "adv": true
+    },
+    {
+      "type": "mcq",
+      "level": 3,
+      "model": "buoc-mot-hai-dem-duong-len-bon-bac",
+      "prompt": "Một cầu thang có 4 bậc, đánh số từ 1 đến 4; bắt đầu ở mặt đất số 0. Mỗi bước lên đúng 1 hoặc 2 bậc, dừng đúng bậc 4. Hai cách khác nhau khi thứ tự độ dài các bước khác nhau. Có bao nhiêu cách?",
+      "answer": 1,
+      "explain": "Không có bước dài 2 bậc thì phải đi toàn bước dài 1 bậc; có một bước dài 2 bậc thì hai bước còn lại dài 1 bậc và bước dài 2 bậc có thể ở đầu, giữa hoặc cuối; có hai bước dài 2 bậc thì đã đến bậc 4. Ba bước dài 2 bậc trở lên sẽ vượt bậc 4.\nMọi chuỗi bước có tổng 4: (1; 1; 1; 1), (1; 1; 2), (1; 2; 1), (2; 1; 1), (2; 2).\nCó 5 cách.\nNhiễu: 4 bỏ trường hợp toàn bước 1; 3 gộp ba vị trí của bước 2 thành một; 8 = 4 × 2 nhân số bậc với hai độ dài bước.\nĐáp số: 5 cách.",
+      "options": [
+        "4 cách",
+        "5 cách",
+        "3 cách",
+        "8 cách"
+      ],
+      "id": "toan-loi-van-cd-06-03",
+      "adv": true
+    },
+    {
+      "type": "group",
+      "level": 3,
+      "model": "doi-tien-roi-in-phieu",
+      "title": "Đổi 7 nghìn đồng",
+      "passage": "Cần đổi đúng 7 nghìn đồng. Chỉ dùng các đồng xu giả định có mệnh giá 2, 3, 5 nghìn đồng; mỗi mệnh giá có đủ nhiều xu. Hai cách đổi khác nhau theo số xu từng mệnh giá, không xét thứ tự xu.",
+      "items": [
+        {
+          "type": "num",
+          "level": 3,
+          "model": "dem-nghiem-doi-tien-khong-thu-tu",
+          "prompt": "Có bao nhiêu cách đổi đúng 7 nghìn đồng?",
+          "answer": 2,
+          "explain": "Nếu có một xu 5, còn: 7 − 5 = 2 (nghìn đồng); phần còn lại nhỏ hơn mệnh giá 3 và 5 nên chỉ dùng được một xu 2.\nNếu không có xu 5 và không có xu 3, chỉ dùng xu 2 không thể được tổng lẻ 7.\nNếu có một xu 3 và không có xu 5, còn: 7 − 3 = 4 (nghìn đồng).\nSố xu 2 cần dùng khi đó: 4 : 2 = 2 (xu).\nHai xu 3 có giá trị: 3 × 2 = 6 (nghìn đồng).\nSố còn lại: 7 − 6 = 1 (nghìn đồng), không đổi được bằng xu 2.\nTừ ba xu 3 trở lên có ít nhất: 3 × 3 = 9 (nghìn đồng), vượt 7.\nTừ hai xu 5 trở lên có ít nhất: 5 × 2 = 10 (nghìn đồng), vượt 7.\nMọi cách: (5; 2), (3; 2; 2).\nĐáp số: 2 cách.",
+          "unit": "cách",
+          "round": 0,
+          "id": "toan-loi-van-cd-06-04a",
+          "adv": true
+        },
+        {
+          "type": "num",
+          "level": 1,
+          "model": "nhan-so-cach-da-dem-voi-so-phieu",
+          "prompt": "Mỗi cách đổi tìm ở câu a được in trên 3 phiếu riêng. Tổng cộng cần in bao nhiêu phiếu?",
+          "answer": 6,
+          "explain": "Số phiếu theo số cách ở câu a: 2 × 3 = 6 (phiếu).\nĐáp số: 6 phiếu.",
+          "unit": "phiếu",
+          "round": 0,
+          "id": "toan-loi-van-cd-06-04b"
+        }
+      ],
+      "id": "toan-loi-van-cd-06-04",
+      "adv": true
+    },
+    {
+      "type": "tf4",
+      "level": 3,
+      "model": "dem-chu-so-co-dieu-kien",
+      "prompt": "Lập số có hai chữ số khác nhau từ các chữ số 1, 2, 4; mỗi chữ số được dùng nhiều nhất một lần trong một số. Số đảo chữ số là một số khác. Đánh giá các phát biểu.",
+      "statements": [
+        "a) Có 6 số lập được.",
+        "b) Có 4 số chẵn lập được.",
+        "c) Có 3 số lớn hơn 30 lập được.",
+        "d) Có 2 số có hàng chục là 1."
+      ],
+      "answers": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "explain": [
+        "Đúng. Mọi số: 12, 14, 21, 24, 41, 42; có 6 số.\nĐáp số: Đúng.",
+        "Đúng. Số chẵn phải tận cùng bằng 2 hoặc 4 trong các chữ số đã cho.\nTừ danh sách 12, 14, 21, 24, 41, 42, các số chẵn là 12, 14, 24, 42; có 4 số.\nĐáp số: Đúng.",
+        "Sai. Từ danh sách 12, 14, 21, 24, 41, 42, chỉ 41 và 42 lớn hơn 30; có 2 số, không phải 3.\nĐáp số: Sai.",
+        "Đúng. Từ danh sách 12, 14, 21, 24, 41, 42, chỉ 12 và 14 có hàng chục là 1; có 2 số.\nĐáp số: Đúng."
+      ],
+      "id": "toan-loi-van-cd-06-05",
+      "adv": true
+    }
+  ]
+}

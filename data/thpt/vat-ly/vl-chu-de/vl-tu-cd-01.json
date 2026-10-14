@@ -1,0 +1,77 @@
+{
+  "id": "vl-tu-cd-01",
+  "title": "Từ: nhận biết đại lượng, định luật và quy tắc",
+  "items": [
+    {
+      "id": "vl-tu-cd-01-01", "type": "mcq", "level": 1,
+      "prompt": "Trong các đối tượng sau, đối tượng nào tạo từ trường trong mô hình từ trường của dòng điện không đổi?",
+      "options": ["Một điện tích đứng yên", "Một vật trung hòa đứng yên, không có từ tính", "Một dây dẫn có dòng điện không đổi", "Một bình khí lí tưởng trung hòa không có dòng điện"], "answer": 2,
+      "explain": "Dòng điện tạo ra từ trường xung quanh dây. Điện tích đứng yên chỉ tạo điện trường trong mô hình đang xét."
+    },
+    {
+      "id": "vl-tu-cd-01-02", "type": "mcq", "level": 1,
+      "prompt": "Hình dạng đường sức của từ trường đều được mô tả thế nào?",
+      "options": ["Những đường thẳng song song, cùng chiều và cách đều", "Những đường tròn đồng tâm", "Những đường cắt nhau ở cực N", "Những đường thẳng có chiều luân phiên ngược nhau"], "answer": 0,
+      "explain": "Từ trường đều có vectơ B không đổi theo vị trí, biểu diễn bởi đường sức thẳng song song, cùng chiều, cách đều."
+    },
+    {
+      "id": "vl-tu-cd-01-03", "type": "mcq", "level": 1,
+      "prompt": "Độ lớn lực từ lên đoạn dây thẳng mang dòng điện đạt cực đại, với B, I và l cố định, khi dây có phương nào?",
+      "options": ["Song song B", "Hợp B góc 30°", "Hợp B góc 45°", "Vuông góc B"], "answer": 3,
+      "explain": "F = BIl sin α đạt cực đại khi sin α = 1, tức dây vuông góc B."
+    },
+    {
+      "id": "vl-tu-cd-01-04", "type": "mcq", "level": 1,
+      "prompt": "Từ thông được đo bằng đơn vị nào trong hệ SI?",
+      "options": ["Tesla", "Weber", "Ampere", "Watt"], "answer": 1,
+      "explain": "Từ thông Φ đo bằng weber (Wb); cảm ứng từ B đo bằng tesla (T)."
+    },
+    {
+      "id": "vl-tu-cd-01-05", "type": "mcq", "level": 1,
+      "prompt": "Cuộn dây N vòng giống nhau, từ thông qua mỗi vòng thay đổi ΔΦ trong thời gian Δt. Độ lớn suất điện động cảm ứng trung bình là gì?",
+      "options": ["|ΔΦ|/(NΔt)", "N|Φ|Δt", "N|ΔΦ|/Δt", "NΔt/|ΔΦ|"], "answer": 2,
+      "explain": "Định luật Faraday dùng độ biến thiên từ thông một vòng, rồi nhân số vòng: |e| = N|ΔΦ|/Δt."
+    },
+    {
+      "id": "vl-tu-cd-01-06", "type": "mcq", "level": 1,
+      "prompt": "Theo định luật Lenz, từ trường của dòng cảm ứng trong mạch kín có tác dụng nào?",
+      "options": ["Chống lại sự biến thiên từ thông đã sinh ra dòng cảm ứng", "Luôn triệt tiêu hoàn toàn từ trường ngoài", "Luôn làm giảm từ thông ngoài", "Luôn cùng chiều từ trường ngoài"], "answer": 0,
+      "explain": "Lenz chống sự biến thiên: khi từ thông tăng thì chống tăng, khi giảm thì chống giảm. Không phải lúc nào cũng chống chính từ trường ngoài."
+    },
+    {
+      "id": "vl-tu-cd-01-07", "type": "mcq", "level": 1,
+      "prompt": "Với dòng xoay chiều hình sin có cường độ cực đại I_{0}, cường độ hiệu dụng I được tính thế nào?",
+      "options": ["I = I_{0}/2", "I = 2I_{0}", "I = √2 I_{0}", "I = I_{0}/√2"], "answer": 3,
+      "explain": "Giá trị hiệu dụng của dòng hình sin bằng biên độ chia √2, không phải chia 2."
+    },
+    {
+      "id": "vl-tu-cd-01-08", "type": "mcq", "level": 1,
+      "prompt": "Động cơ điện khai thác tác dụng lực từ lên dòng điện để thực hiện sự chuyển hóa năng lượng chủ yếu nào?",
+      "options": ["Cơ năng thành điện năng", "Điện năng thành cơ năng", "Nhiệt năng thành năng lượng hạt nhân", "Năng lượng hạt nhân thành điện năng"], "answer": 1,
+      "explain": "Lực từ làm bộ phận động cơ chuyển động; động cơ nhận điện năng và tạo cơ năng. Máy phát điện thực hiện chuyển hóa cơ năng thành điện năng."
+    },
+    {
+      "id": "vl-tu-cd-01-09", "type": "tf4", "level": 1,
+      "prompt": "Xét các tính chất cơ bản của từ trường trong chương trình phổ thông.",
+      "statements": [
+        "a) Dòng điện là một nguồn tạo ra từ trường.",
+        "b) Tại một điểm có B khác 0, vectơ B có phương tiếp tuyến với đường sức từ đi qua điểm đó.",
+        "c) Hai đường sức từ có thể cắt nhau tại một điểm có B khác 0.",
+        "d) Một điện tích đứng yên trong từ trường luôn chịu lực từ khác 0."
+      ],
+      "answers": [true, true, false, false],
+      "explain": [
+        "Đúng. Dòng điện và nam châm tạo từ trường.",
+        "Đúng. Tiếp tuyến tại điểm đó cho phương B; chiều B theo chiều đường sức.",
+        "Sai. B có một hướng xác định tại mỗi điểm; hai đường sức không cắt nhau.",
+        "Sai. Lực từ lên điện tích đứng yên bằng 0; không nhầm lực từ với lực điện."
+      ]
+    },
+    {
+      "id": "vl-tu-cd-01-10", "type": "num", "level": 1,
+      "prompt": "Một từ trường có cảm ứng từ 250 mT. Đổi giá trị đó sang T, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 0.25, "round": 2, "unit": "T",
+      "explain": "1 mT = 10^{-3} T nên B = 250 · 10^{-3} = 0,25 T. Ghi: 0,25."
+    }
+  ]
+}

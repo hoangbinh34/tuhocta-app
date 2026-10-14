@@ -1,0 +1,73 @@
+{
+  "id": "toan-loi-van-cd-07",
+  "title": "Bán hàng lùi",
+  "topic": "loi-van",
+  "items": [
+    {
+      "type": "num",
+      "level": 3,
+      "model": "ban-nua-them-co-dinh-tim-ban-dau",
+      "prompt": "Một quầy bán một nửa số táo đang có, rồi bán thêm 3 quả từ phần còn lại, cuối cùng còn 11 quả. Trước khi bán, quầy có bao nhiêu quả táo?",
+      "answer": 28,
+      "explain": "Sau khi bán một nửa, trước khi bán thêm: 11 + 3 = 14 (quả).\n14 quả là một nửa số táo ban đầu.\nSố táo ban đầu: 14 × 2 = 28 (quả).\nĐáp số: 28 quả.",
+      "unit": "quả",
+      "round": 0,
+      "id": "toan-loi-van-cd-07-01",
+      "adv": true
+    },
+    {
+      "type": "mcq",
+      "level": 3,
+      "model": "ban-nua-roi-mot-phan-ba-tim-ban-dau",
+      "prompt": "Lần đầu bán một nửa số cam ban đầu. Lần sau bán một phần ba số cam còn ngay sau lần đầu. Sau cả hai lần còn 12 quả. Ban đầu có bao nhiêu quả cam?",
+      "answer": 2,
+      "explain": "Sau lần sau còn hai phần bằng nhau trong ba phần trước lần đó.\nMột phần: 12 : 2 = 6 (quả).\nTrước lần sau: 6 × 3 = 18 (quả).\n18 quả là một nửa lượng ban đầu còn sau lần bán đầu, nên ban đầu có: 18 × 2 = 36 (quả).\nNhiễu: 24 = 12 × 2 bỏ lần bán sau; 18 chỉ lùi một lần; 72 = 12 × 3 × 2 coi còn một phần ba thay vì hai phần ba.\nĐáp số: 36 quả.",
+      "options": [
+        "24 quả",
+        "18 quả",
+        "36 quả",
+        "72 quả"
+      ],
+      "id": "toan-loi-van-cd-07-02",
+      "adv": true
+    },
+    {
+      "type": "num",
+      "level": 3,
+      "model": "ban-phan-ba-them-tim-so-da-ban",
+      "prompt": "Một quầy bán một phần ba số lê ban đầu, rồi bán thêm 4 quả từ phần còn lại; cuối cùng còn 12 quả. Tổng cộng quầy đã bán bao nhiêu quả lê?",
+      "answer": 12,
+      "explain": "Sau khi bán một phần ba, trước khi bán thêm: 12 + 4 = 16 (quả).\nBán một phần ba thì còn hai phần ba; hai phần bằng nhau còn lại có 16 quả nên một phần: 16 : 2 = 8 (quả).\nMột phần này chính là số lê bán lần đầu, bằng một phần ba số lê ban đầu.\nTổng số đã bán: 8 + 4 = 12 (quả).\nĐáp số: 12 quả.",
+      "unit": "quả",
+      "round": 0,
+      "id": "toan-loi-van-cd-07-03",
+      "adv": true
+    },
+    {
+      "type": "tf4",
+      "level": 3,
+      "model": "so-sanh-thu-tu-ban-phan-tu-va-ban-them",
+      "prompt": "Hai quầy riêng biệt đều còn 12 quả sau khi bán. Quầy A bán một phần tư lượng ban đầu rồi bán thêm 3 quả. Quầy B bán 3 quả trước rồi bán một phần tư lượng còn ngay lúc đó. Đánh giá các phát biểu.",
+      "statements": [
+        "a) Ban đầu quầy A có 20 quả.",
+        "b) Ban đầu quầy B có 20 quả.",
+        "c) Ban đầu quầy A nhiều hơn quầy B 1 quả.",
+        "d) Quầy B đã bán tổng cộng 7 quả."
+      ],
+      "answers": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "explain": [
+        "Đúng. Trước khi A bán thêm: 12 + 3 = 15 (quả).\nBán một phần tư thì còn ba phần tư, nên 15 quả là ba phần tư lượng ban đầu A.\nMột phần tư lượng ban đầu A: 15 : 3 = 5 (quả).\nBan đầu A: 5 × 4 = 20 (quả).\nĐáp số: Đúng.",
+        "Sai. 12 quả cuối cùng là ba phần tư lượng ngay trước khi B bán phần tư.\nMột phần tư lượng này: 12 : 3 = 4 (quả).\nTrước khi B bán phần tư: 4 × 4 = 16 (quả).\nBan đầu B: 16 + 3 = 19 (quả), không phải 20.\nĐáp số: Sai.",
+        "Đúng. Trước khi A bán thêm: 12 + 3 = 15 (quả).\nBán một phần tư thì còn ba phần tư, nên 15 quả là ba phần tư lượng ban đầu A.\nMột phần tư lượng ban đầu A: 15 : 3 = 5 (quả).\nBan đầu A: 5 × 4 = 20 (quả).\n12 quả cuối cùng là ba phần tư lượng ngay trước khi B bán phần tư.\nMột phần tư lượng B ngay trước bán phần tư: 12 : 3 = 4 (quả).\nB trước bán phần tư: 4 × 4 = 16 (quả).\nBan đầu B: 16 + 3 = 19 (quả).\nChênh lệch: 20 − 19 = 1 (quả).\nĐáp số: Đúng.",
+        "Đúng. 12 quả cuối cùng là ba phần tư lượng ngay trước khi B bán phần tư.\nMột phần tư lượng B ngay trước bán phần tư: 12 : 3 = 4 (quả).\nB trước bán phần tư: 4 × 4 = 16 (quả).\nBan đầu B: 16 + 3 = 19 (quả).\nB đã bán: 19 − 12 = 7 (quả).\nĐáp số: Đúng."
+      ],
+      "id": "toan-loi-van-cd-07-04",
+      "adv": true
+    }
+  ]
+}

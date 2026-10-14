@@ -1,0 +1,82 @@
+[
+  {
+    "id": "toan-chuyen-dong-lt-01",
+    "title": "Vận tốc và đơn vị vận tốc",
+    "emoji": "🚲",
+    "file": "chuyen-dong/toan-chuyen-dong-lt-01.json",
+    "count": 1,
+    "topic": "chuyen-dong"
+  },
+  {
+    "id": "toan-chuyen-dong-lt-02",
+    "title": "Quãng đường và thời gian",
+    "emoji": "🛵",
+    "file": "chuyen-dong/toan-chuyen-dong-lt-02.json",
+    "count": 1,
+    "topic": "chuyen-dong"
+  },
+  {
+    "id": "toan-chuyen-dong-lt-03",
+    "title": "Giờ–phút và các chặng",
+    "emoji": "⏱️",
+    "file": "chuyen-dong/toan-chuyen-dong-lt-03.json",
+    "count": 1,
+    "topic": "chuyen-dong"
+  },
+  {
+    "id": "toan-chuyen-dong-lt-04",
+    "title": "Hai chuyển động (nâng cao)",
+    "emoji": "🚗",
+    "file": "chuyen-dong/toan-chuyen-dong-lt-04.json",
+    "count": 1,
+    "topic": "chuyen-dong"
+  },
+  {
+    "id": "toan-chuyen-dong-lt-05",
+    "title": "Năng suất, số người và số ngày (nâng cao)",
+    "emoji": "🛠️",
+    "file": "chuyen-dong/toan-chuyen-dong-lt-05.json",
+    "count": 1,
+    "topic": "chuyen-dong"
+  },
+  {
+    "id": "toan-chuyen-dong-cd-01",
+    "title": "Vận tốc và đơn vị vận tốc",
+    "emoji": "🚲",
+    "file": "chuyen-dong/toan-chuyen-dong-cd-01.json",
+    "count": 10,
+    "topic": "chuyen-dong"
+  },
+  {
+    "id": "toan-chuyen-dong-cd-02",
+    "title": "Quãng đường và thời gian",
+    "emoji": "🛵",
+    "file": "chuyen-dong/toan-chuyen-dong-cd-02.json",
+    "count": 10,
+    "topic": "chuyen-dong"
+  },
+  {
+    "id": "toan-chuyen-dong-cd-03",
+    "title": "Đổi giờ–phút và hành trình nhiều chặng",
+    "emoji": "⏱️",
+    "file": "chuyen-dong/toan-chuyen-dong-cd-03.json",
+    "count": 10,
+    "topic": "chuyen-dong"
+  },
+  {
+    "id": "toan-chuyen-dong-cd-04",
+    "title": "Hai chuyển động: gặp nhau, đuổi nhau (NC)",
+    "emoji": "🚗",
+    "file": "chuyen-dong/toan-chuyen-dong-cd-04.json",
+    "count": 8,
+    "topic": "chuyen-dong"
+  },
+  {
+    "id": "toan-chuyen-dong-cd-05",
+    "title": "Năng suất, số người và số ngày (NC)",
+    "emoji": "🛠️",
+    "file": "chuyen-dong/toan-chuyen-dong-cd-05.json",
+    "count": 6,
+    "topic": "chuyen-dong"
+  }
+]

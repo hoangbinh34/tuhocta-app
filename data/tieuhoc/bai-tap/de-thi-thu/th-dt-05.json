@@ -1,0 +1,612 @@
+{
+ "id": "th-dt-05",
+ "module": "mock-test",
+ "title": "Đề 5 – tham khảo kiểu Lômônôxốp",
+ "emoji": "🏁",
+ "desc": "Khuôn tham khảo (trường chưa công bố cấu trúc chi tiết): 45 phút, thang 20, tổng hợp các dạng hay gặp.",
+ "minutes": 45,
+ "scale": 20,
+ "priority": 1,
+ "sources": [
+  "khuon-de-vao-6"
+ ],
+ "sections": [
+  {
+   "title": "I. Ngữ âm",
+   "instruction": "Câu 1–2: phát âm; câu 3–4: trọng âm.",
+   "items": [
+    {
+     "id": "th-dt-05-01",
+     "type": "mcq",
+     "prompt": "Chọn từ có phần gạch chân phát âm khác.",
+     "options": [
+      "n[[o]]se",
+      "cl[[o]]se",
+      "r[[o]]se",
+      "l[[o]]se"
+     ],
+     "answer": 3,
+     "explain": "lose: /uː/. nose, close, rose: /əʊ/."
+    },
+    {
+     "id": "th-dt-05-02",
+     "type": "mcq",
+     "prompt": "Chọn từ có phần gạch chân phát âm khác.",
+     "options": [
+      "danc[[es]]",
+      "kiss[[es]]",
+      "box[[es]]",
+      "cak[[es]]"
+     ],
+     "answer": 3,
+     "explain": "cakes: /s/. dances, kisses, boxes: /ɪz/."
+    },
+    {
+     "id": "th-dt-05-03",
+     "type": "mcq",
+     "prompt": "Chọn từ có trọng âm khác.",
+     "options": [
+      "dinosaur",
+      "November",
+      "animal",
+      "cinema"
+     ],
+     "answer": 1,
+     "explain": "November nhấn âm 2; dinosaur (âm 1), animal (âm 1), cinema (âm 1)."
+    },
+    {
+     "id": "th-dt-05-04",
+     "type": "mcq",
+     "prompt": "Chọn từ có trọng âm khác.",
+     "options": [
+      "polite",
+      "student",
+      "doctor",
+      "window"
+     ],
+     "answer": 0,
+     "explain": "polite nhấn âm 2; student (âm 1), doctor (âm 1), window (âm 1)."
+    }
+   ]
+  },
+  {
+   "title": "II. Ngữ pháp và từ vựng",
+   "instruction": "Chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "th-dt-05-05",
+     "type": "mcq",
+     "prompt": "Look at those dark clouds! It ___ rain.",
+     "options": [
+      "is going to",
+      "goes to",
+      "rains",
+      "is"
+     ],
+     "answer": 0,
+     "explain": "Có dấu hiệu rõ: is going to rain."
+    },
+    {
+     "id": "th-dt-05-06",
+     "type": "mcq",
+     "prompt": "I have two brothers. ___ names are Minh and Duc.",
+     "options": [
+      "Their",
+      "There",
+      "They",
+      "Them"
+     ],
+     "answer": 0,
+     "explain": "Tính từ sở hữu: Their names."
+    },
+    {
+     "id": "th-dt-05-07",
+     "type": "mcq",
+     "prompt": "We need to buy a ___ of bread.",
+     "options": [
+      "loaf",
+      "bottle",
+      "glass",
+      "cup"
+     ],
+     "answer": 0,
+     "explain": "a loaf of bread: một ổ bánh mì."
+    },
+    {
+     "id": "th-dt-05-08",
+     "type": "mcq",
+     "prompt": "Peter is ___ honest boy.",
+     "options": [
+      "a",
+      "an",
+      "the",
+      "some"
+     ],
+     "answer": 1,
+     "explain": "honest có h câm, đọc bắt đầu bằng nguyên âm: an."
+    },
+    {
+     "id": "th-dt-05-09",
+     "type": "mcq",
+     "prompt": "The museum is closed ___ Mondays.",
+     "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+     ],
+     "answer": 1,
+     "explain": "Thứ trong tuần: on Mondays."
+    },
+    {
+     "id": "th-dt-05-10",
+     "type": "mcq",
+     "prompt": "If you are tired, you ___ take a rest.",
+     "options": [
+      "should",
+      "shouldn't",
+      "mustn't",
+      "can't"
+     ],
+     "answer": 0,
+     "explain": "Lời khuyên: should."
+    },
+    {
+     "id": "th-dt-05-11",
+     "type": "mcq",
+     "prompt": "I'd like ___ a pilot in the future.",
+     "options": [
+      "be",
+      "to be",
+      "being",
+      "been"
+     ],
+     "answer": 1,
+     "explain": "would like + to V."
+    },
+    {
+     "id": "th-dt-05-12",
+     "type": "mcq",
+     "prompt": "Hurry up! The bus ___ in five minutes.",
+     "options": [
+      "leaves",
+      "left",
+      "leaving",
+      "leave"
+     ],
+     "answer": 0,
+     "explain": "Lịch trình cố định dùng hiện tại đơn: leaves."
+    },
+    {
+     "id": "th-dt-05-13",
+     "type": "mcq",
+     "prompt": "The children were very ___ when they saw the clown.",
+     "options": [
+      "exciting",
+      "excited",
+      "excite",
+      "excites"
+     ],
+     "answer": 1,
+     "explain": "Cảm xúc của người: excited."
+    },
+    {
+     "id": "th-dt-05-14",
+     "type": "mcq",
+     "prompt": "Which is the ___ month of the year in Ha Noi?",
+     "options": [
+      "hot",
+      "hotter",
+      "hottest",
+      "most hot"
+     ],
+     "answer": 2,
+     "explain": "the hottest."
+    },
+    {
+     "id": "th-dt-05-15",
+     "type": "mcq",
+     "prompt": "My mum told me ___ my room.",
+     "options": [
+      "tidy",
+      "to tidy",
+      "tidying",
+      "tidied"
+     ],
+     "answer": 1,
+     "explain": "tell + tân ngữ + to V."
+    },
+    {
+     "id": "th-dt-05-16",
+     "type": "mcq",
+     "prompt": "___ do you usually get up? – At 6.15.",
+     "options": [
+      "What time",
+      "How",
+      "Where",
+      "Who"
+     ],
+     "answer": 0,
+     "explain": "Trả lời giờ: What time."
+    }
+   ]
+  },
+  {
+   "title": "III. Giao tiếp",
+   "instruction": "Chọn câu đáp lại phù hợp nhất.",
+   "items": [
+    {
+     "id": "th-dt-05-17",
+     "type": "mcq",
+     "prompt": "A: \"How do you get to school?\" – B: \"___\"",
+     "options": [
+      "By bike.",
+      "At seven.",
+      "For ten minutes.",
+      "It's near."
+     ],
+     "answer": 0,
+     "explain": "Hỏi phương tiện: By bike."
+    },
+    {
+     "id": "th-dt-05-18",
+     "type": "mcq",
+     "prompt": "A: \"Would you like to come to my party on Sunday?\" – B: \"___\"",
+     "options": [
+      "I'd love to.",
+      "Yes, I would like.",
+      "No, I wouldn't like.",
+      "Here you are."
+     ],
+     "answer": 0,
+     "explain": "Nhận lời mời: I'd love to."
+    },
+    {
+     "id": "th-dt-05-19",
+     "type": "mcq",
+     "prompt": "A: \"What a beautiful dress!\" – B: \"___\"",
+     "options": [
+      "Thank you.",
+      "You're welcome.",
+      "Yes, please.",
+      "Never mind."
+     ],
+     "answer": 0,
+     "explain": "Đáp lời khen: Thank you."
+    },
+    {
+     "id": "th-dt-05-20",
+     "type": "mcq",
+     "prompt": "A: \"Excuse me, where is the post office?\" – B: \"___\"",
+     "options": [
+      "Go straight and turn left.",
+      "It's eight o'clock.",
+      "I'm fine, thanks.",
+      "It's a big building."
+     ],
+     "answer": 0,
+     "explain": "Hỏi đường: chỉ đường."
+    }
+   ]
+  },
+  {
+   "title": "IV. Điền từ vào đoạn văn",
+   "instruction": "Chọn từ đúng cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "th-dt-05-g1",
+     "type": "group",
+     "title": "Save water",
+     "passage": "Water is very important (21) ___ all living things. We use water (22) ___ drinking, cooking and washing. But clean water is not unlimited, so we (23) ___ save water every day. For example, turn (24) ___ the tap when you brush your teeth. Take a short shower (25) ___ of a bath. If everyone helps, we (26) ___ have enough water in the future.",
+     "items": [
+      {
+       "id": "th-dt-05-21",
+       "type": "mcq",
+       "prompt": "(21)",
+       "options": [
+        "for",
+        "of",
+        "with",
+        "at"
+       ],
+       "answer": 0,
+       "explain": "important for."
+      },
+      {
+       "id": "th-dt-05-22",
+       "type": "mcq",
+       "prompt": "(22)",
+       "options": [
+        "for",
+        "to",
+        "on",
+        "in"
+       ],
+       "answer": 0,
+       "explain": "use … for + V-ing (mục đích)."
+      },
+      {
+       "id": "th-dt-05-23",
+       "type": "mcq",
+       "prompt": "(23)",
+       "options": [
+        "should",
+        "shouldn't",
+        "don't",
+        "can't"
+       ],
+       "answer": 0,
+       "explain": "Lời khuyên: should save."
+      },
+      {
+       "id": "th-dt-05-24",
+       "type": "mcq",
+       "prompt": "(24)",
+       "options": [
+        "off",
+        "on",
+        "up",
+        "in"
+       ],
+       "answer": 0,
+       "explain": "Khoá vòi nước: turn off the tap."
+      },
+      {
+       "id": "th-dt-05-25",
+       "type": "mcq",
+       "prompt": "(25)",
+       "options": [
+        "instead",
+        "because",
+        "without",
+        "so"
+       ],
+       "answer": 0,
+       "explain": "instead of: thay vì."
+      },
+      {
+       "id": "th-dt-05-26",
+       "type": "mcq",
+       "prompt": "(26)",
+       "options": [
+        "will",
+        "won't",
+        "didn't",
+        "don't"
+       ],
+       "answer": 0,
+       "explain": "Câu điều kiện loại 1: If… , we will…"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "V. Đọc hiểu",
+   "instruction": "Đọc đoạn văn và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "th-dt-05-g2",
+     "type": "group",
+     "title": "Lisa's favourite season",
+     "passage": "Lisa is twelve and she lives in Canada. In winter, it is very cold and there is a lot of snow, so Lisa and her friends go skiing and build snowmen. Her favourite season, however, is autumn. The leaves on the trees turn red, orange and yellow, and the weather is cool. Every October, Lisa's family drives to a farm to pick apples. They bring the apples home and her mother makes apple pies. Lisa says autumn is the season of colours and the best food.",
+     "items": [
+      {
+       "id": "th-dt-05-27",
+       "type": "mcq",
+       "prompt": "Where does Lisa live?",
+       "options": [
+        "In Canada",
+        "In England",
+        "In Australia",
+        "In Viet Nam"
+       ],
+       "answer": 0,
+       "explain": "\"she lives in Canada\"."
+      },
+      {
+       "id": "th-dt-05-28",
+       "type": "mcq",
+       "prompt": "What do Lisa and her friends do in winter?",
+       "options": [
+        "They go skiing and build snowmen.",
+        "They go swimming.",
+        "They pick apples.",
+        "They fly kites."
+       ],
+       "answer": 0,
+       "explain": "\"go skiing and build snowmen\"."
+      },
+      {
+       "id": "th-dt-05-29",
+       "type": "mcq",
+       "prompt": "What is Lisa's favourite season?",
+       "options": [
+        "Spring",
+        "Summer",
+        "Autumn",
+        "Winter"
+       ],
+       "answer": 2,
+       "explain": "\"Her favourite season, however, is autumn\"."
+      },
+      {
+       "id": "th-dt-05-30",
+       "type": "mcq",
+       "prompt": "What does Lisa's family do every October?",
+       "options": [
+        "They pick apples on a farm.",
+        "They go skiing.",
+        "They visit the sea.",
+        "They plant trees."
+       ],
+       "answer": 0,
+       "explain": "\"drives to a farm to pick apples\"."
+      },
+      {
+       "id": "th-dt-05-31",
+       "type": "mcq",
+       "prompt": "Which is NOT true?",
+       "options": [
+        "Lisa is twelve.",
+        "It snows a lot in winter.",
+        "Lisa's father makes apple pies.",
+        "The leaves change colour in autumn."
+       ],
+       "answer": 2,
+       "explain": "Mẹ của Lisa làm bánh táo, không phải bố."
+      },
+      {
+       "id": "th-dt-05-32",
+       "type": "mcq",
+       "prompt": "The word \"however\" in the text shows ___.",
+       "options": [
+        "a contrast",
+        "an example",
+        "a reason",
+        "a time"
+       ],
+       "answer": 0,
+       "explain": "however: tuy nhiên (đối lập với ý mùa đông ở trên)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "VI. Tìm và sửa lỗi",
+   "instruction": "Mỗi câu có MỘT từ sai. Bấm vào từ sai rồi gõ từ đúng.",
+   "items": [
+    {
+     "id": "th-dt-05-33",
+     "type": "error",
+     "prompt": "Tìm một từ sai và sửa lại",
+     "tokens": [
+      "My",
+      "brother",
+      "don't",
+      "like",
+      "vegetables."
+     ],
+     "wrong": 2,
+     "answers": [
+      "doesn't",
+      "does not"
+     ],
+     "explain": "My brother là ngôi 3 số ít: doesn't."
+    },
+    {
+     "id": "th-dt-05-34",
+     "type": "error",
+     "prompt": "Tìm một từ sai và sửa lại",
+     "tokens": [
+      "There",
+      "are",
+      "a",
+      "cat",
+      "under",
+      "the",
+      "chair."
+     ],
+     "wrong": 1,
+     "answers": [
+      "is"
+     ],
+     "explain": "a cat số ít: There is."
+    },
+    {
+     "id": "th-dt-05-35",
+     "type": "error",
+     "prompt": "Tìm một từ sai và sửa lại",
+     "tokens": [
+      "I",
+      "seen",
+      "a",
+      "big",
+      "elephant",
+      "at",
+      "the",
+      "zoo",
+      "yesterday."
+     ],
+     "wrong": 1,
+     "answers": [
+      "saw"
+     ],
+     "explain": "\"yesterday\": quá khứ đơn của see là saw."
+    },
+    {
+     "id": "th-dt-05-36",
+     "type": "error",
+     "prompt": "Tìm một từ sai và sửa lại",
+     "tokens": [
+      "This",
+      "box",
+      "is",
+      "heavyer",
+      "than",
+      "that",
+      "one."
+     ],
+     "wrong": 3,
+     "answers": [
+      "heavier"
+     ],
+     "explain": "heavy → heavier (y đổi thành i)."
+    }
+   ]
+  },
+  {
+   "title": "VII. Viết lại câu",
+   "instruction": "Hoàn thành câu thứ hai sao cho nghĩa không đổi.",
+   "items": [
+    {
+     "id": "th-dt-05-37",
+     "type": "input",
+     "prompt": "Lan's house is bigger than Hoa's house.",
+     "answers": [
+      "smaller than Lan's house",
+      "smaller than Lan's",
+      "not as big as Lan's house",
+      "not as big as Lan's",
+      "not so big as Lan's house",
+      "not so big as Lan's"
+     ],
+     "explain": "bigger ↔ smaller.",
+     "lead": "Hoa's house is ___"
+    },
+    {
+     "id": "th-dt-05-38",
+     "type": "input",
+     "prompt": "Let's go to the cinema.",
+     "answers": [
+      "going to the cinema"
+     ],
+     "explain": "Let's + V = What about + V-ing.",
+     "lead": "What about ___"
+    },
+    {
+     "id": "th-dt-05-39",
+     "type": "input",
+     "prompt": "My school has a big library.",
+     "answers": [
+      "is a big library in my school",
+      "is a big library at my school"
+     ],
+     "explain": "… has … = There is … in …",
+     "lead": "There ___"
+    },
+    {
+     "id": "th-dt-05-40",
+     "type": "input",
+     "prompt": "Tom runs fast.",
+     "answers": [
+      "fast runner"
+     ],
+     "explain": "runs fast = a fast runner.",
+     "lead": "Tom is a ___"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "toan-chuyen-dong-lt-05",
+  "title": "Năng suất, số người và số ngày (nâng cao)",
+  "topic": "chuyen-dong",
+  "items": [
+    {
+      "id": "toan-chuyen-dong-lt-05-t1",
+      "type": "card",
+      "title": "Năng suất, số người và số ngày (nâng cao)",
+      "paras": [
+        "Năng suất là lượng công việc làm được trong một đơn vị thời gian. Khi năng suất không đổi, sản lượng bằng năng suất nhân thời gian; thời gian bằng khối lượng công việc chia năng suất.",
+        "Với mọi người cùng năng suất và cùng số giờ mỗi ngày, có thể rút về một người trong một ngày. Một ngày công là phần việc một người làm trong một ngày. Phần việc còn lại bằng tổng phần việc trừ phần đã làm.",
+        "Nhiều máy cùng làm thì cộng năng suất; thêm người giữa chừng thì tách hai giai đoạn. Ngày nghỉ không sinh sản phẩm; sản phẩm không đạt phải loại khỏi tổng sản lượng.",
+        "Phải nêu rõ giả thiết năng suất bằng nhau/không đổi khi cần. Năng suất–số người–số ngày chưa có nguồn chương trình xác minh, nên tất cả câu thuộc NC cấp 3."
+      ],
+      "source": "Toán 5, bài SGK: chưa xác minh đối với năng suất–số người–số ngày; xếp NC theo đặc tả 2.0, mục 1."
+    }
+  ]
+}

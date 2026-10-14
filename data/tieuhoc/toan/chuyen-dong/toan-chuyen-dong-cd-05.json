@@ -1,0 +1,148 @@
+{
+  "id": "toan-chuyen-dong-cd-05",
+  "title": "Năng suất, số người và số ngày (NC)",
+  "topic": "chuyen-dong",
+  "items": [
+    {
+      "id": "toan-chuyen-dong-cd-05-01",
+      "type": "group",
+      "level": 3,
+      "model": "rut-ve-mot-nguoi-roi-bo-sung-nguoi",
+      "title": "Bổ sung người làm",
+      "passage": "8 người làm được 240 sản phẩm trong 5 ngày. Mọi người có năng suất bằng nhau, không đổi; số giờ làm mỗi ngày bằng nhau. Muốn làm 72 sản phẩm mỗi ngày, đội sẽ bổ sung người có cùng năng suất.",
+      "items": [
+        {
+          "id": "toan-chuyen-dong-cd-05-01a",
+          "type": "num",
+          "level": 3,
+          "model": "nang-suat-mot-nguoi-tu-ca-doi-nhieu-ngay",
+          "prompt": "a) Mỗi người làm được bao nhiêu sản phẩm mỗi ngày?",
+          "answer": 6,
+          "round": 0,
+          "unit": "sản phẩm",
+          "explain": "Cả đội làm mỗi ngày: 240 : 5 = 48 (sản phẩm).\nMỗi người làm mỗi ngày: 48 : 8 = 6 (sản phẩm).\nĐáp số: 6 sản phẩm.",
+          "adv": true
+        },
+        {
+          "id": "toan-chuyen-dong-cd-05-01b",
+          "type": "num",
+          "level": 3,
+          "model": "so-nguoi-them-tu-nang-suat-don-vi",
+          "prompt": "b) Dùng năng suất mỗi người ở câu a để tính số người cần bổ sung, giữ nguyên số giờ làm mỗi ngày.",
+          "answer": 4,
+          "round": 0,
+          "unit": "người",
+          "explain": "Số người cần có: 72 : 6 = 12 (người).\nSố người bổ sung: 12 − 8 = 4 (người).\nĐáp số: 4 người.",
+          "adv": true
+        }
+      ],
+      "adv": true
+    },
+    {
+      "id": "toan-chuyen-dong-cd-05-02",
+      "type": "group",
+      "level": 3,
+      "model": "cong-viec-con-lai-doi-nang-suat",
+      "title": "Đổi năng suất làm việc",
+      "passage": "Một đội nhận làm 360 sản phẩm. Trong 4 ngày đầu đội làm 30 sản phẩm mỗi ngày; từ sau đó làm 40 sản phẩm mỗi ngày. Các mức năng suất đã cho đều giữ ổn định trong từng giai đoạn.",
+      "items": [
+        {
+          "id": "toan-chuyen-dong-cd-05-02a",
+          "type": "num",
+          "level": 3,
+          "model": "san-luong-giai-doan-dau",
+          "prompt": "a) Trong giai đoạn đầu, đội đã làm bao nhiêu sản phẩm?",
+          "answer": 120,
+          "round": 0,
+          "unit": "sản phẩm",
+          "explain": "Sản lượng giai đoạn đầu: 30 × 4 = 120 (sản phẩm).\nĐáp số: 120 sản phẩm.",
+          "adv": true
+        },
+        {
+          "id": "toan-chuyen-dong-cd-05-02b",
+          "type": "num",
+          "level": 3,
+          "model": "so-ngay-con-lai-tu-san-luong-da-lam",
+          "prompt": "b) Dùng sản lượng đã làm ở câu a để tính số ngày cần làm tiếp cho xong đơn hàng.",
+          "answer": 6,
+          "round": 0,
+          "unit": "ngày",
+          "explain": "Số sản phẩm còn lại: 360 − 120 = 240 (sản phẩm).\nSố ngày làm tiếp: 240 : 40 = 6 (ngày).\nĐáp số: 6 ngày.",
+          "adv": true
+        }
+      ],
+      "adv": true
+    },
+    {
+      "id": "toan-chuyen-dong-cd-05-03",
+      "type": "group",
+      "level": 3,
+      "model": "hai-may-cung-lam-mot-don-hang",
+      "title": "Hai máy cùng làm",
+      "passage": "Hai máy làm cùng một loại sản phẩm, năng suất không đổi lần lượt là 18 và 27 sản phẩm/giờ. Hai máy bắt đầu cùng lúc, cùng hoạt động liên tục để hoàn thành đơn hàng 180 sản phẩm.",
+      "items": [
+        {
+          "id": "toan-chuyen-dong-cd-05-03a",
+          "type": "num",
+          "level": 3,
+          "model": "nang-suat-hop-hai-may",
+          "prompt": "a) Cả hai máy làm được tổng cộng bao nhiêu sản phẩm mỗi giờ?",
+          "answer": 45,
+          "round": 0,
+          "unit": "sản phẩm/giờ",
+          "explain": "Năng suất hai máy: 18 + 27 = 45 (sản phẩm/giờ).\nĐáp số: 45 sản phẩm/giờ.",
+          "adv": true
+        },
+        {
+          "id": "toan-chuyen-dong-cd-05-03b",
+          "type": "num",
+          "level": 3,
+          "model": "thoi-gian-hoan-thanh-tu-nang-suat-hop",
+          "prompt": "b) Dùng năng suất chung ở câu a để tính thời gian hoàn thành đơn hàng, theo giờ.",
+          "answer": 4,
+          "round": 0,
+          "unit": "giờ",
+          "explain": "Thời gian hoàn thành: 180 : 45 = 4 (giờ).\nĐáp số: 4 giờ.",
+          "adv": true
+        }
+      ],
+      "adv": true
+    },
+    {
+      "id": "toan-chuyen-dong-cd-05-04",
+      "type": "num",
+      "level": 3,
+      "model": "them-nguoi-giua-chung-quy-ra-ngay-cong",
+      "prompt": "6 người dự kiến hoàn thành một công việc trong 12 ngày. Sau khi làm 3 ngày, đội thêm 3 người. Mọi người có năng suất bằng nhau, không đổi, số giờ làm mỗi ngày như nhau. Kể từ lúc thêm người, cần bao nhiêu ngày nữa để xong?",
+      "answer": 6,
+      "round": 0,
+      "unit": "ngày",
+      "explain": "Toàn bộ công việc cần: 6 × 12 = 72 (ngày công).\nĐã thực hiện: 6 × 3 = 18 (ngày công).\nCông việc còn lại cần: 72 − 18 = 54 (ngày công).\nĐội sau khi thêm có: 6 + 3 = 9 (người).\nSố ngày làm tiếp: 54 : 9 = 6 (ngày).\nĐáp số: 6 ngày.",
+      "adv": true
+    },
+    {
+      "id": "toan-chuyen-dong-cd-05-05",
+      "type": "num",
+      "level": 3,
+      "model": "lich-hoan-thanh-co-ngay-nghi",
+      "prompt": "Một đội làm 25 sản phẩm mỗi ngày làm việc, nhận đơn hàng 200 sản phẩm. Trong thời gian thực hiện có đúng 2 ngày nghỉ trọn ngày, ngoài ra ngày nào cũng làm đủ năng suất. Từ ngày bắt đầu đến hết ngày hoàn thành tính cả ngày nghỉ là bao nhiêu ngày?",
+      "answer": 10,
+      "round": 0,
+      "unit": "ngày",
+      "explain": "Số ngày làm việc: 200 : 25 = 8 (ngày).\nSố ngày tính cả ngày nghỉ: 8 + 2 = 10 (ngày).\nĐáp số: 10 ngày.",
+      "adv": true
+    },
+    {
+      "id": "toan-chuyen-dong-cd-05-06",
+      "type": "num",
+      "level": 3,
+      "model": "nhieu-may-nhieu-gio-tru-phe-pham",
+      "prompt": "4 máy, mỗi máy làm đều 35 sản phẩm mỗi giờ, cùng hoạt động trong 3 giờ. Trong tổng sản phẩm làm ra có 20 sản phẩm không đạt phải loại. Có bao nhiêu sản phẩm đạt yêu cầu?",
+      "answer": 400,
+      "round": 0,
+      "unit": "sản phẩm",
+      "explain": "Mỗi giờ cả bốn máy làm: 4 × 35 = 140 (sản phẩm).\nTổng sản phẩm trong 3 giờ: 140 × 3 = 420 (sản phẩm).\nSản phẩm đạt yêu cầu: 420 − 20 = 400 (sản phẩm).\nĐáp số: 400 sản phẩm.",
+      "adv": true
+    }
+  ]
+}

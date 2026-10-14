@@ -1,0 +1,64 @@
+{
+  "id": "vl-nhiet-lt-02",
+  "title": "Nội năng và định luật I nhiệt động lực học",
+  "items": [
+    {
+      "id": "vl-nhiet-lt-02-t1", "type": "card", "title": "Nội năng khác nhiệt lượng",
+      "paras": [
+        "Nội năng U là tổng động năng chuyển động nhiệt và thế năng tương tác của các hạt cấu tạo nên vật. Không cộng động năng chuyển động của cả vật vào U.",
+        "Có hai cách làm thay đổi nội năng: thực hiện công (ví dụ cọ xát, nén khí) và truyền nhiệt (do chênh lệch nhiệt độ). Nhiệt lượng Q là năng lượng trao đổi trong quá trình truyền nhiệt, không phải một đại lượng được chứa sẵn trong vật.",
+        "Hai vật tiếp xúc truyền nhiệt tự phát từ vật có nhiệt độ cao sang vật có nhiệt độ thấp, tới khi cân bằng nhiệt. Cùng nhiệt độ không có nghĩa là cùng nội năng vì lượng chất và cấu tạo có thể khác nhau."
+      ]
+    },
+    {
+      "id": "vl-nhiet-lt-02-t2", "type": "card", "title": "Định luật I và quy ước dấu",
+      "paras": [
+        "Với hệ đang xét: ΔU = A + Q. A là công mà hệ nhận từ bên ngoài; Q là nhiệt lượng hệ nhận. Cả ba đại lượng đo bằng J.",
+        "Chốt hệ trước khi gán dấu: khí bị nén thì A > 0; khí nở đẩy pít-tông, thực hiện công ra ngoài thì A < 0. Hệ nhận nhiệt: Q > 0; hệ toả nhiệt: Q < 0.",
+        "ΔU > 0 nghĩa là nội năng tăng; ΔU < 0 nghĩa là nội năng giảm. Ví dụ khí nhận 500 J nhiệt và thực hiện công 180 J: ΔU = −180 + 500 = 320 J.",
+        "Cách nhiệt chỉ cho Q = 0, không buộc A = 0. Bình cứng không đổi thể tích thì công do thay đổi thể tích bằng 0; vẫn có thể có công từ bộ phận khác như cánh khuấy nếu đề nêu."
+      ],
+      "table": [
+        ["Hệ trao đổi năng lượng", "Dấu"],
+        ["Nhận công / thực hiện công ra ngoài", "A > 0 / A < 0"],
+        ["Nhận nhiệt / toả nhiệt", "Q > 0 / Q < 0"]
+      ]
+    },
+    {
+      "id": "vl-nhiet-lt-02-01", "type": "mcq", "level": 1,
+      "prompt": "Nội năng của một vật gồm những thành phần nào?",
+      "options": ["Chỉ động năng của cả vật", "Chỉ thế năng hấp dẫn của cả vật", "Nhiệt lượng và nhiệt độ", "Động năng chuyển động nhiệt và thế năng tương tác của các hạt cấu tạo nên vật"], "answer": 3,
+      "explain": "Nội năng xét chuyển động nhiệt và tương tác ở cấp độ vi mô; động năng chuyển động của cả vật là đại lượng khác."
+    },
+    {
+      "id": "vl-nhiet-lt-02-02", "type": "mcq", "level": 1,
+      "prompt": "Trong ΔU = A + Q, nếu hệ toả nhiệt ra môi trường thì dấu của Q là gì?",
+      "options": ["Q < 0", "Q > 0", "Q luôn bằng 0", "Q luôn bằng A"], "answer": 0,
+      "explain": "Q là nhiệt lượng hệ nhận; khi hệ mất năng lượng qua truyền nhiệt thì Q âm."
+    },
+    {
+      "id": "vl-nhiet-lt-02-03", "type": "mcq", "level": 1,
+      "prompt": "Trường hợp nào làm thay đổi nội năng bằng thực hiện công?",
+      "options": ["Đặt thìa vào nước nóng", "Phơi cốc nước dưới nắng", "Cọ xát hai bàn tay", "Đặt chai nước vào tủ lạnh"], "answer": 2,
+      "explain": "Cọ xát là thực hiện công của lực ma sát, làm tăng nội năng bàn tay; các trường hợp còn lại trao đổi năng lượng bằng truyền nhiệt."
+    },
+    {
+      "id": "vl-nhiet-lt-02-04", "type": "mcq", "level": 2,
+      "prompt": "Khí nhận nhiệt lượng 600 J và thực hiện công 200 J đẩy pít-tông. Dùng ΔU = A + Q. Nội năng của khí thay đổi thế nào?",
+      "options": ["Giảm 400 J", "Tăng 400 J", "Tăng 800 J", "Giảm 800 J"], "answer": 1,
+      "explain": "Khí thực hiện công nên A = −200 J; Q = 600 J. ΔU = −200 + 600 = 400 J, nội năng tăng."
+    },
+    {
+      "id": "vl-nhiet-lt-02-05", "type": "mcq", "level": 2,
+      "prompt": "Một lượng khí bị nén trong xilanh cách nhiệt, không trao đổi năng lượng bằng cách nào khác. Nội năng khí ra sao?",
+      "options": ["Không đổi vì Q = 0", "Giảm vì thể tích giảm", "Tăng vì khí nhận công và Q = 0", "Bằng không vì không nhận nhiệt"], "answer": 2,
+      "explain": "Cách nhiệt cho Q = 0, nén khí cho A > 0 nên ΔU = A > 0. Không trao đổi nhiệt vẫn có thể tăng nội năng bằng công."
+    },
+    {
+      "id": "vl-nhiet-lt-02-06", "type": "mcq", "level": 2,
+      "prompt": "Hai khối nước có cùng nhiệt độ, một khối 1 kg và một khối 2 kg. Kết luận nào chắc chắn đúng khi chúng tiếp xúc, bỏ qua ảnh hưởng môi trường?",
+      "options": ["Khối 2 kg truyền nhiệt sang khối 1 kg chỉ vì nặng hơn", "Khối 1 kg truyền nhiệt sang khối 2 kg", "Hai khối có nội năng bằng nhau", "Không có sự truyền nhiệt thuần do chênh lệch nhiệt độ giữa hai khối"], "answer": 3,
+      "explain": "Nhiệt độ bằng nhau nên không có truyền nhiệt thuần giữa hai khối. Khối lượng khác nhau không tạo ra chiều truyền nhiệt; cũng không thể suy ra nội năng bằng nhau."
+    }
+  ]
+}

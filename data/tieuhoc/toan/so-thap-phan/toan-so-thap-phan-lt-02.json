@@ -1,0 +1,12 @@
+{
+  "id": "toan-so-thap-phan-lt-02", "title": "Làm tròn số thập phân", "topic": "so-thap-phan",
+  "items": [{
+    "id": "toan-so-thap-phan-lt-02-t1", "type": "card", "title": "Chọn đúng hàng làm tròn",
+    "paras": [
+      "Muốn làm tròn đến một hàng, nhìn chữ số ngay bên phải hàng đó. Nếu chữ số ấy nhỏ hơn 5 thì giữ nguyên; nếu từ 5 trở lên thì tăng chữ số ở hàng làm tròn thêm 1, có nhớ sang trái khi cần.",
+      "Làm tròn đến hàng đơn vị: kết quả là số nguyên. Đến hàng phần mười: giữ một chữ số sau dấu phẩy. Đến hàng phần trăm: giữ hai chữ số sau dấu phẩy.",
+      "Ví dụ 7,986 làm tròn đến hàng phần trăm được 7,99. Nếu đề yêu cầu tính rồi làm tròn, hãy tính bằng các số ban đầu, chỉ làm tròn kết quả cuối cùng; không làm tròn các kết quả trung gian."
+    ],
+    "source": "Toán 5, bài SGK: chưa xác minh số/tên bài; làm tròn thuộc phạm vi CB đã xác định ở mục 1 đặc tả 2.0."
+  }]
+}

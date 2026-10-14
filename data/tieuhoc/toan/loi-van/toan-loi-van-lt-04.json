@@ -1,0 +1,19 @@
+{
+  "id": "toan-loi-van-lt-04",
+  "title": "Quy luật đã cho",
+  "topic": "loi-van",
+  "items": [
+    {
+      "id": "toan-loi-van-lt-04-t1",
+      "type": "card",
+      "title": "Quy luật đã cho",
+      "paras": [
+        "Đây là nội dung NC. Đề phải định nghĩa quy luật: thao tác luân phiên, chu kỳ lặp hoặc công thức bằng lời cho số hạng.",
+        "Đánh số vị trí đầu từ 1 nếu đề quy định. Với chu kỳ, tách các chu kỳ trọn vẹn rồi tìm vị trí còn lại.",
+        "Gấp đôi toàn bộ chồng giấy làm số lớp gấp đôi. Số lớp khác số nếp; phải đọc đúng đại lượng hỏi."
+      ],
+      "source": "Toán 5, bài SGK: chưa xác minh; dạng NC theo mục 1 nhóm 7 đặc tả T2.0.",
+      "adv": true
+    }
+  ]
+}

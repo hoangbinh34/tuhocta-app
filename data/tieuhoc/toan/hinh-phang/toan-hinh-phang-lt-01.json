@@ -1,0 +1,19 @@
+{
+  "id": "toan-hinh-phang-lt-01",
+  "title": "Tam giác: đáy, chiều cao, chu vi và diện tích",
+  "topic": "hinh-phang",
+  "items": [
+    {
+      "id": "toan-hinh-phang-lt-01-t1",
+      "type": "card",
+      "title": "Tam giác: đáy, chiều cao, chu vi và diện tích",
+      "paras": [
+        "Chiều cao ứng với một đáy là đoạn thẳng từ đỉnh đối diện vuông góc với đường thẳng chứa đáy. Không tự lấy cạnh xiên làm chiều cao.",
+        "Chu vi tam giác là tổng độ dài ba cạnh. Tam giác đều có ba cạnh bằng nhau nên chu vi bằng một cạnh nhân 3.",
+        "Diện tích tam giác bằng đáy nhân chiều cao tương ứng rồi chia 2. Đáy và chiều cao phải cùng đơn vị; diện tích dùng đơn vị vuông.",
+        "Tìm đáy hoặc chiều cao khi biết diện tích: tính hai lần diện tích trước, rồi chia cho số đo còn lại."
+      ],
+      "source": "SGK Toán 5, bài SGK: chưa xác minh (tên/số bài). Phạm vi tam giác CB đã được xác minh bằng CT môn Toán lớp 5, trang 40–46, theo đặc tả 2.0 mục 1."
+    }
+  ]
+}

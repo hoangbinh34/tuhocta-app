@@ -1,0 +1,77 @@
+{
+  "id": "vl-tu-cd-02",
+  "title": "Từ: hiểu chiều lực, từ thông và số liệu xoay chiều",
+  "items": [
+    {
+      "id": "vl-tu-cd-02-01", "type": "mcq", "level": 2,
+      "prompt": "Vòng dây phẳng diện tích S trong từ trường đều B được quay để góc giữa pháp tuyến đã chọn và B giảm từ 60° xuống 0°. Từ thông cuối bằng bao nhiêu lần từ thông đầu?",
+      "options": ["0,5 lần", "2 lần", "√3 lần", "0 lần"], "answer": 1,
+      "explain": "Φ_{2}/Φ_{1} = cos 0°/cos 60° = 1/0,5 = 2. Góc trong công thức là góc với pháp tuyến."
+    },
+    {
+      "id": "vl-tu-cd-02-02", "type": "mcq", "level": 2,
+      "prompt": "Từ trường ngoài hướng ra khỏi mặt giấy, xuyên vuông góc vòng dây kín thuần trở và giảm dần về độ lớn. Nhìn vào mặt giấy, dòng cảm ứng chạy theo chiều nào?",
+      "options": ["Theo chiều kim đồng hồ", "Không có dòng vì B vẫn hướng ra giấy", "Ngược chiều kim đồng hồ", "Không xác định được nếu không biết điện trở"], "answer": 2,
+      "explain": "Dòng cảm ứng tạo B ra khỏi giấy để chống sự giảm từ thông. Nắm tay phải cho chiều ngược kim đồng hồ; điện trở quyết định độ lớn dòng, không quyết định chiều trong tình huống này."
+    },
+    {
+      "id": "vl-tu-cd-02-03", "type": "mcq", "level": 2,
+      "prompt": "Hai cuộn dây có cùng diện tích mỗi vòng và cùng độ biến thiên từ thông mỗi vòng. Cuộn B có số vòng gấp 2 cuộn A nhưng thời gian biến thiên chỉ bằng một nửa. Suất điện động cảm ứng trung bình về độ lớn của B bằng bao nhiêu lần của A?",
+      "options": ["4 lần", "2 lần", "1 lần", "0,5 lần"], "answer": 0,
+      "explain": "|e| = N|ΔΦ|/Δt nên tỉ số bằng 2/(1/2) = 4."
+    },
+    {
+      "id": "vl-tu-cd-02-04", "type": "mcq", "level": 2,
+      "prompt": "Vòng dây kín cứng tịnh tiến, không quay, và luôn nằm hoàn toàn trong một từ trường đều không đổi. Diện tích vòng không đổi. Kết luận nào đúng?",
+      "options": ["Luôn có dòng cảm ứng vì vòng đang chuyển động", "Từ thông tăng đều", "Từ thông giảm đều", "Không có dòng cảm ứng vì từ thông không đổi"], "answer": 3,
+      "explain": "B, S và góc với pháp tuyến đều không đổi nên Φ không đổi. Chuyển động tự nó chưa đủ để có dòng cảm ứng trong cả vòng."
+    },
+    {
+      "id": "vl-tu-cd-02-05", "type": "mcq", "level": 2,
+      "prompt": "Đồ thị i–t của một dòng xoay chiều hình sin có hai đỉnh dương liên tiếp tại t = 0,005 s và t = 0,025 s. Tần số của dòng điện là bao nhiêu?",
+      "options": ["25 Hz", "50 Hz", "100 Hz", "200 Hz"], "answer": 1,
+      "explain": "Chu kì T = 0,025 − 0,005 = 0,020 s; f = 1/T = 50 Hz. Không lấy khoảng giữa đỉnh dương và đỉnh âm làm chu kì."
+    },
+    {
+      "id": "vl-tu-cd-02-06", "type": "mcq", "level": 2,
+      "prompt": "Đoạn dây đang chịu lực từ khác 0. Đảo đồng thời chiều dòng điện và chiều B, giữ nguyên độ lớn I, B, chiều dài và vị trí dây. Lực từ mới thế nào?",
+      "options": ["Đảo chiều, độ lớn giữ nguyên", "Bằng 0", "Giữ nguyên cả chiều và độ lớn", "Giữ nguyên chiều, độ lớn tăng 2 lần"], "answer": 2,
+      "explain": "Mỗi lần đảo riêng I hoặc B làm lực đảo chiều; đảo cả hai khiến lực giữ chiều. Độ lớn BIl sin α cũng không đổi."
+    },
+    {
+      "id": "vl-tu-cd-02-07", "type": "mcq", "level": 2,
+      "prompt": "Cường độ hiệu dụng của dòng xoay chiều qua một điện trở không đổi tăng gấp 2. Công suất tỏa nhiệt trung bình thay đổi thế nào?",
+      "options": ["Tăng gấp 4", "Tăng gấp 2", "Giảm một nửa", "Không đổi vì dòng đổi chiều"], "answer": 0,
+      "explain": "P = I²R với I hiệu dụng. Tăng I gấp 2 làm P tăng 2² = 4 lần."
+    },
+    {
+      "id": "vl-tu-cd-02-08", "type": "tf4", "level": 2,
+      "prompt": "Cuộn dây kín 100 vòng giống nhau, mỗi vòng có diện tích 50 cm², đặt vuông góc với B đều. Chọn pháp tuyến hướng ra khỏi mặt giấy. B cũng hướng ra khỏi mặt giấy và tăng đều từ 0,20 T đến 0,50 T trong 0,20 s. Bỏ qua tự cảm của cuộn.",
+      "statements": [
+        "a) Từ thông ban đầu qua mỗi vòng là 1,0·10^{-3} Wb.",
+        "b) Độ tăng từ thông qua mỗi vòng là 2,5·10^{-3} Wb.",
+        "c) Độ lớn suất điện động cảm ứng trong cuộn là 0,75 V trong khoảng biến thiên.",
+        "d) Nhìn vào mặt giấy, dòng cảm ứng chạy ngược chiều kim đồng hồ."
+      ],
+      "answers": [true, false, true, false],
+      "explain": [
+        "Đúng. S = 50·10^{-4} = 0,0050 m²; Φ_{1} = 0,20 · 0,0050 = 0,0010 Wb.",
+        "Sai. Φ_{2} = 0,50 · 0,0050 = 0,0025 Wb, nhưng ΔΦ = 0,0025 − 0,0010 = 0,0015 Wb.",
+        "Đúng. |e| = 100 · 0,0015/0,20 = 0,75 V; B tăng đều nên e không đổi trong khoảng đó.",
+        "Sai. Từ thông ra khỏi giấy tăng; B cảm ứng phải hướng vào giấy, nên dòng chạy theo chiều kim đồng hồ."
+      ]
+    },
+    {
+      "id": "vl-tu-cd-02-09", "type": "num", "level": 2,
+      "prompt": "Vòng dây phẳng có diện tích 20 cm² trong từ trường đều B = 0,40 T. Pháp tuyến đã chọn hợp B góc 60°. Tính từ thông qua vòng theo mWb, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 0.4, "round": 2, "unit": "mWb",
+      "explain": "S = 20·10^{-4} = 0,0020 m². Φ = BS cos 60° = 0,40 · 0,0020 · 0,5 = 0,00040 Wb = 0,40 mWb. Ghi: 0,40."
+    },
+    {
+      "id": "vl-tu-cd-02-10", "type": "num", "level": 2,
+      "prompt": "Dòng điện có biểu thức i = 3,00 cos(100πt) A. Tính cường độ hiệu dụng theo A, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 2.12, "round": 2, "exact": 2.1213203435596424, "unit": "A",
+      "explain": "Cực đại I_{0} = 3,00 A; I = 3,00/√2 = 2,121320343… A ≈ 2,12 A. Không làm tròn √2 ở bước trung gian. Ghi: 2,12."
+    }
+  ]
+}

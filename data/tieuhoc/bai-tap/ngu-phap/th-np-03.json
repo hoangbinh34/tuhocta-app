@@ -1,0 +1,171 @@
+{
+ "id": "th-np-03",
+ "module": "grammar",
+ "title": "Thì quá khứ đơn",
+ "emoji": "⏮️",
+ "intro": "Dùng cho việc đã xảy ra và kết thúc (yesterday, last week, ago, in 2020). Động từ thêm -ed hoặc dùng dạng bất quy tắc (go → went). Phủ định/câu hỏi dùng did.",
+ "instruction": "Chọn đáp án đúng.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL-NTT"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-np-03-01",
+   "type": "mcq",
+   "prompt": "I ___ my grandparents last Sunday.",
+   "options": [
+    "visit",
+    "visited",
+    "visits",
+    "am visiting"
+   ],
+   "answer": 1,
+   "explain": "\"last Sunday\" là quá khứ: visited."
+  },
+  {
+   "id": "th-np-03-02",
+   "type": "mcq",
+   "prompt": "We ___ to Da Nang last summer.",
+   "options": [
+    "go",
+    "goes",
+    "went",
+    "going"
+   ],
+   "answer": 2,
+   "explain": "go là động từ bất quy tắc: go → went."
+  },
+  {
+   "id": "th-np-03-03",
+   "type": "mcq",
+   "prompt": "___ you see the film yesterday?",
+   "options": [
+    "Do",
+    "Did",
+    "Are",
+    "Were"
+   ],
+   "answer": 1,
+   "explain": "Câu hỏi quá khứ với động từ thường dùng Did."
+  },
+  {
+   "id": "th-np-03-04",
+   "type": "mcq",
+   "prompt": "She ___ at home last night.",
+   "options": [
+    "is",
+    "was",
+    "were",
+    "be"
+   ],
+   "answer": 1,
+   "explain": "Quá khứ của is là was (she → was)."
+  },
+  {
+   "id": "th-np-03-05",
+   "type": "mcq",
+   "prompt": "They ___ at the zoo two days ago.",
+   "options": [
+    "was",
+    "were",
+    "are",
+    "is"
+   ],
+   "answer": 1,
+   "explain": "They đi với were."
+  },
+  {
+   "id": "th-np-03-06",
+   "type": "mcq",
+   "prompt": "My father ___ me a new bike for my birthday.",
+   "options": [
+    "buy",
+    "buys",
+    "bought",
+    "buyed"
+   ],
+   "answer": 2,
+   "explain": "buy là động từ bất quy tắc: buy → bought."
+  },
+  {
+   "id": "th-np-03-07",
+   "type": "mcq",
+   "prompt": "I didn't ___ breakfast this morning.",
+   "options": [
+    "have",
+    "had",
+    "has",
+    "having"
+   ],
+   "answer": 0,
+   "explain": "Sau didn't dùng động từ nguyên mẫu: have."
+  },
+  {
+   "id": "th-np-03-08",
+   "type": "mcq",
+   "prompt": "Nam ___ a beautiful picture in the art class yesterday.",
+   "options": [
+    "draws",
+    "drew",
+    "drawed",
+    "draw"
+   ],
+   "answer": 1,
+   "explain": "draw → drew (bất quy tắc)."
+  },
+  {
+   "id": "th-np-03-09",
+   "type": "mcq",
+   "prompt": "Where ___ you last weekend? – I was at the beach.",
+   "options": [
+    "are",
+    "was",
+    "were",
+    "did"
+   ],
+   "answer": 2,
+   "explain": "You đi với were."
+  },
+  {
+   "id": "th-np-03-10",
+   "type": "mcq",
+   "prompt": "We ___ a lot of photos on our school trip.",
+   "options": [
+    "take",
+    "took",
+    "taked",
+    "takes"
+   ],
+   "answer": 1,
+   "explain": "take → took (bất quy tắc)."
+  },
+  {
+   "id": "th-np-03-11",
+   "type": "mcq",
+   "prompt": "The children ___ songs at the party last night.",
+   "options": [
+    "sing",
+    "sang",
+    "sung",
+    "sings"
+   ],
+   "answer": 1,
+   "explain": "sing → sang (quá khứ đơn)."
+  },
+  {
+   "id": "th-np-03-12",
+   "type": "mcq",
+   "prompt": "What did you ___ yesterday afternoon?",
+   "options": [
+    "do",
+    "did",
+    "does",
+    "doing"
+   ],
+   "answer": 0,
+   "explain": "Câu hỏi đã có did nên dùng động từ nguyên mẫu: do."
+  }
+ ]
+}

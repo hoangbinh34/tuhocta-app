@@ -1,0 +1,151 @@
+{
+ "id": "th-dh-01",
+ "module": "reading",
+ "title": "Thông báo và biển báo",
+ "emoji": "📌",
+ "intro": "Đọc kỹ giờ giấc, ngày tháng và các từ NOT, must, don't. Câu hỏi có chữ NOT là hỏi điều KHÔNG đúng.",
+ "instruction": "Đọc thông báo và chọn đáp án đúng.",
+ "shuffle": true,
+ "priority": 1,
+ "sources": [
+  "dang-de-NTT"
+ ],
+ "items": [
+  {
+   "id": "th-dh-01-g1",
+   "type": "group",
+   "title": "Notice 1",
+   "passage": "SCHOOL LIBRARY\nOpen: Monday – Friday, 7.30 a.m. – 4.30 p.m.\n• You can borrow 3 books for 2 weeks.\n• Please be quiet.\n• No food or drinks.",
+   "items": [
+    {
+     "id": "th-dh-01-01",
+     "type": "mcq",
+     "prompt": "When is the library closed?",
+     "options": [
+      "On Monday",
+      "On Wednesday",
+      "On Friday",
+      "On Saturday"
+     ],
+     "answer": 3,
+     "explain": "Thư viện mở thứ Hai đến thứ Sáu, nên đóng cửa thứ Bảy."
+    },
+    {
+     "id": "th-dh-01-02",
+     "type": "mcq",
+     "prompt": "What can students do in the library?",
+     "options": [
+      "Eat snacks",
+      "Borrow books",
+      "Talk loudly",
+      "Drink juice"
+     ],
+     "answer": 1,
+     "explain": "\"You can borrow 3 books\": học sinh được mượn sách."
+    }
+   ]
+  },
+  {
+   "id": "th-dh-01-g2",
+   "type": "group",
+   "title": "Notice 2",
+   "passage": "SWIMMING POOL RULES\n• Wear a swimming cap.\n• Take a shower before you swim.\n• Do not run near the pool.\n• Children under 8 must swim with an adult.",
+   "items": [
+    {
+     "id": "th-dh-01-03",
+     "type": "mcq",
+     "prompt": "What must you do BEFORE you swim?",
+     "options": [
+      "Run around the pool",
+      "Take a shower",
+      "Eat lunch",
+      "Take off your cap"
+     ],
+     "answer": 1,
+     "explain": "\"Take a shower before you swim\": phải tắm trước khi bơi."
+    },
+    {
+     "id": "th-dh-01-04",
+     "type": "mcq",
+     "prompt": "Who must swim with an adult?",
+     "options": [
+      "A 7-year-old boy",
+      "A 9-year-old girl",
+      "A 10-year-old boy",
+      "A 12-year-old girl"
+     ],
+     "answer": 0,
+     "explain": "Trẻ dưới 8 tuổi phải bơi cùng người lớn; chỉ cậu bé 7 tuổi dưới 8 tuổi."
+    }
+   ]
+  },
+  {
+   "id": "th-dh-01-g3",
+   "type": "group",
+   "title": "Notice 3",
+   "passage": "CLASS 5A – SCHOOL TRIP TO THE ZOO\nDate: Friday, 15th November\nMeet at the school gate at 7.00 a.m. The bus leaves at 7.15 a.m.\nBring: a hat, a bottle of water and a notebook.\nYou don't need to bring lunch. The school will give you lunch.",
+   "items": [
+    {
+     "id": "th-dh-01-05",
+     "type": "mcq",
+     "prompt": "What time does the bus leave?",
+     "options": [
+      "7.00 a.m.",
+      "7.15 a.m.",
+      "7.30 a.m.",
+      "7.50 a.m."
+     ],
+     "answer": 1,
+     "explain": "\"The bus leaves at 7.15 a.m.\"."
+    },
+    {
+     "id": "th-dh-01-06",
+     "type": "mcq",
+     "prompt": "What do students NOT need to bring?",
+     "options": [
+      "A hat",
+      "A notebook",
+      "Lunch",
+      "A bottle of water"
+     ],
+     "answer": 2,
+     "explain": "\"You don't need to bring lunch\": không cần mang bữa trưa."
+    }
+   ]
+  },
+  {
+   "id": "th-dh-01-g4",
+   "type": "group",
+   "title": "Sign",
+   "passage": "PARK GARDEN\nPlease keep off the grass.\nDogs must be on a lead.\nPut your rubbish in the bins.",
+   "items": [
+    {
+     "id": "th-dh-01-07",
+     "type": "mcq",
+     "prompt": "What does the sign tell people to do?",
+     "options": [
+      "Walk on the grass",
+      "Keep their dogs on a lead",
+      "Leave rubbish on the ground",
+      "Pick the flowers"
+     ],
+     "answer": 1,
+     "explain": "\"Dogs must be on a lead\": chó phải được buộc dây."
+    },
+    {
+     "id": "th-dh-01-08",
+     "type": "mcq",
+     "prompt": "Where can you probably see this sign?",
+     "options": [
+      "In a park",
+      "In a classroom",
+      "In a supermarket",
+      "In a hospital"
+     ],
+     "answer": 0,
+     "explain": "Biển báo nói về bãi cỏ, chó, thùng rác: thường thấy ở công viên."
+    }
+   ]
+  }
+ ]
+}

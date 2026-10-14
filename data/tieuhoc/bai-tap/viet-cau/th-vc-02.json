@@ -1,0 +1,236 @@
+{
+ "id": "th-vc-02",
+ "module": "sentence",
+ "title": "Sắp xếp từ thành câu (2)",
+ "emoji": "🔀",
+ "intro": "Tìm chủ ngữ và động từ trước (I like…, She is…), rồi thêm tân ngữ, nơi chốn, thời gian. Câu hỏi bắt đầu bằng từ hỏi hoặc trợ động từ (Do, Does, Is…).",
+ "instruction": "Bấm các từ theo đúng thứ tự để tạo thành câu đúng.",
+ "shuffle": true,
+ "priority": 1,
+ "sources": [
+  "dang-de-vao-6"
+ ],
+ "items": [
+  {
+   "id": "th-vc-02-01",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "Lan",
+    "is",
+    "the",
+    "tallest",
+    "girl",
+    "in",
+    "my",
+    "class"
+   ],
+   "end": ".",
+   "explain": "So sánh nhất: the tallest + danh từ + in…",
+   "alts": [
+    [
+     "the",
+     "tallest",
+     "girl",
+     "in",
+     "my",
+     "class",
+     "is",
+     "Lan"
+    ]
+   ]
+  },
+  {
+   "id": "th-vc-02-02",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "I",
+    "am",
+    "going",
+    "to",
+    "visit",
+    "Ha Long Bay",
+    "next",
+    "summer"
+   ],
+   "end": ".",
+   "explain": "be going to + động từ + nơi chốn + thời gian (đặt thời gian đầu câu cũng đúng).",
+   "alts": [
+    [
+     "next",
+     "summer",
+     "I",
+     "am",
+     "going",
+     "to",
+     "visit",
+     "Ha Long Bay"
+    ]
+   ]
+  },
+  {
+   "id": "th-vc-02-03",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "My",
+    "mother",
+    "doesn't",
+    "like",
+    "watching",
+    "cartoons"
+   ],
+   "end": ".",
+   "explain": "Phủ định: doesn't + like + V-ing."
+  },
+  {
+   "id": "th-vc-02-04",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "Where",
+    "did",
+    "you",
+    "go",
+    "on",
+    "holiday",
+    "last",
+    "year"
+   ],
+   "end": "?",
+   "explain": "Câu hỏi quá khứ: Where + did + you + go…?"
+  },
+  {
+   "id": "th-vc-02-05",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "Ha Noi",
+    "is",
+    "bigger",
+    "than",
+    "Hue"
+   ],
+   "end": ".",
+   "explain": "So sánh hơn: bigger + than."
+  },
+  {
+   "id": "th-vc-02-06",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "You",
+    "should",
+    "drink",
+    "more",
+    "water",
+    "every",
+    "day"
+   ],
+   "end": ".",
+   "explain": "should + động từ nguyên mẫu (đặt every day đầu câu cũng đúng).",
+   "alts": [
+    [
+     "every",
+     "day",
+     "You",
+     "should",
+     "drink",
+     "more",
+     "water"
+    ]
+   ]
+  },
+  {
+   "id": "th-vc-02-07",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "Would",
+    "you",
+    "like",
+    "some",
+    "orange",
+    "juice"
+   ],
+   "end": "?",
+   "explain": "Lời mời: Would you like + some + đồ uống?"
+  },
+  {
+   "id": "th-vc-02-08",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "We",
+    "have",
+    "English",
+    "lessons",
+    "on",
+    "Monday",
+    "and",
+    "Thursday"
+   ],
+   "end": ".",
+   "explain": "Ngày trong tuần đi với on.",
+   "alts": [
+    [
+     "We",
+     "have",
+     "English",
+     "lessons",
+     "on",
+     "Thursday",
+     "and",
+     "Monday"
+    ]
+   ]
+  },
+  {
+   "id": "th-vc-02-09",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "My",
+    "best",
+    "friend",
+    "is",
+    "very",
+    "kind",
+    "and",
+    "helpful"
+   ],
+   "end": ".",
+   "explain": "is + very + tính từ + and + tính từ.",
+   "alts": [
+    [
+     "My",
+     "best",
+     "friend",
+     "is",
+     "very",
+     "helpful",
+     "and",
+     "kind"
+    ]
+   ]
+  },
+  {
+   "id": "th-vc-02-10",
+   "type": "order",
+   "prompt": "Sắp xếp thành câu đúng",
+   "parts": [
+    "It",
+    "was",
+    "raining,",
+    "so",
+    "we",
+    "stayed",
+    "at",
+    "home"
+   ],
+   "end": ".",
+   "explain": "Mệnh đề nguyên nhân, so + kết quả."
+  }
+ ]
+}

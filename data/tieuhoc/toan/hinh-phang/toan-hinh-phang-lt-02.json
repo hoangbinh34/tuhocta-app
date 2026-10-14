@@ -1,0 +1,19 @@
+{
+  "id": "toan-hinh-phang-lt-02",
+  "title": "Hình thang: hai đáy và chiều cao",
+  "topic": "hinh-phang",
+  "items": [
+    {
+      "id": "toan-hinh-phang-lt-02-t1",
+      "type": "card",
+      "title": "Hình thang: hai đáy và chiều cao",
+      "paras": [
+        "Hai cạnh song song là hai đáy. Chiều cao vuông góc với hai đáy, không phải độ dài cạnh bên xiên.",
+        "Diện tích bằng tổng hai đáy nhân chiều cao rồi chia 2. Nếu đã biết tổng hai đáy thì không cộng lại; nếu biết trung bình cộng hai đáy thì nhân trực tiếp với chiều cao.",
+        "Tìm chiều cao: tính hai lần diện tích, tính tổng hai đáy, rồi lấy hai lần diện tích chia tổng đó. Tìm một đáy: tìm tổng hai đáy trước rồi trừ đáy đã biết.",
+        "Chu vi bằng tổng độ dài cả bốn cạnh; không dùng công thức diện tích để tính chu vi."
+      ],
+      "source": "SGK Toán 5 Kết nối tri thức, Bài 26: Hình thang. Diện tích hình thang (bài 26 đã được ghi nguồn tại đặc tả 2.0 mục 1)."
+    }
+  ]
+}

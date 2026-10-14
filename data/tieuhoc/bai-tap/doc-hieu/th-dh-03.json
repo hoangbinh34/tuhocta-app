@@ -1,0 +1,117 @@
+{
+ "id": "th-dh-03",
+ "module": "reading",
+ "title": "Tin nhắn và thư ngắn",
+ "emoji": "✉️",
+ "intro": "Câu hỏi \"Why does … write?\" hỏi MỤC ĐÍCH của người viết: mời, xin lỗi, đổi lịch, nhờ giúp…",
+ "instruction": "Đọc tin nhắn và chọn đáp án đúng.",
+ "shuffle": true,
+ "priority": 1,
+ "sources": [
+  "dang-de-NTT"
+ ],
+ "items": [
+  {
+   "id": "th-dh-03-g1",
+   "type": "group",
+   "title": "Message 1",
+   "passage": "Hi Jane,\nI can't come to your house this afternoon because I have a bad cold. Can we do our project tomorrow instead? I'll bring my coloured pencils.\nDavid",
+   "items": [
+    {
+     "id": "th-dh-03-01",
+     "type": "mcq",
+     "prompt": "Why does David write to Jane?",
+     "options": [
+      "To invite her to a party",
+      "To change the day of their project",
+      "To borrow her pencils",
+      "To ask about her cold"
+     ],
+     "answer": 1,
+     "explain": "David bị cảm, xin chuyển làm dự án sang ngày mai."
+    },
+    {
+     "id": "th-dh-03-02",
+     "type": "mcq",
+     "prompt": "What will David bring?",
+     "options": [
+      "His coloured pencils",
+      "Some medicine",
+      "His project book",
+      "A cake"
+     ],
+     "answer": 0,
+     "explain": "\"I'll bring my coloured pencils\"."
+    }
+   ]
+  },
+  {
+   "id": "th-dh-03-g2",
+   "type": "group",
+   "title": "Message 2",
+   "passage": "Mum,\nI'm at Linh's house. We are doing our maths homework together. Her dad will drive me home at 6 o'clock. Please don't wait for me for dinner.\nLove, Hoa",
+   "items": [
+    {
+     "id": "th-dh-03-03",
+     "type": "mcq",
+     "prompt": "Where is Hoa now?",
+     "options": [
+      "At school",
+      "At home",
+      "At Linh's house",
+      "At the library"
+     ],
+     "answer": 2,
+     "explain": "\"I'm at Linh's house\"."
+    },
+    {
+     "id": "th-dh-03-04",
+     "type": "mcq",
+     "prompt": "How will Hoa get home?",
+     "options": [
+      "By bus",
+      "On foot",
+      "In Linh's dad's car",
+      "By bike"
+     ],
+     "answer": 2,
+     "explain": "\"Her dad will drive me home\": bố của Linh lái xe đưa về."
+    }
+   ]
+  },
+  {
+   "id": "th-dh-03-g3",
+   "type": "group",
+   "title": "Message 3",
+   "passage": "Dear students,\nOur English test is on Wednesday, not Tuesday. Please study Units 6 to 8. You can use a pencil, but you cannot use a dictionary.\nMs Lan",
+   "items": [
+    {
+     "id": "th-dh-03-05",
+     "type": "mcq",
+     "prompt": "What is the message about?",
+     "options": [
+      "A school trip",
+      "An English test",
+      "A new dictionary",
+      "A sports day"
+     ],
+     "answer": 1,
+     "explain": "Tin nhắn nói về bài kiểm tra tiếng Anh."
+    },
+    {
+     "id": "th-dh-03-06",
+     "type": "mcq",
+     "prompt": "Which is TRUE?",
+     "options": [
+      "The test is on Tuesday.",
+      "Students can use a dictionary.",
+      "Students should study Units 6–8.",
+      "Students must use a pen."
+     ],
+     "answer": 2,
+     "explain": "\"Please study Units 6 to 8\"; các ý còn lại sai."
+    }
+   ]
+  }
+ ]
+}

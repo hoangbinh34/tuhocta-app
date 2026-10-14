@@ -1,0 +1,68 @@
+{
+  "id": "vl-nhiet-lt-03",
+  "title": "Nhiệt độ, nhiệt dung riêng và phép đo",
+  "items": [
+    {
+      "id": "vl-nhiet-lt-03-t1", "type": "card", "title": "Celsius, kelvin và độ chênh nhiệt độ",
+      "paras": [
+        "Thang Celsius dùng °C, thang nhiệt độ tuyệt đối dùng K (không viết °K). Theo quy ước đề thi: T (K) = t (°C) + 273; ví dụ 25 °C ứng với 298 K. Giá trị chính xác của độ lệch hai thang là 273,15.",
+        "Độ chênh nhiệt độ: ΔT = T_{2} − T_{1} = t_{2} − t_{1}. Từ 20 °C đến 50 °C là tăng 30 K, không phải 303 K. Chỉ cộng 273 khi đổi giá trị nhiệt độ, không cộng vào độ tăng.",
+        "0 K là độ không tuyệt đối, ứng với −273,15 °C theo định nghĩa. Khi đo, chọn nhiệt kế có giới hạn đo phù hợp; để bầu đo tiếp xúc với vật cần đo và đợi số chỉ ổn định. Nhiệt độ biểu thị trạng thái nóng, lạnh và quyết định chiều truyền nhiệt tự phát."
+      ]
+    },
+    {
+      "id": "vl-nhiet-lt-03-t2", "type": "card", "title": "Nhiệt lượng và cân bằng nhiệt",
+      "paras": [
+        "Khi vật không chuyển thể và c coi như không đổi: Q = mcΔT. Với vật nóng lên Q > 0, với vật nguội đi Q < 0; độ lớn nhiệt toả ra là mc(T_{đầu} − T_{cuối}). m tính bằng kg, c bằng J/(kg·K).",
+        "Nhiệt dung riêng c là nhiệt lượng cần để 1 kg chất tăng nhiệt độ 1 K. Nhiệt dung của cả vật là C = mc, đơn vị J/K; hai đại lượng không đồng nhất.",
+        "Trộn các vật trong hệ cách nhiệt, bỏ qua công và chuyển thể: tổng Q của các vật bằng 0, hay nhiệt toả bằng nhiệt thu. Nếu bình chứa có nhiệt dung đáng kể thì phải tính cả nhiệt bình thu hoặc toả.",
+        "Nền cần dùng: công suất P = E/τ, năng lượng điện E = UIτ khi U, I không đổi. Hiệu suất η = Q_{ích}/E; do đó Q_{ích} = ηPτ. Đổi g → kg bằng chia 1000, kJ → J bằng nhân 1000, phút → s bằng nhân 60."
+      ]
+    },
+    {
+      "id": "vl-nhiet-lt-03-t3", "type": "card", "title": "Đo nhiệt dung riêng bằng điện",
+      "paras": [
+        "Dùng cân đo khối lượng mẫu; đặt nhiệt kế và dây nung vào mẫu trong bình cách nhiệt, nối nguồn qua công tắc. Đo U, I, thời gian τ và độ tăng nhiệt độ ΔT; khuấy nhẹ để nhiệt độ đều, đọc nhiệt kế không chạm đáy hoặc dây nung. Tắt nguồn trước khi tháo dụng cụ.",
+        "Khi toàn bộ điện năng chỉ làm nóng mẫu: c = UIτ/(mΔT). Nếu bình có nhiệt dung C_{b}, dùng UIτ = (mc + C_{b})ΔT; nếu có nhiệt thất thoát Q_{mất}, dùng UIτ = (mc + C_{b})ΔT + Q_{mất}.",
+        "Đồ thị nhiệt độ theo thời gian ở công suất có ích không đổi có độ dốc ΔT/Δτ = P_{ích}/(mc + C_{b}). Độ dốc nhỏ hơn có thể do nhiệt dung toàn hệ lớn hơn, không tự động kết luận chỉ riêng c lớn hơn.",
+        "Nếu bỏ qua nhiệt thất thoát hoặc nhiệt bình thu mà vẫn lấy toàn bộ UIτ làm nhiệt mẫu nhận thì c tính ra lớn hơn thực tế. Bọc cách nhiệt, dùng nắp phù hợp và đo lặp giúp giảm ảnh hưởng này. Không làm tròn số trung gian khi xử lí số liệu."
+      ]
+    },
+    {
+      "id": "vl-nhiet-lt-03-01", "type": "mcq", "level": 1,
+      "prompt": "Theo quy ước T (K) = t (°C) + 273 của đề thi, 30 °C bằng bao nhiêu kelvin?",
+      "options": ["243 K", "30 K", "303 K", "273 K"], "answer": 2,
+      "explain": "T = 30 + 273 = 303 K. Kí hiệu kelvin là K, không có dấu độ."
+    },
+    {
+      "id": "vl-nhiet-lt-03-02", "type": "mcq", "level": 1,
+      "prompt": "Đơn vị SI của nhiệt dung riêng c là gì?",
+      "options": ["J/(kg·K)", "J/kg", "J/K", "W/K"], "answer": 0,
+      "explain": "Từ c = Q/(mΔT), đơn vị là J/(kg·K). J/K là đơn vị nhiệt dung của cả vật."
+    },
+    {
+      "id": "vl-nhiet-lt-03-03", "type": "mcq", "level": 1,
+      "prompt": "Khi vật không chuyển thể, c không đổi và được làm nóng thêm ΔT, nhiệt lượng vật thu là biểu thức nào?",
+      "options": ["mL", "mc/ΔT", "cΔT/m", "mcΔT"], "answer": 3,
+      "explain": "Nhiệt lượng làm nóng mẫu khối lượng m là Q = mcΔT khi không xảy ra chuyển thể."
+    },
+    {
+      "id": "vl-nhiet-lt-03-04", "type": "mcq", "level": 2,
+      "prompt": "Nước tăng nhiệt độ từ 18 °C lên 43 °C. Độ tăng nhiệt độ theo kelvin là bao nhiêu?",
+      "options": ["298 K", "25 K", "61 K", "316 K"], "answer": 1,
+      "explain": "ΔT = 43 − 18 = 25 K. Hai mốc đổi sang K cùng cộng 273 nên hiệu không thay đổi."
+    },
+    {
+      "id": "vl-nhiet-lt-03-05", "type": "mcq", "level": 2,
+      "prompt": "Hai mẫu cùng khối lượng nhận cùng nhiệt lượng, không chuyển thể và không thất thoát nhiệt. Mẫu A có c gấp đôi mẫu B. Độ tăng nhiệt độ của A so với B là bao nhiêu?",
+      "options": ["Gấp đôi", "Bằng nhau", "Bằng một nửa", "Gấp bốn"], "answer": 2,
+      "explain": "ΔT = Q/(mc), nên với cùng Q và m, c tăng gấp đôi thì ΔT giảm một nửa."
+    },
+    {
+      "id": "vl-nhiet-lt-03-06", "type": "mcq", "level": 2,
+      "prompt": "Đo c bằng điện, bỏ qua nhiệt dung bình nhưng thực tế có một phần điện năng thất thoát ra ngoài. Nếu vẫn dùng c = UIτ/(mΔT), kết quả sẽ thế nào?",
+      "options": ["Lớn hơn c thực", "Nhỏ hơn c thực", "Luôn đúng c thực", "Luôn bằng 0"], "answer": 0,
+      "explain": "UIτ = mc_{thực}ΔT + Q_{mất}. Lấy toàn bộ điện năng chia mΔT cho c_{đo} = c_{thực} + Q_{mất}/(mΔT), lớn hơn c thực."
+    }
+  ]
+}

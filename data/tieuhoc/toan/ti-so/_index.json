@@ -1,0 +1,12 @@
+[
+  { "id": "toan-ti-so-lt-01", "title": "Tỉ số", "emoji": "⚖️", "file": "ti-so/toan-ti-so-lt-01.json", "count": 1, "topic": "ti-so" },
+  { "id": "toan-ti-so-lt-02", "title": "Phần trăm", "emoji": "💯", "file": "ti-so/toan-ti-so-lt-02.json", "count": 1, "topic": "ti-so" },
+  { "id": "toan-ti-so-lt-03", "title": "Giảm giá và lãi", "emoji": "🏷️", "file": "ti-so/toan-ti-so-lt-03.json", "count": 1, "topic": "ti-so" },
+  { "id": "toan-ti-so-lt-04", "title": "Tổng - tỉ, hiệu - tỉ", "emoji": "📊", "file": "ti-so/toan-ti-so-lt-04.json", "count": 1, "topic": "ti-so" },
+  { "id": "toan-ti-so-lt-05", "title": "Trung bình và rút về đơn vị", "emoji": "🧮", "file": "ti-so/toan-ti-so-lt-05.json", "count": 1, "topic": "ti-so" },
+  { "id": "toan-ti-so-cd-01", "title": "Tỉ số: luyện tập", "emoji": "⚖️", "file": "ti-so/toan-ti-so-cd-01.json", "count": 9, "topic": "ti-so" },
+  { "id": "toan-ti-so-cd-02", "title": "Phần trăm: luyện tập", "emoji": "💯", "file": "ti-so/toan-ti-so-cd-02.json", "count": 9, "topic": "ti-so" },
+  { "id": "toan-ti-so-cd-03", "title": "Giảm giá và lãi: luyện tập", "emoji": "🏷️", "file": "ti-so/toan-ti-so-cd-03.json", "count": 9, "topic": "ti-so" },
+  { "id": "toan-ti-so-cd-04", "title": "Tổng - tỉ, hiệu - tỉ: luyện tập", "emoji": "📊", "file": "ti-so/toan-ti-so-cd-04.json", "count": 8, "topic": "ti-so" },
+  { "id": "toan-ti-so-cd-05", "title": "Trung bình và rút về đơn vị: luyện tập", "emoji": "🧮", "file": "ti-so/toan-ti-so-cd-05.json", "count": 9, "topic": "ti-so" }
+]

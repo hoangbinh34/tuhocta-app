@@ -1,0 +1,159 @@
+{
+  "id": "toan-hinh-phang-cd-02",
+  "title": "Hình thang",
+  "topic": "hinh-phang",
+  "items": [
+    {
+      "type": "mcq",
+      "level": 1,
+      "model": "nhan-biet-hai-day-hinh-thang",
+      "prompt": "Hình ABCD có AB song song với CD như hình. Cặp cạnh nào là hai đáy của hình thang?",
+      "options": [
+        "AB và CD",
+        "AD và BC",
+        "AB và BC",
+        "AC và BD"
+      ],
+      "answer": 0,
+      "explain": "Hai cạnh song song AB và CD là hai đáy.\nNhiễu: AD và BC là cạnh bên; AB và BC kề nhau; AC và BD là đường chéo.\nĐáp số: AB và CD.",
+      "figure": {
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 210' role='img' aria-label='Hình thang ABCD có AB song song CD'><polygon points='35,170 255,170 205,50 85,50' fill='none' stroke='#1d4ed8' stroke-width='2'/><text x='25' y='190' font-size='14' text-anchor='middle'>A</text><text x='265' y='190' font-size='14' text-anchor='middle'>B</text><text x='215' y='43' font-size='14' text-anchor='middle'>C</text><text x='75' y='43' font-size='14' text-anchor='middle'>D</text></svg>"
+      },
+      "id": "toan-hinh-phang-cd-02-01"
+    },
+    {
+      "type": "mcq",
+      "level": 1,
+      "model": "chon-cong-thuc-hinh-thang",
+      "prompt": "Hai đáy và chiều cao hình thang cùng đơn vị. Cách nào tính đúng diện tích?",
+      "options": [
+        "Tổng hai đáy × chiều cao",
+        "Hiệu hai đáy × chiều cao : 2",
+        "Tổng hai đáy × chiều cao : 2",
+        "Tổng hai đáy : chiều cao"
+      ],
+      "answer": 2,
+      "explain": "Diện tích hình thang bằng tổng hai đáy nhân chiều cao rồi chia 2.\nNhiễu: phương án đầu quên chia 2; phương án thứ hai lấy hiệu thay tổng; phương án cuối chia cho chiều cao.\nĐáp số: Tổng hai đáy × chiều cao : 2.",
+      "id": "toan-hinh-phang-cd-02-02"
+    },
+    {
+      "type": "num",
+      "level": 2,
+      "model": "chu-vi-thang-biet-tong-day",
+      "prompt": "Một hình thang có tổng độ dài hai đáy 22 cm, hai cạnh bên dài 5 cm và 7 cm. Chu vi bằng bao nhiêu xăng-ti-mét?",
+      "answer": 34,
+      "round": 0,
+      "unit": "cm",
+      "explain": "Cộng cạnh bên thứ nhất: 22 + 5 = 27 (cm).\nChu vi: 27 + 7 = 34 (cm).\nĐáp số: 34 cm.",
+      "id": "toan-hinh-phang-cd-02-03"
+    },
+    {
+      "type": "num",
+      "level": 2,
+      "model": "dien-tich-thang-da-biet-tong-day",
+      "prompt": "Một hình thang có tổng hai đáy 26 cm và chiều cao 8 cm. Diện tích bằng bao nhiêu xăng-ti-mét vuông?",
+      "answer": 104,
+      "round": 0,
+      "unit": "cm²",
+      "explain": "Tích tổng hai đáy với chiều cao: 26 × 8 = 208 (cm²).\nDiện tích: 208 : 2 = 104 (cm²).\nĐáp số: 104 cm².",
+      "id": "toan-hinh-phang-cd-02-04"
+    },
+    {
+      "type": "mcq",
+      "level": 3,
+      "model": "cao-tu-dien-tich-va-hai-day",
+      "prompt": "Hình thang có diện tích 90 cm², hai đáy 12 cm và 18 cm. Chiều cao là bao nhiêu xăng-ti-mét?",
+      "options": [
+        "3 cm",
+        "6 cm",
+        "15 cm",
+        "30 cm"
+      ],
+      "answer": 1,
+      "explain": "Tổng hai đáy: 12 + 18 = 30 (cm).\nHai lần diện tích: 90 × 2 = 180 (cm²).\nChiều cao: 180 : 30 = 6 (cm).\nNhiễu: 3 = 90 : 30 quên nhân 2; 15 = 90 : (18 − 12) dùng hiệu và quên nhân 2; 30 = 180 : (18 − 12) dùng hiệu thay tổng.\nĐáp số: 6 cm.",
+      "id": "toan-hinh-phang-cd-02-05"
+    },
+    {
+      "type": "num",
+      "level": 3,
+      "model": "day-be-tu-dien-tich-thang",
+      "prompt": "Hình thang có diện tích 96 cm², chiều cao 8 cm, đáy lớn 16 cm. Đáy bé dài bao nhiêu xăng-ti-mét?",
+      "answer": 8,
+      "round": 0,
+      "unit": "cm",
+      "explain": "Hai lần diện tích: 96 × 2 = 192 (cm²).\nTổng hai đáy: 192 : 8 = 24 (cm).\nĐáy bé: 24 − 16 = 8 (cm).\nĐáp số: 8 cm.",
+      "id": "toan-hinh-phang-cd-02-06"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "model": "dien-tich-tang-khi-tang-cao-thang",
+      "prompt": "Giữ nguyên hai đáy của một hình thang, tổng hai đáy là 24 cm. Tăng chiều cao thêm 3 cm thì diện tích tăng bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "72 cm²",
+        "12 cm²",
+        "24 cm²",
+        "36 cm²"
+      ],
+      "answer": 3,
+      "explain": "Tích tổng hai đáy với phần cao tăng: 24 × 3 = 72 (cm²).\nDiện tích tăng: 72 : 2 = 36 (cm²).\nNhiễu: 72 = 24 × 3 quên chia 2; 12 = 24 : 2 quên nhân phần cao tăng; 24 = 72 : 3 chia cho phần cao tăng thay vì chia 2.\nĐáp số: 36 cm².",
+      "id": "toan-hinh-phang-cd-02-07"
+    },
+    {
+      "type": "group",
+      "level": 3,
+      "title": "Mở rộng sân hình thang",
+      "passage": "Sân hình thang vuông có đáy lớn 17 m, đáy bé 9 m, chiều cao 6 m. Kéo dài đáy bé đến bằng đáy lớn để sân thành hình chữ nhật; phần thêm là một tam giác vuông.",
+      "items": [
+        {
+          "type": "num",
+          "level": 1,
+          "model": "chenh-hai-day-de-mo-rong",
+          "prompt": "a) Đáy bé cần kéo dài thêm bao nhiêu mét?",
+          "answer": 8,
+          "round": 0,
+          "unit": "m",
+          "explain": "Độ dài kéo thêm: 17 − 9 = 8 (m).\nĐáp số: 8 m.",
+          "id": "toan-hinh-phang-cd-02-08a"
+        },
+        {
+          "type": "num",
+          "level": 3,
+          "model": "chi-phi-lat-tam-giac-mo-rong",
+          "prompt": "b) Dùng độ dài ở câu a, tính tiền lát riêng phần thêm, giá 5 nghìn đồng mỗi mét vuông. Trả lời theo nghìn đồng.",
+          "answer": 120,
+          "round": 0,
+          "unit": "nghìn đồng",
+          "explain": "Dùng độ dài ở câu a, tích đáy và cao phần thêm: 8 × 6 = 48 (m²).\nDiện tích phần thêm: 48 : 2 = 24 (m²).\nTiền lát: 24 × 5 = 120 (nghìn đồng).\nĐáp số: 120 nghìn đồng.",
+          "id": "toan-hinh-phang-cd-02-08b"
+        }
+      ],
+      "id": "toan-hinh-phang-cd-02-08"
+    },
+    {
+      "type": "tf4",
+      "level": 2,
+      "model": "kiem-tra-tong-day-va-duong-cao-thang",
+      "prompt": "Hình thang có chu vi 36 cm, hai cạnh bên 7 cm và 9 cm. Đánh giá các phát biểu.",
+      "statements": [
+        "a) Tổng hai đáy là 20 cm.",
+        "b) Có thể lấy cạnh bên xiên làm chiều cao dù cạnh đó không vuông góc với hai đáy.",
+        "c) Đổi tên đáy lớn và đáy bé cho nhau không làm đổi diện tích.",
+        "d) Hai hình thang có cùng tổng hai đáy và cùng chiều cao thì diện tích bằng nhau."
+      ],
+      "answers": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "explain": [
+        "Bớt cạnh bên thứ nhất: 36 − 7 = 29 (cm).\nTổng hai đáy: 29 − 9 = 20 (cm).\nĐáp số: đúng.",
+        "Sai. Chiều cao phải vuông góc với hai đáy nên cạnh xiên đã nêu không phải chiều cao.\nĐáp số: sai.",
+        "Đúng. Đổi thứ tự hai số hạng không làm đổi tổng hai đáy.\nĐáp số: đúng.",
+        "Đúng. Công thức chỉ phụ thuộc tổng hai đáy và chiều cao.\nĐáp số: đúng."
+      ],
+      "id": "toan-hinh-phang-cd-02-09"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "vl-nen-lt-01",
+  "title": "Nền 10–11: Chuyển động tròn đều và lực hướng tâm",
+  "items": [
+    {
+      "id": "vl-nen-lt-01-t1", "type": "card", "title": "Tốc độ dài, tốc độ góc, chu kì và gia tốc hướng tâm",
+      "paras": [
+        "Chuyển động tròn đều có quỹ đạo là đường tròn bán kính r và tốc độ dài v không đổi. Chu kì T là thời gian đi hết một vòng; tần số f = 1/T. Tốc độ góc ω = 2π/T = 2πf (rad/s) và v = ωr = 2πr/T.",
+        "Tốc độ không đổi nhưng hướng của vectơ vận tốc luôn đổi nên vật có gia tốc. Gia tốc hướng tâm luôn hướng vào tâm quỹ đạo, có độ lớn a_{ht} = v²/r = ω²r. Với cùng tốc độ v, bán kính càng lớn thì a_{ht} càng nhỏ.",
+        "Ví dụ nối sang lớp 12, nhóm Từ trường: lực từ làm hạt mang điện bay tròn chính là lực hướng tâm; dùng F_{ht} = mv²/r để tìm bán kính quỹ đạo.",
+        "Nguồn: SGK Vật lí 10 (GDPT 2018), chương Chuyển động tròn."
+      ]
+    },
+    {
+      "id": "vl-nen-lt-01-t2", "type": "card", "title": "Lực hướng tâm và nối sang Từ trường (lớp 12)",
+      "paras": [
+        "Lực hướng tâm không phải một loại lực mới: đó là hợp lực của các lực tác dụng lên vật, có hướng vào tâm quỹ đạo, độ lớn F_{ht} = ma_{ht} = mv²/r. Lực hướng tâm vuông góc với vận tốc nên không làm đổi tốc độ.",
+        "Ví dụ nối sang lớp 12, nhóm Từ trường: hạt mang điện có vận tốc vuông góc với từ trường đều chỉ chịu lực từ |q|vB. Lực này đóng vai trò lực hướng tâm: mv²/r = |q|vB, suy ra r = mv/(|q|B). Chu kì T = 2πr/v = 2πm/(|q|B) không phụ thuộc tốc độ. Bài lớp 12 sẽ cho công thức và số liệu; phần nền cần nhớ là lực hướng tâm luôn có dạng mv²/r."
+      ]
+    },
+    {
+      "id": "vl-nen-lt-01-01", "type": "mcq", "level": 1,
+      "prompt": "Trong chuyển động tròn đều, đại lượng nào sau đây không đổi?",
+      "options": ["Vectơ vận tốc", "Tốc độ dài", "Vectơ gia tốc", "Hướng của lực hướng tâm"], "answer": 1,
+      "explain": "Tốc độ dài (độ lớn vận tốc) không đổi. Vectơ vận tốc, vectơ gia tốc và hướng của lực hướng tâm đều đổi hướng theo vị trí trên đường tròn nên không phải đại lượng không đổi."
+    },
+    {
+      "id": "vl-nen-lt-01-02", "type": "mcq", "level": 1,
+      "prompt": "Gia tốc của chất điểm chuyển động tròn đều có hướng nào?",
+      "options": ["Theo tiếp tuyến, cùng chiều vận tốc", "Hướng vào tâm quỹ đạo", "Hướng ra xa tâm quỹ đạo", "Bằng 0 vì tốc độ không đổi"], "answer": 1,
+      "explain": "Gia tốc hướng tâm luôn hướng vào tâm. Hướng tiếp tuyến sẽ làm đổi tốc độ, hướng ra xa tâm là sai chiều, còn gia tốc bằng 0 là sai vì vận tốc vẫn đổi hướng."
+    },
+    {
+      "id": "vl-nen-lt-01-03", "type": "mcq", "level": 2,
+      "prompt": "Vật chuyển động tròn đều với tốc độ v. Nếu bán kính quỹ đạo tăng gấp đôi và v giữ nguyên thì gia tốc hướng tâm thay đổi thế nào?",
+      "options": ["Tăng gấp đôi", "Giảm một nửa", "Tăng gấp bốn", "Không đổi"], "answer": 1,
+      "explain": "a_{ht} = v²/r tỉ lệ nghịch với r nên r gấp đôi thì a_{ht} giảm một nửa. Tăng gấp đôi hoặc gấp bốn nhầm sang quan hệ thuận hay theo bình phương của r; không đổi là bỏ qua r."
+    },
+    {
+      "id": "vl-nen-lt-01-04", "type": "tf4", "level": 3,
+      "prompt": "Hạt mang điện chuyển động tròn đều trong từ trường đều chỉ do lực từ (v vuông góc B). Xét các phát biểu sau.",
+      "statements": [
+        "a) Lực từ đóng vai trò lực hướng tâm.",
+        "b) Lực từ làm tăng động năng của hạt.",
+        "c) Giữ nguyên m, q, B; tăng tốc độ hạt lên gấp đôi thì bán kính quỹ đạo tăng gấp đôi.",
+        "d) Giữ nguyên m, q, B; tăng tốc độ hạt lên gấp đôi thì chu kì quay tăng gấp đôi."
+      ],
+      "answers": [true, false, true, false],
+      "explain": [
+        "Đúng. Lực từ vuông góc vận tốc và hướng vào tâm, là hợp lực duy nhất nên đóng vai trò lực hướng tâm.",
+        "Sai. Lực từ vuông góc với vận tốc nên không sinh công, động năng không đổi.",
+        "Đúng. r = mv/(|q|B) tỉ lệ thuận với v.",
+        "Sai. T = 2πm/(|q|B) không phụ thuộc v: v gấp đôi thì r gấp đôi, đường đi gấp đôi nên thời gian một vòng không đổi."
+      ]
+    },
+    {
+      "id": "vl-nen-lt-01-05", "type": "num", "level": 2,
+      "prompt": "Vật nặng 0,20 kg chuyển động tròn đều với tốc độ 2,0 m/s trên đường tròn bán kính 0,50 m. Tính độ lớn lực hướng tâm, làm tròn đến một chữ số sau dấu phẩy.",
+      "answer": 1.6, "round": 1, "unit": "N",
+      "explain": "F_{ht} = mv²/r = 0,20 · 2,0² / 0,50 = 1,6 N. Ghi: 1,6."
+    },
+    {
+      "id": "vl-nen-lt-01-06", "type": "num", "level": 2,
+      "prompt": "Hạt khối lượng 1,0·10^{-26} kg, điện tích 1,6·10^{-19} C (dữ kiện của đề) bay vuông góc với từ trường đều B = 0,50 T với tốc độ 4,0·10^5 m/s. Dùng r = mv/(|q|B), tính bán kính quỹ đạo theo cm, làm tròn đến số nguyên.",
+      "answer": 5, "round": 0, "unit": "cm",
+      "explain": "r = mv/(|q|B) = 1,0·10^{-26} · 4,0·10^5 / (1,6·10^{-19} · 0,50) = 0,050 m = 5 cm. Ghi: 5."
+    }
+  ]
+}

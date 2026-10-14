@@ -1,0 +1,19 @@
+{
+  "id": "toan-hinh-phang-lt-05",
+  "title": "Hình ghép: tổng, hiệu và đường bao",
+  "topic": "hinh-phang",
+  "items": [
+    {
+      "id": "toan-hinh-phang-lt-05-t1",
+      "type": "card",
+      "title": "Hình ghép: tổng, hiệu và đường bao",
+      "paras": [
+        "Ghép hai hình cơ bản không chồng lên nhau: tính diện tích từng hình rồi cộng. Cắt một hình khỏi hình lớn: tính diện tích hai hình rồi lấy diện tích lớn trừ phần cắt.",
+        "Nâng cao (NC): hai hình chồng lên nhau, cộng diện tích hai hình rồi trừ diện tích phần chồng một lần để không đếm hai lần.",
+        "Nâng cao (NC): chu vi hình ghép chỉ tính đường bao ngoài. Khi ghép hai hình theo một cạnh chung, tổng hai chu vi đã tính cạnh chung hai lần nên phải bớt hai lần độ dài cạnh đó.",
+        "Các dạng NC gồm hình chồng lên nhau, chu vi hình ghép, hình ghép có phần tô màu hoặc gồm từ 3 hình cơ bản. Câu thuộc các dạng này ở cấp 3 và có nhãn adv trong dữ liệu."
+      ],
+      "source": "SGK Toán 5, bài SGK: chưa xác minh. Tổng hoặc hiệu diện tích hai hình cơ bản không tô màu thuộc CB theo đặc tả 2.0 mục 1; hình chồng lên nhau, chu vi hình ghép, phần tô màu và ghép từ ba hình giữ NC."
+    }
+  ]
+}

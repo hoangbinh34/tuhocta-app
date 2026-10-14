@@ -1,0 +1,178 @@
+{
+  "id": "toan-loi-van-cd-03",
+  "title": "Dãy số cách đều",
+  "topic": "loi-van",
+  "items": [
+    {
+      "type": "num",
+      "level": 1,
+      "model": "day-tang-biet-buoc-tim-ke-sau",
+      "prompt": "Dãy số bắt đầu 11; 17; 23; ... và mỗi số sau bằng số ngay trước cộng 6. Số đứng ngay sau 23 là bao nhiêu?",
+      "answer": 29,
+      "explain": "Số ngay sau 23: 23 + 6 = 29.\nĐáp số: 29.",
+      "unit": "",
+      "round": 0,
+      "id": "toan-loi-van-cd-03-01"
+    },
+    {
+      "type": "mcq",
+      "level": 1,
+      "model": "day-giam-biet-buoc-tim-ke-truoc",
+      "prompt": "Trong dãy giảm đều, mỗi số sau bằng số ngay trước trừ 4. Số đứng ngay trước 28 là số nào?",
+      "answer": 2,
+      "explain": "Số ngay trước 28: 28 + 4 = 32.\nNhiễu: 24 = 28 − 4 đi xuôi thay vì lùi; 7 = 28 : 4; 112 = 28 × 4 dùng sai phép tính.\nĐáp số: 32.",
+      "options": [
+        "24",
+        "7",
+        "32",
+        "112"
+      ],
+      "id": "toan-loi-van-cd-03-02"
+    },
+    {
+      "type": "num",
+      "level": 1,
+      "model": "hai-so-lien-tiep-tim-khoang-cach",
+      "prompt": "Một dãy tăng cách đều có hai số đứng liền nhau là 26 rồi 35. Khoảng tăng từ mỗi số sang số ngay sau là bao nhiêu?",
+      "answer": 9,
+      "explain": "Khoảng tăng: 35 − 26 = 9.\nĐáp số: 9.",
+      "unit": "",
+      "round": 0,
+      "id": "toan-loi-van-cd-03-03"
+    },
+    {
+      "type": "mcq",
+      "level": 1,
+      "model": "nhan-biet-day-cach-deu",
+      "prompt": "Dãy nào có mọi khoảng tăng giữa hai số liền nhau bằng 5?",
+      "answer": 0,
+      "explain": "Dãy thứ nhất có cùng khoảng tăng 5 ở mọi chỗ.\nNhiễu: dãy thứ hai có khoảng tăng 6 giữa 7 và 13; dãy thứ ba tăng 4; dãy thứ tư tăng 4 giữa 12 và 16.\nĐáp số: 2; 7; 12; 17.",
+      "options": [
+        "2; 7; 12; 17",
+        "2; 7; 13; 18",
+        "2; 6; 10; 14",
+        "2; 7; 12; 16"
+      ],
+      "id": "toan-loi-van-cd-03-04"
+    },
+    {
+      "type": "tf4",
+      "level": 1,
+      "model": "dau-va-chieu-cua-day-cach-deu",
+      "prompt": "Đánh giá mỗi phát biểu độc lập về dãy cách đều; số bên trái luôn đứng trước số bên phải.",
+      "statements": [
+        "a) Hai số liền nhau 18; 25 cho khoảng tăng 7.",
+        "b) Hai số liền nhau 40; 34 cho khoảng giảm 6.",
+        "c) Nếu mỗi bước cộng 9 thì số ngay trước 50 là 59.",
+        "d) Nếu mỗi bước trừ 8 thì số ngay sau 61 là 53."
+      ],
+      "answers": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "explain": [
+        "Đúng. Khoảng tăng: 25 − 18 = 7.\nĐáp số: Đúng.",
+        "Đúng. Khoảng giảm: 40 − 34 = 6.\nĐáp số: Đúng.",
+        "Sai. Số ngay trước: 50 − 9 = 41, không phải 59.\nĐáp số: Sai.",
+        "Đúng. Số ngay sau: 61 − 8 = 53.\nĐáp số: Đúng."
+      ],
+      "id": "toan-loi-van-cd-03-05"
+    },
+    {
+      "type": "num",
+      "level": 2,
+      "model": "day-tang-bo-qua-mot-vi-tri",
+      "prompt": "Dãy tăng đều mỗi bước thêm 7. Đoạn đang xét là 15; [ô trống]; [ô cần tìm], ba ô liên tiếp. Số ở ô cần tìm là bao nhiêu?",
+      "answer": 29,
+      "explain": "Số ở ô trống: 15 + 7 = 22.\nSố ở ô cần tìm: 22 + 7 = 29.\nĐáp số: 29.",
+      "unit": "",
+      "round": 0,
+      "id": "toan-loi-van-cd-03-06"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "model": "khoang-cach-tu-hai-dau-ba-o",
+      "prompt": "Ba ô liên tiếp trong một dãy tăng cách đều là 14; [ô trống]; 30. Khoảng tăng mỗi bước là bao nhiêu?",
+      "answer": 3,
+      "explain": "Ba ô liên tiếp tạo hai khoảng tăng bằng nhau, nên tổng hai khoảng là: 30 − 14 = 16.\nMỗi khoảng tăng: 16 : 2 = 8.\nNhiễu: 16 chưa chia hai khoảng; 22 = (14 + 30) : 2 là số ở ô trống; 44 = 14 + 30 cộng hai đầu.\nĐáp số: 8.",
+      "options": [
+        "16",
+        "22",
+        "44",
+        "8"
+      ],
+      "id": "toan-loi-van-cd-03-07"
+    },
+    {
+      "type": "num",
+      "level": 2,
+      "model": "tim-ke-sau-tu-cap-truoc-da-cho",
+      "prompt": "Trong một dãy tăng cách đều, ba số liên tiếp là 19; 27; [ô cần tìm]. Số ở ô cần tìm là bao nhiêu?",
+      "answer": 35,
+      "explain": "Khoảng tăng: 27 − 19 = 8.\nSố cần tìm: 27 + 8 = 35.\nĐáp số: 35.",
+      "unit": "",
+      "round": 0,
+      "id": "toan-loi-van-cd-03-08"
+    },
+    {
+      "type": "group",
+      "level": 2,
+      "model": "day-giam-hai-buoc-roi-tong-cap-ke",
+      "title": "Đi hai bước trong dãy giảm",
+      "passage": "Một dãy giảm cách đều, mỗi bước giảm 6. Ba ô liên tiếp là 40; [ô trống]; [ô cần tìm].",
+      "items": [
+        {
+          "type": "num",
+          "level": 2,
+          "model": "day-giam-hai-buoc-tim-o-cuoi",
+          "prompt": "Số ở ô cần tìm là bao nhiêu?",
+          "answer": 28,
+          "explain": "Số ở ô trống: 40 − 6 = 34.\nSố ở ô cần tìm: 34 − 6 = 28.\nĐáp số: 28.",
+          "unit": "",
+          "round": 0,
+          "id": "toan-loi-van-cd-03-09a"
+        },
+        {
+          "type": "num",
+          "level": 2,
+          "model": "tong-cap-ke-tu-so-da-tim",
+          "prompt": "Trong một dãy khác tăng đều mỗi bước 3, lấy số tìm ở câu a làm số đầu. Tổng của số đầu với số đứng ngay sau nó là bao nhiêu?",
+          "answer": 59,
+          "explain": "Số đứng ngay sau số đầu câu a: 28 + 3 = 31.\nTổng hai số: 28 + 31 = 59.\nĐáp số: 59.",
+          "unit": "",
+          "round": 0,
+          "id": "toan-loi-van-cd-03-09b"
+        }
+      ],
+      "id": "toan-loi-van-cd-03-09"
+    },
+    {
+      "type": "tf4",
+      "level": 2,
+      "model": "kiem-tra-hai-buoc-day-tang-giam",
+      "prompt": "Đánh giá mỗi phát biểu độc lập. Mọi dãy được nêu đều cách đều với bước đã cho.",
+      "statements": [
+        "a) Từ 20, đi hai bước tăng 3 thì đến 26.",
+        "b) Từ 30, đi lùi hai vị trí trong dãy tăng 4 thì đến 22.",
+        "c) Từ 45, đi hai bước giảm 5 thì đến 40.",
+        "d) Ba ô liên tiếp 8; [ô trống]; 20 trong dãy tăng đều có khoảng tăng 6."
+      ],
+      "answers": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "explain": [
+        "Đúng. Sau bước đầu: 20 + 3 = 23.\nSau bước tiếp: 23 + 3 = 26.\nĐáp số: Đúng.",
+        "Đúng. Lùi một vị trí: 30 − 4 = 26.\nLùi tiếp: 26 − 4 = 22.\nĐáp số: Đúng.",
+        "Sai. Sau bước đầu: 45 − 5 = 40.\nSau bước tiếp: 40 − 5 = 35, không phải 40.\nĐáp số: Sai.",
+        "Đúng. Ba ô liên tiếp tạo hai khoảng tăng bằng nhau, nên tổng hai khoảng là: 20 − 8 = 12.\nMỗi khoảng tăng: 12 : 2 = 6.\nĐáp số: Đúng."
+      ],
+      "id": "toan-loi-van-cd-03-10"
+    }
+  ]
+}

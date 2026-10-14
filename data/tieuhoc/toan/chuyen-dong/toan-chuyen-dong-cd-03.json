@@ -1,0 +1,189 @@
+{
+  "id": "toan-chuyen-dong-cd-03",
+  "title": "Đổi giờ–phút và hành trình nhiều chặng",
+  "topic": "chuyen-dong",
+  "items": [
+    {
+      "id": "toan-chuyen-dong-cd-03-01",
+      "type": "mcq",
+      "level": 1,
+      "model": "nhan-biet-don-vi-thoi-gian-tu-s-va-v",
+      "prompt": "Khi quãng đường tính bằng ki-lô-mét và vận tốc tính bằng km/giờ, thời gian tính bằng đơn vị nào để dùng trực tiếp phép chia quãng đường cho vận tốc?",
+      "options": [
+        "Phút",
+        "Giờ",
+        "Giây",
+        "Ki-lô-mét"
+      ],
+      "answer": 1,
+      "explain": "Quãng đường tính bằng km và vận tốc tính bằng km/giờ thì phép chia cho thời gian theo giờ.\nNhiễu: phút và giây cần đổi đơn vị; ki-lô-mét là đơn vị quãng đường.\nĐáp số: giờ."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-03-02",
+      "type": "mcq",
+      "level": 1,
+      "model": "nhan-biet-thoi-gian-chay-va-thoi-gian-nghi",
+      "prompt": "Một xe có nghỉ giữa đường. Để tính vận tốc không đổi khi xe đang chạy, cần lấy quãng đường chia cho thời gian nào?",
+      "options": [
+        "Chỉ thời gian nghỉ.",
+        "Toàn bộ thời gian, kể cả nghỉ.",
+        "Chỉ thời gian xe thực sự chạy.",
+        "Thời điểm xe đến nơi."
+      ],
+      "answer": 2,
+      "explain": "Vận tốc khi chạy dùng thời gian xe thực sự chuyển động.\nNhiễu: chỉ thời gian nghỉ dùng sai khoảng thời gian; cả thời gian nghỉ cho vận tốc trung bình của hành trình; thời điểm đến nơi không phải thời lượng chạy.\nĐáp số: chỉ thời gian xe thực sự chạy."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-03-03",
+      "type": "mcq",
+      "level": 2,
+      "model": "quang-duong-tu-hieu-hai-thoi-diem",
+      "prompt": "Một xe chạy đều với vận tốc 45 km/giờ, từ 8 giờ đến 10 giờ cùng ngày, không nghỉ. Xe đi được bao nhiêu ki-lô-mét?",
+      "options": [
+        "810 km",
+        "90 km",
+        "2 km",
+        "22,5 km"
+      ],
+      "answer": 1,
+      "explain": "Thời gian đi: 10 − 8 = 2 (giờ).\nQuãng đường: 45 × 2 = 90 (km).\nNhiễu: 810 = 45 × (10 + 8) cộng hai thời điểm; 2 là thời gian, chưa nhân vận tốc; 22,5 = 45 : 2 chia thay nhân.\nĐáp số: 90 km."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-03-04",
+      "type": "mcq",
+      "level": 2,
+      "model": "ngan-sach-thoi-gian-tru-thoi-gian-chay",
+      "prompt": "Một xe cần hoàn thành 150 km trong tối đa 5 giờ. Xe chạy đều với vận tốc 40 km/giờ. Xe được nghỉ nhiều nhất bao nhiêu giờ?",
+      "options": [
+        "3,75 giờ",
+        "1,25 giờ",
+        "8,75 giờ",
+        "30 giờ"
+      ],
+      "answer": 1,
+      "explain": "Thời gian chạy: 150 : 40 = 3,75 (giờ).\nThời gian được nghỉ nhiều nhất: 5 − 3,75 = 1,25 (giờ).\nNhiễu: 3,75 là thời gian chạy; 8,75 = 5 + 3,75 cộng thay trừ; 30 = 150 : 5 nhầm thời gian cho phép thành vận tốc.\nĐáp số: 1,25 giờ."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-03-05",
+      "type": "num",
+      "level": 2,
+      "model": "tong-quang-duong-mot-chang-biet-van-toc",
+      "prompt": "Một xe đi chặng đầu trong 2 giờ với vận tốc 30 km/giờ, rồi đi thêm 18 km ở chặng sau. Tổng quãng đường là bao nhiêu ki-lô-mét?",
+      "answer": 78,
+      "round": 0,
+      "unit": "km",
+      "explain": "Quãng đường chặng đầu: 30 × 2 = 60 (km).\nTổng quãng đường: 60 + 18 = 78 (km).\nĐáp số: 78 km."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-03-06",
+      "type": "num",
+      "level": 2,
+      "model": "quang-duong-con-lai-tu-ke-hoach-thoi-gian",
+      "prompt": "Một người dự kiến đi đều với vận tốc 14 km/giờ trong 4 giờ. Người đó đã đi được 42 km. Để hoàn thành quãng đường dự kiến, người đó còn phải đi bao nhiêu ki-lô-mét?",
+      "answer": 14,
+      "round": 0,
+      "unit": "km",
+      "explain": "Quãng đường dự kiến: 14 × 4 = 56 (km).\nQuãng đường còn phải đi: 56 − 42 = 14 (km).\nĐáp số: 14 km."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-03-07",
+      "type": "num",
+      "level": 2,
+      "model": "rut-ngan-quang-duong-giam-thoi-gian",
+      "prompt": "Một xe dự kiến đi đều với vận tốc 36 km/giờ trong 2,5 giờ. Đổi sang con đường ngắn hơn đường cũ 18 km, xe vẫn giữ vận tốc ấy. Thời gian đi đường mới là bao nhiêu giờ?",
+      "answer": 2,
+      "round": 0,
+      "unit": "giờ",
+      "explain": "Thời gian tiết kiệm: 18 : 36 = 0,5 (giờ).\nThời gian đi đường mới: 2,5 − 0,5 = 2 (giờ).\nĐáp số: 2 giờ."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-03-08",
+      "type": "group",
+      "level": 2,
+      "model": "cot-km-va-tuyen-ghep",
+      "title": "Cột ki-lô-mét và tuyến ghép",
+      "passage": "Một đoạn đường đi từ cột ki-lô-mét 48 đến cột ki-lô-mét 72 theo chiều số tăng. Một tuyến mới gồm hai đoạn có cùng độ dài với đoạn đó và thêm một đoạn nối dài 5 km.",
+      "items": [
+        {
+          "id": "toan-chuyen-dong-cd-03-08a",
+          "type": "num",
+          "level": 1,
+          "model": "do-dai-doan-tu-hieu-cot-km",
+          "prompt": "a) Đoạn đường giữa hai cột dài bao nhiêu ki-lô-mét?",
+          "answer": 24,
+          "round": 0,
+          "unit": "km",
+          "explain": "Độ dài đoạn đường: 72 − 48 = 24 (km).\nĐáp số: 24 km."
+        },
+        {
+          "id": "toan-chuyen-dong-cd-03-08b",
+          "type": "num",
+          "level": 2,
+          "model": "do-dai-tuyen-hai-doan-va-noi",
+          "prompt": "b) Dùng độ dài ở câu a để tính tổng chiều dài tuyến mới, theo ki-lô-mét.",
+          "answer": 53,
+          "round": 0,
+          "unit": "km",
+          "explain": "Hai đoạn bằng nhau dài: 24 × 2 = 48 (km).\nTuyến mới dài: 48 + 5 = 53 (km).\nĐáp số: 53 km."
+        }
+      ]
+    },
+    {
+      "id": "toan-chuyen-dong-cd-03-09",
+      "type": "group",
+      "level": 2,
+      "model": "doi-gio-phut-va-thoi-gian-luu-lai",
+      "title": "Thời gian đi và lưu lại",
+      "passage": "Một xe có 3 giờ để đi từ kho đến điểm giao hàng và lưu lại tại đó. Thời gian đi là 1 giờ 15 phút; phần còn lại dành cho việc giao hàng.",
+      "items": [
+        {
+          "id": "toan-chuyen-dong-cd-03-09a",
+          "type": "num",
+          "level": 2,
+          "model": "thoi-gian-hon-hop-ra-gio",
+          "prompt": "a) Viết thời gian đi theo đơn vị giờ, dưới dạng số thập phân.",
+          "answer": 1.25,
+          "round": 2,
+          "unit": "giờ",
+          "explain": "Đổi: 15 phút = 15 : 60 = 0,25 (giờ).\nThời gian đi: 1 + 0,25 = 1,25 (giờ).\nĐáp số: 1,25 giờ."
+        },
+        {
+          "id": "toan-chuyen-dong-cd-03-09b",
+          "type": "num",
+          "level": 1,
+          "model": "thoi-gian-luu-lai-tu-ngan-sach",
+          "prompt": "b) Dùng thời gian đi ở câu a để tính thời gian được lưu lại giao hàng, theo giờ.",
+          "answer": 1.75,
+          "round": 2,
+          "unit": "giờ",
+          "explain": "Thời gian giao hàng: 3 − 1,25 = 1,75 (giờ).\nĐáp số: 1,75 giờ."
+        }
+      ]
+    },
+    {
+      "id": "toan-chuyen-dong-cd-03-10",
+      "type": "tf4",
+      "level": 2,
+      "model": "kiem-tra-hanh-trinh-di-nghi-ve",
+      "prompt": "Một người đi chặng đầu dài 12 km với vận tốc 6 km/giờ, nghỉ 0,5 giờ, rồi đi chặng về trong 1,5 giờ với vận tốc 8 km/giờ. Mỗi chặng được đi đều. Đánh giá các phát biểu.",
+      "statements": [
+        "a) Thời gian đi chặng đầu nhiều hơn thời gian nghỉ 1,5 giờ.",
+        "b) Độ dài hai chặng chênh nhau 0 km.",
+        "c) Tổng thời gian thực sự đi là 3 giờ.",
+        "d) Thời gian nghỉ bằng 1/3 thời gian đi chặng về."
+      ],
+      "answers": [
+        true,
+        true,
+        false,
+        true
+      ],
+      "explain": [
+        "Thời gian chặng đầu: 12 : 6 = 2 (giờ).\nChặng đầu nhiều hơn thời gian nghỉ: 2 − 0,5 = 1,5 (giờ).\nPhát biểu đúng.\nĐáp số: đúng.",
+        "Quãng đường chặng về: 8 × 1,5 = 12 (km).\nĐộ chênh hai chặng: 12 − 12 = 0 (km).\nPhát biểu đúng.\nĐáp số: đúng.",
+        "Thời gian chặng đầu: 12 : 6 = 2 (giờ).\nThời gian thực sự đi: 2 + 1,5 = 3,5 (giờ).\nPhát biểu nêu 3 giờ nên sai.\nĐáp số: sai.",
+        "1,5 : 0,5 = 3, nên thời gian nghỉ bằng 1/3 thời gian chặng về.\nPhát biểu đúng.\nĐáp số: đúng."
+      ]
+    }
+  ]
+}

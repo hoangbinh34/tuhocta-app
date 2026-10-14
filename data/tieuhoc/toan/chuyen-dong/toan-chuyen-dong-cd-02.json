@@ -1,0 +1,192 @@
+{
+  "id": "toan-chuyen-dong-cd-02",
+  "title": "Quãng đường và thời gian",
+  "topic": "chuyen-dong",
+  "items": [
+    {
+      "id": "toan-chuyen-dong-cd-02-01",
+      "type": "num",
+      "level": 1,
+      "model": "quang-duong-van-toc-nhan-thoi-gian",
+      "prompt": "Một xe máy chạy đều với vận tốc 32 km/giờ trong 3 giờ. Xe đi được bao nhiêu ki-lô-mét?",
+      "answer": 96,
+      "round": 0,
+      "unit": "km",
+      "explain": "Quãng đường: 32 × 3 = 96 (km).\nĐáp số: 96 km."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-02-02",
+      "type": "mcq",
+      "level": 1,
+      "model": "thoi-gian-quang-duong-chia-van-toc",
+      "prompt": "Một ca nô đi đều 72 km với vận tốc 24 km/giờ. Ca nô đi hết bao nhiêu giờ?",
+      "options": [
+        "3 giờ",
+        "48 giờ",
+        "1 728 giờ",
+        "0,333 giờ"
+      ],
+      "answer": 0,
+      "explain": "Thời gian: 72 : 24 = 3 (giờ).\nNhiễu: 48 = 72 − 24 trừ thay chia; 1 728 = 72 × 24 nhân thay chia; 0,333 là kết quả làm tròn của 24 : 72, đảo phép chia.\nĐáp số: 3 giờ."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-02-03",
+      "type": "mcq",
+      "level": 1,
+      "model": "so-sanh-quang-duong-cung-thoi-gian",
+      "prompt": "Một xe ở hai lần thử chạy đều trong cùng một thời lượng: lần đầu với vận tốc 35 km/giờ, lần sau với vận tốc 42 km/giờ. Lần nào đi được quãng đường dài hơn?",
+      "options": [
+        "Hai lần dài bằng nhau.",
+        "Lần chạy 35 km/giờ.",
+        "Lần chạy 42 km/giờ.",
+        "Chưa biết thời lượng cụ thể nên không thể so sánh."
+      ],
+      "answer": 2,
+      "explain": "Cùng thời gian, vận tốc lớn hơn thì quãng đường dài hơn.\nNhiễu: bằng nhau bỏ qua vận tốc; chọn 35 km/giờ đảo quan hệ giữa vận tốc và quãng đường; chưa biết thời lượng vẫn so sánh được vì hai thời lượng bằng nhau.\nĐáp số: lần chạy 42 km/giờ."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-02-04",
+      "type": "group",
+      "level": 1,
+      "model": "quang-duong-con-lai-ra-so-vong",
+      "title": "Chạy đủ số vòng",
+      "passage": "Một bạn cần chạy tổng cộng 1 800 m, đã chạy được 600 m. Mỗi vòng sân dài 300 m; phần còn lại được chạy thành các vòng trọn vẹn.",
+      "items": [
+        {
+          "id": "toan-chuyen-dong-cd-02-04a",
+          "type": "num",
+          "level": 1,
+          "model": "quang-duong-ke-hoach-tru-da-di",
+          "prompt": "a) Bạn còn phải chạy bao nhiêu mét?",
+          "answer": 1200,
+          "round": 0,
+          "unit": "m",
+          "explain": "Quãng đường còn lại: 1 800 − 600 = 1 200 (m).\nĐáp số: 1 200 m."
+        },
+        {
+          "id": "toan-chuyen-dong-cd-02-04b",
+          "type": "num",
+          "level": 1,
+          "model": "so-vong-tu-quang-duong-con-lai",
+          "prompt": "b) Dùng quãng đường còn lại ở câu a, tính số vòng sân bạn còn phải chạy.",
+          "answer": 4,
+          "round": 0,
+          "unit": "vòng",
+          "explain": "Số vòng còn lại: 1 200 : 300 = 4 (vòng).\nĐáp số: 4 vòng."
+        }
+      ]
+    },
+    {
+      "id": "toan-chuyen-dong-cd-02-05",
+      "type": "num",
+      "level": 1,
+      "model": "quang-duong-tang-trong-mot-gio",
+      "prompt": "Một người nâng vận tốc đi xe đạp đều từ 8 km/giờ lên 10 km/giờ. Trong cùng một giờ, quãng đường tăng thêm bao nhiêu ki-lô-mét?",
+      "answer": 2,
+      "round": 0,
+      "unit": "km",
+      "explain": "Trong một giờ, quãng đường tăng thêm: 10 − 8 = 2 (km).\nĐáp số: 2 km."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-02-06",
+      "type": "num",
+      "level": 2,
+      "model": "quang-duong-doi-van-toc-sang-km-phut",
+      "prompt": "Một xe chạy đều với vận tốc 48 km/giờ trong 25 phút. Xe đi được bao nhiêu ki-lô-mét?",
+      "answer": 20,
+      "round": 0,
+      "unit": "km",
+      "explain": "Đổi vận tốc: 48 km/giờ = 48 : 60 = 0,8 (km/phút).\nQuãng đường: 0,8 × 25 = 20 (km).\nĐáp số: 20 km."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-02-07",
+      "type": "mcq",
+      "level": 2,
+      "model": "thoi-gian-doi-km-sang-m",
+      "prompt": "Một người đi đều quãng đường 2,4 km với vận tốc 80 m/phút. Thời gian đi là bao nhiêu phút?",
+      "options": [
+        "0,03 phút",
+        "30 phút",
+        "300 phút",
+        "192 phút"
+      ],
+      "answer": 1,
+      "explain": "Đổi: 2,4 km = 2 400 m.\nThời gian: 2 400 : 80 = 30 (phút).\nNhiễu: 0,03 = 2,4 : 80 quên đổi km; 300 = 24 000 : 80 đổi thừa một chữ số 0; 192 = 2,4 × 80 nhân hai số ban đầu.\nĐáp số: 30 phút."
+    },
+    {
+      "id": "toan-chuyen-dong-cd-02-08",
+      "type": "group",
+      "level": 2,
+      "model": "tang-van-toc-tinh-quang-duong-tang",
+      "title": "Tăng vận tốc xe đạp",
+      "passage": "Một người đi xe đạp nâng vận tốc từ 12 km/giờ lên 18 km/giờ. So sánh hai lần chạy đều trong cùng 90 phút.",
+      "items": [
+        {
+          "id": "toan-chuyen-dong-cd-02-08a",
+          "type": "num",
+          "level": 1,
+          "model": "muc-tang-van-toc",
+          "prompt": "a) Vận tốc tăng thêm bao nhiêu km/giờ?",
+          "answer": 6,
+          "round": 0,
+          "unit": "km/giờ",
+          "explain": "Vận tốc tăng thêm: 18 − 12 = 6 (km/giờ).\nĐáp số: 6 km/giờ."
+        },
+        {
+          "id": "toan-chuyen-dong-cd-02-08b",
+          "type": "num",
+          "level": 2,
+          "model": "quang-duong-tang-tu-hieu-van-toc-doi-phut",
+          "prompt": "b) Dùng mức tăng vận tốc ở câu a để tính quãng đường tăng thêm trong thời lượng đã cho, theo ki-lô-mét.",
+          "answer": 9,
+          "round": 0,
+          "unit": "km",
+          "explain": "Đổi: 90 phút = 90 : 60 = 1,5 (giờ).\nQuãng đường tăng thêm: 6 × 1,5 = 9 (km).\nĐáp số: 9 km."
+        }
+      ]
+    },
+    {
+      "id": "toan-chuyen-dong-cd-02-09",
+      "type": "group",
+      "level": 2,
+      "model": "khu-hoi-co-nghi-chia-deu-thoi-gian",
+      "title": "Chuyến xe khứ hồi",
+      "passage": "Một xe đi từ A đến B rồi trở về A trong tổng cộng 6 giờ, gồm 2 giờ nghỉ ở B. Xe đi đều với cùng vận tốc 40 km/giờ ở lượt đi và lượt về, không dừng nơi khác.",
+      "items": [
+        {
+          "id": "toan-chuyen-dong-cd-02-09a",
+          "type": "num",
+          "level": 2,
+          "model": "thoi-gian-mot-luot-khu-hoi-co-nghi",
+          "prompt": "a) Lượt đi từ A đến B mất bao nhiêu giờ?",
+          "answer": 2,
+          "round": 0,
+          "unit": "giờ",
+          "explain": "Tổng thời gian chạy: 6 − 2 = 4 (giờ).\nHai lượt cùng đường, cùng vận tốc nên thời gian bằng nhau; một lượt: 4 : 2 = 2 (giờ).\nĐáp số: 2 giờ."
+        },
+        {
+          "id": "toan-chuyen-dong-cd-02-09b",
+          "type": "num",
+          "level": 2,
+          "model": "cuoc-phi-tu-do-dai-tuyen-khu-hoi",
+          "prompt": "b) Dùng thời gian lượt đi ở câu a để tính cước lượt đi, biết mỗi ki-lô-mét tính 0,5 nghìn đồng. Ghi số nghìn đồng.",
+          "answer": 40,
+          "round": 0,
+          "unit": "nghìn đồng",
+          "explain": "Quãng đường AB: 40 × 2 = 80 (km).\nCước lượt đi: 80 × 0,5 = 40 (nghìn đồng).\nĐáp số: 40 nghìn đồng."
+        }
+      ]
+    },
+    {
+      "id": "toan-chuyen-dong-cd-02-10",
+      "type": "num",
+      "level": 2,
+      "model": "thoi-gian-hanh-trinh-cong-nghi",
+      "prompt": "Một xe chạy đều 135 km với vận tốc 45 km/giờ và nghỉ 0,5 giờ giữa đường. Tổng thời gian từ lúc xuất phát đến lúc đến nơi là bao nhiêu giờ?",
+      "answer": 3.5,
+      "round": 1,
+      "unit": "giờ",
+      "explain": "Thời gian chạy: 135 : 45 = 3 (giờ).\nTổng thời gian: 3 + 0,5 = 3,5 (giờ).\nĐáp số: 3,5 giờ."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "vl-hat-nhan-lt-01",
+  "title": "Cấu trúc hạt nhân, đồng vị và phản ứng hạt nhân",
+  "items": [
+    {
+      "id": "vl-hat-nhan-lt-01-t1",
+      "type": "card",
+      "title": "Đọc kí hiệu hạt nhân và thí nghiệm Rutherford",
+      "paras": [
+        "Hạt nhân ^{A}_{Z}X gồm Z proton và N = A − Z neutron; A là số nucleon, Z là số hiệu nguyên tử. Điện tích hạt nhân là +Ze. Nguyên tử trung hòa có Z electron ở vỏ; electron không phải thành phần hạt nhân. Không đồng nhất số khối A với khối lượng đo bằng kg hay u.",
+        "Các đồng vị của một nguyên tố có cùng Z nhưng khác N nên khác A. Ví dụ ^{12}_{6}C và ^{14}_{6}C cùng có 6 proton, lần lượt có 6 và 8 neutron. Các đồng vị có thể bền hoặc phóng xạ; không phải mọi đồng vị đều phóng xạ.",
+        "Trong thí nghiệm Rutherford, phần lớn hạt alpha xuyên qua lá vàng mỏng, một số ít lệch góc lớn hoặc bật ngược. Kết quả dẫn tới mô hình nguyên tử phần lớn là khoảng trống, điện tích dương và gần như toàn bộ khối lượng tập trung trong hạt nhân rất nhỏ."
+      ]
+    },
+    {
+      "id": "vl-hat-nhan-lt-01-t2",
+      "type": "card",
+      "title": "Bảo toàn số nucleon và điện tích",
+      "paras": [
+        "Khi viết phương trình phản ứng hạt nhân, tổng số khối A và tổng số điện tích Z ở hai vế bằng nhau. Dùng ^{1}_{0}n cho neutron, ^{1}_{1}p cho proton, ^{4}_{2}He cho hạt alpha; electron beta trừ viết ^{0}_{−1}e, positron beta cộng viết ^{0}_{+1}e. Photon gamma có A = 0, điện tích bằng 0.",
+        "Phân rã alpha: A giảm 4, Z giảm 2. Phân rã beta trừ: A giữ nguyên, Z tăng 1 (một neutron chuyển thành proton); beta cộng: A giữ nguyên, Z giảm 1. Hai loại beta còn phát ra phản neutrino hoặc neutrino; chúng có A = 0, điện tích bằng 0, thường không viết khi chỉ cân bằng A và Z. Phát gamma làm hạt nhân hạ mức năng lượng, không đổi A, Z.",
+        "Bảo toàn tổng A không có nghĩa tổng khối lượng nghỉ được bảo toàn riêng. Trong mọi phản ứng phải bảo toàn năng lượng toàn phần, động lượng và điện tích. Hạt nhân có thể biến đổi thành nguyên tố khác khi Z thay đổi."
+      ]
+    },
+    {
+      "id": "vl-hat-nhan-lt-01-01",
+      "type": "mcq",
+      "level": 1,
+      "prompt": "Trong kí hiệu ^{A}_{Z}X, số neutron được tính bằng công thức nào?",
+      "options": [
+        "N = A + Z",
+        "N = Z",
+        "N = A − Z",
+        "N = A"
+      ],
+      "answer": 2,
+      "explain": "A gồm cả proton và neutron; trừ Z proton được N = A − Z."
+    },
+    {
+      "id": "vl-hat-nhan-lt-01-02",
+      "type": "mcq",
+      "level": 1,
+      "prompt": "Hai hạt nhân đồng vị có cùng đại lượng nào?",
+      "options": [
+        "Số proton",
+        "Số neutron",
+        "Số khối",
+        "Khối lượng hạt nhân"
+      ],
+      "answer": 0,
+      "explain": "Cùng nguyên tố nghĩa là cùng Z, tức cùng số proton; các đồng vị khác nhau về số neutron."
+    },
+    {
+      "id": "vl-hat-nhan-lt-01-03",
+      "type": "mcq",
+      "level": 2,
+      "prompt": "Hạt nhân ^{23}_{11}Na có bao nhiêu proton và neutron?",
+      "options": [
+        "12 proton, 11 neutron",
+        "11 proton, 23 neutron",
+        "23 proton, 11 neutron",
+        "11 proton, 12 neutron"
+      ],
+      "answer": 3,
+      "explain": "Z = 11; N = 23 − 11 = 12."
+    },
+    {
+      "id": "vl-hat-nhan-lt-01-04",
+      "type": "mcq",
+      "level": 2,
+      "prompt": "Hạt nhân ^{210}_{84}Po phân rã alpha. Hạt nhân con có A, Z bằng bao nhiêu?",
+      "options": [
+        "A = 210, Z = 85",
+        "A = 206, Z = 82",
+        "A = 206, Z = 84",
+        "A = 214, Z = 86"
+      ],
+      "answer": 1,
+      "explain": "Bảo toàn A và Z: A con = 210 − 4 = 206; Z con = 84 − 2 = 82."
+    },
+    {
+      "id": "vl-hat-nhan-lt-01-05",
+      "type": "mcq",
+      "level": 2,
+      "prompt": "Hạt nhân ^{14}_{6}C phân rã beta trừ. Hạt nhân con có kí hiệu nào?",
+      "options": [
+        "^{10}_{4}Be",
+        "^{14}_{5}B",
+        "^{14}_{7}N",
+        "^{14}_{6}C"
+      ],
+      "answer": 2,
+      "explain": "Beta trừ giữ A = 14, tăng Z từ 6 lên 7; hạt nhân con là nitơ."
+    },
+    {
+      "id": "vl-hat-nhan-lt-01-06",
+      "type": "mcq",
+      "level": 2,
+      "prompt": "Vì sao phần lớn hạt alpha xuyên qua lá vàng mỏng trong thí nghiệm Rutherford?",
+      "options": [
+        "Nguyên tử phần lớn là khoảng trống",
+        "Hạt nhân chiếm gần hết thể tích nguyên tử",
+        "Alpha không mang điện",
+        "Lá vàng không có hạt nhân"
+      ],
+      "answer": 0,
+      "explain": "Hạt nhân rất nhỏ so với nguyên tử; phần lớn alpha không đi sát hạt nhân nên xuyên qua lá với độ lệch nhỏ."
+    }
+  ]
+}

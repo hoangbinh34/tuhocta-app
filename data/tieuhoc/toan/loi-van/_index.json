@@ -1,0 +1,114 @@
+[
+  {
+    "id": "toan-loi-van-lt-01",
+    "title": "Rút về đơn vị",
+    "emoji": "📦",
+    "file": "loi-van/toan-loi-van-lt-01.json",
+    "count": 1,
+    "topic": "loi-van"
+  },
+  {
+    "id": "toan-loi-van-cd-01",
+    "title": "Rút về đơn vị: luyện tập",
+    "emoji": "📦",
+    "file": "loi-van/toan-loi-van-cd-01.json",
+    "count": 10,
+    "topic": "loi-van"
+  },
+  {
+    "id": "toan-loi-van-lt-02",
+    "title": "Sơ đồ đoạn thẳng",
+    "emoji": "📏",
+    "file": "loi-van/toan-loi-van-lt-02.json",
+    "count": 1,
+    "topic": "loi-van"
+  },
+  {
+    "id": "toan-loi-van-cd-02",
+    "title": "Sơ đồ đoạn thẳng: luyện tập",
+    "emoji": "📏",
+    "file": "loi-van/toan-loi-van-cd-02.json",
+    "count": 14,
+    "topic": "loi-van"
+  },
+  {
+    "id": "toan-loi-van-lt-03",
+    "title": "Dãy số cách đều",
+    "emoji": "🔢",
+    "file": "loi-van/toan-loi-van-lt-03.json",
+    "count": 1,
+    "topic": "loi-van"
+  },
+  {
+    "id": "toan-loi-van-cd-03",
+    "title": "Dãy số cách đều: luyện tập",
+    "emoji": "🔢",
+    "file": "loi-van/toan-loi-van-cd-03.json",
+    "count": 10,
+    "topic": "loi-van"
+  },
+  {
+    "id": "toan-loi-van-lt-04",
+    "title": "Quy luật đã cho",
+    "emoji": "🔁",
+    "file": "loi-van/toan-loi-van-lt-04.json",
+    "count": 1,
+    "topic": "loi-van"
+  },
+  {
+    "id": "toan-loi-van-cd-04",
+    "title": "Quy luật đã cho: luyện tập",
+    "emoji": "🔁",
+    "file": "loi-van/toan-loi-van-cd-04.json",
+    "count": 4,
+    "topic": "loi-van"
+  },
+  {
+    "id": "toan-loi-van-lt-05",
+    "title": "Logic có điều kiện",
+    "emoji": "💡",
+    "file": "loi-van/toan-loi-van-lt-05.json",
+    "count": 1,
+    "topic": "loi-van"
+  },
+  {
+    "id": "toan-loi-van-cd-05",
+    "title": "Logic có điều kiện: luyện tập",
+    "emoji": "💡",
+    "file": "loi-van/toan-loi-van-cd-05.json",
+    "count": 5,
+    "topic": "loi-van"
+  },
+  {
+    "id": "toan-loi-van-lt-06",
+    "title": "Đếm không trùng",
+    "emoji": "🧩",
+    "file": "loi-van/toan-loi-van-lt-06.json",
+    "count": 1,
+    "topic": "loi-van"
+  },
+  {
+    "id": "toan-loi-van-cd-06",
+    "title": "Đếm không trùng: luyện tập",
+    "emoji": "🧩",
+    "file": "loi-van/toan-loi-van-cd-06.json",
+    "count": 5,
+    "topic": "loi-van"
+  },
+  {
+    "id": "toan-loi-van-lt-07",
+    "title": "Bán hàng lùi",
+    "emoji": "🍎",
+    "file": "loi-van/toan-loi-van-lt-07.json",
+    "count": 1,
+    "topic": "loi-van"
+  },
+  {
+    "id": "toan-loi-van-cd-07",
+    "title": "Bán hàng lùi: luyện tập",
+    "emoji": "🍎",
+    "file": "loi-van/toan-loi-van-cd-07.json",
+    "count": 4,
+    "topic": "loi-van"
+  }
+]

@@ -1,0 +1,195 @@
+{
+ "id": "th-dh-04",
+ "module": "reading",
+ "title": "Đọc đoạn văn, trả lời câu hỏi",
+ "emoji": "📖",
+ "intro": "Đọc câu hỏi trước, rồi tìm từ khoá trong đoạn văn. Câu hỏi về nghĩa của từ: đọc câu chứa từ đó để đoán nghĩa.",
+ "instruction": "Đọc đoạn văn và chọn đáp án đúng.",
+ "shuffle": true,
+ "priority": 1,
+ "sources": [
+  "dang-de-CG-NTT"
+ ],
+ "items": [
+  {
+   "id": "th-dh-04-g1",
+   "type": "group",
+   "title": "My grandmother",
+   "passage": "My grandmother is 70 years old, but she is very active. She gets up at 5 o'clock every morning and does exercise in the park with her friends. After breakfast, she waters the flowers in her small garden. She loves cooking, and her spring rolls are the best in our family. In the evening, she often tells me old stories about our village. I love her very much.",
+   "items": [
+    {
+     "id": "th-dh-04-01",
+     "type": "mcq",
+     "prompt": "What is the text about?",
+     "options": [
+      "The writer's village",
+      "The writer's grandmother",
+      "Cooking spring rolls",
+      "Doing exercise in the park"
+     ],
+     "answer": 1,
+     "explain": "Cả đoạn kể về bà của người viết."
+    },
+    {
+     "id": "th-dh-04-02",
+     "type": "mcq",
+     "prompt": "What does the grandmother do after breakfast?",
+     "options": [
+      "She does exercise.",
+      "She cooks spring rolls.",
+      "She waters the flowers.",
+      "She tells stories."
+     ],
+     "answer": 2,
+     "explain": "\"After breakfast, she waters the flowers\"."
+    },
+    {
+     "id": "th-dh-04-03",
+     "type": "mcq",
+     "prompt": "Which is NOT true about the grandmother?",
+     "options": [
+      "She is 70 years old.",
+      "She gets up late.",
+      "She can cook well.",
+      "She has a small garden."
+     ],
+     "answer": 1,
+     "explain": "Bà dậy lúc 5 giờ, tức là dậy sớm; \"gets up late\" là sai."
+    },
+    {
+     "id": "th-dh-04-04",
+     "type": "mcq",
+     "prompt": "The word \"active\" in the text is closest in meaning to ___.",
+     "options": [
+      "tired",
+      "lazy",
+      "full of energy",
+      "very old"
+     ],
+     "answer": 2,
+     "explain": "active = năng động, nhiều năng lượng (full of energy)."
+    }
+   ]
+  },
+  {
+   "id": "th-dh-04-g2",
+   "type": "group",
+   "title": "A school garden",
+   "passage": "Last year, the students of Class 5B made a garden behind their school. First, they cleaned the land and took away the rubbish. Then they planted vegetables, flowers and two small trees. Every day, two students water the plants. Now the garden is green and beautiful. The students often use the vegetables for their school lunch, and they feel very proud of their work.",
+   "items": [
+    {
+     "id": "th-dh-04-05",
+     "type": "mcq",
+     "prompt": "Where is the garden?",
+     "options": [
+      "In front of the school",
+      "Behind the school",
+      "In the park",
+      "At a student's house"
+     ],
+     "answer": 1,
+     "explain": "\"a garden behind their school\"."
+    },
+    {
+     "id": "th-dh-04-06",
+     "type": "mcq",
+     "prompt": "What did the students do FIRST?",
+     "options": [
+      "They planted trees.",
+      "They watered the plants.",
+      "They cleaned the land.",
+      "They cooked lunch."
+     ],
+     "answer": 2,
+     "explain": "\"First, they cleaned the land\"."
+    },
+    {
+     "id": "th-dh-04-07",
+     "type": "mcq",
+     "prompt": "How many students water the plants every day?",
+     "options": [
+      "One",
+      "Two",
+      "Three",
+      "All the class"
+     ],
+     "answer": 1,
+     "explain": "\"Every day, two students water the plants\"."
+    },
+    {
+     "id": "th-dh-04-08",
+     "type": "mcq",
+     "prompt": "How do the students feel?",
+     "options": [
+      "Bored",
+      "Proud",
+      "Angry",
+      "Tired"
+     ],
+     "answer": 1,
+     "explain": "\"they feel very proud of their work\"."
+    }
+   ]
+  },
+  {
+   "id": "th-dh-04-g3",
+   "type": "group",
+   "title": "Tet in Viet Nam",
+   "passage": "Tet is the most important festival in Viet Nam. Before Tet, people clean and decorate their houses. Many families make banh chung together. On the first day of the new year, children wear new clothes and wish their grandparents good health. They get lucky money in red envelopes. Many people also visit pagodas to pray for a happy new year.",
+   "items": [
+    {
+     "id": "th-dh-04-09",
+     "type": "mcq",
+     "prompt": "What do people do BEFORE Tet?",
+     "options": [
+      "They get lucky money.",
+      "They clean their houses.",
+      "They wear new clothes.",
+      "They visit pagodas."
+     ],
+     "answer": 1,
+     "explain": "\"Before Tet, people clean and decorate their houses\"."
+    },
+    {
+     "id": "th-dh-04-10",
+     "type": "mcq",
+     "prompt": "What do children get at Tet?",
+     "options": [
+      "New books",
+      "Lucky money",
+      "Flowers",
+      "Banh chung"
+     ],
+     "answer": 1,
+     "explain": "\"They get lucky money in red envelopes\"."
+    },
+    {
+     "id": "th-dh-04-11",
+     "type": "mcq",
+     "prompt": "Why do people visit pagodas?",
+     "options": [
+      "To buy flowers",
+      "To pray for a happy new year",
+      "To make banh chung",
+      "To meet their friends"
+     ],
+     "answer": 1,
+     "explain": "\"to pray for a happy new year\"."
+    },
+    {
+     "id": "th-dh-04-12",
+     "type": "mcq",
+     "prompt": "The word \"They\" in the text refers to ___.",
+     "options": [
+      "grandparents",
+      "children",
+      "families",
+      "pagodas"
+     ],
+     "answer": 1,
+     "explain": "\"They get lucky money\": They chỉ children (trẻ em)."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "toan-hinh-phang-cd-01",
+  "title": "Tam giác",
+  "topic": "hinh-phang",
+  "items": [
+    {
+      "type": "mcq",
+      "level": 1,
+      "model": "nhan-biet-duong-cao-tam-giac",
+      "prompt": "Trong hình tam giác ABC, AH vuông góc với BC tại H. Khi chọn BC làm đáy, đoạn nào là chiều cao tương ứng?",
+      "options": [
+        "AB",
+        "AC",
+        "AH",
+        "BH"
+      ],
+      "answer": 2,
+      "explain": "Chiều cao phải đi từ đỉnh A và vuông góc với đáy BC nên chọn AH.\nNhiễu: AB và AC là cạnh xiên; BH nằm trên đáy.\nĐáp số: AH.",
+      "figure": {
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 210' role='img' aria-label='Tam giác ABC, AH vuông góc BC tại H'><polygon points='70,30 30,170 250,170' fill='none' stroke='#1d4ed8' stroke-width='2'/><line x1='70' y1='30' x2='70' y2='170' stroke='#1d4ed8' stroke-dasharray='4 3'/><polyline points='70,158 82,158 82,170' fill='none' stroke='#1d4ed8' stroke-width='2'/><text x='70' y='22' font-size='14' text-anchor='middle'>A</text><text x='25' y='190' font-size='14' text-anchor='middle'>B</text><text x='260' y='190' font-size='14' text-anchor='middle'>C</text><text x='70' y='190' font-size='14' text-anchor='middle'>H</text></svg>"
+      },
+      "id": "toan-hinh-phang-cd-01-01"
+    },
+    {
+      "type": "mcq",
+      "level": 1,
+      "model": "chon-cong-thuc-tam-giac",
+      "prompt": "Đáy và chiều cao tương ứng của một tam giác cùng đơn vị. Cách nào tính đúng diện tích?",
+      "options": [
+        "Đáy × chiều cao",
+        "Đáy × chiều cao : 2",
+        "Đáy + chiều cao",
+        "Đáy × 2 : chiều cao"
+      ],
+      "answer": 1,
+      "explain": "Diện tích tam giác bằng tích đáy với chiều cao tương ứng chia cho 2.\nNhiễu: phương án đầu quên chia 2; phương án thứ ba nhầm nhân thành cộng; phương án cuối đảo chiều cao xuống phép chia.\nĐáp số: Đáy × chiều cao : 2.",
+      "id": "toan-hinh-phang-cd-01-02"
+    },
+    {
+      "type": "num",
+      "level": 1,
+      "model": "chu-vi-tam-giac-deu",
+      "prompt": "Một tam giác đều có cạnh 9 cm. Tính chu vi theo xăng-ti-mét.",
+      "answer": 27,
+      "round": 0,
+      "unit": "cm",
+      "explain": "Chu vi: 9 × 3 = 27 (cm).\nĐáp số: 27 cm.",
+      "id": "toan-hinh-phang-cd-01-03"
+    },
+    {
+      "type": "num",
+      "level": 2,
+      "model": "dien-tich-tam-giac-tu-day-cao",
+      "prompt": "Tam giác vuông có đáy 14 cm và chiều cao tương ứng 9 cm như hình. Diện tích là bao nhiêu xăng-ti-mét vuông?",
+      "answer": 63,
+      "round": 0,
+      "unit": "cm²",
+      "explain": "Tích đáy và chiều cao: 14 × 9 = 126 (cm²).\nDiện tích: 126 : 2 = 63 (cm²).\nĐáp số: 63 cm².",
+      "figure": {
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 210' role='img' aria-label='Tam giác vuông có đáy 14 cm, cao 9 cm'><polygon points='45,175 245,175 45,46.428571428571416' fill='none' stroke='#1d4ed8' stroke-width='2'/><polyline points='45,165 55,165 55,175' fill='none' stroke='#1d4ed8' stroke-width='1.5'/><text x='145' y='195' font-size='14' text-anchor='middle'>14 cm</text><text x='25' y='110.71428571428571' font-size='14' text-anchor='middle'>9 cm</text></svg>"
+      },
+      "id": "toan-hinh-phang-cd-01-04"
+    },
+    {
+      "type": "num",
+      "level": 1,
+      "model": "day-tu-tich-day-cao",
+      "prompt": "Tích độ dài đáy với chiều cao tương ứng của một tam giác là 96 cm². Chiều cao là 8 cm. Đáy dài bao nhiêu xăng-ti-mét?",
+      "answer": 12,
+      "round": 0,
+      "unit": "cm",
+      "explain": "Độ dài đáy: 96 : 8 = 12 (cm).\nĐáp số: 12 cm.",
+      "id": "toan-hinh-phang-cd-01-05"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "model": "day-tu-dien-tich-tam-giac",
+      "prompt": "Một tam giác có diện tích 54 cm², chiều cao tương ứng 9 cm. Đáy dài bao nhiêu xăng-ti-mét?",
+      "options": [
+        "6 cm",
+        "12 cm",
+        "24 cm",
+        "486 cm"
+      ],
+      "answer": 1,
+      "explain": "Hai lần diện tích: 54 × 2 = 108 (cm²).\nĐáy: 108 : 9 = 12 (cm).\nNhiễu: 6 = 54 : 9 quên nhân 2; 24 = 108 : 9 × 2 nhân 2 thừa; 486 = 54 × 9 nhầm chia thành nhân.\nĐáp số: 12 cm.",
+      "id": "toan-hinh-phang-cd-01-06"
+    },
+    {
+      "type": "num",
+      "level": 3,
+      "model": "chenh-dien-tich-cung-day",
+      "prompt": "Hai tam giác có cùng đáy 18 cm; chiều cao tương ứng lần lượt 11 cm và 7 cm. Diện tích tam giác thứ nhất hơn tam giác thứ hai bao nhiêu xăng-ti-mét vuông?",
+      "answer": 36,
+      "round": 0,
+      "unit": "cm²",
+      "explain": "Chênh lệch chiều cao: 11 − 7 = 4 (cm).\nTích đáy và chênh lệch chiều cao: 18 × 4 = 72 (cm²).\nChênh lệch diện tích: 72 : 2 = 36 (cm²).\nĐáp số: 36 cm².",
+      "id": "toan-hinh-phang-cd-01-07"
+    },
+    {
+      "type": "group",
+      "level": 2,
+      "title": "Rào vườn tam giác",
+      "passage": "Một vườn tam giác có ba cạnh 7 m, 8 m, 9 m. Người ta rào quanh vườn, mỗi vòng chừa lối vào rộng 2 m.",
+      "items": [
+        {
+          "type": "num",
+          "level": 2,
+          "model": "chu-vi-tam-giac-ba-canh",
+          "prompt": "a) Chu vi vườn là bao nhiêu mét?",
+          "answer": 24,
+          "round": 0,
+          "unit": "m",
+          "explain": "Tổng hai cạnh: 7 + 8 = 15 (m).\nChu vi: 15 + 9 = 24 (m).\nĐáp số: 24 m.",
+          "id": "toan-hinh-phang-cd-01-08a"
+        },
+        {
+          "type": "num",
+          "level": 2,
+          "model": "day-rao-tu-chu-vi-va-loi-vao",
+          "prompt": "b) Dùng chu vi ở câu a, tính số mét dây để rào 3 vòng như trên.",
+          "answer": 66,
+          "round": 0,
+          "unit": "m",
+          "explain": "Dùng chu vi ở câu a, mỗi vòng cần: 24 − 2 = 22 (m).\nBa vòng cần: 22 × 3 = 66 (m).\nĐáp số: 66 m.",
+          "id": "toan-hinh-phang-cd-01-08b"
+        }
+      ],
+      "id": "toan-hinh-phang-cd-01-08"
+    },
+    {
+      "type": "tf4",
+      "level": 1,
+      "model": "tinh-chat-day-cao-va-dien-tich",
+      "prompt": "Đánh giá các phát biểu về tam giác; các chiều cao được lấy tương ứng với đáy đang xét.",
+      "statements": [
+        "a) Hai tam giác cùng đáy và cùng chiều cao thì diện tích bằng nhau.",
+        "b) Giữ nguyên đáy, chiều cao gấp 3 lần thì diện tích gấp 3 lần.",
+        "c) Giữ nguyên chiều cao, đáy giảm một nửa thì diện tích vẫn giữ nguyên.",
+        "d) Cạnh xiên bất kỳ luôn dùng được làm chiều cao của tam giác."
+      ],
+      "answers": [
+        true,
+        true,
+        false,
+        false
+      ],
+      "explain": [
+        "Đúng. Cùng đáy và cùng chiều cao thì tích đáy với chiều cao bằng nhau.\nĐáp số: đúng.",
+        "Đúng. Khi một thừa số gấp 3 lần, tích và diện tích gấp 3 lần.\nĐáp số: đúng.",
+        "Sai. Đáy giảm một nửa thì diện tích cũng giảm một nửa.\nĐáp số: sai.",
+        "Sai. Chiều cao phải vuông góc với đáy; cạnh xiên không bảo đảm điều đó.\nĐáp số: sai."
+      ],
+      "id": "toan-hinh-phang-cd-01-09"
+    }
+  ]
+}

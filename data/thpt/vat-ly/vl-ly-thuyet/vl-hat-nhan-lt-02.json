@@ -1,0 +1,111 @@
+{
+  "id": "vl-hat-nhan-lt-02",
+  "title": "Độ hụt khối, năng lượng liên kết và năng lượng phản ứng",
+  "items": [
+    {
+      "id": "vl-hat-nhan-lt-02-t1",
+      "type": "card",
+      "title": "Khối lượng nghỉ và độ bền hạt nhân",
+      "paras": [
+        "Đơn vị khối lượng nguyên tử u bằng 1/12 khối lượng một nguyên tử ^{12}C trung hòa ở trạng thái cơ bản. Với khối lượng hạt nhân m, độ hụt khối Δm = Zm_{p} + (A − Z)m_{n} − m. Hạt nhân liên kết có Δm > 0; năng lượng liên kết E_{lk} = Δmc² là năng lượng tối thiểu để tách hạt nhân thành các nucleon tự do ở rất xa nhau.",
+        "Nếu Δm tính bằng u và đề cho 1 uc² = 931,5 MeV thì E_{lk} = Δm · 931,5 MeV. Năng lượng liên kết riêng ε = E_{lk}/A có đơn vị MeV/nucleon; ε lớn hơn thường chỉ hạt nhân bền vững hơn về liên kết. Không so độ bền chỉ bằng tổng E_{lk}.",
+        "Phải dùng cùng loại khối lượng: công thức với m_{p}, m_{n} cần m hạt nhân, không lấy khối lượng nguyên tử (còn có electron) thế vào. Nếu đề cho khối lượng nguyên tử và khối lượng nguyên tử hydrogen thì chỉ dùng công thức tương ứng được đề hướng dẫn; không trộn hai hệ số liệu."
+      ]
+    },
+    {
+      "id": "vl-hat-nhan-lt-02-t2",
+      "type": "card",
+      "title": "Năng lượng phản ứng và cách đổi đơn vị",
+      "paras": [
+        "Năng lượng tỏa ra Q = (tổng khối lượng nghỉ trước − tổng khối lượng nghỉ sau)c², tính đủ các hạt tham gia. Q > 0: tỏa năng lượng; Q < 0: thu năng lượng. Khối lượng nghỉ giảm tương ứng năng lượng chuyển sang động năng các hạt hoặc bức xạ; năng lượng toàn phần vẫn bảo toàn.",
+        "Electronvolt là đơn vị năng lượng: 1 eV ≈ 1,60·10^{−19} J; 1 MeV = 10^{6} eV ≈ 1,60·10^{−13} J. Các giá trị thường dùng khi đề cho: c = 3,00·10^{8} m/s; 1 u ≈ 1,66054·10^{−27} kg; 1 uc² ≈ 931,5 MeV. Chọn đúng giá trị từng đề, không tự thay số làm tròn này bằng số khác.",
+        "N phản ứng giống nhau tỏa E = NQ. Nếu nhiên liệu thuần một đồng vị, số hạt N = (m/M)N_{A}, với m, M cùng hệ đơn vị, chẳng hạn g và g/mol. Công suất P = E/Δt; khi tính watt phải đổi MeV sang J, thời gian sang s. Công suất có ích P_{ích} = ηP_{tỏa} với η là hiệu suất dạng thập phân."
+      ],
+      "source": "NIST, CODATA 2022: https://physics.nist.gov/cuu/pdf/wall_2022.pdf (u, uc², c, e; dùng các giá trị làm tròn do từng câu cho)."
+    },
+    {
+      "id": "vl-hat-nhan-lt-02-01",
+      "type": "mcq",
+      "level": 1,
+      "prompt": "Độ hụt khối của hạt nhân ^{A}_{Z}X khối lượng m là gì?",
+      "options": [
+        "m − Zm_{p} − (A − Z)m_{n}",
+        "Zm_{p} + (A − Z)m_{n} − m",
+        "Am_{p} − Zm_{n}",
+        "m/A"
+      ],
+      "answer": 1,
+      "explain": "Δm là tổng khối lượng các nucleon tự do trừ khối lượng hạt nhân tạo thành."
+    },
+    {
+      "id": "vl-hat-nhan-lt-02-02",
+      "type": "mcq",
+      "level": 1,
+      "prompt": "Đại lượng nào thường dùng để so sánh mức độ bền vững về liên kết của các hạt nhân?",
+      "options": [
+        "Số neutron",
+        "Khối lượng nguyên tử",
+        "Tổng năng lượng liên kết",
+        "Năng lượng liên kết riêng"
+      ],
+      "answer": 3,
+      "explain": "Năng lượng liên kết riêng tính cho mỗi nucleon; giá trị lớn hơn thường ứng với liên kết bền vững hơn."
+    },
+    {
+      "id": "vl-hat-nhan-lt-02-03",
+      "type": "mcq",
+      "level": 2,
+      "prompt": "Hai hạt nhân X, Y có E_{lk,X} = 120 MeV, A_{X} = 20 và E_{lk,Y} = 160 MeV, A_{Y} = 40. Nhận xét nào đúng về năng lượng liên kết riêng?",
+      "options": [
+        "X lớn hơn: 6 so với 4 MeV/nucleon",
+        "Y lớn hơn vì 160 > 120",
+        "Hai hạt nhân có năng lượng liên kết riêng bằng nhau",
+        "X có 120 MeV/nucleon"
+      ],
+      "answer": 0,
+      "explain": "Chia tổng năng lượng liên kết cho A: X là 120/20 = 6, Y là 160/40 = 4 MeV/nucleon."
+    },
+    {
+      "id": "vl-hat-nhan-lt-02-04",
+      "type": "mcq",
+      "level": 2,
+      "prompt": "Tổng khối lượng nghỉ sau một phản ứng nhỏ hơn trước. Theo Q = (m_{trước} − m_{sau})c², phản ứng thuộc loại nào?",
+      "options": [
+        "Thu năng lượng",
+        "Không trao đổi năng lượng",
+        "Tỏa năng lượng",
+        "Vi phạm bảo toàn năng lượng"
+      ],
+      "answer": 2,
+      "explain": "Hiệu khối lượng dương nên Q > 0; phần khối lượng nghỉ giảm chuyển thành năng lượng khác."
+    },
+    {
+      "id": "vl-hat-nhan-lt-02-05",
+      "type": "mcq",
+      "level": 2,
+      "prompt": "Cho 1 MeV = 1,60·10^{−13} J. Năng lượng 5,0 MeV bằng bao nhiêu joule?",
+      "options": [
+        "8,0·10^{−19} J",
+        "8,0·10^{−13} J",
+        "3,2·10^{−14} J",
+        "8,0·10^{13} J"
+      ],
+      "answer": 1,
+      "explain": "5,0 · 1,60·10^{−13} = 8,0·10^{−13} J; tránh nhầm eV với MeV."
+    },
+    {
+      "id": "vl-hat-nhan-lt-02-06",
+      "type": "mcq",
+      "level": 2,
+      "prompt": "Có m_{p}, m_{n} là khối lượng proton, neutron tự do. Khi dùng Δm = Zm_{p} + (A − Z)m_{n} − m, m phải là khối lượng nào?",
+      "options": [
+        "Nguyên tử trung hòa gồm vỏ electron",
+        "Một mol nguyên tử",
+        "Toàn bộ các nucleon tự do",
+        "Hạt nhân đang xét"
+      ],
+      "answer": 3,
+      "explain": "m phải là khối lượng hạt nhân; lấy khối lượng nguyên tử sẽ đưa cả electron vào không đúng công thức."
+    }
+  ]
+}

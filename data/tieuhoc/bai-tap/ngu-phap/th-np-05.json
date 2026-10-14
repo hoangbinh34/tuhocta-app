@@ -1,0 +1,145 @@
+{
+ "id": "th-np-05",
+ "module": "grammar",
+ "title": "So sánh hơn và so sánh nhất",
+ "emoji": "📏",
+ "intro": "Tính từ ngắn: thêm -er / the -est (tall → taller → the tallest). Tính từ dài: more … / the most … (beautiful → more beautiful). Bất quy tắc: good → better → the best; bad → worse → the worst.",
+ "instruction": "Chọn đáp án đúng.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL-NTT"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-np-05-01",
+   "type": "mcq",
+   "prompt": "An elephant is ___ than a horse.",
+   "options": [
+    "big",
+    "bigger",
+    "biggest",
+    "the biggest"
+   ],
+   "answer": 1,
+   "explain": "So sánh hai vật dùng than: bigger (gấp đôi g)."
+  },
+  {
+   "id": "th-np-05-02",
+   "type": "mcq",
+   "prompt": "Mount Fansipan is the ___ mountain in Viet Nam.",
+   "options": [
+    "high",
+    "higher",
+    "highest",
+    "more high"
+   ],
+   "answer": 2,
+   "explain": "Có \"the\" và so với tất cả: the highest."
+  },
+  {
+   "id": "th-np-05-03",
+   "type": "mcq",
+   "prompt": "This book is ___ than that one.",
+   "options": [
+    "interesting",
+    "more interesting",
+    "most interesting",
+    "interestinger"
+   ],
+   "answer": 1,
+   "explain": "interesting là tính từ dài: more interesting."
+  },
+  {
+   "id": "th-np-05-04",
+   "type": "mcq",
+   "prompt": "My English is ___ than it was last year.",
+   "options": [
+    "good",
+    "better",
+    "best",
+    "gooder"
+   ],
+   "answer": 1,
+   "explain": "good → better (bất quy tắc)."
+  },
+  {
+   "id": "th-np-05-05",
+   "type": "mcq",
+   "prompt": "Lan is the ___ student in our class.",
+   "options": [
+    "tall",
+    "taller",
+    "tallest",
+    "most tall"
+   ],
+   "answer": 2,
+   "explain": "the + tallest (so sánh nhất)."
+  },
+  {
+   "id": "th-np-05-06",
+   "type": "mcq",
+   "prompt": "Today is ___ than yesterday.",
+   "options": [
+    "hot",
+    "hotter",
+    "hottest",
+    "more hot"
+   ],
+   "answer": 1,
+   "explain": "hot → hotter (gấp đôi t)."
+  },
+  {
+   "id": "th-np-05-07",
+   "type": "mcq",
+   "prompt": "This is the ___ film I have ever seen.",
+   "options": [
+    "bad",
+    "worse",
+    "worst",
+    "most bad"
+   ],
+   "answer": 2,
+   "explain": "bad → the worst (bất quy tắc)."
+  },
+  {
+   "id": "th-np-05-08",
+   "type": "mcq",
+   "prompt": "A car is ___ than a bike.",
+   "options": [
+    "expensive",
+    "more expensive",
+    "most expensive",
+    "expensiver"
+   ],
+   "answer": 1,
+   "explain": "expensive là tính từ dài: more expensive."
+  },
+  {
+   "id": "th-np-05-09",
+   "type": "mcq",
+   "prompt": "Ha Noi is ___ than my hometown.",
+   "options": [
+    "busy",
+    "busier",
+    "busiest",
+    "more busy"
+   ],
+   "answer": 1,
+   "explain": "busy → busier (y đổi thành i)."
+  },
+  {
+   "id": "th-np-05-10",
+   "type": "mcq",
+   "prompt": "Who is the ___ person in your family?",
+   "options": [
+    "old",
+    "older",
+    "oldest",
+    "more old"
+   ],
+   "answer": 2,
+   "explain": "the + oldest (so sánh nhất)."
+  }
+ ]
+}

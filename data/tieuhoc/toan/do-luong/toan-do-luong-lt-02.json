@@ -1,0 +1,16 @@
+{
+  "id": "toan-do-luong-lt-02",
+  "title": "Diện tích",
+  "topic": "do-luong",
+  "items": [
+    {
+      "id": "toan-do-luong-lt-02-t1", "type": "card", "title": "Diện tích và đơn vị diện tích",
+      "paras": [
+        "Các đơn vị diện tích liền nhau hơn kém nhau 100 lần: 1 m² = 100 dm² và 1 dm² = 100 cm².",
+        "1 ha = 10 000 m²; 1 km² = 100 ha. Khi đổi đơn vị diện tích, cần nhớ đây là đơn vị vuông nên không dùng 10 như đơn vị độ dài.",
+        "Muốn tính diện tích phần đất còn lại, trước hết tính diện tích từng phần cùng đơn vị, rồi làm phép trừ."
+      ],
+      "source": "Toán 5, bài SGK: chưa xác minh; diện tích dm², m², ha, km² thuộc phạm vi CB của đặc tả 2.0."
+    }
+  ]
+}

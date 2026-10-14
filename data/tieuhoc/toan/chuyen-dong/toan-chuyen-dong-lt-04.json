@@ -1,0 +1,19 @@
+{
+  "id": "toan-chuyen-dong-lt-04",
+  "title": "Hai chuyển động (nâng cao)",
+  "topic": "chuyen-dong",
+  "items": [
+    {
+      "id": "toan-chuyen-dong-lt-04-t1",
+      "type": "card",
+      "title": "Hai chuyển động (nâng cao)",
+      "paras": [
+        "Hai vật hướng về nhau: mỗi đơn vị thời gian, khoảng cách giảm bằng tổng vận tốc. Thời gian gặp bằng khoảng cách ban đầu chia tổng vận tốc, nếu cùng bắt đầu và không nghỉ.",
+        "Hai vật cùng chiều, vật sau nhanh hơn: mỗi đơn vị thời gian khoảng cách giảm bằng hiệu vận tốc. Lấy khoảng cách lúc vật sau bắt đầu chia hiệu vận tốc để tìm thời gian đuổi kịp.",
+        "Xuất phát lệch giờ: tính phần đi trước rồi xác định khoảng cách lúc cả hai cùng chuyển động. Hai vật đi xa nhau: khoảng cách tăng theo tổng vận tốc. Trên đường tròn cùng chiều, mỗi lần đuổi kịp tiếp theo ứng với vật nhanh hơn đi hơn một vòng.",
+        "Giải bằng tổng/hiệu vận tốc và phép tính số học; không lập ẩn. Toàn bộ dạng hai chuyển động ở đây là NC, chỉ luyện ở cấp 3."
+      ],
+      "source": "Toán 5, bài SGK: chưa xác minh đối với hai vật gặp nhau/đuổi nhau; xếp NC theo đặc tả 2.0, mục 1."
+    }
+  ]
+}

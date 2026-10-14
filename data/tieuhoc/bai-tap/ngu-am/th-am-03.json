@@ -1,0 +1,155 @@
+{
+ "id": "th-am-03",
+ "module": "phonics",
+ "title": "Nguyên âm \"a\"",
+ "emoji": "🅰️",
+ "intro": "Chữ a thường đọc /æ/ (cat), /eɪ/ (name), /ɑː/ (father, car), /ɔː/ (ball, walk) hoặc /ɒ/ (watch). (Đáp án theo giọng Anh-Anh như sách giáo khoa; nút 🔊 cũng đọc giọng Anh.)",
+ "instruction": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-am-03-01",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "c[[a]]t",
+    "h[[a]]t",
+    "n[[a]]me",
+    "b[[a]]g"
+   ],
+   "answer": 2,
+   "explain": "name: /eɪ/. cat, hat, bag: /æ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-03-02",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "l[[a]]ke",
+    "m[[a]]ke",
+    "t[[a]]ble",
+    "f[[a]]ther"
+   ],
+   "answer": 3,
+   "explain": "father: /ɑː/. lake, make, table: /eɪ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-03-03",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "c[[a]]ke",
+    "pl[[a]]ce",
+    "f[[a]]mily",
+    "gr[[a]]pe"
+   ],
+   "answer": 2,
+   "explain": "family: /æ/. cake, place, grape: /eɪ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-03-04",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "f[[a]]rm",
+    "c[[a]]r",
+    "st[[a]]r",
+    "w[[a]]r"
+   ],
+   "answer": 3,
+   "explain": "war: /ɔː/. farm, car, star: /ɑː/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-03-05",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "b[[a]]ll",
+    "t[[a]]ll",
+    "w[[a]]lk",
+    "h[[a]]t"
+   ],
+   "answer": 3,
+   "explain": "hat: /æ/. ball, tall, walk: /ɔː/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-03-06",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "c[[a]]rd",
+    "h[[a]]rd",
+    "m[[a]]rket",
+    "m[[a]]p"
+   ],
+   "answer": 3,
+   "explain": "map: /æ/. card, hard, market: /ɑː/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-03-07",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "s[[a]]ve",
+    "d[[a]]te",
+    "s[[a]]lt",
+    "g[[a]]me"
+   ],
+   "answer": 2,
+   "explain": "salt: /ɔː/. save, date, game: /eɪ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-03-08",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "w[[a]]tch",
+    "w[[a]]sh",
+    "w[[a]]nt",
+    "w[[a]]ve"
+   ],
+   "answer": 3,
+   "explain": "wave: /eɪ/. watch, wash, want: /ɒ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-03-09",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "pl[[ay]]",
+    "d[[ay]]",
+    "s[[ay]]",
+    "s[[ay]]s"
+   ],
+   "answer": 3,
+   "explain": "says: /e/. play, day, say: /eɪ/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-03-10",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "b[[a]]by",
+    "l[[a]]dy",
+    "h[[a]]ppy",
+    "p[[a]]per"
+   ],
+   "answer": 2,
+   "explain": "happy: /æ/. baby, lady, paper: /eɪ/.",
+   "skill": "phat-am"
+  }
+ ]
+}

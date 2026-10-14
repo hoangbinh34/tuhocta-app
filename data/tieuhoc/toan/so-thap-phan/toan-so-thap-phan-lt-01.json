@@ -1,0 +1,13 @@
+{
+  "id": "toan-so-thap-phan-lt-01", "title": "Đọc, viết và so sánh số thập phân", "topic": "so-thap-phan",
+  "items": [{
+    "id": "toan-so-thap-phan-lt-01-t1", "type": "card", "title": "Nhìn đúng hàng, so sánh đúng giá trị",
+    "paras": [
+      "Bên phải dấu phẩy lần lượt là hàng phần mười, phần trăm, phần nghìn. Trong 31,482, chữ số 4 có giá trị 0,4; chữ số 8 có giá trị 0,08; chữ số 2 có giá trị 0,002.",
+      "Đọc phần nguyên, đọc phẩy rồi đọc phần thập phân; giữ rõ các hàng có chữ số 0 đầu phần thập phân. Ví dụ 12,043 đọc là mười hai phẩy không trăm bốn mươi ba. Khi đề cho từng chữ số sau dấu phẩy, viết đúng thứ tự các chữ số đó.",
+      "So sánh phần nguyên trước, rồi lần lượt từng hàng thập phân từ trái sang phải. Có thể thêm chữ số 0 tận cùng bên phải phần thập phân: 2,7 = 2,700; thêm 0 vào giữa các chữ số thì thường làm đổi giá trị.",
+      "Khoảng cách giữa hai số là số lớn trừ số bé. Khi so hai khoảng cách, tính từng hiệu trên một dòng rồi so sánh hai kết quả."
+    ],
+    "source": "Toán 5, bài SGK: chưa xác minh số/tên bài; đọc, viết, so sánh thuộc phạm vi CB đã xác định ở mục 1 đặc tả 2.0."
+  }]
+}

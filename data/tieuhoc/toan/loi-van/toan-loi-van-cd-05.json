@@ -1,0 +1,111 @@
+{
+  "id": "toan-loi-van-cd-05",
+  "title": "Logic có điều kiện",
+  "topic": "loi-van",
+  "items": [
+    {
+      "type": "mcq",
+      "level": 3,
+      "model": "xep-hang-ba-ban-dieu-kien-giua",
+      "prompt": "An, Bình, Chi đứng một hàng, mỗi bạn đúng một vị trí, đọc từ đầu hàng đến cuối hàng. An đứng giữa; Bình đứng trước Chi. Thứ tự nào đúng?",
+      "answer": 2,
+      "explain": "Mọi thứ tự có thể: An–Bình–Chi, An–Chi–Bình, Bình–An–Chi, Bình–Chi–An, Chi–An–Bình, Chi–Bình–An.\nAn đứng giữa chỉ còn Bình–An–Chi và Chi–An–Bình.\nBình đứng trước Chi chỉ còn Bình–An–Chi.\nNhiễu: Chi–An–Bình đảo điều kiện trước; An–Bình–Chi đặt An đầu; Bình–Chi–An đặt An cuối.\nĐáp số: Bình–An–Chi.",
+      "options": [
+        "Chi–An–Bình",
+        "An–Bình–Chi",
+        "Bình–An–Chi",
+        "Bình–Chi–An"
+      ],
+      "id": "toan-loi-van-cd-05-01",
+      "adv": true
+    },
+    {
+      "type": "num",
+      "level": 3,
+      "model": "gan-ba-gia-tri-co-gia-tri-co-dinh",
+      "prompt": "Ba hộp A, B, C chứa ba khối lượng khác nhau lấy từ 2 kg, 5 kg, 8 kg, chưa biết hộp nào chứa khối lượng nào; mỗi khối lượng dùng đúng một lần. Hộp C chứa 5 kg và hộp A nặng hơn hộp B. Hộp A chứa bao nhiêu ki-lô-gam?",
+      "answer": 8,
+      "explain": "Theo thứ tự A, B, C, mọi bộ là (2; 5; 8), (2; 8; 5), (5; 2; 8), (5; 8; 2), (8; 2; 5), (8; 5; 2).\nC chứa 5 kg chỉ còn (2; 8; 5) và (8; 2; 5).\nA nặng hơn B chỉ còn (8; 2; 5).\nĐáp số: 8 kg.",
+      "unit": "kg",
+      "round": 0,
+      "id": "toan-loi-van-cd-05-02",
+      "adv": true
+    },
+    {
+      "type": "mcq",
+      "level": 3,
+      "model": "mot-loi-dung-tim-nguoi-nhan",
+      "prompt": "Chỉ một trong ba bạn An, Bình, Chi nhận quà. An nói: “An nhận quà.” Bình nói: “An nhận quà.” Chi nói: “Bình nhận quà.” Biết đúng một trong ba lời nói đúng. Ai nhận quà?",
+      "answer": 3,
+      "explain": "Nếu An nhận: lời An và Bình đúng, lời Chi sai; có hai lời đúng, loại.\nNếu Bình nhận: lời An và Bình sai, lời Chi đúng; có đúng một lời đúng, nhận.\nNếu Chi nhận: cả ba lời sai; không có lời đúng, loại.\nNhiễu: An cho hai lời đúng; Chi cho không lời đúng; An và Bình trái điều kiện chỉ một người nhận.\nĐáp số: Bình.",
+      "options": [
+        "An",
+        "Chi",
+        "An và Bình",
+        "Bình"
+      ],
+      "id": "toan-loi-van-cd-05-03",
+      "adv": true
+    },
+    {
+      "type": "group",
+      "level": 3,
+      "model": "ma-hai-chu-so-roi-dao",
+      "title": "Tìm và đổi mã",
+      "passage": "Một mã gồm hai chữ số khác nhau lấy từ 2, 4, 6; mỗi chữ số được dùng nhiều nhất một lần. Mã lớn hơn 40, nhỏ hơn 60 và chữ số hàng đơn vị lớn hơn chữ số hàng chục.",
+      "items": [
+        {
+          "type": "num",
+          "level": 3,
+          "model": "loc-ma-bang-khoang-va-so-sanh-chu-so",
+          "prompt": "Mã ban đầu là số nào?",
+          "answer": 46,
+          "explain": "Mọi mã: 24, 26, 42, 46, 62, 64.\nLớn hơn 40 và nhỏ hơn 60 chỉ còn 42 và 46.\nHàng đơn vị lớn hơn hàng chục chỉ có 46.\nĐáp số: 46.",
+          "unit": "",
+          "round": 0,
+          "id": "toan-loi-van-cd-05-04a",
+          "adv": true
+        },
+        {
+          "type": "num",
+          "level": 1,
+          "model": "dao-ma-da-suy-ra-tim-do-tang",
+          "prompt": "Đảo thứ tự hai chữ số của mã tìm ở câu a. Mã sau đảo lớn hơn mã ban đầu bao nhiêu đơn vị?",
+          "answer": 18,
+          "explain": "Mã câu a là 46 nên sau đảo là 64.\nMức tăng: 64 − 46 = 18.\nĐáp số: 18.",
+          "unit": "",
+          "round": 0,
+          "id": "toan-loi-van-cd-05-04b"
+        }
+      ],
+      "id": "toan-loi-van-cd-05-04",
+      "adv": true
+    },
+    {
+      "type": "tf4",
+      "level": 3,
+      "model": "lich-ba-tiet-phan-biet-bat-buoc-co-the",
+      "prompt": "An, Bình, Chi mỗi bạn trình bày đúng một trong các tiết 1, 2, 3, không chung tiết. An trình bày ở tiết sớm hơn Bình (không cần liền trước). Đánh giá các phát biểu.",
+      "statements": [
+        "a) Chi có thể trình bày tiết 1.",
+        "b) Bình bắt buộc trình bày tiết 3.",
+        "c) An không thể trình bày tiết 3.",
+        "d) Có đúng 3 lịch thỏa mãn."
+      ],
+      "answers": [
+        true,
+        false,
+        true,
+        true
+      ],
+      "explain": [
+        "Đúng. An ở tiết 1 thì Bình ở tiết 2 hoặc 3; An ở tiết 2 thì Bình chỉ ở tiết 3; An ở tiết 3 thì không còn tiết sau cho Bình.\nMọi lịch theo thứ tự tiết 1–2–3: An–Bình–Chi, An–Chi–Bình, Chi–An–Bình.\nLịch Chi–An–Bình cho Chi ở tiết 1.\nĐáp số: Đúng.",
+        "Sai. An ở tiết 1 thì Bình ở tiết 2 hoặc 3; An ở tiết 2 thì Bình chỉ ở tiết 3; An ở tiết 3 thì không còn tiết sau cho Bình.\nMọi lịch: An–Bình–Chi, An–Chi–Bình, Chi–An–Bình.\nLịch An–Bình–Chi cho Bình ở tiết 2.\nĐáp số: Sai.",
+        "Đúng. An ở tiết 1 thì Bình ở tiết 2 hoặc 3; An ở tiết 2 thì Bình chỉ ở tiết 3; An ở tiết 3 thì không còn tiết sau cho Bình.\nMọi lịch: An–Bình–Chi, An–Chi–Bình, Chi–An–Bình.\nAn chỉ ở tiết 1 hoặc 2, không ở tiết 3.\nĐáp số: Đúng.",
+        "Đúng. Sáu lịch chưa lọc: An–Bình–Chi, An–Chi–Bình, Bình–An–Chi, Bình–Chi–An, Chi–An–Bình, Chi–Bình–An.\nLoại ba lịch Bình trước An, còn An–Bình–Chi, An–Chi–Bình, Chi–An–Bình.\nĐáp số: Đúng."
+      ],
+      "id": "toan-loi-van-cd-05-05",
+      "adv": true
+    }
+  ]
+}

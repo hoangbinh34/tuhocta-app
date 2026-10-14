@@ -1,0 +1,19 @@
+{
+  "id": "toan-loi-van-lt-05",
+  "title": "Logic có điều kiện",
+  "topic": "loi-van",
+  "items": [
+    {
+      "id": "toan-loi-van-lt-05-t1",
+      "type": "card",
+      "title": "Logic có điều kiện",
+      "paras": [
+        "Đây là nội dung NC. Liệt kê mọi khả năng trong tập hữu hạn đề cho, rồi loại từng khả năng vi phạm điều kiện.",
+        "Phân biệt điều kiện bắt buộc và kết luận có thể xảy ra. Khi có người nói thật, kiểm từng trường hợp cùng số phát biểu đúng.",
+        "Đề phải nói rõ mỗi vật dùng mấy lần, có cho phép trùng hay không và so thứ tự theo chiều nào."
+      ],
+      "source": "Toán 5, bài SGK: chưa xác minh; dạng NC theo mục 1 nhóm 7 đặc tả T2.0.",
+      "adv": true
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "toan-loi-van-lt-01",
+  "title": "Rút về đơn vị",
+  "topic": "loi-van",
+  "items": [
+    {
+      "id": "toan-loi-van-lt-01-t1",
+      "type": "card",
+      "title": "Rút về đơn vị",
+      "paras": [
+        "Khi các nhóm có lượng bằng nhau, lấy tổng lượng chia số nhóm để tìm lượng một nhóm. Muốn tìm lượng của nhiều nhóm thì nhân lượng một nhóm với số nhóm.",
+        "Nếu số nhóm mới gấp số nhóm cũ một số lần nguyên, có thể nhân tổng lượng cũ với số lần đó. Chỉ dùng khi lượng mỗi nhóm không đổi.",
+        "Đọc rõ tổng lượng, lượng mỗi nhóm và số nhóm; gom hoặc bớt phần riêng trước khi chia. Không suy ra chia đều chỉ từ màu hay nhãn hộp."
+      ],
+      "source": "Toán 5, bài SGK: chưa xác minh; phạm vi CB theo mục 1 nhóm 7 đặc tả T2.0 (tên/số bài cần xác minh)."
+    }
+  ]
+}

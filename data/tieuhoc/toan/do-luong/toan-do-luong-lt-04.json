@@ -1,0 +1,16 @@
+{
+  "id": "toan-do-luong-lt-04",
+  "title": "Thời gian",
+  "topic": "do-luong",
+  "items": [
+    {
+      "id": "toan-do-luong-lt-04-t1", "type": "card", "title": "Đổi và tính thời gian",
+      "paras": [
+        "1 giờ = 60 phút, 1 phút = 60 giây, 1 ngày = 24 giờ. Hãy đổi về cùng đơn vị trước khi cộng hoặc trừ thời gian.",
+        "Để tính thời gian kết thúc trong cùng ngày, cộng thời gian bắt đầu với thời lượng. Để tính thời lượng, lấy thời điểm sau trừ thời điểm trước.",
+        "Các bài đi qua nửa đêm trong bộ này được đánh dấu nâng cao vì đặc tả 2.0 chưa xác minh chúng là nội dung CB."
+      ],
+      "source": "SGK Toán 5 KNTT Chủ đề 10 Số đo thời gian, vận tốc, chuyển động đều; bài qua ngày được xếp NC theo đặc tả 2.0."
+    }
+  ]
+}

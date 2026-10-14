@@ -1,0 +1,59 @@
+{
+  "id": "vl-khi-lt-03",
+  "title": "Phương trình trạng thái, lốp xe và pít-tông",
+  "items": [
+    {
+      "id": "vl-khi-lt-03-t1", "type": "card", "title": "Phương trình trạng thái và áp suất tuyệt đối",
+      "paras": [
+        "Khí lí tưởng tuân theo pV = nRT. Với lượng khí không đổi, p_{1}V_{1}/T_{1} = p_{2}V_{2}/T_{2}. Nếu n thay đổi, so sánh n_{2}/n_{1} = p_{2}V_{2}T_{1}/(p_{1}V_{1}T_{2}).",
+        "p trong phương trình là áp suất tuyệt đối, đo từ chân không. Đồng hồ đo áp suất dư cho p_{dư} = p − p_{ngoài}; phải cộng p_{ngoài} trước khi thế vào công thức, rồi trừ lại nếu hỏi số chỉ đồng hồ.",
+        "Lốp xe coi như thể tích không đổi, không rò rỉ: p/T không đổi với p tuyệt đối. Nếu bơm thêm khí, không thể dùng riêng p/T = hằng số. Nhiệt độ cần là của khí, chỉ coi bằng nhiệt độ môi trường khi đã cân bằng nhiệt."
+      ]
+    },
+    {
+      "id": "vl-khi-lt-03-t2", "type": "card", "title": "Nền cơ học cho xi-lanh và bơm khí",
+      "paras": [
+        "Lực do chênh lệch áp suất lên pít-tông diện tích S là (p − p_{ngoài})S. Xi-lanh thẳng đứng, khí ở dưới pít-tông khối lượng m, không ma sát, cân bằng: pS = p_{ngoài}S + mg; có tải thì cộng trọng lượng tải. Nếu có lò xo, thêm lực lò xo theo đúng chiều; đề sẽ cho số liệu.",
+        "Pít-tông dịch chuyển đoạn x làm thể tích thay đổi ΔV = Sx. Nung chậm dưới tải không đổi, áp suất ngoài không đổi, pít-tông không chạm chốt thì khí biến đổi đẳng áp. Nếu pít-tông đã chạm chốt, thể tích bị giữ cố định.",
+        "Công khí thực hiện khi giãn nở đẳng áp là W = pΔV (đề cần dùng công sẽ cho công thức). Với quy ước ΔU = A + Q của nhóm Nhiệt, công khí nhận A = −W.",
+        "Bơm đưa khí vào bình: bảo toàn tổng số mol, không cộng trực tiếp áp suất của các phần khí khi chúng có thể tích hoặc nhiệt độ khác nhau. Mỗi nhát bơm lí tưởng hút thể tích V_{hút} ở p_{ngoài}, T_{hút}, đưa n_{nhát} = p_{ngoài}V_{hút}/(RT_{hút}) mol vào bình."
+      ]
+    },
+    {
+      "id": "vl-khi-lt-03-01", "type": "mcq", "level": 1,
+      "prompt": "Trong pV = nRT, khi dùng R = 8,31 J/(mol·K), bộ đơn vị nào phù hợp?",
+      "options": ["Pa, m³, mol, K", "Pa, L, mol, °C", "bar, m³, mol, °C", "Pa, cm³, gam, K"], "answer": 0,
+      "explain": "Pa·m³ = J; n theo mol và T theo K để nhất quán với đơn vị của R."
+    },
+    {
+      "id": "vl-khi-lt-03-02", "type": "mcq", "level": 1,
+      "prompt": "Áp suất nào phải dùng trong phương trình trạng thái khí lí tưởng?",
+      "options": ["Chỉ áp suất dư", "Áp suất tuyệt đối", "Hiệu áp suất cuối và đầu", "Bất kì số chỉ đồng hồ nào"], "answer": 1,
+      "explain": "p là áp suất tuyệt đối. Nếu đồng hồ đo áp suất dư, cộng áp suất bên ngoài."
+    },
+    {
+      "id": "vl-khi-lt-03-03", "type": "mcq", "level": 2,
+      "prompt": "Đồng hồ lốp xe đo áp suất dư 200 kPa; áp suất khí quyển 100 kPa. Áp suất dùng trong pV = nRT là bao nhiêu?",
+      "options": ["100 kPa", "200 kPa", "300 kPa", "0 kPa"], "answer": 2,
+      "explain": "p = p_{dư} + p_{ngoài} = 200 + 100 = 300 kPa."
+    },
+    {
+      "id": "vl-khi-lt-03-04", "type": "mcq", "level": 2,
+      "prompt": "Khí kín dưới pít-tông thẳng đứng không ma sát được nung chậm. Tải và áp suất khí quyển không đổi; pít-tông tự do, chưa chạm chốt. Quá trình thuộc loại nào?",
+      "options": ["Đẳng tích", "Đẳng nhiệt", "Số mol tăng", "Đẳng áp"], "answer": 3,
+      "explain": "Cân bằng lực cho p = p_{ngoài} + mg/S không đổi khi tải và S không đổi; thể tích tăng theo nhiệt độ."
+    },
+    {
+      "id": "vl-khi-lt-03-05", "type": "mcq", "level": 2,
+      "prompt": "Một bình cứng chứa khí ở nhiệt độ không đổi được bơm thêm khí, làm số mol tăng gấp đôi. Áp suất tuyệt đối thay đổi thế nào?",
+      "options": ["Tăng gấp đôi", "Giảm một nửa", "Không đổi", "Tăng gấp bốn"], "answer": 0,
+      "explain": "p = nRT/V; ở cùng V và T, p tỉ lệ với n. Không dùng định luật đẳng tích cho lượng khí cố định khi đang bơm thêm khí."
+    },
+    {
+      "id": "vl-khi-lt-03-06", "type": "mcq", "level": 2,
+      "prompt": "Một pít-tông đang đi lên thì chạm chốt và bị giữ cố định. Tiếp tục nung khí kín, mô hình nào phù hợp sau khi chạm chốt?",
+      "options": ["Đẳng áp vì vẫn đang nung", "Đẳng tích vì thể tích bị giữ cố định", "Đẳng nhiệt vì pít-tông đứng yên", "Khí tự mất bớt số mol"], "answer": 1,
+      "explain": "Chốt giữ V không đổi; nung tiếp làm T và p tăng. Cần đổi mô hình tại thời điểm chạm chốt."
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+ "id": "th-np-06",
+ "module": "grammar",
+ "title": "Mạo từ và lượng từ",
+ "emoji": "🔢",
+ "intro": "a/an + danh từ số ít đếm được (an trước nguyên âm: an apple). the: vật đã biết hoặc duy nhất. some (câu khẳng định), any (câu phủ định/hỏi). many + danh từ đếm được, much + danh từ không đếm được.",
+ "instruction": "Chọn đáp án đúng.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL-NTT"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-np-06-01",
+   "type": "mcq",
+   "prompt": "I have ___ orange in my bag.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "some"
+   ],
+   "answer": 1,
+   "explain": "orange bắt đầu bằng nguyên âm o nên dùng an."
+  },
+  {
+   "id": "th-np-06-02",
+   "type": "mcq",
+   "prompt": "___ moon is very bright tonight.",
+   "options": [
+    "A",
+    "An",
+    "The",
+    "Some"
+   ],
+   "answer": 2,
+   "explain": "Mặt trăng là duy nhất nên dùng The."
+  },
+  {
+   "id": "th-np-06-03",
+   "type": "mcq",
+   "prompt": "She is ___ teacher. She teaches English.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "any"
+   ],
+   "answer": 0,
+   "explain": "Nói về nghề nghiệp, danh từ số ít bắt đầu bằng phụ âm: a teacher."
+  },
+  {
+   "id": "th-np-06-04",
+   "type": "mcq",
+   "prompt": "Is there ___ milk in the fridge?",
+   "options": [
+    "a",
+    "any",
+    "many",
+    "an"
+   ],
+   "answer": 1,
+   "explain": "Câu hỏi với danh từ không đếm được (milk) dùng any; many chỉ đi với danh từ đếm được."
+  },
+  {
+   "id": "th-np-06-05",
+   "type": "mcq",
+   "prompt": "There are ___ apples on the table.",
+   "options": [
+    "some",
+    "any",
+    "much",
+    "an"
+   ],
+   "answer": 0,
+   "explain": "Câu khẳng định với danh từ số nhiều: some."
+  },
+  {
+   "id": "th-np-06-06",
+   "type": "mcq",
+   "prompt": "How ___ students are there in your class?",
+   "options": [
+    "much",
+    "many",
+    "some",
+    "any"
+   ],
+   "answer": 1,
+   "explain": "students đếm được nên dùng How many."
+  },
+  {
+   "id": "th-np-06-07",
+   "type": "mcq",
+   "prompt": "I don't have ___ money.",
+   "options": [
+    "many",
+    "much",
+    "a",
+    "an"
+   ],
+   "answer": 1,
+   "explain": "money không đếm được: much (câu phủ định)."
+  },
+  {
+   "id": "th-np-06-08",
+   "type": "mcq",
+   "prompt": "He plays ___ guitar very well.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "some"
+   ],
+   "answer": 2,
+   "explain": "Chơi nhạc cụ dùng the: play the guitar."
+  },
+  {
+   "id": "th-np-06-09",
+   "type": "mcq",
+   "prompt": "There isn't ___ bread left.",
+   "options": [
+    "some",
+    "any",
+    "many",
+    "a"
+   ],
+   "answer": 1,
+   "explain": "Câu phủ định dùng any."
+  },
+  {
+   "id": "th-np-06-10",
+   "type": "mcq",
+   "prompt": "We waited for ___ hour.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "some"
+   ],
+   "answer": 1,
+   "explain": "hour có h câm, đọc bắt đầu bằng nguyên âm nên dùng an."
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "vl-hat-nhan-cd-04",
+  "title": "Hạt nhân: ghi nhớ định luật và phép đo phóng xạ",
+  "items": [
+    {
+      "id": "vl-hat-nhan-cd-04-01", "type": "mcq", "level": 1,
+      "prompt": "Độ phóng xạ H của một nguồn có đơn vị SI là gì?",
+      "options": ["Joule (J)", "Becquerel (Bq)", "Watt (W)", "Coulomb (C)"], "answer": 1,
+      "explain": "Becquerel là đơn vị độ phóng xạ: 1 Bq tương ứng trung bình một phân rã mỗi giây. Watt đo công suất, không đo độ phóng xạ."
+    },
+    {
+      "id": "vl-hat-nhan-cd-04-02", "type": "mcq", "level": 1,
+      "prompt": "Với đồng vị có chu kì bán rã T, hằng số phóng xạ λ được xác định bằng công thức nào?",
+      "options": ["λ = T/ln 2", "λ = T ln 2", "λ = 2T", "λ = ln 2/T"], "answer": 3,
+      "explain": "N = N_{0}e^{-λt} và N(T) = N_{0}/2 cho λT = ln 2, suy ra λ = ln 2/T. T tính bằng giây thì λ có đơn vị s^{-1}."
+    },
+    {
+      "id": "vl-hat-nhan-cd-04-03", "type": "mcq", "level": 1,
+      "prompt": "Hạt được phát ra trong phóng xạ beta trừ là hạt nào?",
+      "options": ["Electron", "Positron", "Hạt nhân helium-4", "Proton"], "answer": 0,
+      "explain": "Hạt beta trừ là electron sinh ra trong quá trình biến đổi neutron thành proton trong hạt nhân, kèm phản neutrino; không phải electron lớp vỏ bị bật ra."
+    },
+    {
+      "id": "vl-hat-nhan-cd-04-04", "type": "mcq", "level": 1,
+      "prompt": "Phát biểu nào nêu đúng bản chất của tia gamma?",
+      "options": ["Chùm hạt nhân helium", "Chùm neutron", "Bức xạ điện từ có photon năng lượng cao", "Chùm electron lớp vỏ"], "answer": 2,
+      "explain": "Gamma là bức xạ điện từ, thường phát ra khi hạt nhân chuyển từ trạng thái kích thích xuống mức năng lượng thấp hơn. Photon không có điện tích."
+    },
+    {
+      "id": "vl-hat-nhan-cd-04-05", "type": "mcq", "level": 1,
+      "prompt": "Trong phương trình phản ứng hạt nhân, tổng đại lượng nào được bảo toàn ở hai vế?",
+      "options": ["Khối lượng nghỉ của các hạt", "Số hạt nhân", "Số neutron riêng rẽ", "Số nucleon và điện tích"], "answer": 3,
+      "explain": "Bảo toàn số nucleon và điện tích dùng để cân bằng phản ứng. Khối lượng nghỉ có thể đổi thành năng lượng; số neutron riêng rẽ có thể đổi trong phân rã beta."
+    },
+    {
+      "id": "vl-hat-nhan-cd-04-06", "type": "mcq", "level": 1,
+      "prompt": "Nhiệt hạch là quá trình nào?",
+      "options": ["Tách một phân tử thành nguyên tử", "Kết hợp các hạt nhân nhẹ thành hạt nhân nặng hơn", "Đun nóng vật đến nóng chảy", "Electron chuyển mức trong nguyên tử"], "answer": 1,
+      "explain": "Nhiệt hạch là sự kết hợp các hạt nhân nhẹ; cần điều kiện để chúng tiến đủ gần nhau vượt lực đẩy điện. Nóng chảy và biến đổi phân tử không phải phản ứng hạt nhân."
+    },
+    {
+      "id": "vl-hat-nhan-cd-04-07", "type": "mcq", "level": 1,
+      "prompt": "Trong thí nghiệm đếm bức xạ, phông đo là gì?",
+      "options": ["Phần số đếm do bức xạ nền và tín hiệu nền của hệ đo", "Tổng số nucleon của nguồn", "Số hạt nhân mẹ chưa phân rã", "Năng lượng liên kết riêng của nguồn"], "answer": 0,
+      "explain": "Phông là tín hiệu nền không do riêng nguồn đang khảo sát. Cần đo phông trong cùng điều kiện và trừ khỏi số đếm tổng khi xử lí số liệu nguồn."
+    },
+    {
+      "id": "vl-hat-nhan-cd-04-08", "type": "mcq", "level": 1,
+      "prompt": "Vai trò chính của thanh điều khiển trong lò phản ứng phân hạch là gì?",
+      "options": ["Phát thêm proton vào nhiên liệu", "Biến tia gamma thành alpha", "Hấp thụ neutron để điều chỉnh phản ứng dây chuyền", "Làm thay đổi số proton của mọi hạt nhân"], "answer": 2,
+      "explain": "Thanh điều khiển hấp thụ neutron, điều chỉnh số neutron có thể gây phân hạch tiếp theo. Không nhầm thanh điều khiển với chất làm chậm neutron."
+    },
+    {
+      "id": "vl-hat-nhan-cd-04-09", "type": "tf4", "level": 1,
+      "prompt": "Xét các kí hiệu dùng trong phương trình phản ứng hạt nhân và đơn vị của hằng số phóng xạ.",
+      "statements": [
+        "a) Hạt beta trừ được kí hiệu ^{0}_{-1}e.",
+        "b) Hạt beta cộng có điện tích −e.",
+        "c) Photon gamma có số khối bằng 0 và điện tích bằng 0.",
+        "d) Khi T đo bằng giây, λ = ln 2/T có đơn vị giây."
+      ],
+      "answers": [true, false, true, false],
+      "explain": [
+        "Đúng. Electron beta trừ có điện tích −e, không mang nucleon nên số khối quy ước bằng 0.",
+        "Sai. Beta cộng là positron, điện tích +e; beta trừ mới có điện tích −e.",
+        "Đúng. Photon không mang nucleon và không mang điện nên A = 0, Z = 0 trong phương trình.",
+        "Sai. ln 2 không có đơn vị; chia cho T theo giây cho λ theo s^{-1}, không phải s."
+      ]
+    },
+    {
+      "id": "vl-hat-nhan-cd-04-10", "type": "num", "level": 1,
+      "prompt": "Hạt nhân đồng có số khối 63 và 34 neutron. Tính số proton của hạt nhân, làm tròn đến hàng đơn vị.",
+      "answer": 29, "round": 0, "unit": "proton",
+      "explain": "A = Z + N nên Z = 63 − 34 = 29 proton. Đây là số hạt nguyên. Ghi: 29."
+    }
+  ]
+}

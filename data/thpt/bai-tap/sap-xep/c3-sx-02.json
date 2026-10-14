@@ -1,0 +1,121 @@
+{
+ "id": "c3-sx-02",
+ "module": "arrange",
+ "title": "Sắp xếp lá thư",
+ "emoji": "✉️",
+ "intro": "Đề tốt nghiệp câu 13–17: sắp xếp câu thành hội thoại, lá thư, đoạn văn. Mẹo: tìm câu mở đầu (lời chào, câu chủ đề), câu kết (lời cảm ơn, kết luận), rồi nối các câu bằng từ nối (However, As a result…) và đại từ (It, They, This…).",
+ "instruction": "Chọn thứ tự đúng để tạo thành lá thư.",
+ "shuffle": true,
+ "shuffleItems": false,
+ "priority": 1,
+ "sources": [
+  "cau-truc-de-tn-2025"
+ ],
+ "items": [
+  {
+   "id": "c3-sx-02-g1",
+   "type": "group",
+   "title": "Thư xin làm tình nguyện",
+   "passage": "Dear Mr Brown,\na. I am writing to apply for the volunteer position at your animal shelter, which I saw on your website.\nb. Last summer, I also helped at a local animal rescue centre for two months.\nc. I am a Grade 12 student and I have always loved animals.\nd. I would be grateful if you could consider my application.\ne. I believe this experience would allow me to contribute to your team.\nYours sincerely,\nNguyen Thu Ha",
+   "items": [
+    {
+     "id": "c3-sx-02-01",
+     "type": "mcq",
+     "prompt": "Chọn thứ tự đúng.",
+     "options": [
+      "a – c – b – e – d",
+      "c – a – b – e – d",
+      "a – b – c – e – d",
+      "a – c – b – d – e"
+     ],
+     "answer": 0,
+     "explain": "Mục đích viết thư (a) → giới thiệu bản thân (c) → kinh nghiệm (b) → \"this experience\" chỉ b (e) → lời đề nghị kết thư (d)."
+    }
+   ]
+  },
+  {
+   "id": "c3-sx-02-g2",
+   "type": "group",
+   "title": "Thư cảm ơn",
+   "passage": "Dear Aunt Lan,\na. Thank you so much for the lovely birthday present you sent me.\nb. I've already read half of it and I can't put it down!\nc. The book is exactly the kind of story I enjoy.\nd. I hope to see you at Tet. Please give my love to Uncle Hai.\nLove,\nMinh",
+   "items": [
+    {
+     "id": "c3-sx-02-02",
+     "type": "mcq",
+     "prompt": "Chọn thứ tự đúng.",
+     "options": [
+      "a – c – b – d",
+      "c – a – b – d",
+      "b – a – c – d",
+      "a – c – d – b"
+     ],
+     "answer": 0,
+     "explain": "Cảm ơn (a) → nhận xét về quà (c) → \"it\" chỉ cuốn sách (b) → lời chào kết (d)."
+    }
+   ]
+  },
+  {
+   "id": "c3-sx-02-g3",
+   "type": "group",
+   "title": "Thư phàn nàn",
+   "passage": "Dear Sir or Madam,\na. However, when it arrived, I found that the left speaker did not work.\nb. I am writing to complain about a pair of headphones I bought from your online shop on 2nd March.\nc. I would like a full refund or a replacement as soon as possible.\nd. The product was advertised as \"brand new and fully tested\".\ne. I have attached a photo of the receipt for your reference.\nYours faithfully,\nTran Quoc Bao",
+   "items": [
+    {
+     "id": "c3-sx-02-03",
+     "type": "mcq",
+     "prompt": "Chọn thứ tự đúng.",
+     "options": [
+      "b – d – a – c – e",
+      "b – a – d – c – e",
+      "d – b – a – c – e",
+      "b – d – c – a – e"
+     ],
+     "answer": 0,
+     "explain": "Mục đích (b) → quảng cáo nói gì (d) → \"However\" thực tế khác (a) → yêu cầu (c) → đính kèm hoá đơn (e)."
+    }
+   ]
+  },
+  {
+   "id": "c3-sx-02-g4",
+   "type": "group",
+   "title": "Thư cho bạn qua thư (pen friend)",
+   "passage": "Hi Emma,\na. In my free time, I play badminton and help my parents in our small café.\nb. My name is Duc and I live in Hue, an old city in central Viet Nam.\nc. What about you? I'd love to hear about your hobbies too.\nd. Our teacher gave us your email address because we are joining an international pen-friend project.\nBest wishes,\nDuc",
+   "items": [
+    {
+     "id": "c3-sx-02-04",
+     "type": "mcq",
+     "prompt": "Chọn thứ tự đúng.",
+     "options": [
+      "b – d – a – c",
+      "a – b – d – c",
+      "b – a – d – c",
+      "b – d – c – a"
+     ],
+     "answer": 0,
+     "explain": "Giới thiệu tên, nơi sống (b) → lý do viết (d) → sở thích (a) → hỏi lại bạn (c)."
+    }
+   ]
+  },
+  {
+   "id": "c3-sx-02-g5",
+   "type": "group",
+   "title": "Thư hỏi thông tin khoá học",
+   "passage": "Dear Course Manager,\na. Could you also tell me whether there are any discounts for students?\nb. I am interested in the online photography course advertised in this month's Youth Magazine.\nc. First, I would like to know how many hours a week the course takes.\nd. I look forward to hearing from you.\nYours faithfully,\nLe Mai Anh",
+   "items": [
+    {
+     "id": "c3-sx-02-05",
+     "type": "mcq",
+     "prompt": "Chọn thứ tự đúng.",
+     "options": [
+      "b – c – a – d",
+      "c – b – a – d",
+      "b – a – c – d",
+      "b – c – d – a"
+     ],
+     "answer": 0,
+     "explain": "Lý do viết (b) → câu hỏi thứ nhất \"First\" (c) → câu hỏi thêm \"also\" (a) → kết thư (d)."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+ "id": "c3-dc-01",
+ "module": "gap-sentence",
+ "title": "Điền câu vào đoạn văn (1)",
+ "emoji": "🧩",
+ "intro": "Đề tốt nghiệp câu 18–22: chọn câu/cụm từ điền vào đoạn văn. Mẹo: xem câu trước và sau chỗ trống; kiểm tra ngữ pháp (mệnh đề quan hệ, rút gọn mệnh đề, chủ ngữ) và ý có liên kết không.",
+ "instruction": "Chọn phương án phù hợp nhất cho mỗi chỗ trống.",
+ "shuffle": true,
+ "shuffleItems": false,
+ "priority": 1,
+ "sources": [
+  "cau-truc-de-tn-2025"
+ ],
+ "items": [
+  {
+   "id": "c3-dc-01-g1",
+   "type": "group",
+   "title": "Smart cities",
+   "passage": "A smart city is a city (1) ___. For example, sensors on the streets can measure traffic and air quality, and traffic lights can change automatically to reduce congestion. (2) ___, residents can pay bills, book doctor appointments and report problems online. Many experts believe smart cities will help save energy, (3) ___. However, building a smart city is expensive, and (4) ___. Some people also worry about privacy, because smart systems collect a large amount of personal data. Therefore, governments need clear rules (5) ___.",
+   "items": [
+    {
+     "id": "c3-dc-01-01",
+     "type": "mcq",
+     "prompt": "(1)",
+     "options": [
+      "that uses technology to improve the quality of life",
+      "which technology improves the quality of life",
+      "uses technology to improve the quality of life",
+      "where improving the quality of life with technology"
+     ],
+     "answer": 0,
+     "explain": "Mệnh đề quan hệ đầy đủ bổ nghĩa cho a city: that uses technology… Các phương án khác sai cấu trúc."
+    },
+    {
+     "id": "c3-dc-01-02",
+     "type": "mcq",
+     "prompt": "(2)",
+     "options": [
+      "Thanks to mobile apps",
+      "Although mobile apps",
+      "Mobile apps are used",
+      "Because mobile apps are"
+     ],
+     "answer": 0,
+     "explain": "Cụm trạng ngữ \"Thanks to + danh từ,\" đứng trước mệnh đề chính."
+    },
+    {
+     "id": "c3-dc-01-03",
+     "type": "mcq",
+     "prompt": "(3)",
+     "options": [
+      "cut pollution and make transport more efficient",
+      "cutting pollution and make transport more efficient",
+      "to cut pollution and made transport more efficient",
+      "cut pollution and making transport efficiently"
+     ],
+     "answer": 0,
+     "explain": "Song song với save energy (sau will help): cut … and make …"
+    },
+    {
+     "id": "c3-dc-01-04",
+     "type": "mcq",
+     "prompt": "(4)",
+     "options": [
+      "not every city can afford the technology",
+      "the technology every city can afford",
+      "every city affording the technology",
+      "which not every city can afford"
+     ],
+     "answer": 0,
+     "explain": "Sau \"and\" cần một mệnh đề đầy đủ: not every city can afford the technology."
+    },
+    {
+     "id": "c3-dc-01-05",
+     "type": "mcq",
+     "prompt": "(5)",
+     "options": [
+      "to protect people's information",
+      "protecting people's information is",
+      "that people's information protects",
+      "people's information protected"
+     ],
+     "answer": 0,
+     "explain": "rules + to V (mục đích): rules to protect…"
+    }
+   ]
+  },
+  {
+   "id": "c3-dc-01-g2",
+   "type": "group",
+   "title": "Work experience",
+   "passage": "More and more Vietnamese students are doing work experience before they finish school. (6) ___, students can find out whether a job really suits them. A student who wants to become a nurse, for example, can spend a week in a hospital (7) ___. Work experience also helps students develop soft skills such as teamwork and communication, (8) ___. In addition, it looks good on a CV. (9) ___, students should choose a placement carefully and prepare questions to ask. Teachers say that the students (10) ___ are usually those who are curious and willing to learn.",
+   "items": [
+    {
+     "id": "c3-dc-01-06",
+     "type": "mcq",
+     "prompt": "(6)",
+     "options": [
+      "By spending time in a real workplace",
+      "They spend time in a real workplace",
+      "Spent time in a real workplace",
+      "Although spending time in a real workplace"
+     ],
+     "answer": 0,
+     "explain": "By + V-ing (bằng cách) làm trạng ngữ cho mệnh đề chính."
+    },
+    {
+     "id": "c3-dc-01-07",
+     "type": "mcq",
+     "prompt": "(7)",
+     "options": [
+      "to see what nurses do every day",
+      "seeing what do nurses every day",
+      "which nurses do every day",
+      "for seeing nurses do what every day"
+     ],
+     "answer": 0,
+     "explain": "to V chỉ mục đích; câu hỏi gián tiếp giữ trật tự chủ ngữ + động từ: what nurses do."
+    },
+    {
+     "id": "c3-dc-01-08",
+     "type": "mcq",
+     "prompt": "(8)",
+     "options": [
+      "which are important in any job",
+      "that is important in any job they",
+      "important in any job are",
+      "which they are important in any job"
+     ],
+     "answer": 0,
+     "explain": "Mệnh đề quan hệ không xác định bổ nghĩa cho soft skills: which are…"
+    },
+    {
+     "id": "c3-dc-01-09",
+     "type": "mcq",
+     "prompt": "(9)",
+     "options": [
+      "To get the most out of it",
+      "Getting the most out of it is",
+      "They get the most out of it",
+      "Because getting the most out of it"
+     ],
+     "answer": 0,
+     "explain": "To V chỉ mục đích đứng đầu câu: To get the most out of it, students should…"
+    },
+    {
+     "id": "c3-dc-01-10",
+     "type": "mcq",
+     "prompt": "(10)",
+     "options": [
+      "who benefit the most",
+      "who they benefit the most",
+      "benefit the most",
+      "which benefit the most"
+     ],
+     "answer": 0,
+     "explain": "Mệnh đề quan hệ chỉ người: the students who benefit the most."
+    }
+   ]
+  }
+ ]
+}

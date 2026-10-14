@@ -1,0 +1,61 @@
+{
+  "id": "vl-tu-lt-04",
+  "title": "Dòng điện xoay chiều cơ bản và ứng dụng cảm ứng",
+  "items": [
+    {
+      "id": "vl-tu-lt-04-t1", "type": "card", "title": "Đọc biểu thức và giá trị hiệu dụng",
+      "paras": [
+        "Dòng điện xoay chiều hình sin có i = I_{0} cos(ωt + φ); i là giá trị tức thời, I_{0} là cực đại, ω = 2πf, chu kì T = 1/f. Dòng đổi chiều khi i đổi dấu. Giá trị trung bình của i trong một chu kì bằng 0 nhưng dòng vẫn tỏa nhiệt trên điện trở.",
+        "Cường độ hiệu dụng I của dòng hình sin bằng I_{0}/√2; tương tự U = U_{0}/√2. Giá trị hiệu dụng được xác định theo tác dụng nhiệt tương đương với dòng một chiều. Với điện trở thuần R, công suất trung bình P = I²R = U²/R; nhiệt lượng trong thời gian Δt là Q = PΔt. Không thay I hiệu dụng bằng I_{0} trong công thức này.",
+        "Đọc đồ thị i–t: biên độ là I_{0}; thời gian giữa hai đỉnh dương liên tiếp là T. Hai lần qua 0 liên tiếp cách nhau T/2. Khi đổi từ vòng/phút sang vòng/s phải chia 60. Không làm tròn √2 hoặc kết quả trung gian."
+      ],
+      "source": "Phạm vi xoay chiều cơ bản: đề chính thức Bộ GD&ĐT 2026, mã 0201, Phần I câu 2 (dạng sin/cosin, hiệu dụng, tác dụng nhiệt); bản đăng lại https://khoahoc.vietjack.com/chi-tiet-de-thi/9000/de-chinh-thuc-vat-li-nam-2026-tot-nghiep-thpt-ma-de-0201 ."
+    },
+    {
+      "id": "vl-tu-lt-04-t2", "type": "card", "title": "Cảm ứng điện từ trong công nghệ",
+      "paras": [
+        "Máy phát điện biến cơ năng thành điện năng dựa trên cảm ứng điện từ. Một mô hình là khung dây quay trong từ trường làm từ thông thay đổi tuần hoàn. Xác định suất điện động bằng định luật Faraday; cần có nguồn cơ năng để duy trì chuyển động khi máy cấp điện cho tải.",
+        "Máy biến áp là ứng dụng cảm ứng điện từ: dòng điện biến thiên ở cuộn sơ cấp tạo từ thông biến thiên qua cuộn thứ cấp, gây suất điện động cảm ứng. Thiết bị dùng để thay đổi điện áp xoay chiều; dòng một chiều ổn định không tạo từ thông biến thiên liên tục.",
+        "Sạc không dây truyền năng lượng qua từ thông biến thiên giữa cuộn phát và cuộn nhận; bộ điện tử sau đó xử lí điện nhận được để sạc pin. Phanh điện từ có thể tạo dòng điện xoáy trong khối kim loại chuyển động, lực từ cản chuyển động và chuyển cơ năng thành nhiệt. Cần phân biệt cảm ứng điện từ với tác dụng lực từ của động cơ.",
+        "Nền sóng điện từ lớp 11: điện trường và từ trường biến thiên lan truyền mang năng lượng. Trong sóng điện từ phẳng, E và B vuông góc nhau, cùng vuông góc phương truyền và dao động cùng pha tại một điểm. Sóng truyền được trong chân không. Đây là kiến thức nền để đọc câu tích hợp, không phải một bài luyện riêng lớp 11."
+      ],
+      "source": "Faraday, lực từ và nền sóng điện từ: đề chính thức Bộ GD&ĐT 2025 mã 0201, Phần I câu 12, 14 và Phần II câu 2, 3; bản đăng lại https://www.scribd.com/document/985462929/Mon-V%E1%BA%ADt-Li-%C4%90%E1%BB%81-Thi-Chinh-Th%E1%BB%A9c-Ki-Thi-T%E1%BB%91t-Nghi%E1%BB%87p-THPT-2025-Ma-0201 ."
+    },
+    {
+      "id": "vl-tu-lt-04-01", "type": "mcq", "level": 1,
+      "prompt": "Dòng điện có i = I_{0} cos(ωt + φ). Đại lượng I_{0} là gì?",
+      "options": ["Cường độ trung bình một chu kì", "Cường độ hiệu dụng", "Cường độ cực đại", "Chu kì"], "answer": 2,
+      "explain": "I_{0} là biên độ, tức cường độ cực đại; hiệu dụng I = I_{0}/√2."
+    },
+    {
+      "id": "vl-tu-lt-04-02", "type": "mcq", "level": 1,
+      "prompt": "Máy phát điện hoạt động dựa trên hiện tượng nào để tạo suất điện động?",
+      "options": ["Cảm ứng điện từ", "Nóng chảy", "Phóng xạ", "Giãn nở đẳng áp"], "answer": 0,
+      "explain": "Từ thông qua cuộn dây biến thiên làm xuất hiện suất điện động cảm ứng."
+    },
+    {
+      "id": "vl-tu-lt-04-03", "type": "mcq", "level": 2,
+      "prompt": "Dòng xoay chiều có i = 2√2 cos(100πt) A. Cường độ hiệu dụng là bao nhiêu?",
+      "options": ["√2 A", "4 A", "2√2 A", "2 A"], "answer": 3,
+      "explain": "I = I_{0}/√2 = 2√2/√2 = 2 A."
+    },
+    {
+      "id": "vl-tu-lt-04-04", "type": "mcq", "level": 2,
+      "prompt": "Vì sao dòng xoay chiều có cường độ trung bình trong một chu kì bằng 0 vẫn làm điện trở nóng lên?",
+      "options": ["Vì điện trở tự sinh năng lượng", "Vì tác dụng nhiệt phụ thuộc i², không phụ thuộc dấu của i", "Vì giá trị tức thời i luôn dương", "Vì dòng không bao giờ đổi chiều"], "answer": 1,
+      "explain": "Công suất tức thời i²R không âm; công suất trung bình là I²R với I hiệu dụng."
+    },
+    {
+      "id": "vl-tu-lt-04-05", "type": "mcq", "level": 2,
+      "prompt": "Cuộn phát của bộ sạc không dây tạo từ thông qua cuộn nhận. Điều kiện nào tạo suất điện động cảm ứng trong cuộn nhận?",
+      "options": ["Từ thông luôn bằng 0", "Từ thông khác 0 nhưng không đổi", "Từ thông biến thiên theo thời gian", "Chỉ cần hai cuộn đặt gần nhau, không cần cấp năng lượng"], "answer": 2,
+      "explain": "Theo Faraday, cần biến thiên từ thông; từ thông không đổi không tạo suất điện động cảm ứng."
+    },
+    {
+      "id": "vl-tu-lt-04-06", "type": "mcq", "level": 2,
+      "prompt": "Trong sóng điện từ phẳng, E và B tại một điểm có quan hệ nào?",
+      "options": ["Cùng phương và ngược pha", "Cùng phương và cùng pha", "Vuông góc và lệch pha một phần tư chu kì", "Vuông góc và cùng pha"], "answer": 3,
+      "explain": "E và B vuông góc nhau, vuông góc phương truyền; tại một điểm chúng dao động cùng pha."
+    }
+  ]
+}

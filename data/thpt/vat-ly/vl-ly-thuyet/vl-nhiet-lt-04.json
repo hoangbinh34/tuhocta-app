@@ -1,0 +1,66 @@
+{
+  "id": "vl-nhiet-lt-04",
+  "title": "Nhiệt chuyển thể và xử lí số liệu",
+  "items": [
+    {
+      "id": "vl-nhiet-lt-04-t1", "type": "card", "title": "Nhiệt nóng chảy riêng và nhiệt hoá hơi riêng",
+      "paras": [
+        "Chất rắn kết tinh ở nhiệt độ nóng chảy nhận Q = mλ để nóng chảy hoàn toàn. λ là nhiệt nóng chảy riêng, đơn vị J/kg. Đông đặc cùng khối lượng ở cùng điều kiện thì toả nhiệt có độ lớn mλ.",
+        "Chất lỏng ở nhiệt độ sôi nhận Q = mL để hoá hơi hoàn toàn. L là nhiệt hoá hơi riêng, đơn vị J/kg. Ngưng tụ cùng lượng hơi ở cùng điều kiện thì toả nhiệt có độ lớn mL. m ở đây chỉ là khối lượng đã chuyển thể, không nhất thiết là khối lượng ban đầu trong bình.",
+        "Bài nhiều giai đoạn phải chia quá trình: làm nóng chất rắn → nóng chảy → làm nóng chất lỏng → hoá hơi. Cộng nhiệt của các đoạn thực sự xảy ra, không dùng mcΔT để thay nhiệt chuyển thể.",
+        "Ví dụ nước đá từ nhiệt độ âm thành nước ấm: Q = mc_{đá}(0 − t_{đầu}) + mλ + mc_{nước}(t_{cuối} − 0), khi đá tan hết ở 0 °C, áp suất tiêu chuẩn và không có thất thoát. Hơi nước ngưng tụ rồi nguội đi còn toả thêm nhiệt mc_{nước}ΔT."
+      ]
+    },
+    {
+      "id": "vl-nhiet-lt-04-t2", "type": "card", "title": "Thí nghiệm chuyển thể và đọc đồ thị",
+      "paras": [
+        "Đo λ: dùng nước đá đang nóng chảy ở 0 °C, cấp điện cho dây nung công suất P trong thời gian τ, cân khối lượng đá tan m. Nếu nhiệt chỉ dùng làm tan đá thì λ = Pτ/m. Đá ban đầu dưới 0 °C cần nhận thêm nhiệt làm nóng, nên không được gộp đoạn đó vào nhiệt nóng chảy.",
+        "Đá còn nhận nhiệt từ môi trường: làm một lượt chưa bật dây nung để đo khối lượng tan m_{0} trong thời gian τ_{0}. Nếu tốc độ tan do môi trường không đổi, khối lượng tan riêng do dây nung là m_{điện} = m_{bật} − m_{0}τ/τ_{0}; dùng λ = Pτ/m_{điện}. Hai lượt khác thời gian không được trừ thẳng m_{0}.",
+        "Đo L: chỉ bắt đầu tính khi chất lỏng đã sôi ổn định ở áp suất không đổi; đo điện năng và khối lượng giảm do hoá hơi. Khi bỏ qua các thất thoát khác, L = UIτ/Δm. Cần tránh coi phần năng lượng làm nóng bình hoặc làm nóng nước trước khi sôi là nhiệt hoá hơi.",
+        "Trên đồ thị nhiệt độ – thời gian khi cấp nhiệt không đổi: đoạn nằm ngang ở nhiệt độ chuyển thể có độ dài Δτ; nhiệt chuyển thể là P_{ích}Δτ. Đoạn nghiêng cho ΔT/Δτ và nhiệt dung. Đọc đúng trục (s hay phút, W hay kW) trước khi tính."
+      ],
+      "table": [
+        ["Giai đoạn", "Nhiệt thu, bỏ qua thất thoát"],
+        ["Tăng nhiệt độ, không chuyển thể", "mcΔT"],
+        ["Nóng chảy ở nhiệt độ nóng chảy", "mλ"],
+        ["Hoá hơi ở nhiệt độ sôi", "mL"]
+      ]
+    },
+    {
+      "id": "vl-nhiet-lt-04-01", "type": "mcq", "level": 1,
+      "prompt": "Nhiệt nóng chảy riêng có đơn vị SI là gì?",
+      "options": ["J/(kg·K)", "J/kg", "J/K", "kg/J"], "answer": 1,
+      "explain": "λ = Q/m nên đơn vị là J/kg; L cũng có đơn vị J/kg."
+    },
+    {
+      "id": "vl-nhiet-lt-04-02", "type": "mcq", "level": 1,
+      "prompt": "Một khối lượng m chất lỏng đang ở nhiệt độ sôi cần nhận nhiệt lượng nào để hoá hơi hoàn toàn, nếu nhiệt hoá hơi riêng là L?",
+      "options": ["L/m", "mcΔT", "mL", "m/L"], "answer": 2,
+      "explain": "Chuyển thể lỏng → hơi ở nhiệt độ sôi dùng Q = mL, dù nhiệt độ không tăng."
+    },
+    {
+      "id": "vl-nhiet-lt-04-03", "type": "mcq", "level": 1,
+      "prompt": "Cùng một lượng chất ở cùng điều kiện, khi hơi ngưng tụ thành lỏng thì trao đổi nhiệt thế nào?",
+      "options": ["Toả nhiệt", "Thu nhiệt", "Không trao đổi nhiệt", "Chỉ nhận công, không có nhiệt"], "answer": 0,
+      "explain": "Ngưng tụ là quá trình ngược với hoá hơi và toả nhiệt có độ lớn mL ở cùng điều kiện."
+    },
+    {
+      "id": "vl-nhiet-lt-04-04", "type": "mcq", "level": 2,
+      "prompt": "Cấp nhiệt đều cho một chất rắn kết tinh tinh khiết ở áp suất không đổi. Đồ thị nhiệt độ có đoạn nằm ngang trong lúc chất đang tan. Nhiệt nhận vào đoạn này dùng chủ yếu cho việc gì?",
+      "options": ["Tăng nhiệt độ chất rắn", "Tăng nhiệt độ chất lỏng", "Làm vật không còn nội năng", "Chuyển chất từ rắn sang lỏng"], "answer": 3,
+      "explain": "Đoạn nằm ngang biểu thị nóng chảy: nhiệt dùng cho chuyển thể, nội năng thay đổi trong khi nhiệt độ không đổi."
+    },
+    {
+      "id": "vl-nhiet-lt-04-05", "type": "mcq", "level": 2,
+      "prompt": "Đun nước đang sôi, ban đầu có 500 g, sau một lúc còn 480 g. Bỏ qua bắn nước. Khối lượng dùng trong Q = mL cho giai đoạn này là bao nhiêu?",
+      "options": ["0,500 kg", "0,480 kg", "0,020 kg", "20 kg"], "answer": 2,
+      "explain": "Khối lượng hoá hơi là phần giảm: 500 − 480 = 20 g = 0,020 kg; không dùng toàn bộ khối lượng ban đầu."
+    },
+    {
+      "id": "vl-nhiet-lt-04-06", "type": "mcq", "level": 2,
+      "prompt": "Khi đo λ của nước đá, vì sao phải hiệu chỉnh lượng đá tan do môi trường trước khi dùng λ = Pτ/m?",
+      "options": ["Vì cân không đo được khối lượng nước", "Vì không phải toàn bộ lượng đá tan đều do điện năng của dây nung", "Vì nước đá không thể nhận nhiệt từ không khí", "Vì λ phải có đơn vị W"], "answer": 1,
+      "explain": "Đá còn nhận nhiệt từ môi trường. Lấy cả khối lượng tan làm m trong Pτ/m khiến mẫu số quá lớn và λ bị đánh giá thấp."
+    }
+  ]
+}

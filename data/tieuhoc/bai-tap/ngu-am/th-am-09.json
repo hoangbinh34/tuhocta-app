@@ -1,0 +1,155 @@
+{
+ "id": "th-am-09",
+ "module": "phonics",
+ "title": "Trọng âm từ 3 âm tiết",
+ "emoji": "🎶",
+ "intro": "Từ 3 âm tiết thường nhấn âm 1 (HOliday, BEAUtiful) hoặc âm 2 (baNAna, comPUter). Từ có đuôi -teen, -eer, -ese, -oo thường nhấn vào chính đuôi đó (engiNEER, VietnaMESE). (Đáp án theo giọng Anh-Anh như sách giáo khoa; nút 🔊 cũng đọc giọng Anh.)",
+ "instruction": "Chọn từ có trọng âm (âm được nhấn mạnh) KHÁC các từ còn lại.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-am-09-01",
+   "type": "mcq",
+   "prompt": "Chọn từ có trọng âm (âm được nhấn mạnh) KHÁC các từ còn lại.",
+   "options": [
+    "holiday",
+    "family",
+    "beautiful",
+    "banana"
+   ],
+   "answer": 3,
+   "explain": "banana (nhấn âm 2) khác. holiday (nhấn âm 1), family (nhấn âm 1), beautiful (nhấn âm 1).",
+   "skill": "trong-am"
+  },
+  {
+   "id": "th-am-09-02",
+   "type": "mcq",
+   "prompt": "Chọn từ có trọng âm (âm được nhấn mạnh) KHÁC các từ còn lại.",
+   "options": [
+    "computer",
+    "important",
+    "tomato",
+    "hospital"
+   ],
+   "answer": 3,
+   "explain": "hospital (nhấn âm 1) khác. computer (nhấn âm 2), important (nhấn âm 2), tomato (nhấn âm 2).",
+   "skill": "trong-am"
+  },
+  {
+   "id": "th-am-09-03",
+   "type": "mcq",
+   "prompt": "Chọn từ có trọng âm (âm được nhấn mạnh) KHÁC các từ còn lại.",
+   "options": [
+    "library",
+    "museum",
+    "telephone",
+    "Saturday"
+   ],
+   "answer": 1,
+   "explain": "museum (nhấn âm 2) khác. library (nhấn âm 1), telephone (nhấn âm 1), Saturday (nhấn âm 1).",
+   "skill": "trong-am"
+  },
+  {
+   "id": "th-am-09-04",
+   "type": "mcq",
+   "prompt": "Chọn từ có trọng âm (âm được nhấn mạnh) KHÁC các từ còn lại.",
+   "options": [
+    "understand",
+    "afternoon",
+    "engineer",
+    "celebrate"
+   ],
+   "answer": 3,
+   "explain": "celebrate (nhấn âm 1) khác. understand (nhấn âm 3), afternoon (nhấn âm 3), engineer (nhấn âm 3).",
+   "skill": "trong-am"
+  },
+  {
+   "id": "th-am-09-05",
+   "type": "mcq",
+   "prompt": "Chọn từ có trọng âm (âm được nhấn mạnh) KHÁC các từ còn lại.",
+   "options": [
+    "eleven",
+    "potato",
+    "exciting",
+    "animal"
+   ],
+   "answer": 3,
+   "explain": "animal (nhấn âm 1) khác. eleven (nhấn âm 2), potato (nhấn âm 2), exciting (nhấn âm 2).",
+   "skill": "trong-am"
+  },
+  {
+   "id": "th-am-09-06",
+   "type": "mcq",
+   "prompt": "Chọn từ có trọng âm (âm được nhấn mạnh) KHÁC các từ còn lại.",
+   "options": [
+    "favourite",
+    "dangerous",
+    "delicious",
+    "wonderful"
+   ],
+   "answer": 2,
+   "explain": "delicious (nhấn âm 2) khác. favourite (nhấn âm 1), dangerous (nhấn âm 1), wonderful (nhấn âm 1).",
+   "skill": "trong-am"
+  },
+  {
+   "id": "th-am-09-07",
+   "type": "mcq",
+   "prompt": "Chọn từ có trọng âm (âm được nhấn mạnh) KHÁC các từ còn lại.",
+   "options": [
+    "grandmother",
+    "newspaper",
+    "cinema",
+    "December"
+   ],
+   "answer": 3,
+   "explain": "December (nhấn âm 2) khác. grandmother (nhấn âm 1), newspaper (nhấn âm 1), cinema (nhấn âm 1).",
+   "skill": "trong-am"
+  },
+  {
+   "id": "th-am-09-08",
+   "type": "mcq",
+   "prompt": "Chọn từ có trọng âm (âm được nhấn mạnh) KHÁC các từ còn lại.",
+   "options": [
+    "kangaroo",
+    "volunteer",
+    "introduce",
+    "interesting"
+   ],
+   "answer": 3,
+   "explain": "interesting (nhấn âm 1) khác. kangaroo (nhấn âm 3), volunteer (nhấn âm 3), introduce (nhấn âm 3).",
+   "skill": "trong-am"
+  },
+  {
+   "id": "th-am-09-09",
+   "type": "mcq",
+   "prompt": "Chọn từ có trọng âm (âm được nhấn mạnh) KHÁC các từ còn lại.",
+   "options": [
+    "vegetable",
+    "energy",
+    "camera",
+    "together"
+   ],
+   "answer": 3,
+   "explain": "together (nhấn âm 2) khác. vegetable (nhấn âm 1), energy (nhấn âm 1), camera (nhấn âm 1).",
+   "skill": "trong-am"
+  },
+  {
+   "id": "th-am-09-10",
+   "type": "mcq",
+   "prompt": "Chọn từ có trọng âm (âm được nhấn mạnh) KHÁC các từ còn lại.",
+   "options": [
+    "umbrella",
+    "detective",
+    "octopus",
+    "eraser"
+   ],
+   "answer": 2,
+   "explain": "octopus (nhấn âm 1) khác. umbrella (nhấn âm 2), detective (nhấn âm 2), eraser (nhấn âm 2).",
+   "skill": "trong-am"
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "toan-so-thap-phan-lt-05", "title": "Tìm số cần tìm", "topic": "so-thap-phan",
+  "items": [{
+    "id": "toan-so-thap-phan-lt-05-t1", "type": "card", "title": "Lần ngược các phép tính",
+    "paras": [
+      "Tìm số hạng chưa biết: lấy tổng trừ số hạng đã biết. Tìm số bị trừ: lấy hiệu cộng số trừ. Tìm số trừ: lấy số bị trừ trừ hiệu.",
+      "Tìm thừa số chưa biết: lấy tích chia thừa số đã biết. Tìm số bị chia: lấy thương nhân số chia. Tìm số chia: lấy số bị chia chia thương, với thương khác 0.",
+      "Nếu số cần tìm trải qua nhiều phép tính, bắt đầu từ kết quả cuối cùng và lần ngược từng phép. Cộng được đảo bằng trừ, nhân được đảo bằng chia và ngược lại. Mỗi lần ngược ghi một dòng.",
+      "Ví dụ cộng 1,2 rồi nhân 2 được 9: lấy 9 : 2 = 4,5; sau đó 4,5 − 1,2 = 3,3. Viết bằng lời số cần tìm, không cần đặt chữ làm ẩn."
+    ],
+    "source": "Toán 5, bài SGK: chưa xác minh số/tên bài; tìm thành phần chưa biết thuộc phạm vi CB ở mục 1 đặc tả 2.0."
+  }]
+}

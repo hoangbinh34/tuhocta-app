@@ -1,0 +1,109 @@
+{
+ "id": "th-dh-06",
+ "module": "reading",
+ "title": "Điền một từ lấy từ bài đọc",
+ "emoji": "🔎",
+ "intro": "Tìm câu trong bài có ý giống câu hỏi, rồi chép ĐÚNG một từ trong bài vào chỗ trống (viết đúng chính tả).",
+ "instruction": "Điền MỘT từ lấy từ bài đọc vào chỗ trống.",
+ "shuffle": false,
+ "shuffleItems": false,
+ "priority": 1,
+ "sources": [
+  "dang-de-NTT"
+ ],
+ "items": [
+  {
+   "id": "th-dh-06-g1",
+   "type": "group",
+   "title": "Jenny and her dog",
+   "passage": "Jenny had a small dog called Tobi. Every afternoon, she walked Tobi in the park near her house. One day, Tobi ran after a cat and did not come back. Jenny was very sad. She looked for him everywhere. The next morning, her uncle found Tobi in his garden and brought him home. Jenny was happy again.",
+   "items": [
+    {
+     "id": "th-dh-06-01",
+     "type": "input",
+     "prompt": "Jenny walked Tobi in the ___ every afternoon.",
+     "answers": [
+      "park"
+     ],
+     "explain": "\"she walked Tobi in the park\"."
+    },
+    {
+     "id": "th-dh-06-02",
+     "type": "input",
+     "prompt": "Tobi ran after a ___.",
+     "answers": [
+      "cat"
+     ],
+     "explain": "\"Tobi ran after a cat\"."
+    },
+    {
+     "id": "th-dh-06-03",
+     "type": "input",
+     "prompt": "Jenny felt ___ when Tobi didn't come back.",
+     "answers": [
+      "sad",
+      "very sad"
+     ],
+     "explain": "\"Jenny was very sad\"."
+    },
+    {
+     "id": "th-dh-06-04",
+     "type": "input",
+     "prompt": "Her ___ found Tobi in his garden.",
+     "answers": [
+      "uncle"
+     ],
+     "explain": "\"her uncle found Tobi in his garden\"."
+    }
+   ],
+   "instruction": "Điền MỘT từ lấy từ bài đọc vào chỗ trống."
+  },
+  {
+   "id": "th-dh-06-g2",
+   "type": "group",
+   "title": "A visit to the museum",
+   "passage": "Last Saturday, our class visited the Museum of History. We went there by bus. A guide showed us old coins, old clothes and a very big drum. We were not allowed to take photos inside, so we drew pictures in our notebooks. At noon, we had a picnic in the garden of the museum.",
+   "items": [
+    {
+     "id": "th-dh-06-05",
+     "type": "input",
+     "prompt": "The class went to the museum by ___.",
+     "answers": [
+      "bus"
+     ],
+     "explain": "\"We went there by bus\"."
+    },
+    {
+     "id": "th-dh-06-06",
+     "type": "input",
+     "prompt": "They saw old coins, old clothes and a big ___.",
+     "answers": [
+      "drum"
+     ],
+     "explain": "\"a very big drum\"."
+    },
+    {
+     "id": "th-dh-06-07",
+     "type": "input",
+     "prompt": "They could not take ___ inside the museum.",
+     "answers": [
+      "photos",
+      "photo",
+      "pictures"
+     ],
+     "explain": "\"We were not allowed to take photos inside\"."
+    },
+    {
+     "id": "th-dh-06-08",
+     "type": "input",
+     "prompt": "At noon, they had a ___ in the garden.",
+     "answers": [
+      "picnic"
+     ],
+     "explain": "\"we had a picnic in the garden\"."
+    }
+   ],
+   "instruction": "Điền MỘT từ lấy từ bài đọc vào chỗ trống."
+  }
+ ]
+}

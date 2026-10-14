@@ -1,0 +1,77 @@
+{
+  "id": "vl-hat-nhan-cd-05",
+  "title": "Hạt nhân: hiểu phép đo, năng lượng và tốc độ phân rã",
+  "items": [
+    {
+      "id": "vl-hat-nhan-cd-05-01", "type": "mcq", "level": 2,
+      "prompt": "Hạt nhân ^{18}_{9}F phân rã beta cộng. Hạt nhân con có kí hiệu nào?",
+      "options": ["^{18}_{10}Ne", "^{14}_{7}N", "^{18}_{8}O", "^{17}_{9}F"], "answer": 2,
+      "explain": "Beta cộng biến proton thành neutron, phát positron và neutrino: A giữ nguyên 18, Z giảm từ 9 xuống 8, tạo oxygen-18."
+    },
+    {
+      "id": "vl-hat-nhan-cd-05-02", "type": "mcq", "level": 2,
+      "prompt": "Vẽ H theo N của nhiều mẫu cùng một đồng vị tại một thời điểm, H là độ phóng xạ, N là số hạt nhân mẹ. Đồ thị lí tưởng có dạng nào?",
+      "options": ["Đường thẳng qua gốc, hệ số góc bằng λ", "Đường ngang vì H không phụ thuộc N", "Đường thẳng qua gốc, hệ số góc bằng T", "Đường thẳng có hệ số góc âm"], "answer": 0,
+      "explain": "H = λN; cùng đồng vị thì λ không đổi và dương. Vì vậy H tăng tuyến tính theo N, hệ số góc bằng λ khi dùng đơn vị tương ứng."
+    },
+    {
+      "id": "vl-hat-nhan-cd-05-03", "type": "mcq", "level": 2,
+      "prompt": "Hạt nhân ^{210}_{84}Po phân rã alpha. Số neutron trong hạt nhân con bằng bao nhiêu?",
+      "options": ["126", "128", "122", "124"], "answer": 3,
+      "explain": "Hạt nhân con có A = 210 − 4 = 206 và Z = 84 − 2 = 82. Số neutron là 206 − 82 = 124; alpha mang đi hai neutron."
+    },
+    {
+      "id": "vl-hat-nhan-cd-05-04", "type": "mcq", "level": 2,
+      "prompt": "Một mẫu chứa rất nhiều hạt nhân mẹ, không bổ sung hay tách chất. Độ phóng xạ của riêng đồng vị mẹ giảm từ 12 MBq còn 3 MBq trong 10 giờ. Chu kì bán rã bằng bao nhiêu?",
+      "options": ["2,5 giờ", "5 giờ", "10 giờ", "40 giờ"], "answer": 1,
+      "explain": "H/H_{0} = 3/12 = 1/4 = 2^{-2}; 10 giờ tương ứng hai chu kì, nên T = 5 giờ."
+    },
+    {
+      "id": "vl-hat-nhan-cd-05-05", "type": "mcq", "level": 2,
+      "prompt": "Trong phản ứng bảo toàn tổng số proton và tổng số neutron, tổng năng lượng liên kết của các hạt nhân sau lớn hơn trước 20 MeV. Phản ứng có năng lượng Q bằng bao nhiêu?",
+      "options": ["Q = −20 MeV, thu năng lượng", "Q = 0 vì bảo toàn nucleon", "Q = +20 MeV, tỏa năng lượng", "Không thể suy ra dấu của Q"], "answer": 2,
+      "explain": "Với cùng tổng proton và neutron, Q = E_{lk,sau} − E_{lk,trước} = +20 MeV. Liên kết chặt hơn làm khối lượng nghỉ giảm; chênh lệch được tỏa ra."
+    },
+    {
+      "id": "vl-hat-nhan-cd-05-06", "type": "mcq", "level": 2,
+      "prompt": "Máy đo ghi 420 xung trong 2 phút khi có nguồn và phông; đo riêng phông được 60 xung trong 2 phút. Tốc độ đếm thuần trung bình của nguồn bằng bao nhiêu?",
+      "options": ["3 xung/s", "6 xung/s", "180 xung/s", "4 xung/s"], "answer": 0,
+      "explain": "Số đếm thuần là 420 − 60 = 360 xung trong 120 s, tốc độ bằng 3 xung/s. Không tự coi tốc độ đếm thuần bằng độ phóng xạ khi chưa biết hiệu suất đo."
+    },
+    {
+      "id": "vl-hat-nhan-cd-05-07", "type": "mcq", "level": 2,
+      "prompt": "Một nguồn phóng xạ có rất nhiều hạt nhân cùng đồng vị. Chọn phát biểu đúng về tính ngẫu nhiên của phân rã.",
+      "options": ["Mỗi hạt nhân chắc chắn phân rã đúng sau một chu kì", "Sau hai chu kì mọi hạt nhân mẹ đều đã phân rã", "Có thể chỉ ra chính xác lúc phân rã của từng hạt nhân từ T", "Không dự đoán chính xác lúc phân rã của từng hạt nhân, nhưng mô tả được xu hướng của cả mẫu"], "answer": 3,
+      "explain": "Phân rã của từng hạt nhân là ngẫu nhiên. Định luật N = N_{0}2^{-t/T} mô tả số hạt chưa phân rã trung bình, rất phù hợp với mẫu có số hạt lớn."
+    },
+    {
+      "id": "vl-hat-nhan-cd-05-08", "type": "tf4", "level": 2,
+      "prompt": "Hai mẫu X, Y chứa hai đồng vị khác nhau có cùng số hạt nhân mẹ N_{0} rất lớn lúc t = 0. Chu kì bán rã lần lượt là 2 giờ và 4 giờ; không thêm hoặc tách chất. Chỉ xét độ phóng xạ của các đồng vị mẹ.",
+      "statements": [
+        "a) Lúc đầu, độ phóng xạ của X gấp đôi của Y.",
+        "b) Sau 4 giờ, số hạt nhân mẹ của X còn N_{0}/2.",
+        "c) Sau 4 giờ, độ phóng xạ của hai mẫu bằng nhau.",
+        "d) Sau 8 giờ, độ phóng xạ của X vẫn lớn hơn của Y."
+      ],
+      "answers": [true, false, true, false],
+      "explain": [
+        "Đúng. H_{X0}/H_{Y0} = λ_X/λ_Y = T_Y/T_X = 4/2 = 2.",
+        "Sai. X đã trải qua 4/2 = 2 chu kì nên N_X = N_{0}/4.",
+        "Đúng. H_X = (ln 2/2)(N_{0}/4) và H_Y = (ln 2/4)(N_{0}/2), cùng bằng N_{0} ln 2/8 theo giờ^{-1}.",
+        "Sai. Sau 8 giờ, H_X = N_{0} ln 2/32, H_Y = N_{0} ln 2/16 theo giờ^{-1}; X chỉ bằng một nửa Y."
+      ]
+    },
+    {
+      "id": "vl-hat-nhan-cd-05-09", "type": "num", "level": 2,
+      "prompt": "Một đồng vị có chu kì bán rã 5,0 giờ. Lấy ln 2 = 0,693; 1 giờ = 3600 s. Viết hằng số phóng xạ dưới dạng λ = x·10^{-5} s^{-1}. Tính x, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 3.85, "round": 2, "unit": "×10^{-5} s^{-1}",
+      "explain": "T = 5,0 · 3600 = 18000 s. λ = 0,693/18000 = 3,85·10^{-5} s^{-1}, nên x = 3,85. Ghi: 3,85; không dùng 5 giờ trực tiếp để cho λ theo s^{-1}."
+    },
+    {
+      "id": "vl-hat-nhan-cd-05-10", "type": "num", "level": 2,
+      "prompt": "Tại thời điểm xét, một mẫu đồng vị có độ phóng xạ 2,0 MBq và chu kì bán rã 3,0 ngày. Lấy ln 2 = 0,693; 1 ngày = 86400 s. Số hạt nhân mẹ chưa phân rã là x·10^{11}. Tính x, làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 7.48, "round": 2, "exact": 7.480519480519481, "unit": "×10^{11} hạt",
+      "explain": "H = 2,0·10^{6} Bq, T = 3 · 86400 s. Từ H = (ln 2/T)N, suy ra x = HT/(0,693 · 10^{11}) = 7,480519480… Chỉ làm tròn cuối: 7,48. Ghi: 7,48; đây là số hạt hiện còn, không phải số đã phân rã."
+    }
+  ]
+}

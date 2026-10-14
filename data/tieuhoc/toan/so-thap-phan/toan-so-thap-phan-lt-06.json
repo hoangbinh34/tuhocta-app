@@ -1,0 +1,14 @@
+{
+  "id": "toan-so-thap-phan-lt-06", "title": "Tính nhanh — nâng cao", "topic": "so-thap-phan",
+  "items": [{
+    "id": "toan-so-thap-phan-lt-06-t1", "type": "card", "title": "Nhóm số và dùng tính chất phép tính (NC)",
+    "paras": [
+      "Các bài tính nhanh nhóm số trong chủ đề này là NC, chỉ dành cho cấp 3. Khi đề yêu cầu tính nhanh, hãy tìm tổng tròn, thừa số chung hoặc phép tính có thể rút gọn trước.",
+      "Có thể đổi chỗ và nhóm các số hạng của tổng, hoặc các thừa số của tích. Ví dụ 0,4 × 25 × 3 = 10 × 3 = 30. Không tự ý đổi chỗ số bị trừ với số trừ, hoặc số bị chia với số chia.",
+      "Hai tích có thừa số chung: nhân thừa số chung với tổng hoặc hiệu của hai thừa số còn lại. Ví dụ 3,2 × 0,9 + 3,2 × 0,1 = 3,2 × 1 = 3,2.",
+      "Với một tổng có phép trừ, có thể ghép số bị trừ với số trừ để tạo số tròn, rồi cộng các số còn lại. Khi trình bày, nêu cách nhóm bằng lời và ghi từng phép tính riêng một dòng.",
+      "Phép nhân có số như 0,125 vượt giới hạn CB của đặc tả 2.0, dù có thể nhóm để tính nhẩm thuận tiện, nên vẫn phải mang nhãn NC."
+    ],
+    "source": "Toán 5, bài SGK: chưa xác minh; tính nhanh nhóm số là dạng NC theo mục 1 đặc tả 2.0, không khẳng định là bài học CB."
+  }]
+}

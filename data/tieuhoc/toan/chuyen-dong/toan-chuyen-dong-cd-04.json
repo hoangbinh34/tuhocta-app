@@ -1,0 +1,242 @@
+{
+  "id": "toan-chuyen-dong-cd-04",
+  "title": "Hai chuyển động: gặp nhau, đuổi nhau (NC)",
+  "topic": "chuyen-dong",
+  "items": [
+    {
+      "id": "toan-chuyen-dong-cd-04-01",
+      "type": "group",
+      "level": 3,
+      "model": "gap-nhau-tim-thoi-gian",
+      "title": "Hai xe đi ngược chiều",
+      "passage": "Hai xe cùng lúc đi từ hai đầu một quãng đường dài 150 km, hướng về nhau. Vận tốc hai xe lần lượt là 40 km/giờ và 35 km/giờ, không đổi cho đến khi gặp.",
+      "items": [
+        {
+          "id": "toan-chuyen-dong-cd-04-01a",
+          "type": "num",
+          "level": 3,
+          "model": "gap-nhau-tong-van-toc",
+          "prompt": "a) Mỗi giờ khoảng cách giữa hai xe giảm bao nhiêu ki-lô-mét?",
+          "answer": 75,
+          "round": 0,
+          "unit": "km",
+          "explain": "Khoảng cách giảm mỗi giờ: 40 + 35 = 75 (km).\nĐáp số: 75 km.",
+          "adv": true
+        },
+        {
+          "id": "toan-chuyen-dong-cd-04-01b",
+          "type": "num",
+          "level": 3,
+          "model": "gap-nhau-chia-khoang-cach-cho-muc-giam",
+          "prompt": "b) Dùng mức giảm khoảng cách mỗi giờ ở câu a để tính thời gian từ lúc xuất phát đến khi gặp, theo giờ.",
+          "answer": 2,
+          "round": 0,
+          "unit": "giờ",
+          "explain": "Thời gian đến khi gặp: 150 : 75 = 2 (giờ).\nĐáp số: 2 giờ.",
+          "adv": true
+        }
+      ],
+      "adv": true
+    },
+    {
+      "id": "toan-chuyen-dong-cd-04-02",
+      "type": "group",
+      "level": 3,
+      "model": "duoi-nhau-tu-khoang-di-truoc",
+      "title": "Xe sau đuổi xe trước",
+      "passage": "Một người đi xe đạp từ A với vận tốc 12 km/giờ. Sau 0,5 giờ, một xe máy xuất phát với vận tốc 36 km/giờ từ C, cùng đường và cùng chiều với xe đạp. C ở phía sau A, cách A 3 km. Hai xe giữ vận tốc không đổi.",
+      "items": [
+        {
+          "id": "toan-chuyen-dong-cd-04-02a",
+          "type": "num",
+          "level": 3,
+          "model": "duoi-nhau-khoang-cach-ban-dau-cong-phan-di-truoc",
+          "prompt": "a) Khi xe máy xuất phát, xe máy cách xe đạp bao nhiêu ki-lô-mét?",
+          "answer": 9,
+          "round": 0,
+          "unit": "km",
+          "explain": "Quãng đường xe đạp đi trước: 12 × 0,5 = 6 (km).\nKhoảng cách giữa hai xe: 3 + 6 = 9 (km).\nĐáp số: 9 km.",
+          "adv": true
+        },
+        {
+          "id": "toan-chuyen-dong-cd-04-02b",
+          "type": "num",
+          "level": 3,
+          "model": "duoi-nhau-hieu-van-toc-tim-thoi-gian",
+          "prompt": "b) Dùng khoảng cách ở câu a để tính xe máy cần bao nhiêu giờ kể từ lúc xe máy xuất phát để đuổi kịp.",
+          "answer": 0.375,
+          "round": 3,
+          "unit": "giờ",
+          "maxChars": 5,
+          "explain": "Mỗi giờ xe máy rút ngắn khoảng cách: 36 − 12 = 24 (km).\nThời gian đuổi kịp: 9 : 24 = 0,375 (giờ).\nĐáp số: 0,375 giờ.",
+          "adv": true
+        }
+      ],
+      "adv": true
+    },
+    {
+      "id": "toan-chuyen-dong-cd-04-03",
+      "type": "group",
+      "level": 3,
+      "model": "tien-ve-nhau-khoang-cach-con-lai",
+      "title": "Hai người tiến về nhau",
+      "passage": "Hai người xuất phát cùng lúc từ hai điểm cách nhau 30 km, đi về phía nhau với vận tốc 4 km/giờ và 6 km/giờ. Xét sau 2 giờ, trước khi gặp nhau.",
+      "items": [
+        {
+          "id": "toan-chuyen-dong-cd-04-03a",
+          "type": "num",
+          "level": 3,
+          "model": "tien-ve-nhau-tong-quang-duong-da-di",
+          "prompt": "a) Sau thời gian đã cho, hai người đi được tổng cộng bao nhiêu ki-lô-mét?",
+          "answer": 20,
+          "round": 0,
+          "unit": "km",
+          "explain": "Tổng quãng đường mỗi giờ: 4 + 6 = 10 (km).\nTổng quãng đường sau 2 giờ: 10 × 2 = 20 (km).\nĐáp số: 20 km.",
+          "adv": true
+        },
+        {
+          "id": "toan-chuyen-dong-cd-04-03b",
+          "type": "num",
+          "level": 3,
+          "model": "tien-ve-nhau-khoang-cach-tru-tong-da-di",
+          "prompt": "b) Dùng tổng quãng đường ở câu a để tính khoảng cách còn lại giữa hai người, theo ki-lô-mét.",
+          "answer": 10,
+          "round": 0,
+          "unit": "km",
+          "explain": "Khoảng cách còn lại: 30 − 20 = 10 (km).\nĐáp số: 10 km.",
+          "adv": true
+        }
+      ],
+      "adv": true
+    },
+    {
+      "id": "toan-chuyen-dong-cd-04-04",
+      "type": "group",
+      "level": 3,
+      "model": "di-ra-xa-nhau-co-khoang-cach-ban-dau",
+      "title": "Hai xe đi xa nhau",
+      "passage": "Hai người ban đầu cách nhau 3 km, cùng lúc đi theo hai hướng làm họ xa nhau hơn trên một đường thẳng, với vận tốc 4 km/giờ và 5 km/giờ. Xét sau 2 giờ đi đều.",
+      "items": [
+        {
+          "id": "toan-chuyen-dong-cd-04-04a",
+          "type": "num",
+          "level": 3,
+          "model": "di-ra-xa-nhau-khoang-cach-sau-thoi-gian",
+          "prompt": "a) Sau thời gian đã cho, khoảng cách giữa hai người là bao nhiêu ki-lô-mét?",
+          "answer": 21,
+          "round": 0,
+          "unit": "km",
+          "explain": "Khoảng cách tăng mỗi giờ: 4 + 5 = 9 (km).\nKhoảng cách tăng sau 2 giờ: 9 × 2 = 18 (km).\nKhoảng cách sau 2 giờ: 3 + 18 = 21 (km).\nĐáp số: 21 km.",
+          "adv": true
+        },
+        {
+          "id": "toan-chuyen-dong-cd-04-04b",
+          "type": "num",
+          "level": 3,
+          "model": "di-ra-xa-nhau-thoi-gian-them-de-dat-khoang-cach",
+          "prompt": "b) Dùng khoảng cách ở câu a để tính cần đi thêm bao nhiêu giờ để hai người cách nhau 30 km, nếu vẫn giữ vận tốc và hướng đi.",
+          "answer": 1,
+          "round": 0,
+          "unit": "giờ",
+          "explain": "Khoảng cách cần tăng thêm: 30 − 21 = 9 (km).\nMỗi giờ khoảng cách vẫn tăng: 4 + 5 = 9 (km).\nThời gian cần đi thêm: 9 : 9 = 1 (giờ).\nĐáp số: 1 giờ.",
+          "adv": true
+        }
+      ],
+      "adv": true
+    },
+    {
+      "id": "toan-chuyen-dong-cd-04-05",
+      "type": "group",
+      "level": 3,
+      "model": "vi-tri-gap-so-voi-trung-diem",
+      "title": "Chỗ gặp và trung điểm",
+      "passage": "Hai xe xuất phát cùng lúc từ A và B cách nhau 180 km, đi về phía nhau. Xe từ A đi đều 50 km/giờ, xe từ B đi đều 40 km/giờ. Hai xe gặp sau 2 giờ. M là trung điểm AB.",
+      "items": [
+        {
+          "id": "toan-chuyen-dong-cd-04-05a",
+          "type": "num",
+          "level": 3,
+          "model": "gap-nhau-hieu-quang-duong-sau-cung-thoi-gian",
+          "prompt": "a) Đến khi gặp, xe từ A đi nhiều hơn xe từ B bao nhiêu ki-lô-mét?",
+          "answer": 20,
+          "round": 0,
+          "unit": "km",
+          "explain": "Hiệu vận tốc: 50 − 40 = 10 (km/giờ).\nHiệu hai quãng đường sau 2 giờ: 10 × 2 = 20 (km).\nĐáp số: 20 km.",
+          "adv": true
+        },
+        {
+          "id": "toan-chuyen-dong-cd-04-05b",
+          "type": "num",
+          "level": 3,
+          "model": "gap-nhau-nua-hieu-quang-duong-la-lech-trung-diem",
+          "prompt": "b) Dùng hiệu hai quãng đường ở câu a để tính điểm gặp cách M bao nhiêu ki-lô-mét.",
+          "answer": 10,
+          "round": 0,
+          "unit": "km",
+          "explain": "Điểm gặp lệch về phía B; khoảng cách đến M bằng nửa hiệu hai quãng đường: 20 : 2 = 10 (km).\nĐáp số: 10 km.",
+          "adv": true
+        }
+      ],
+      "adv": true
+    },
+    {
+      "id": "toan-chuyen-dong-cd-04-06",
+      "type": "group",
+      "level": 3,
+      "model": "gap-nhau-xuat-phat-lech-gio",
+      "title": "Hai xe xuất phát lệch giờ",
+      "passage": "Hai điểm A và B cách nhau 132 km. Xe từ A đi về B với vận tốc 24 km/giờ. Sau 0,5 giờ, xe từ B mới đi về A với vận tốc 36 km/giờ. Hai xe chạy đều, không nghỉ.",
+      "items": [
+        {
+          "id": "toan-chuyen-dong-cd-04-06a",
+          "type": "num",
+          "level": 3,
+          "model": "gap-nhau-khoang-cach-luc-xe-sau-xuat-phat",
+          "prompt": "a) Khi xe từ B bắt đầu đi, hai xe cách nhau bao nhiêu ki-lô-mét?",
+          "answer": 120,
+          "round": 0,
+          "unit": "km",
+          "explain": "Quãng đường xe từ A đi trước: 24 × 0,5 = 12 (km).\nKhoảng cách khi xe B xuất phát: 132 − 12 = 120 (km).\nĐáp số: 120 km.",
+          "adv": true
+        },
+        {
+          "id": "toan-chuyen-dong-cd-04-06b",
+          "type": "num",
+          "level": 3,
+          "model": "gap-nhau-lech-gio-vi-tri-gap-cach-a",
+          "prompt": "b) Dùng khoảng cách ở câu a để tính chỗ gặp cách A bao nhiêu ki-lô-mét.",
+          "answer": 60,
+          "round": 0,
+          "unit": "km",
+          "explain": "Mỗi giờ hai xe gần nhau thêm: 24 + 36 = 60 (km).\nThời gian từ lúc xe B xuất phát đến khi gặp: 120 : 60 = 2 (giờ).\nQuãng đường xe từ A đi trong thời gian đó: 24 × 2 = 48 (km).\nQuãng đường xe từ A đi trước: 24 × 0,5 = 12 (km).\nChỗ gặp cách A: 12 + 48 = 60 (km).\nĐáp số: 60 km.",
+          "adv": true
+        }
+      ],
+      "adv": true
+    },
+    {
+      "id": "toan-chuyen-dong-cd-04-07",
+      "type": "num",
+      "level": 3,
+      "model": "duoi-kip-dung-han-tim-van-toc",
+      "prompt": "Một người đang đi đều 12 km/giờ, ở trước một xe đạp 15 km trên cùng đường và cùng chiều. Xe đạp bắt đầu đi ngay và cần đuổi kịp đúng sau 3 giờ. Xe đạp phải đi đều với vận tốc bao nhiêu km/giờ?",
+      "answer": 17,
+      "round": 0,
+      "unit": "km/giờ",
+      "explain": "Mỗi giờ xe đạp phải rút ngắn khoảng cách: 15 : 3 = 5 (km).\nVận tốc xe đạp: 12 + 5 = 17 (km/giờ).\nĐáp số: 17 km/giờ.",
+      "adv": true
+    },
+    {
+      "id": "toan-chuyen-dong-cd-04-08",
+      "type": "num",
+      "level": 3,
+      "model": "duoi-vong-tron-lan-thu-ba",
+      "prompt": "Trên đường chạy tròn dài 400 m, hai bạn xuất phát cùng điểm, cùng lúc, cùng chiều với vận tốc không đổi 70 m/phút và 50 m/phút. Không tính lúc xuất phát, sau bao nhiêu phút bạn nhanh hơn đuổi kịp bạn chậm hơn lần thứ 3?",
+      "answer": 60,
+      "round": 0,
+      "unit": "phút",
+      "explain": "Mỗi phút bạn nhanh hơn rút ngắn được: 70 − 50 = 20 (m).\nThời gian đuổi kịp một vòng: 400 : 20 = 20 (phút).\nThời gian đến lần đuổi kịp thứ ba: 20 × 3 = 60 (phút).\nĐáp số: 60 phút.",
+      "adv": true
+    }
+  ]
+}

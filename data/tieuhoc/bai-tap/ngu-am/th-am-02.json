@@ -1,0 +1,155 @@
+{
+ "id": "th-am-02",
+ "module": "phonics",
+ "title": "Đuôi -s / -es",
+ "emoji": "🔤",
+ "intro": "Đuôi -s/-es đọc /s/ sau p, t, k, f, th; đọc /ɪz/ sau s, x, z, sh, ch, ge; còn lại đọc /z/. (Đáp án theo giọng Anh-Anh như sách giáo khoa; nút 🔊 cũng đọc giọng Anh.)",
+ "instruction": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-am-02-01",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "book[[s]]",
+    "cat[[s]]",
+    "map[[s]]",
+    "dog[[s]]"
+   ],
+   "answer": 3,
+   "explain": "dogs: /z/. books, cats, maps: /s/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-02-02",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "watch[[es]]",
+    "bus[[es]]",
+    "box[[es]]",
+    "pen[[s]]"
+   ],
+   "answer": 3,
+   "explain": "pens: /z/. watches, buses, boxes: /ɪz/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-02-03",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "play[[s]]",
+    "room[[s]]",
+    "desk[[s]]",
+    "girl[[s]]"
+   ],
+   "answer": 2,
+   "explain": "desks: /s/. plays, rooms, girls: /z/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-02-04",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "roof[[s]]",
+    "chair[[s]]",
+    "tree[[s]]",
+    "bag[[s]]"
+   ],
+   "answer": 0,
+   "explain": "roofs: /s/. chairs, trees, bags: /z/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-02-05",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "class[[es]]",
+    "hous[[es]]",
+    "dish[[es]]",
+    "cup[[s]]"
+   ],
+   "answer": 3,
+   "explain": "cups: /s/. classes, houses, dishes: /ɪz/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-02-06",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "like[[s]]",
+    "stop[[s]]",
+    "walk[[s]]",
+    "read[[s]]"
+   ],
+   "answer": 3,
+   "explain": "reads: /z/. likes, stops, walks: /s/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-02-07",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "go[[es]]",
+    "swim[[s]]",
+    "write[[s]]",
+    "sing[[s]]"
+   ],
+   "answer": 2,
+   "explain": "writes: /s/. goes, swims, sings: /z/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-02-08",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "orang[[es]]",
+    "pag[[es]]",
+    "appl[[es]]",
+    "bridg[[es]]"
+   ],
+   "answer": 2,
+   "explain": "apples: /z/. oranges, pages, bridges: /ɪz/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-02-09",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "month[[s]]",
+    "student[[s]]",
+    "park[[s]]",
+    "friend[[s]]"
+   ],
+   "answer": 3,
+   "explain": "friends: /z/. months, students, parks: /s/.",
+   "skill": "phat-am"
+  },
+  {
+   "id": "th-am-02-10",
+   "type": "mcq",
+   "prompt": "Chọn từ có phần gạch chân được phát âm KHÁC các từ còn lại.",
+   "options": [
+    "teach[[es]]",
+    "kiss[[es]]",
+    "watch[[es]]",
+    "open[[s]]"
+   ],
+   "answer": 3,
+   "explain": "opens: /z/. teaches, kisses, watches: /ɪz/.",
+   "skill": "phat-am"
+  }
+ ]
+}

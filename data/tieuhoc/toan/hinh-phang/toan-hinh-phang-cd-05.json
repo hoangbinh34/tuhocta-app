@@ -1,0 +1,146 @@
+{
+  "id": "toan-hinh-phang-cd-05",
+  "title": "Đọc hình và vận dụng số đo",
+  "topic": "hinh-phang",
+  "items": [
+    {
+      "type": "mcq",
+      "level": 1,
+      "model": "doc-so-do-chieu-cao-thang",
+      "prompt": "Trong hình thang dưới đây, đoạn nét đứt vuông góc với hai đáy. Đọc hình để cho biết chiều cao dài bao nhiêu xăng-ti-mét?",
+      "options": [
+        "6 cm",
+        "14 cm",
+        "4 cm",
+        "20 cm"
+      ],
+      "answer": 2,
+      "explain": "Đoạn nét đứt vuông góc với hai đáy là chiều cao, có số đo 4 cm.\nNhiễu: 6 cm là đáy bé; 14 cm là đáy lớn; 20 = 14 + 6 là tổng hai đáy.\nĐáp số: 4 cm.",
+      "figure": {
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 210' role='img' aria-label='Hình thang đáy lớn 14 cm, đáy bé 6 cm, cao 4 cm'><polygon points='40,170 260,170 197.14285714285714,107.14285714285714 102.85714285714286,107.14285714285714' fill='none' stroke='#1d4ed8' stroke-width='2'/><line x1='102.85714285714286' y1='107.14285714285714' x2='102.85714285714286' y2='170' stroke='#1d4ed8' stroke-dasharray='4 3'/><polyline points='102.85714285714286,160 112.85714285714286,160 112.85714285714286,170' fill='none' stroke='#1d4ed8' stroke-width='1.5'/><text x='150' y='193' font-size='14' text-anchor='middle'>14 cm</text><text x='150' y='98.14285714285714' font-size='14' text-anchor='middle'>6 cm</text><text x='125.85714285714286' y='138.57142857142858' font-size='14' text-anchor='middle'>4 cm</text></svg>"
+      },
+      "id": "toan-hinh-phang-cd-05-01"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "model": "chieu-dai-chu-nhat-tu-chu-vi",
+      "prompt": "Hình chữ nhật có chu vi 30 cm, chiều rộng 6 cm như hình. Chiều dài là bao nhiêu xăng-ti-mét?",
+      "options": [
+        "24 cm",
+        "9 cm",
+        "15 cm",
+        "12 cm"
+      ],
+      "answer": 1,
+      "explain": "Nửa chu vi: 30 : 2 = 15 (cm).\nChiều dài: 15 − 6 = 9 (cm).\nNhiễu: 24 = 30 − 6 quên chia chu vi cho 2; 15 = 30 : 2 dừng ở nửa chu vi; 12 = 6 × 2 nhầm chiều dài gấp đôi chiều rộng.\nĐáp số: 9 cm.",
+      "figure": {
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 210' role='img' aria-label='Hình chữ nhật chu vi 30 cm, rộng 6 cm'><polygon points='40,40 220,40 220,160 40,160' fill='none' stroke='#1d4ed8' stroke-width='2'/><text x='130' y='30' font-size='14' text-anchor='middle'>?</text><text x='248' y='105' font-size='14' text-anchor='middle'>6 cm</text><text x='130' y='185' font-size='14' text-anchor='middle'>P = 30 cm</text></svg>"
+      },
+      "id": "toan-hinh-phang-cd-05-02"
+    },
+    {
+      "type": "num",
+      "level": 2,
+      "model": "dien-tich-vuong-tu-chu-vi",
+      "prompt": "Hình vuông có chu vi ghi trên hình là 28 cm. Diện tích bằng bao nhiêu xăng-ti-mét vuông?",
+      "answer": 49,
+      "round": 0,
+      "unit": "cm²",
+      "explain": "Cạnh hình vuông: 28 : 4 = 7 (cm).\nDiện tích: 7 × 7 = 49 (cm²).\nĐáp số: 49 cm².",
+      "figure": {
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 210' role='img' aria-label='Hình vuông chu vi 28 cm'><polygon points='65,30 205,30 205,170 65,170' fill='none' stroke='#1d4ed8' stroke-width='2'/><text x='135' y='107' font-size='14' text-anchor='middle'>P = 28 cm</text></svg>"
+      },
+      "id": "toan-hinh-phang-cd-05-03"
+    },
+    {
+      "type": "mcq",
+      "level": 2,
+      "model": "chu-vi-tam-giac-doi-canh-khac-don-vi",
+      "prompt": "Tam giác có tổng hai cạnh 17 cm và cạnh còn lại 0,8 dm như hình. Chu vi bằng bao nhiêu xăng-ti-mét?",
+      "options": [
+        "25 cm",
+        "17,8 cm",
+        "97 cm",
+        "9 cm"
+      ],
+      "answer": 0,
+      "explain": "Đổi cạnh còn lại: 0,8 dm = 8 cm.\nChu vi: 17 + 8 = 25 (cm).\nNhiễu: 17,8 = 17 + 0,8 quên đổi đơn vị; 97 = 17 + 80 đổi sai 0,8 dm; 9 = 17 − 8 trừ thay cộng.\nĐáp số: 25 cm.",
+      "figure": {
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 210' role='img' aria-label='Tam giác tổng hai cạnh 17 cm, cạnh còn lại 0,8 dm'><polygon points='40,175 200,175 56.25,36' fill='none' stroke='#1d4ed8' stroke-width='2'/><text x='120' y='198' font-size='14' text-anchor='middle'>0,8 dm</text><text x='150' y='23' font-size='14' text-anchor='middle'>Tổng hai cạnh: 17 cm</text></svg>"
+      },
+      "id": "toan-hinh-phang-cd-05-04"
+    },
+    {
+      "type": "num",
+      "level": 3,
+      "model": "dien-tich-moi-phan-thang-tu-trung-binh-day",
+      "prompt": "Một thửa đất hình thang có trung bình cộng hai đáy 11 m, chiều cao 0,6 dam. Chia thửa đất thành 3 phần bằng diện tích. Mỗi phần rộng bao nhiêu mét vuông?",
+      "answer": 22,
+      "round": 0,
+      "unit": "m²",
+      "explain": "Đổi chiều cao: 0,6 dam = 6 m.\nDiện tích bằng trung bình hai đáy nhân chiều cao: 11 × 6 = 66 (m²).\nDiện tích mỗi phần: 66 : 3 = 22 (m²).\nĐáp số: 22 m².",
+      "id": "toan-hinh-phang-cd-05-05"
+    },
+    {
+      "type": "mcq",
+      "level": 3,
+      "model": "dien-tich-tam-giac-doc-luoi-o",
+      "prompt": "Tam giác vuông trên lưới có đáy dài 3 ô, chiều cao 4 ô; mỗi ô vuông có cạnh 2 cm như hình. Diện tích tam giác bằng bao nhiêu xăng-ti-mét vuông?",
+      "options": [
+        "48 cm²",
+        "12 cm²",
+        "6 cm²",
+        "24 cm²"
+      ],
+      "answer": 3,
+      "explain": "Đáy: 3 × 2 = 6 (cm).\nChiều cao: 4 × 2 = 8 (cm).\nTích đáy và chiều cao: 6 × 8 = 48 (cm²).\nDiện tích: 48 : 2 = 24 (cm²).\nNhiễu: 48 = 6 × 8 quên chia 2; 12 = 48 : 2 : 2 chia 2 hai lần; 6 = 3 × 4 : 2 coi mỗi cạnh ô là 1 cm.\nĐáp số: 24 cm².",
+      "figure": {
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 210' role='img' aria-label='Tam giác vuông trên lưới ô vuông cạnh 2 cm, đáy 3 ô, cao 4 ô'><line x1='40' y1='20' x2='40' y2='180' stroke='#1d4ed8' /><line x1='80' y1='20' x2='80' y2='180' stroke='#1d4ed8' /><line x1='120' y1='20' x2='120' y2='180' stroke='#1d4ed8' /><line x1='160' y1='20' x2='160' y2='180' stroke='#1d4ed8' /><line x1='40' y1='20' x2='160' y2='20' stroke='#1d4ed8' /><line x1='40' y1='60' x2='160' y2='60' stroke='#1d4ed8' /><line x1='40' y1='100' x2='160' y2='100' stroke='#1d4ed8' /><line x1='40' y1='140' x2='160' y2='140' stroke='#1d4ed8' /><line x1='40' y1='180' x2='160' y2='180' stroke='#1d4ed8' /><polygon points='40,20 40,180 160,180' fill='none' stroke='#1d4ed8' stroke-width='2'/><polyline points='40,168 52,168 52,180' fill='none' stroke='#1d4ed8' stroke-width='2'/><text x='60' y='201' font-size='14' text-anchor='middle'>2 cm</text></svg>"
+      },
+      "id": "toan-hinh-phang-cd-05-06"
+    },
+    {
+      "type": "num",
+      "level": 3,
+      "model": "quang-duong-banh-xe-lan",
+      "prompt": "Bánh xe tròn đường kính 20 cm lăn đúng 5 vòng, không trượt. Lấy 3,14. Bánh xe đi được bao nhiêu mét? Ghi số thập phân chính xác.",
+      "answer": 3.14,
+      "round": 2,
+      "unit": "m",
+      "explain": "Chu vi bánh xe: 20 × 3,14 = 62,8 (cm).\nQuãng đường: 62,8 × 5 = 314 (cm).\nĐổi: 314 cm = 3,14 m.\nĐáp số: 3,14 m.",
+      "figure": {
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 210' role='img' aria-label='Hình tròn có đường kính 20 cm'><circle cx='145' cy='100' r='72' fill='none' stroke='#1d4ed8' stroke-width='2'/><line x1='73' y1='100' x2='217' y2='100' stroke='#1d4ed8' /><text x='145' y='89' font-size='14' text-anchor='middle'>20 cm</text></svg>"
+      },
+      "id": "toan-hinh-phang-cd-05-07"
+    },
+    {
+      "type": "tf4",
+      "level": 2,
+      "model": "doc-va-kiem-tra-so-do-chu-nhat",
+      "prompt": "Hình chữ nhật trên hình có chiều dài 8 cm, chiều rộng 3 cm. Đánh giá các phát biểu.",
+      "statements": [
+        "a) Chiều dài hơn chiều rộng 5 cm.",
+        "b) Chu vi là 22 cm.",
+        "c) Nửa chu vi là 11 cm.",
+        "d) Chiều rộng là 8 cm."
+      ],
+      "answers": [
+        true,
+        true,
+        true,
+        false
+      ],
+      "explain": [
+        "Hiệu hai kích thước: 8 − 3 = 5 (cm).\nĐáp số: đúng.",
+        "Nửa chu vi: 8 + 3 = 11 (cm).\nChu vi: 11 × 2 = 22 (cm).\nĐáp số: đúng.",
+        "Nửa chu vi: 8 + 3 = 11 (cm).\nĐáp số: đúng.",
+        "Sai. Số đo chiều rộng trên hình là 3 cm, không phải 8 cm.\nĐáp số: sai."
+      ],
+      "figure": {
+        "svg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 320 210' role='img' aria-label='Hình chữ nhật 8 cm và 3 cm'><polygon points='40,40 260,40 260,122.5 40,122.5' fill='none' stroke='#1d4ed8' stroke-width='2'/><text x='150' y='30' font-size='14' text-anchor='middle'>8 cm</text><text x='284' y='86.25' font-size='14' text-anchor='middle'>3 cm</text></svg>"
+      },
+      "id": "toan-hinh-phang-cd-05-08"
+    }
+  ]
+}

@@ -1,0 +1,652 @@
+{
+ "id": "c3-de-04",
+ "module": "mock-test",
+ "title": "Đề 4 – cấu trúc đề tốt nghiệp",
+ "emoji": "🏁",
+ "desc": "40 câu, 50 phút. Chủ đề: xe đạp điện, ngày hội đọc sách, thư xin học bổng, rác thải nhựa đại dương, làm việc từ xa.",
+ "minutes": 50,
+ "scale": 10,
+ "priority": 1,
+ "sources": [
+  "cau-truc-de-tn-2025"
+ ],
+ "sections": [
+  {
+   "title": "Câu 1–6",
+   "instruction": "Đọc quảng cáo và chọn phương án đúng cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "c3-de-04-g1",
+     "type": "group",
+     "title": "E-bike",
+     "passage": "CITYGO E-BIKE – RIDE SMART, RIDE GREEN\nLooking for a cheap and clean way to get around the city? The new CityGo e-bike is light, quiet and easy to (1) ___. Its battery can be fully charged in just three hours and lasts (2) ___ up to five hours. The bike is designed for students and office workers (3) ___ want to avoid traffic jams. It also comes with a smart lock that you can control (4) ___ your phone. Buy one before 30th June and you will get a helmet free of charge. CityGo – the (5) ___ choice for a greener future. Visit our showroom today and take it for a test (6) ___!",
+     "items": [
+      {
+       "id": "c3-de-04-01",
+       "type": "mcq",
+       "prompt": "(1)",
+       "options": [
+        "ride",
+        "drive",
+        "fly",
+        "sail"
+       ],
+       "answer": 0,
+       "explain": "ride a bike: đi xe đạp."
+      },
+      {
+       "id": "c3-de-04-02",
+       "type": "mcq",
+       "prompt": "(2)",
+       "options": [
+        "for",
+        "since",
+        "during",
+        "ago"
+       ],
+       "answer": 0,
+       "explain": "last for + khoảng thời gian: dùng được tới 5 tiếng."
+      },
+      {
+       "id": "c3-de-04-03",
+       "type": "mcq",
+       "prompt": "(3)",
+       "options": [
+        "who",
+        "which",
+        "whose",
+        "whom"
+       ],
+       "answer": 0,
+       "explain": "Mệnh đề quan hệ chỉ người, làm chủ ngữ: who."
+      },
+      {
+       "id": "c3-de-04-04",
+       "type": "mcq",
+       "prompt": "(4)",
+       "options": [
+        "with",
+        "by",
+        "at",
+        "to"
+       ],
+       "answer": 0,
+       "explain": "control something with your phone: điều khiển bằng điện thoại."
+      },
+      {
+       "id": "c3-de-04-05",
+       "type": "mcq",
+       "prompt": "(5)",
+       "options": [
+        "perfect",
+        "perfectly",
+        "perfection",
+        "perfectionist"
+       ],
+       "answer": 0,
+       "explain": "Trước danh từ choice cần tính từ: the perfect choice."
+      },
+      {
+       "id": "c3-de-04-06",
+       "type": "mcq",
+       "prompt": "(6)",
+       "options": [
+        "ride",
+        "go",
+        "walk",
+        "trip"
+       ],
+       "answer": 0,
+       "explain": "take something for a test ride: đi thử."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 7–12",
+   "instruction": "Đọc thông báo và chọn phương án đúng cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "c3-de-04-g2",
+     "type": "group",
+     "title": "Book festival",
+     "passage": "SCHOOL READING FESTIVAL – 20TH TO 24TH NOVEMBER\nTo celebrate Reading Week, the school library is holding a reading festival in the main hall. There will be book (7) ___, storytelling sessions and a meeting with a young writer. Students are (8) ___ to bring old books to exchange with their friends. Each student who reads five books during the week will receive a certificate and a book (9) ___. The festival is open from 7.30 a.m. to 4.30 p.m. every day. Please keep the hall clean and (10) ___ quiet during the storytelling sessions. For more details, check the noticeboard or ask your class (11) ___. We look forward to (12) ___ you there!",
+     "items": [
+      {
+       "id": "c3-de-04-07",
+       "type": "mcq",
+       "prompt": "(7)",
+       "options": [
+        "exhibitions",
+        "exhibitor",
+        "exhibiting",
+        "exhibited"
+       ],
+       "answer": 0,
+       "explain": "Danh từ số nhiều đứng cạnh storytelling sessions: book exhibitions (triển lãm sách)."
+      },
+      {
+       "id": "c3-de-04-08",
+       "type": "mcq",
+       "prompt": "(8)",
+       "options": [
+        "encouraged",
+        "encouraging",
+        "encourage",
+        "encouragement"
+       ],
+       "answer": 0,
+       "explain": "Bị động: be encouraged to + V (được khuyến khích)."
+      },
+      {
+       "id": "c3-de-04-09",
+       "type": "mcq",
+       "prompt": "(9)",
+       "options": [
+        "voucher",
+        "vouch",
+        "vouched",
+        "vouching"
+       ],
+       "answer": 0,
+       "explain": "a book voucher: phiếu mua sách (danh từ)."
+      },
+      {
+       "id": "c3-de-04-10",
+       "type": "mcq",
+       "prompt": "(10)",
+       "options": [
+        "keep",
+        "keeping",
+        "to keep",
+        "kept"
+       ],
+       "answer": 0,
+       "explain": "Song song với keep the hall clean (câu mệnh lệnh): and keep quiet."
+      },
+      {
+       "id": "c3-de-04-11",
+       "type": "mcq",
+       "prompt": "(11)",
+       "options": [
+        "monitor",
+        "monitoring",
+        "monitored",
+        "monitorial"
+       ],
+       "answer": 0,
+       "explain": "class monitor: lớp trưởng (danh từ số ít sau your class)."
+      },
+      {
+       "id": "c3-de-04-12",
+       "type": "mcq",
+       "prompt": "(12)",
+       "options": [
+        "seeing",
+        "see",
+        "to see",
+        "seen"
+       ],
+       "answer": 0,
+       "explain": "look forward to + V-ing: seeing."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 13–17",
+   "instruction": "Chọn thứ tự đúng để tạo thành hội thoại, lá thư hoặc đoạn văn.",
+   "items": [
+    {
+     "id": "c3-de-04-g3",
+     "type": "group",
+     "title": "Câu 13",
+     "passage": "a. Tuan: Yes, but I'm not sure which club to join.\nb. Linh: Are you going to join a club this semester?\nc. Linh: You could try the debate club. It will improve your speaking skills.",
+     "items": [
+      {
+       "id": "c3-de-04-13",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "b – a – c",
+        "a – b – c",
+        "b – c – a",
+        "c – a – b"
+       ],
+       "answer": 0,
+       "explain": "Hỏi (b) → trả lời còn phân vân (a) → gợi ý (c)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-04-g4",
+     "type": "group",
+     "title": "Câu 14",
+     "passage": "a. Hieu: Sorry, I missed the bus. Have you been waiting long?\nb. Ha: About twenty minutes. The film has already started.\nc. Hieu: I'm really sorry. Let me buy you a drink after the film.\nd. Ha: OK, apology accepted. Let's go in quickly.\ne. Hieu: Thanks for being so understanding.",
+     "items": [
+      {
+       "id": "c3-de-04-14",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "a – b – c – d – e",
+        "b – a – c – d – e",
+        "a – c – b – d – e",
+        "a – b – c – e – d"
+       ],
+       "answer": 0,
+       "explain": "Xin lỗi, hỏi chờ lâu chưa (a) → trả lời (b) → xin lỗi, đề nghị bù (c) → chấp nhận (d) → cảm ơn (e)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-04-g5",
+     "type": "group",
+     "title": "Câu 15",
+     "passage": "Dear Selection Committee,\na. I am writing to apply for the Future Leaders Scholarship advertised on your website.\nb. In addition, I have been the leader of my school's volunteer club for two years.\nc. I am currently in Grade 12 and have achieved excellent results in English and maths.\nd. I would be grateful for the opportunity to discuss my application in an interview.\nYours faithfully,\nTran Thu Trang",
+     "items": [
+      {
+       "id": "c3-de-04-15",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "a – c – b – d",
+        "c – a – b – d",
+        "a – b – c – d",
+        "a – c – d – b"
+       ],
+       "answer": 0,
+       "explain": "Mục đích (a) → thành tích học tập (c) → \"In addition\" hoạt động khác (b) → mong được phỏng vấn (d)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-04-g6",
+     "type": "group",
+     "title": "Câu 16",
+     "passage": "a. Every year, millions of tonnes of plastic end up in the ocean.\nb. Sea animals often mistake these tiny pieces for food and die after eating them.\nc. To solve this problem, many countries have banned single-use plastic bags.\nd. Over time, this plastic breaks into tiny pieces called microplastics.",
+     "items": [
+      {
+       "id": "c3-de-04-16",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "a – d – b – c",
+        "a – b – d – c",
+        "d – a – b – c",
+        "a – d – c – b"
+       ],
+       "answer": 0,
+       "explain": "Vấn đề (a) → \"this plastic\" vỡ thành vi nhựa (d) → tác hại cho sinh vật (b) → giải pháp (c)."
+      }
+     ]
+    },
+    {
+     "id": "c3-de-04-g7",
+     "type": "group",
+     "title": "Câu 17",
+     "passage": "a. First, make a list of the things you need to do each day.\nb. Managing your time well is one of the most useful skills for students.\nc. Finally, remember to take short breaks so that your brain can rest.\nd. Then, decide which tasks are the most important and do them first.",
+     "items": [
+      {
+       "id": "c3-de-04-17",
+       "type": "mcq",
+       "prompt": "Chọn thứ tự đúng.",
+       "options": [
+        "b – a – d – c",
+        "a – b – d – c",
+        "b – d – a – c",
+        "b – a – c – d"
+       ],
+       "answer": 0,
+       "explain": "Chủ đề (b) → First (a) → Then (d) → Finally (c)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 18–22",
+   "instruction": "Đọc đoạn văn và chọn phương án phù hợp nhất cho mỗi chỗ trống.",
+   "items": [
+    {
+     "id": "c3-de-04-g8",
+     "type": "group",
+     "title": "Plastic in the ocean",
+     "passage": "Plastic pollution is one of the biggest threats to the world's oceans. Scientists estimate that around 11 million tonnes of plastic enter the sea every year, (18) ___. Much of this plastic comes from rivers in Asia, (19) ___. Once in the water, plastic does not disappear; instead, it breaks down into tiny pieces (20) ___. These microplastics have been found in fish, salt and even drinking water. To reduce the problem, governments are encouraging people to use reusable bags and bottles, (21) ___. Individuals can help too by refusing straws and (22) ___.",
+     "items": [
+      {
+       "id": "c3-de-04-18",
+       "type": "mcq",
+       "prompt": "(18)",
+       "options": [
+        "and this amount could triple by 2040",
+        "which could amount triple by 2040",
+        "this amount could triple by 2040",
+        "that this amount could triple by 2040"
+       ],
+       "answer": 0,
+       "explain": "Nối hai mệnh đề độc lập bằng and: and this amount could triple…"
+      },
+      {
+       "id": "c3-de-04-19",
+       "type": "mcq",
+       "prompt": "(19)",
+       "options": [
+        "where waste management systems are often limited",
+        "which waste management systems are often limited",
+        "that waste management systems often limited",
+        "waste management systems are often limited there"
+       ],
+       "answer": 0,
+       "explain": "Mệnh đề quan hệ chỉ nơi chốn: rivers in Asia, where…"
+      },
+      {
+       "id": "c3-de-04-20",
+       "type": "mcq",
+       "prompt": "(20)",
+       "options": [
+        "that are almost impossible to remove",
+        "which almost impossible to remove",
+        "are almost impossible removing",
+        "what are almost impossible to remove"
+       ],
+       "answer": 0,
+       "explain": "Mệnh đề quan hệ bổ nghĩa cho tiny pieces: that are…"
+      },
+      {
+       "id": "c3-de-04-21",
+       "type": "mcq",
+       "prompt": "(21)",
+       "options": [
+        "while some cities have banned plastic bags completely",
+        "while some cities banning plastic bags completely",
+        "some cities have banned plastic bags completely",
+        "which some cities have banned plastic bags"
+       ],
+       "answer": 0,
+       "explain": "while + mệnh đề đầy đủ: trong khi đó một số thành phố đã cấm hẳn."
+      },
+      {
+       "id": "c3-de-04-22",
+       "type": "mcq",
+       "prompt": "(22)",
+       "options": [
+        "sorting their rubbish for recycling",
+        "sort their rubbish for recycling",
+        "to sorting their rubbish for recycling",
+        "sorted their rubbish for recycling"
+       ],
+       "answer": 0,
+       "explain": "Song song với refusing (sau by): by refusing … and sorting…"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 23–30",
+   "instruction": "Đọc bài và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "c3-de-04-g9",
+     "type": "group",
+     "title": "The rise of remote work",
+     "passage": "Before 2020, working from home was a rare privilege for most employees. The COVID-19 pandemic changed that almost overnight. When offices closed, millions of people learned to hold meetings online, share documents in the cloud and communicate through chat apps. Many of them discovered that they could do their jobs just as well from their living rooms.\n\nToday, remote and \"hybrid\" work – a mix of office and home – has become common in many industries. Supporters point out that employees save time and money because they no longer have to travel to work every day. Companies can also hire talented staff from anywhere in the country, not just from the city where their office is located.\n\nHowever, remote work is not suitable for everyone. Some workers feel lonely and miss chatting with colleagues. Others find it hard to separate work from family life, especially when they share a small flat with children. Managers, too, worry that new employees learn more slowly when they cannot watch experienced colleagues at work. For these reasons, many companies now ask staff to come to the office two or three days a week.",
+     "items": [
+      {
+       "id": "c3-de-04-23",
+       "type": "mcq",
+       "prompt": "What is the passage mainly about?",
+       "options": [
+        "The growth of remote work and its advantages and disadvantages",
+        "How to hold a meeting online",
+        "The history of the COVID-19 pandemic",
+        "Why offices are becoming bigger"
+       ],
+       "answer": 0,
+       "explain": "Bài nói sự phát triển của làm việc từ xa, mặt lợi và mặt hại."
+      },
+      {
+       "id": "c3-de-04-24",
+       "type": "mcq",
+       "prompt": "The word \"privilege\" in paragraph 1 is closest in meaning to ___.",
+       "options": [
+        "special advantage",
+        "difficult duty",
+        "serious problem",
+        "daily habit"
+       ],
+       "answer": 0,
+       "explain": "privilege = đặc quyền (lợi ích đặc biệt)."
+      },
+      {
+       "id": "c3-de-04-25",
+       "type": "mcq",
+       "prompt": "According to paragraph 1, what did many people discover during the pandemic?",
+       "options": [
+        "They could work well from home.",
+        "They preferred to work at night.",
+        "They needed bigger offices.",
+        "They did not like chat apps."
+       ],
+       "answer": 0,
+       "explain": "\"they could do their jobs just as well from their living rooms\"."
+      },
+      {
+       "id": "c3-de-04-26",
+       "type": "mcq",
+       "prompt": "The word \"hybrid\" in paragraph 2 refers to ___.",
+       "options": [
+        "a mix of working in the office and at home",
+        "working only at home",
+        "working in two different companies",
+        "working at night"
+       ],
+       "answer": 0,
+       "explain": "\"hybrid\" work – a mix of office and home."
+      },
+      {
+       "id": "c3-de-04-27",
+       "type": "mcq",
+       "prompt": "According to paragraph 2, how do companies benefit from remote work?",
+       "options": [
+        "They can hire staff from anywhere in the country.",
+        "They can pay lower taxes.",
+        "They do not need managers.",
+        "They can close all their offices."
+       ],
+       "answer": 0,
+       "explain": "\"Companies can also hire talented staff from anywhere\"."
+      },
+      {
+       "id": "c3-de-04-28",
+       "type": "mcq",
+       "prompt": "Which of the following is NOT mentioned as a problem of remote work?",
+       "options": [
+        "Workers earn less money.",
+        "Workers feel lonely.",
+        "It is hard to separate work from family life.",
+        "New employees learn more slowly."
+       ],
+       "answer": 0,
+       "explain": "Bài không nói người làm từ xa bị giảm lương."
+      },
+      {
+       "id": "c3-de-04-29",
+       "type": "mcq",
+       "prompt": "The word \"they\" in \"when they cannot watch experienced colleagues\" (paragraph 3) refers to ___.",
+       "options": [
+        "new employees",
+        "managers",
+        "colleagues",
+        "companies"
+       ],
+       "answer": 0,
+       "explain": "\"new employees learn more slowly when they cannot watch…\": they = new employees."
+      },
+      {
+       "id": "c3-de-04-30",
+       "type": "mcq",
+       "prompt": "It can be inferred from the last sentence that many companies ___.",
+       "options": [
+        "are trying to combine the benefits of office and remote work",
+        "have stopped remote work completely",
+        "want all staff to work from home",
+        "do not trust any of their employees"
+       ],
+       "answer": 0,
+       "explain": "Yêu cầu lên văn phòng 2–3 ngày/tuần: kết hợp cả hai (hybrid)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Câu 31–40",
+   "instruction": "Đọc bài và chọn đáp án đúng.",
+   "items": [
+    {
+     "id": "c3-de-04-g10",
+     "type": "group",
+     "title": "The power of reading for pleasure",
+     "passage": "In an age of short videos and endless notifications, reading a whole book for fun may seem old-fashioned. Surveys in several countries show that the number of teenagers who read for pleasure has fallen steadily over the past twenty years. Many say they simply do not have time, while others find books boring compared with games and social media.\n\nResearchers, however, argue that reading for pleasure brings benefits that are hard to get elsewhere. [I] A long-term study in the United Kingdom found that children who read for fun did better not only in English but also in maths than those who rarely read. [II] Reading also builds vocabulary, because books contain many words that people seldom use in everyday conversation. [III] What is more, following a story for hundreds of pages trains the brain to concentrate for long periods. [IV]\n\nReading fiction may also make people more understanding. When we read a novel, we see the world through the eyes of characters whose lives are very different from our own. Psychologists believe this helps readers develop empathy – the ability to understand and share the feelings of others.\n\nSo how can schools and families encourage young people to read more? Experts say the key is choice. Teenagers are far more likely to read when they can pick books that match their own interests, whether these are comics, fantasy novels or biographies of footballers. Adults can also set an example: children who see their parents reading at home are more likely to become readers themselves.",
+     "items": [
+      {
+       "id": "c3-de-04-31",
+       "type": "mcq",
+       "prompt": "Which could be the best title for the passage?",
+       "options": [
+        "Why Reading for Fun Still Matters",
+        "The End of Books",
+        "How to Write a Novel",
+        "Games Are Better than Books"
+       ],
+       "answer": 0,
+       "explain": "Bài nói lợi ích của việc đọc sách vì thích."
+      },
+      {
+       "id": "c3-de-04-32",
+       "type": "mcq",
+       "prompt": "According to paragraph 1, what has happened over the past twenty years?",
+       "options": [
+        "Fewer teenagers read for pleasure.",
+        "Books have become more expensive.",
+        "Teenagers read more e-books.",
+        "Schools have closed their libraries."
+       ],
+       "answer": 0,
+       "explain": "\"the number of teenagers who read for pleasure has fallen steadily\"."
+      },
+      {
+       "id": "c3-de-04-33",
+       "type": "mcq",
+       "prompt": "The word \"steadily\" in paragraph 1 is closest in meaning to ___.",
+       "options": [
+        "gradually and continuously",
+        "suddenly",
+        "rarely",
+        "surprisingly"
+       ],
+       "answer": 0,
+       "explain": "steadily = đều đều, liên tục."
+      },
+      {
+       "id": "c3-de-04-34",
+       "type": "mcq",
+       "prompt": "Where in paragraph 2 does the following sentence best fit? \"Surprisingly, the effect was even stronger than that of having well-educated parents.\"",
+       "options": [
+        "[I]",
+        "[II]",
+        "[III]",
+        "[IV]"
+       ],
+       "answer": 1,
+       "explain": "\"the effect\" chỉ kết quả của nghiên cứu ở Anh vừa nêu, nên đặt ở [II].",
+       "noShuffle": true
+      },
+      {
+       "id": "c3-de-04-35",
+       "type": "mcq",
+       "prompt": "According to paragraph 2, why does reading build vocabulary?",
+       "options": [
+        "Books contain words that are rarely used in conversation.",
+        "Books are easier than conversations.",
+        "Readers talk more with their friends.",
+        "Books always have dictionaries."
+       ],
+       "answer": 0,
+       "explain": "\"books contain many words that people seldom use in everyday conversation\"."
+      },
+      {
+       "id": "c3-de-04-36",
+       "type": "mcq",
+       "prompt": "The word \"whose\" in paragraph 3 refers to ___.",
+       "options": [
+        "characters'",
+        "readers'",
+        "psychologists'",
+        "novels'"
+       ],
+       "answer": 0,
+       "explain": "\"characters whose lives…\": cuộc sống của các nhân vật."
+      },
+      {
+       "id": "c3-de-04-37",
+       "type": "mcq",
+       "prompt": "The word \"empathy\" in paragraph 3 is closest in meaning to ___.",
+       "options": [
+        "understanding of other people's feelings",
+        "love of reading",
+        "ability to remember stories",
+        "fear of strangers"
+       ],
+       "answer": 0,
+       "explain": "Bài giải thích: the ability to understand and share the feelings of others."
+      },
+      {
+       "id": "c3-de-04-38",
+       "type": "mcq",
+       "prompt": "According to the experts, what is the key to encouraging teenagers to read?",
+       "options": [
+        "Letting them choose their own books",
+        "Giving them more homework",
+        "Banning games and social media",
+        "Making them read classic novels"
+       ],
+       "answer": 0,
+       "explain": "\"Experts say the key is choice\"."
+      },
+      {
+       "id": "c3-de-04-39",
+       "type": "mcq",
+       "prompt": "Which of the following is NOT mentioned as a benefit of reading for pleasure?",
+       "options": [
+        "Making more friends at school",
+        "Doing better in maths",
+        "Building vocabulary",
+        "Improving concentration"
+       ],
+       "answer": 0,
+       "explain": "Bài không nói đọc sách giúp có thêm bạn."
+      },
+      {
+       "id": "c3-de-04-40",
+       "type": "mcq",
+       "prompt": "It can be inferred from the last paragraph that ___.",
+       "options": [
+        "parents' habits can influence their children's reading",
+        "comics are not real reading",
+        "children should only read biographies",
+        "teenagers dislike all kinds of books"
+       ],
+       "answer": 0,
+       "explain": "\"children who see their parents reading… are more likely to become readers\"."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

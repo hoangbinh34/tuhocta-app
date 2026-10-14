@@ -1,0 +1,23 @@
+[
+ {
+  "id": "c3-dh-01",
+  "title": "Đọc hiểu (1): Lifelong learning",
+  "emoji": "📖",
+  "file": "doc-hieu/c3-dh-01.json",
+  "count": 8
+ },
+ {
+  "id": "c3-dh-02",
+  "title": "Đọc hiểu (2): Wildlife and tourism",
+  "emoji": "📖",
+  "file": "doc-hieu/c3-dh-02.json",
+  "count": 10
+ },
+ {
+  "id": "c3-dh-03",
+  "title": "Đọc hiểu (3): AI at school",
+  "emoji": "📖",
+  "file": "doc-hieu/c3-dh-03.json",
+  "count": 8
+ }
+]

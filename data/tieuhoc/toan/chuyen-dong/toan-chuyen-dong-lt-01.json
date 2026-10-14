@@ -1,0 +1,18 @@
+{
+  "id": "toan-chuyen-dong-lt-01",
+  "title": "Vận tốc và đơn vị vận tốc",
+  "topic": "chuyen-dong",
+  "items": [
+    {
+      "id": "toan-chuyen-dong-lt-01-t1",
+      "type": "card",
+      "title": "Vận tốc và đơn vị vận tốc",
+      "paras": [
+        "Vận tốc cho biết quãng đường đi được trong một đơn vị thời gian. Với chuyển động đều: v = s : t. Quãng đường tính bằng km, thời gian tính bằng giờ thì vận tốc tính bằng km/giờ; với m và phút thì dùng m/phút.",
+        "Khi đề cho số cột ki-lô-mét, lấy số cột cuối trừ số cột đầu để tìm quãng đường nếu đi theo chiều số tăng. Khi hành trình có nghỉ, chỉ dùng thời gian thực sự chạy để tính vận tốc khi chạy.",
+        "Đổi vận tốc phải giữ đúng cả hai đơn vị: 1 km/giờ = 1 000 m/giờ. Từ m/giờ sang m/phút, chia số đo cho 60. Viết từng bước đổi riêng rồi mới tính."
+      ],
+      "source": "SGK Toán 5, bài “Vận tốc”; phạm vi chuyển động đều một vật: CT môn Toán GDPT 2018, lớp 5, trang in 44."
+    }
+  ]
+}

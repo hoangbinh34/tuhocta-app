@@ -1,0 +1,72 @@
+[
+ {
+  "id": "th-am-01",
+  "title": "Đuôi -ed",
+  "emoji": "🔚",
+  "file": "ngu-am/th-am-01.json",
+  "count": 10
+ },
+ {
+  "id": "th-am-02",
+  "title": "Đuôi -s / -es",
+  "emoji": "🔤",
+  "file": "ngu-am/th-am-02.json",
+  "count": 10
+ },
+ {
+  "id": "th-am-03",
+  "title": "Nguyên âm \"a\"",
+  "emoji": "🅰️",
+  "file": "ngu-am/th-am-03.json",
+  "count": 10
+ },
+ {
+  "id": "th-am-04",
+  "title": "Nguyên âm \"o\", \"u\", \"oo\", \"ou\"",
+  "emoji": "⭕",
+  "file": "ngu-am/th-am-04.json",
+  "count": 10
+ },
+ {
+  "id": "th-am-05",
+  "title": "Nguyên âm \"e\", \"i\", \"ea\", \"ee\"",
+  "emoji": "🔡",
+  "file": "ngu-am/th-am-05.json",
+  "count": 10
+ },
+ {
+  "id": "th-am-06",
+  "title": "Phụ âm c, g, ch, th, s",
+  "emoji": "🔠",
+  "file": "ngu-am/th-am-06.json",
+  "count": 10
+ },
+ {
+  "id": "th-am-07",
+  "title": "Âm câm (chữ không đọc)",
+  "emoji": "🤫",
+  "file": "ngu-am/th-am-07.json",
+  "count": 8
+ },
+ {
+  "id": "th-am-08",
+  "title": "Trọng âm từ 2 âm tiết",
+  "emoji": "🎵",
+  "file": "ngu-am/th-am-08.json",
+  "count": 10
+ },
+ {
+  "id": "th-am-09",
+  "title": "Trọng âm từ 3 âm tiết",
+  "emoji": "🎶",
+  "file": "ngu-am/th-am-09.json",
+  "count": 10
+ },
+ {
+  "id": "th-am-10",
+  "title": "Ôn tập tổng hợp",
+  "emoji": "🏁",
+  "file": "ngu-am/th-am-10.json",
+  "count": 10
+ }
+]

@@ -1,0 +1,145 @@
+{
+ "id": "th-np-11",
+ "module": "grammar",
+ "title": "Giao tiếp: chọn câu đáp",
+ "emoji": "💬",
+ "intro": "Chọn câu trả lời phù hợp nhất trong hội thoại: cảm ơn, xin lỗi, mời, nhờ, chúc mừng, hỏi thăm.",
+ "instruction": "Chọn đáp án đúng.",
+ "shuffle": true,
+ "sources": [
+  "dang-de-vao-6-CG-NTL-NTT"
+ ],
+ "priority": 1,
+ "items": [
+  {
+   "id": "th-np-11-01",
+   "type": "mcq",
+   "prompt": "\"Thank you very much!\" – \"___\"",
+   "options": [
+    "You're welcome.",
+    "Yes, please.",
+    "I'm fine.",
+    "Good idea."
+   ],
+   "answer": 0,
+   "explain": "Đáp lại lời cảm ơn: You're welcome."
+  },
+  {
+   "id": "th-np-11-02",
+   "type": "mcq",
+   "prompt": "\"Would you like some cake?\" – \"___\"",
+   "options": [
+    "Yes, please.",
+    "You're welcome.",
+    "I'm sorry.",
+    "Me too."
+   ],
+   "answer": 0,
+   "explain": "Nhận lời mời ăn uống: Yes, please."
+  },
+  {
+   "id": "th-np-11-03",
+   "type": "mcq",
+   "prompt": "\"How are you today?\" – \"___\"",
+   "options": [
+    "I'm ten.",
+    "I'm fine, thank you.",
+    "I'm a student.",
+    "I'm at home."
+   ],
+   "answer": 1,
+   "explain": "Hỏi thăm sức khoẻ: I'm fine, thank you."
+  },
+  {
+   "id": "th-np-11-04",
+   "type": "mcq",
+   "prompt": "\"Let's go to the park.\" – \"___\"",
+   "options": [
+    "Good idea!",
+    "Thank you.",
+    "You're welcome.",
+    "Not at all."
+   ],
+   "answer": 0,
+   "explain": "Đồng ý với lời rủ: Good idea!"
+  },
+  {
+   "id": "th-np-11-05",
+   "type": "mcq",
+   "prompt": "\"I'm sorry I'm late.\" – \"___\"",
+   "options": [
+    "That's all right.",
+    "Yes, I am.",
+    "Thank you.",
+    "Good luck."
+   ],
+   "answer": 0,
+   "explain": "Đáp lại lời xin lỗi: That's all right."
+  },
+  {
+   "id": "th-np-11-06",
+   "type": "mcq",
+   "prompt": "\"Happy birthday, Linh!\" – \"___\"",
+   "options": [
+    "Thank you.",
+    "Same to you.",
+    "Yes, it is.",
+    "I'm OK."
+   ],
+   "answer": 0,
+   "explain": "Đáp lại lời chúc sinh nhật: Thank you."
+  },
+  {
+   "id": "th-np-11-07",
+   "type": "mcq",
+   "prompt": "\"Can I borrow your pen?\" – \"___\"",
+   "options": [
+    "Sure, here you are.",
+    "No, I don't.",
+    "Yes, I am.",
+    "Good idea."
+   ],
+   "answer": 0,
+   "explain": "Đồng ý cho mượn: Sure, here you are."
+  },
+  {
+   "id": "th-np-11-08",
+   "type": "mcq",
+   "prompt": "\"What's the matter?\" – \"___\"",
+   "options": [
+    "I have a headache.",
+    "I'm a doctor.",
+    "It's ten o'clock.",
+    "Yes, please."
+   ],
+   "answer": 0,
+   "explain": "Hỏi chuyện gì vậy: trả lời vấn đề đang gặp."
+  },
+  {
+   "id": "th-np-11-09",
+   "type": "mcq",
+   "prompt": "\"I passed the exam!\" – \"___\"",
+   "options": [
+    "Congratulations!",
+    "Never mind.",
+    "Sorry.",
+    "Help yourself."
+   ],
+   "answer": 0,
+   "explain": "Chúc mừng thành công: Congratulations!"
+  },
+  {
+   "id": "th-np-11-10",
+   "type": "mcq",
+   "prompt": "\"Goodbye. See you tomorrow.\" – \"___\"",
+   "options": [
+    "See you.",
+    "Nice to meet you.",
+    "How do you do?",
+    "Thank you."
+   ],
+   "answer": 0,
+   "explain": "Đáp lại lời chào tạm biệt: See you."
+  }
+ ]
+}

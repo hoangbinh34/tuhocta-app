@@ -1,0 +1,13 @@
+{
+  "id": "toan-so-thap-phan-lt-04", "title": "Thứ tự thực hiện biểu thức", "topic": "so-thap-phan",
+  "items": [{
+    "id": "toan-so-thap-phan-lt-04-t1", "type": "card", "title": "Đọc ngoặc, đọc phép tính",
+    "paras": [
+      "Biểu thức có ngoặc: tính trong ngoặc trước. Ngoài ngoặc, nhân và chia trước cộng và trừ; các phép cùng mức ưu tiên thực hiện từ trái sang phải.",
+      "Ví dụ 9,2 − 1,8 : 0,3: trước hết 1,8 : 0,3 = 6; sau đó 9,2 − 6 = 3,2. Không lấy 9,2 − 1,8 trước.",
+      "Mỗi phép tính ghi riêng một dòng để kiểm được thứ tự và dấu phẩy. Giữ các kết quả trung gian chính xác; chỉ làm tròn cuối cùng nếu đề yêu cầu.",
+      "Biểu thức nhiều ngoặc được xếp NC trong bộ này. Phép nhân/chia có số vượt dạng a,b hoặc 0,ab cũng là NC, kể cả số đó xuất hiện ở bước trung gian."
+    ],
+    "source": "Toán 5, bài SGK: chưa xác minh số/tên bài; biểu thức thuộc phạm vi CB ở mục 1 đặc tả 2.0; biểu thức nhiều ngoặc là NC theo cùng mục."
+  }]
+}

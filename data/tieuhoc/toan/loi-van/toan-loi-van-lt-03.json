@@ -1,0 +1,18 @@
+{
+  "id": "toan-loi-van-lt-03",
+  "title": "Dãy số cách đều",
+  "topic": "loi-van",
+  "items": [
+    {
+      "id": "toan-loi-van-lt-03-t1",
+      "type": "card",
+      "title": "Dãy số cách đều",
+      "paras": [
+        "Dãy cách đều có cùng khoảng tăng hoặc cùng khoảng giảm giữa mọi hai số liền nhau. Chỉ dùng quy luật đề đã nói rõ.",
+        "Đi xuôi dãy tăng thì cộng khoảng tăng; đi lùi thì trừ. Dãy giảm làm ngược lại. Ba số liên tiếp cách đều có số giữa bằng nửa tổng hai đầu.",
+        "Phân biệt ô liền nhau và ô cách nhau hai bước. Đọc số từ trái qua phải; không tự chọn một quy luật chỉ vì vài số đầu có vẻ khớp."
+      ],
+      "source": "Toán 5, bài SGK: chưa xác minh; phạm vi CB theo mục 1 nhóm 7 đặc tả T2.0 (tên/số bài cần xác minh)."
+    }
+  ]
+}

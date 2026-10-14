@@ -1,0 +1,94 @@
+{
+  "id": "vl-nhiet-cd-03",
+  "title": "Nhiệt: vận dụng cân bằng năng lượng",
+  "items": [
+    {
+      "id": "vl-nhiet-cd-03-01", "type": "mcq", "level": 3,
+      "prompt": "Bình nhôm khối lượng 0,20 kg chứa 0,50 kg nước, ban đầu cùng ở 20 °C. Lấy c_{nhôm} = 900 J/(kg·K), c_{nước} = 4200 J/(kg·K). Bỏ qua thất thoát, nhiệt lượng cần để cả bình và nước đạt 60 °C là bao nhiêu?",
+      "options": ["84,0 kJ", "7,2 kJ", "91,2 kJ", "45,6 kJ"], "answer": 2,
+      "explain": "Phải làm nóng cả hai: Q = (0,50 · 4200 + 0,20 · 900)(60 − 20) = 91 200 J = 91,2 kJ. Chỉ tính nước sẽ thiếu 7,2 kJ."
+    },
+    {
+      "id": "vl-nhiet-cd-03-02", "type": "mcq", "level": 3,
+      "prompt": "Trộn 0,20 kg nước ở 80 °C với 0,30 kg nước ở 20 °C trong bình cách nhiệt có nhiệt dung không đáng kể. Bỏ qua bay hơi, c của nước không đổi. Nhiệt độ cân bằng bằng bao nhiêu?",
+      "options": ["44 °C", "50 °C", "56 °C", "60 °C"], "answer": 0,
+      "explain": "Nhiệt toả bằng nhiệt thu: 0,20c(80 − T) = 0,30c(T − 20). T = (0,20 · 80 + 0,30 · 20)/0,50 = 44 °C. Không lấy trung bình cộng 50 °C vì hai khối lượng khác nhau."
+    },
+    {
+      "id": "vl-nhiet-cd-03-03", "type": "mcq", "level": 3,
+      "prompt": "Cấp nhiệt cho 0,50 kg nước từ 20 °C tới 100 °C rồi tiếp tục làm 0,040 kg nước hoá hơi ở 100 °C, áp suất tiêu chuẩn. Lấy c = 4200 J/(kg·K), L = 2,26·10^{6} J/kg. Bỏ qua nhiệt dung bình và thất thoát. Tổng nhiệt lượng nước nhận là bao nhiêu?",
+      "options": ["168,0 kJ", "90,4 kJ", "2260 kJ", "258,4 kJ"], "answer": 3,
+      "explain": "Làm nóng toàn bộ nước: Q_{1} = 0,50 · 4200 · 80 = 168 000 J. Chỉ 0,040 kg hoá hơi: Q_{2} = 0,040 · 2,26·10^{6} = 90 400 J. Tổng Q = 258 400 J = 258,4 kJ."
+    },
+    {
+      "id": "vl-nhiet-cd-03-04", "type": "tf4", "level": 3,
+      "prompt": "Cấp nhiệt với công suất có ích không đổi 80 W cho 0,10 kg chất rắn kết tinh tinh khiết, ban đầu hoàn toàn rắn ở nhiệt độ nóng chảy 0 °C. Đồ thị nhiệt độ – thời gian nằm ngang ở 0 °C trong 400 s, sau đó tăng đều từ 0 °C đến 20 °C trong 105 s. Áp suất không đổi; bỏ qua nhiệt dung bình và mọi thất thoát; chất lỏng chưa sôi.",
+      "statements": [
+        "a) Nhiệt nóng chảy riêng của chất là 3,2·10^{5} J/kg.",
+        "b) Riêng giai đoạn chất lỏng tăng từ 0 °C lên 20 °C nhận nhiệt lượng 40,4 kJ.",
+        "c) Nhiệt dung riêng của chất lỏng là 4200 J/(kg·K).",
+        "d) Từ đầu quá trình đến khi đạt 20 °C, tổng nhiệt lượng nhận là 32,0 kJ."
+      ],
+      "answers": [true, false, true, false],
+      "explain": [
+        "Đúng. Nhiệt đoạn nằm ngang Q_{nc} = 80 · 400 = 32 000 J; λ = 32 000/0,10 = 3,2·10^{5} J/kg.",
+        "Sai. Nhiệt riêng đoạn tăng nhiệt là 80 · 105 = 8400 J = 8,4 kJ. 40,4 kJ là nhiệt của cả hai giai đoạn.",
+        "Đúng. c = 8400/(0,10 · 20) = 4200 J/(kg·K).",
+        "Sai. Q_{tổng} = 80(400 + 105) = 40 400 J = 40,4 kJ; 32,0 kJ chỉ là nhiệt nóng chảy."
+      ]
+    },
+    {
+      "id": "vl-nhiet-cd-03-05", "type": "tf4", "level": 3,
+      "prompt": "Ấm điện công suất 1200 W đun 0,60 kg nước từ 25 °C. Hiệu suất truyền nhiệt vào nước không đổi 75 %, bỏ qua nhiệt dung ấm. Áp suất tiêu chuẩn, nước sôi ở 100 °C; c = 4200 J/(kg·K), L = 2,26·10^{6} J/kg. Bỏ qua bay hơi trước khi sôi. Sau khi nước vừa sôi, ấm tiếp tục hoạt động 120 s; nước còn lại vẫn ở 100 °C.",
+      "statements": [
+        "a) Độ tăng nhiệt độ từ lúc đầu tới lúc vừa sôi là 75 K.",
+        "b) Thời gian từ lúc đầu tới lúc vừa sôi là 157,5 s.",
+        "c) Khối lượng nước hoá hơi trong 120 s sau khi vừa sôi xấp xỉ 47,8 g (làm tròn đến một chữ số sau dấu phẩy).",
+        "d) Khối lượng nước còn lại sau 120 s kể từ khi vừa sôi là 0,48 kg."
+      ],
+      "answers": [true, false, true, false],
+      "explain": [
+        "Đúng. ΔT = 100 − 25 = 75 K, không cộng 273 vào độ tăng.",
+        "Sai. Q = 0,60 · 4200 · 75 = 189 000 J, P_{ích} = 0,75 · 1200 = 900 W; τ = 189 000/900 = 210 s. 157,5 s là kết quả quên hiệu suất.",
+        "Đúng. m = 900 · 120/(2,26·10^{6}) = 0,0477876… kg = 47,7876… g ≈ 47,8 g.",
+        "Sai. m_{còn} = 0,60 − 0,0477876… = 0,552212… kg, xấp xỉ 0,55 kg nếu làm tròn đến hai chữ số sau dấu phẩy."
+      ]
+    },
+    {
+      "id": "vl-nhiet-cd-03-06", "type": "num", "level": 3,
+      "prompt": "Ấm nhôm khối lượng 0,30 kg chứa 1,20 kg nước, ban đầu cùng ở 20 °C. Ấm điện công suất 1000 W, hiệu suất làm nóng cả nước và ấm là 80 %. Lấy c_{nước} = 4200 J/(kg·K), c_{nhôm} = 900 J/(kg·K), coi không đổi. Bỏ qua bay hơi. Thời gian để cả nước và ấm đạt 80 °C là bao nhiêu phút? Làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 6.64, "round": 2, "exact": 6.6375, "unit": "phút",
+      "explain": "Q = (1,20 · 4200 + 0,30 · 900)(80 − 20) = 318 600 J. P_{ích} = 0,80 · 1000 = 800 W. τ = 318 600/800 = 398,25 s = 6,6375 phút ≈ 6,64 phút. Chỉ làm tròn ở cuối. Ghi: 6,64."
+    },
+    {
+      "id": "vl-nhiet-cd-03-07", "type": "num", "level": 3,
+      "prompt": "Thả khối đồng 0,20 kg ở 100 °C vào bình nhôm 0,10 kg chứa 0,30 kg nước; nước và bình ban đầu ở 20 °C. Hệ cách nhiệt, không bay hơi, không trao đổi công. Lấy c_{đồng} = 390, c_{nhôm} = 900, c_{nước} = 4200 J/(kg·K), coi không đổi. Tính nhiệt độ cân bằng theo °C, làm tròn đến một chữ số sau dấu phẩy.",
+      "answer": 24.4, "round": 1, "exact": 24.369747899159663, "unit": "°C",
+      "explain": "Gọi T là nhiệt độ cuối. Đồng toả nhiệt: 0,20 · 390(100 − T); nước và bình thu: (0,30 · 4200 + 0,10 · 900)(T − 20). Suy ra 78(100 − T) = 1350(T − 20), T = 34 800/1428 = 24,369747… °C ≈ 24,4 °C. Ghi: 24,4."
+    },
+    {
+      "id": "vl-nhiet-cd-03-08", "type": "num", "level": 3,
+      "prompt": "Cần cung cấp bao nhiêu kJ để biến 0,150 kg nước đá ở −10 °C thành nước ở 20 °C, áp suất tiêu chuẩn? Lấy c_{đá} = 2100 J/(kg·K), λ = 3,34·10^{5} J/kg, c_{nước} = 4200 J/(kg·K). Bỏ qua nhiệt dung bình, bay hơi và thất thoát. Làm tròn đến một chữ số sau dấu phẩy.",
+      "answer": 65.9, "round": 1, "exact": 65.85, "unit": "kJ",
+      "explain": "Ba đoạn: làm nóng đá Q_{1} = 0,150 · 2100 · 10 = 3150 J; làm tan Q_{2} = 0,150 · 334 000 = 50 100 J; làm nóng nước Q_{3} = 0,150 · 4200 · 20 = 12 600 J. Tổng 65 850 J = 65,85 kJ ≈ 65,9 kJ. Ghi: 65,9."
+    },
+    {
+      "id": "vl-nhiet-cd-03-09", "type": "num", "level": 3,
+      "prompt": "Dẫn hơi nước ở 100 °C vào 0,50 kg nước ở 20 °C trong bình cách nhiệt có nhiệt dung không đáng kể, áp suất tiêu chuẩn. Hơi ngưng tụ hoàn toàn, nước cuối ở 60 °C; không có nước thất thoát. Lấy L = 2,26·10^{6} J/kg, c_{nước} = 4200 J/(kg·K). Khối lượng hơi đã ngưng tụ là bao nhiêu g? Làm tròn đến một chữ số sau dấu phẩy.",
+      "answer": 34.6, "round": 1, "exact": 34.59637561779242, "unit": "g",
+      "explain": "Nước ban đầu thu Q = 0,50 · 4200(60 − 20) = 84 000 J. Mỗi kg hơi toả cả nhiệt ngưng tụ lẫn nhiệt nước ngưng nguội từ 100 xuống 60 °C: L + 4200 · 40 = 2 428 000 J/kg. m = 84 000/2 428 000 kg = 34,596375… g ≈ 34,6 g. Ghi: 34,6."
+    },
+    {
+      "id": "vl-nhiet-cd-03-10", "type": "num", "level": 3,
+      "prompt": "Đo nhiệt nóng chảy riêng của nước đá đang tan ở 0 °C: khi chưa cấp điện, thu được 10,0 g nước tan trong 600 s; ở lượt khác cấp điện cho dây nung công suất 25,0 W trong 300 s thì thu được 28,0 g. Tốc độ tan do môi trường không đổi ở hai lượt; toàn bộ điện năng làm tan đá, bỏ qua các ảnh hưởng khác. Tính λ theo kJ/kg, làm tròn đến hàng đơn vị.",
+      "answer": 326, "round": 0, "exact": 326.0869565217391, "unit": "kJ/kg",
+      "explain": "Trong 300 s, môi trường làm tan 10,0 · 300/600 = 5,0 g. Khối lượng tan riêng do điện là 28,0 − 5,0 = 23,0 g = 0,0230 kg. λ = 25,0 · 300/0,0230 = 326 086,956… J/kg = 326,086956… kJ/kg ≈ 326 kJ/kg. Ghi: 326."
+    },
+    {
+      "id": "vl-nhiet-cd-03-11", "type": "num", "level": 3,
+      "prompt": "Đo c của 0,250 kg chất lỏng bằng hai lượt đun, mỗi lượt 30,0 s, cùng nhiệt độ đầu. Công suất điện 20,0 W làm tăng nhiệt độ 0,480 K; công suất 35,0 W làm tăng 0,900 K. Trong mỗi lượt, công suất mất nhiệt ra môi trường có cùng một giá trị không đổi; bỏ qua nhiệt dung bình, không chuyển thể, c không đổi. Tính c theo kJ/(kg·K), làm tròn đến hai chữ số sau dấu phẩy.",
+      "answer": 4.29, "round": 2, "exact": 4.285714285714286, "unit": "kJ/(kg·K)",
+      "explain": "Gọi P_{mất} là công suất mất nhiệt chung. Hai phương trình: (20,0 − P_{mất})30,0 = 0,250c · 0,480; (35,0 − P_{mất})30,0 = 0,250c · 0,900. Trừ hai phương trình để loại P_{mất}: c = (35,0 − 20,0)30,0/[0,250(0,900 − 0,480)] = 4285,714285… J/(kg·K) = 4,285714… kJ/(kg·K) ≈ 4,29. Ghi: 4,29."
+    }
+  ]
+}

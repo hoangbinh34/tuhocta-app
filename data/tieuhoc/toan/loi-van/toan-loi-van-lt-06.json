@@ -1,0 +1,19 @@
+{
+  "id": "toan-loi-van-lt-06",
+  "title": "Đếm không trùng",
+  "topic": "loi-van",
+  "items": [
+    {
+      "id": "toan-loi-van-lt-06-t1",
+      "type": "card",
+      "title": "Đếm không trùng",
+      "paras": [
+        "Đây là nội dung NC. Liệt kê có hệ thống theo lựa chọn đầu tiên; nêu rõ thứ tự có tạo trường hợp mới hay không.",
+        "Chọn hai bạn không xét thứ tự: cặp An–Bình và Bình–An chỉ là một. Xếp vào hai vị trí khác nhau thì thứ tự tạo kết quả khác.",
+        "Khi chọn có điều kiện, liệt kê toàn bộ rồi loại trường hợp không hợp lệ; không chỉ nhân các số lựa chọn khi chúng phụ thuộc nhau."
+      ],
+      "source": "Toán 5, bài SGK: chưa xác minh; dạng NC theo mục 1 nhóm 7 đặc tả T2.0.",
+      "adv": true
+    }
+  ]
+}
